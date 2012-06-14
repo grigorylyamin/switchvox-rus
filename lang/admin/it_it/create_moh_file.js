@@ -1,1 +1,0 @@
-Object.extend(switchvox.lang._LANG.keys,{T_UPLOAD_SONG:["Carica canzone"],T_MUST_BE_OGG_MP3:["Deve essere un .ogg o file mp3"],T_SONG_TO_UPLOAD:["Canzone da caricare"],T_ADD_TO_GROUP:["Aggiungi a gruppo"],T_SONG_INFO:["Informazioni sulla canzone"],TEST:["I have %s test.","I have %s tests."]});

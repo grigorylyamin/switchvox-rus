@@ -1,1 +1,0 @@
-Object.extend(switchvox.lang._LANG.keys,{T_MUSIC_ON_H:["Musica di attesa"],MOH_PAGE_DESC:["Il gestore della musica di attesa permette di creare un gruppo di musiche, di caricare nuove canzoni, di gestire l'ordine di esecuzione e altro."],TEST:["I have %s test.","I have %s tests."]});

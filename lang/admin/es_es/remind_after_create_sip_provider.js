@@ -1,1 +1,0 @@
-Object.extend(switchvox.lang._LANG.keys,{T_GOING_TO_SYSTEM_ST:[">Dirigiéndose a Estado de la conexión"],T_DONT_REMIND_ME:["No volver a recordarme esto."],T_VOIP_PROVIDERS:["Proveedores de VOIP"],T_BACK_TO_VOIP_PR:["Volver a Proveedores de VOIP"],T_GO_TO_SYSTEM_ST:["Ir a Estado de la conexión"],TEST:["I have %s test.","I have %s tests."]});

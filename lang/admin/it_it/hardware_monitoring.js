@@ -1,1 +1,0 @@
-Object.extend(switchvox.lang._LANG.keys,{T_ADVANCED_HARDWARE:["Informazioni server avanzate"],TEST:["I have %s test.","I have %s tests."]});

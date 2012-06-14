@@ -1,1 +1,0 @@
-Object.extend(switchvox.lang._LANG.keys,{T_ACTION:["Azioni"],T_UNEDITABLE:["Non è possibile modificare questa estensione di gruppo."],T_UNDELETEABLE:["Non è possibile eliminare questa estensione di gruppo."],T_NOTE:["Nota"],T_EXTENSION_GROUPS:["Gruppi di estensioni"],TEST:["I have %s test.","I have %s tests."]});
