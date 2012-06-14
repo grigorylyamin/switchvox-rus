@@ -1,0 +1,9 @@
+$VAR1 = {
+    '__INCLUDES' => [
+        'common/incl_help_header',
+        'common/incl_help_footer'
+    ],
+    'T_YOU_MAY_FIND_T' => 'You may find that the Time Frame that you wish to use has already been defined for you.',
+    'T_THESE_DEFAULT_T' => 'Эти временные интервалы уставновлены для вас по умолчанию администратором вашей телефонной системы.',
+    'T_JUST_CLICK_THE' => 'Просто кликните на кнопку "Просмотреть" рядом с временным интервалом, чтобы увидеть его.'
+};

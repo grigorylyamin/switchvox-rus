@@ -1,0 +1,8 @@
+$VAR1 = {
+    'T_IF_SWITCHVOX_IS' => 'If Switchvox is not detecting hardware, please be sure that all cards are installed properly, and that the device you are using is supported. If you are not sure whether your device is supported, please see',
+    'T_HTTPWWWSWIT' => 'http://www.switchvox.ru',
+    '__INCLUDES' => [
+        'common/incl_help_header',
+        'common/incl_help_footer'
+    ]
+};

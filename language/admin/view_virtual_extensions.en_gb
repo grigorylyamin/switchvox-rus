@@ -1,0 +1,17 @@
+##This file was auto generated##
+my $LANG =
+{
+#view_virtual_extensions
+VVE_TD_ACCOUNT_ID       => "ID",
+VVE_TD_EXT              => "Extension",
+VVE_TD_EXT_DISPLAY      => "Extension Type",
+VVE_TD_TEMPLATE_NAME    => "Template",
+VVE_TD_FIRST_NAME       => "First Name",
+VVE_TD_LAST_NAME        => "Last Name",
+VVE_TD_DATE_CREATED     => "Date Created",
+VVE_TD_MOD_DEL			=> "Modify / Delete",
+VVE_TB_MODIFY           => "Modify",
+VVE_TB_DELETE           => "Delete",
+VVE_TN_TABLE_TITLE      => "Virtual Extensions",
+VVE_TD_NO_PHONES		=> "You have not created any virtual extensions yet for this system.",
+};

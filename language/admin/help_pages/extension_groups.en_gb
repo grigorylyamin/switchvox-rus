@@ -1,0 +1,8 @@
+$VAR1 = {
+    '__INCLUDES' => [
+        'common/incl_help_header',
+        'common/incl_help_footer'
+    ],
+    'T_EXTENSION_GROUP2' => 'Extension groups are an easy way for you to group multiple extensions in your system and then apply those groups to various PBX features.',
+    'T_EXAMPLE_SAY_Y' => 'Example: Say you have a sales team that consists of 3 people in your company. You would group these 3 extensions into an extension group called "Sales". Then when you use some of the PBX features that require a group of extensions (directories, intercoms, conference rooms, etc) you can apply this group to that feature. This provides a fast and easy way to use the interface and helps the admin keep track of what extensions are mapped with what features.'
+};

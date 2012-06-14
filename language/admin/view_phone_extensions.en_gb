@@ -1,0 +1,16 @@
+##This file was auto generated##
+my $LANG =
+{
+#view_phone_extensions
+VPE_TD_ACCOUNT_ID       => "ID",
+VPE_TD_EXT              => "Extension",
+VPE_TD_EXT_DISPLAY      => "Extension Type",
+VPE_TD_TEMPLATE_NAME    => "Template",
+VPE_TD_FIRST_NAME       => "First Name",
+VPE_TD_LAST_NAME        => "Last Name",
+VPE_TD_DATE_CREATED     => "Date Created",
+VPE_TD_MOD_DEL			=> "Modify / Delete",
+VPE_TB_MODIFY           => "Modify",
+VPE_TB_DELETE           => "Delete",
+VPE_TN_TABLE_TITLE      => "Phone Extensions",
+};

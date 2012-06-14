@@ -1,0 +1,20 @@
+$VAR1 = {
+    'PAGE_TITLE_RESTORE' => 'Резервирование',
+    'T_CREATE_A_BACKUP' => 'Создать резервную копию',
+    'T_CLOSE_WINDOW' => 'Закрыть окно',
+    'T_YOU_MAY_CREATE' => 'Вы можете создать резервную копию в любое время, нажав на кнопку "Создать резервную копию". Если вы хотите запланировать автоматическое создание резервных копий, кликните на кнопку "Настроить автоматические резервные копии".',
+    'T_IF_YOU_HAVE_SA' => 'If you have saved backups of your system, they will be listed in chronological order below. To restore to an older version of your system, you may click the "Restore" button" next to the corresponding backup file, or you may locate the file you would like to use on your computer and click the "Upload a Backup File" button.',
+    'T_UPLOAD_A_BACKUP' => 'Загрузить файл резервной копии',
+    'T_KEY_OF_OPTIONAL' => 'Key of Optional Contents',
+    'T_SETUP_AUTOMATIC' => 'Установка автоматических резервных копий',
+    'T_YES_DELETE_BAC' => 'Да, удалить резервные копии',
+    'T_ARE_YOU_SURE_YO26' => 'Вы уверены, что хотите навсегда удалить резервную копию, созданную:',
+    'T_CANCEL' => 'Отменить',
+    'T_RESTORING_THIS' => 'Restoring this backup will drop all current calls and restart your phone system. All data created since this backup was created will be lost, including extensions and voicemail.',
+    'T_YES_RESTORE_BA' => 'Да, восстановить резервные копии',
+    'T_ARE_YOU_SURE_YO' => 'Вы уверены, что хотите навсегда удалить добавочный номер Meet Me конференции',
+    'SM_RESTORE_BACKUPA' => 'Резервная копия успешно восстановлена.',
+    '__INCLUDES' => [
+        'incl_header'
+    ]
+};

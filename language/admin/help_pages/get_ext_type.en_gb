@@ -1,0 +1,28 @@
+$VAR1 = {
+    '__INCLUDES' => [
+        'common/incl_help_header',
+        'common/incl_help_footer'
+    ],
+    'T_THESE_ARE_CASE2' => 'These are case sensitive, so \\'ZAP\\' does not equal \\'zap\\'.',
+    'T_GET_EXTENSION3' => 'Get Extension Type gets the type of the extension, and saves the result into an
+IVR Action variable. You specify the extension number by selecting a previously
+defined variable from the drop down menu, or by entering the extension number in
+the text box.',
+    'T_AGENTCALLBACKLO2' => 'agentcallbacklogin  &nbsp;&nbsp;',
+    'T_VIRTUAL' => 'virtual       &nbsp;&nbsp;',
+    'T_SIMPLE_CONFEREN' => 'simple_conference &nbsp;&nbsp;',
+    'T_DIRECTORY2' => 'справочник &nbsp;&nbsp;',
+    'T_GET_EXTENSION4' => 'Get Extension Type returns one of the following results',
+    'T_INTERCOM' => 'Интерком / Пэйджинг',
+    'T_VOICEMAIL' => 'Голосовая почта',
+    'T_CONFERENCE' => 'конференция &nbsp;&nbsp;',
+    'T_AUTODIAL' => 'autodial            &nbsp;&nbsp;',
+    'T_FEATURE_CODE2' => 'feature_code       &nbsp;&nbsp;',
+    'T_IVR' => 'IVR (Интерактивный голосовой ответ)',
+    'T_CALLPARK' => 'callpark            &nbsp;&nbsp;',
+    'T_SIP' => 'SIP',
+    'T_GROUP_PICKUP2' => 'group_pickup      &nbsp;&nbsp;',
+    'T_AGENTCALLBACKLO' => 'agentcallbacklogoff &nbsp;&nbsp;',
+    'T_ZAP' => 'zap           &nbsp;&nbsp;',
+    'T_CALL_QUEUE' => 'Очередь звонков'
+};

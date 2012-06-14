@@ -1,0 +1,7 @@
+$VAR1 = {
+    'T_DOWNLOAD_PACKET' => 'Загрузить трассировки пакетов',
+    '__INCLUDES' => [
+        'incl_header',
+        '../common/incl_table'
+    ]
+};

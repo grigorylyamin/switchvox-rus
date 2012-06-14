@@ -1,0 +1,7 @@
+$VAR1 = {
+    '__INCLUDES' => [
+        'common/incl_help_header',
+        'common/incl_help_footer'
+    ],
+    'T_CUSTOM_PANELS' => 'Пользовательские панели позволяют веб разработчикам создать панель в Switchboard, которая будет обновляться '
+};

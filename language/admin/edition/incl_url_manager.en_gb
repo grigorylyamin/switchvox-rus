@@ -1,0 +1,12 @@
+$VAR1 = {
+    'T_SAVE_VALUES' => 'Сохранить значения',
+    'T_URL' => 'URL',
+    'T_SEND_CALL_VALUE' => 'Отправлять значения звонков из АТС другим веб сервисам.',
+    'T_USE_THE_DEFAULT' => 'Используйте URL по-умолчанию',
+    'T_ORDASHED' => 'ИЛИ',
+    'T_APPEND' => 'Добавить',
+    'T_URL_MANAGER' => 'Менеджер URL',
+    'T_ACCEPTABLE_VAR' => 'Допустимые переменные для этого URL',
+    'T_URL_TYPE' => 'Тип URL',
+    'T_WHAT_CAN_I_DO' => 'Как можно использовать Менеджер URL?'
+};

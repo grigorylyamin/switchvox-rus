@@ -1,0 +1,12 @@
+$VAR1 = {
+    '__INCLUDES' => [
+        'incl_header'
+    ],
+    'T_LOW' => 'Низкий',
+    'T_SEND_FAX2' => 'Отправить факс',
+    'T_THUMB' => 'Thumb',
+    'T_FAX_INFO' => 'Информация о факсе',
+    'T_FAX_NUMBER' => 'Номер факса',
+    'T_HIGH' => 'Высокий',
+    'T_RESOLUTION' => 'Заключение'
+};

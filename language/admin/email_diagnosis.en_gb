@@ -1,0 +1,13 @@
+$VAR1 = {
+    '__INCLUDES' => [
+        'incl_header'
+    ],
+    'T_WARNING' => 'ПРЕДУПРЕЖДЕНИЕ',
+    'T_RERUN_THIS_D' => 'Перезапустите диагностику, когда посчитаете, что решили проблему.',
+    'T_RERUN_EMAIL_DIA' => 'Перезапуск диагностики Email',
+    'T_FAILED' => 'Ошибка',
+    'T_NOT_TESTED' => 'Не протестировано',
+    'T_PASSED' => 'Пройдено',
+    'T_EMAIL_DIAGNOSTI' => 'Диагностика Email',
+    'T_BACK_TO_SMTP_NOTIFICATIONS' => 'Вернуться к SMTP уведомлениям'
+};

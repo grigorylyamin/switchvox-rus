@@ -1,0 +1,12 @@
+$VAR1 = {
+    'T_YES_DELETE_EXT7' => 'Да, удалить добавочный номер',
+    'T_TO_ARCHIVE_THE' => 'Для архивации голосовых сообщений и факсов этого добавочного, кликните "Загрузить Голосовую почту / Архив Факсов" , перед тем как кликните "Да, удалить добавочный"',
+    'T_DOWNLOAD_VOICEM' => 'Скачать архив голосовой почты/факсов',
+    'T_ARE_YOU_SURE_YO25' => 'Вы уверены, что хотите навсегда удалить этот добавочный номер',
+    'T_WARNING25' => 'ПРЕДУПРЕЖДЕНИЕ',
+    'T_TO_MOVE_A_US' => 'If you are changing a person's extension number, we recommend that you first create his or her new extension and forward all voicemail messages and faxes from this extension to the new extension. Then you can delete this extension.',
+    'T_DELETING_THIS4' => 'Удаление добавочного номера приведет, к удалению всех сообщений голосовой почты и факсов, находящихся в почтовом ящике этого добавочного номера.',
+    '__INCLUDES' => [
+        'incl_header'
+    ]
+};

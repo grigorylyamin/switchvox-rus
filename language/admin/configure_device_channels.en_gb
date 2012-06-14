@@ -1,0 +1,13 @@
+$VAR1 = {
+    '__INCLUDES' => [
+        'incl_header'
+    ],
+    'T_DEVICE_INFO' => 'Информацич об устройсте',
+    'T_DEVICE_NAME' => 'Название устройства',
+    'T_CARD_TYPE' => 'Тип карты',
+    'T_DEVICE_TYPE' => 'Тип устройства',
+    'T_PCI_ID' => 'PCI ID',
+    'T_NUM_SPANS' => '# of Spans',
+    'T_TOTAL_CHANNELS' => 'Всего каналов',
+    'T_STATUS' => 'Статус'
+};

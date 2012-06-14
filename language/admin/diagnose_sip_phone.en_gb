@@ -1,0 +1,11 @@
+$VAR1 = {
+    '__INCLUDES' => [
+        'incl_header'
+    ],
+    'T_THIS_IS_AN_EX' => 'Это внешний телефон',
+    'T_NO' => 'Нет',
+    'T_WHAT_DOES_THIS' => 'Что это означает?',
+    'T_DIAGNOSE_SIP_PH' => 'Диагностировать SIP телефон',
+    'T_YES' => 'Да',
+    'T_INTERNAL_IP_ADD' => 'Внешний IP адрес SIP телефона добавочного номера'
+};

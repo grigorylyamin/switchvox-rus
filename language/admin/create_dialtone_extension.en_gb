@@ -1,0 +1,10 @@
+$VAR1 = {
+    '__INCLUDES' => [
+        'incl_header'
+    ],
+    'T_SAVE_EXTENSION' => 'Сохранить добавочный номер',
+    'T_MODIFY_DIALTONE_EXTENSION' => 'Modify Dialtone Extension',
+    'T_CREATE_DIALTONE_EXTENSION' => 'Create Dialtone Extension',
+    'T_EXTENSION' => 'Добавочный номер',
+    'T_NOMODIFY' => 'Добавочный не имеет функций для изменения.'
+};

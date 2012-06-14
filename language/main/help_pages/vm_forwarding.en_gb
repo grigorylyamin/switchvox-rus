@@ -1,0 +1,31 @@
+$VAR1 = {
+    'T_INDIVIDUAL_EXTE2' => 'Индивидуальные добавочные номера',
+    'T_FORWARDING_TYPE2' => 'Тип перевода',
+    'T_TO_DEFINE_A_SP' => 'Для определения специального набора добавочных номеров, которые будут получать перенаправленные голосовые сообщения, выберите',
+    'T__WITH' => '. С',
+    'T_AND_THEN_CHOO' => 'затем выберите из выпадающего списка группу добавочных ',
+    'T_SEND_TO_ALL2' => 'Отправить всем',
+    'T_TO_SEND_FORWAR' => 'Чтобы перенаправить сообщения всем получателям выберите',
+    'T_TO_SPECIFY_AN' => 'Чтобы выделить группу добавочных для получения перенаправленных голосовых сообщений выберите',
+    'T_DROPDOWN_TO_S' => 'dropdown. To send forwarded messages to one recipient 
+at a time, choose',
+    'T_ROUND_ROBIN2' => 'Циклический',
+    'T_PREDEFINED_GROU2' => 'Предопределенные группы',
+    'T__SWITCHVOX_FOR' => ', Switchvox forwards each 
+message to the next recipient, moving through the list of recipients in the 
+same order as they are listed (in the extensions box above, or in the Extension Group).',
+    'T_YOU_CAN_AUTOMA' => 'You can automatically forward of all of this extension's voicemail messages to other
+extensions in Switchvox. This is helpful for generic extensions such as 'Accounting,'
+or 'Shipping,' or for queue extensions such as 'Customer Service.' Callers can leave
+messages on one extension, then those messages are forwarded to the appropriate
+people.',
+    'T_TO_DELETE_EACH' => 'Чтобы удалить сообщение из почтового ящика этого абонента после того, как оно было переслано, установите флажок Удалить вперед.',
+    'T_VOICEMAIL_FORWA5' => 'Пересылка голосовой почты ',
+    'T_FROM_THE' => 'с',
+    'T_ROUND_ROBIN3' => 'по кругу',
+    'T__AND_MOVE_THE' => ', и переместить подходящие номера в место справа.',
+    '__INCLUDES' => [
+        'common/incl_help_header',
+        'common/incl_help_footer'
+    ]
+};

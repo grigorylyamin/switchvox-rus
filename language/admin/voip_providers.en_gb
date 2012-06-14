@@ -1,0 +1,22 @@
+$VAR1 = {
+    'T_VOIP_PROVIDE' => 'VOIP проайдеры',
+    'T_WERE_SORRY_B' => 'We're sorry, but this page has been disabled for legal, regulatory, or business reasons. We apologize for any inconvenience.',
+    'T_NOTE2' => 'ЗАМЕТКА',
+    'T_A_NEW_VOIP_PRO' => 'Новый VOIP провайдер только что был добавлен в систему, однако чтобы направить на него исходящий вызов, сначала надо установить правила исходящих вызовов в',
+    'T_THE_FIRST_VOIP' => 'Первый VOIP провайдер только что был добавлен в',
+    'T_OUTGOING_CALLS2' => '"Исходящие звонки"',
+    'T_SECTION_OF_THE' => 'раздел пакета администрирования.',
+    'T_MANAGE_VOIP_PRO' => 'Управление VOIP провайдерами',
+    'T_ADD_NEW' => 'Добавть новый',
+    'T_RSA_KEY' => 'RSA ключ',
+    'T_DOWNLOAD_CUR' => 'Скачать текущий RSA ключ',
+    'T_OR7' => '-ИЛИ-',
+    'T_RENAME_RSA_K' => 'Переименовать RSA ключ',
+    'T_GENERATE' => 'Сгенерировать и скачать новый RSA ключ',
+    'T_RTP_PORT_RANGE' => 'Диапазон портов RTP',
+    'T_FROM' => 'от',
+    'T_TO' => 'в',
+    '__INCLUDES' => [
+        'incl_header'
+    ]
+};

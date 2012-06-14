@@ -1,0 +1,15 @@
+$VAR1 = {
+    'T_FOR_A_MORE_DETA' => 'Для более детального анализа проблемы нажмите на',
+    'T_CHECK_YOUR_INTE' => 'Проверьте интернет соединение. Если у вашей телефонной системы нет доступа к интернету, то она не может подключиться к вашему SIP провайдеру.',
+    'T_WHY_SIP_PROVIDE2' => 'Почему SIP провайдер мог быть в',
+    'T_AN' => 'an',
+    'T_MAKE_SURE_YOUR' => 'Make sure your SIP provider host name is entered correctly and your phone system can resolve the host name. If your host is wrong you might want to check your error log for any Warnings that tell you of a bad host. Example: "No such host: swtichvox.com" or "Unable to lookup \\'swtichvox.com\\'".',
+    'T_DIAGNOSE' => 'Диагностировать',
+    'T_BUTTON' => 'кнопка',
+    'T_UNREACHABLE_ST' => 'Состояние недоступен.',
+    'T_MAKE_SURE_YOU_E' => 'Убедитесь, что вы правильно ввели номер и пароль провайдера.',
+    '__INCLUDES' => [
+        'common/incl_help_header',
+        'common/incl_help_footer'
+    ]
+};

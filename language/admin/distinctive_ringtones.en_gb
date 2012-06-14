@@ -1,0 +1,15 @@
+$VAR1 = {
+    '__INCLUDES' => [
+        'incl_header'
+    ],
+    'T_HOW_DOES_THIS' => 'Как это работает?',
+    'T_ADD_A_RINGTONE' => 'Добавить рингтон',
+    'T_PAGE_HEAD' => 'Особые рингтоны',
+    'T_ADD_RT' => 'Добавить рингтон',
+    'T_YES_DELETE' => 'Да, удалить правило',
+    'T_CANCEL' => 'Отменить',
+    'T_UPDATE' => 'Обновление',
+    'T_RINGTONE_FILE' => 'Файл рингтона (.WAV файл)',
+    'T_RINGTONE_FILE_UPDATE' => 'Новый файл рингтона',
+    'T_NAME' => 'Имя'
+};

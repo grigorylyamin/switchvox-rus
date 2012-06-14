@@ -1,0 +1,29 @@
+$VAR1 = {
+    'PAGE_TITLE_SET_AUTO_BU' => 'Настройка автоматических резервных копий',
+    'T_THURSDAY6' => 'Четверг',
+    'T_BACKUPS_SHOULD' => 'Резервные копии должны быть автоматически переданы в',
+    'T_FRIDAY12' => 'Пятница',
+    'T_TEST_FTP_SETTIN2' => 'Настройки тестирования FTP',
+    'T_AT5' => 'at',
+    'T_FTP_USERNAME3' => 'Имя пользователя FTP',
+    'T_PM6' => 'после полудня',
+    'T_AUTOMATIC_BACK' => 'Автоматические резервные копии делаеются каждые',
+    'T_SATURDAY6' => 'Суббота',
+    'T_FTP_PATH3' => 'Путь FTP',
+    'T_HOW_DO_I_USE_T5' => 'Как использовать эту страницу?',
+    'T_SUNDAY6' => 'Воскресенье',
+    'T_WHEN_THE_ABOVE' => 'When the above threshold is reached the oldest backup will be deleted from the ftp host.',
+    'T_TUESDAY6' => 'Вторник',
+    'T_NUMBER_OF_BACK' => 'Число хранимых резервных копий ',
+    'T_MONDAY12' => 'Понедельник',
+    'T_PATH_OF_DEN2' => 'Path of '/' denotes root login directory.',
+    'T_WEDNESDAY10' => 'Среда',
+    'T_FTP_PASSWORD3' => 'Пароль FTP',
+    'T_DAY3' => 'День',
+    'T_AM6' => 'до полудня',
+    'T_FTP_HOSTNAME3' => 'FTP Hostname',
+    '__INCLUDES' => [
+        'incl_header',
+        'incl_backup_table'
+    ]
+};

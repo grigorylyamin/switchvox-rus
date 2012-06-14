@@ -1,0 +1,13 @@
+$VAR1 = {
+    'T_VIEW6' => 'Просмотр',
+    'T_THE_ADVANCED_ER' => 'The advanced error logs display notices, debug information, and errors
+that are occurring in the system at the lower level.  Most of the
+entries stored in these logs are benign, and are not useful for either
+identifying or diagnosing problems.  The advanced error log is
+intended for telephony experts only.',
+    'T_VIEW_AN_ADV' => 'Advanced Error Log Date',
+    'T_ADVANCED_ERR_LOG' => 'Advanced Error Logs',
+    '__INCLUDES' => [
+        'incl_header'
+    ]
+};

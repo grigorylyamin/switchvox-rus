@@ -1,0 +1,14 @@
+$VAR1 = {
+    '__INCLUDES' => [
+        'common/incl_help_header',
+        'common/incl_help_footer'
+    ],
+    'T_IAX_PROVIDER_LA' => 'IAX Provider Label является ярлыком, означающим, что это провайдер предоставляет себя при звонках в вашу систему. Обычно это выглядит, как имя внутри [] скобок в примерах конфигурации астериск. Например, если у вас IAX провайдер под названием "IAX World", который дал вам следующий пример конфигурации IAX ',
+    'T_IAXWRLD' => 'iaxwrld',
+    'T_IAXWRLDTYPE' => '[iaxwrld]
+type=friend
+host=iax.iaxworld.com
+username=yourname
+secret=yourpass',
+    'T_THE_IAX_PROVID' => 'The IAX Provider Label would be'
+};

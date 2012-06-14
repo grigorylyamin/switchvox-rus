@@ -1,0 +1,20 @@
+$VAR1 = {
+    '__INCLUDES' => [
+        'incl_header'
+    ],
+    'T_WHAT_ARE_EXTEN' => 'Что такое шаблоны добавочного номера?',
+    'TC_DATE_CREATED' => 'Созданные данные',
+    'T_CREATE_A_NEW_EX' => 'Создать новый добавочный номер',
+    'TC_DELETE' => 'Удалить',
+    'SM_DELETE_TEMPLATE' => 'Шаблон добавочного номера успешно удален.',
+    'TC_TEMPLATE_NAME' => 'Название шаблона',
+    'T_CREATE_NEW' => 'Создать новый',
+    'ND_NO_TEMPLATES' => 'В вашей системе нет ни одного шаблона',
+    'T_CREATE_MODIF' => 'Create, modify and delete extension templates to streamline the administration of extensions on your PBX.',
+    'SM_MODIFY_TEMPLATE' => 'Шаблон добавочного номера успешно обновлен.',
+    'TC_TEMPLATE_ORG' => 'Шаблон организации',
+    'TC_DELETE_DISABLED' => 'Это системный шаблон, его нельзя удалить.',
+    'TT_MODIFY_TEMPLATES' => 'Изменить существующие шаблоны',
+    'TC_MODIFY' => 'Именить',
+    'SCT_PE_TEMPLATE_NAME' => 'Необходимо дать коррекное название шаблону (1-32 буквенно-численных символов)'
+};

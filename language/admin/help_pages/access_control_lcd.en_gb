@@ -1,0 +1,16 @@
+##This file was auto generated##
+my $LANG =
+{
+T_ACCESS_CONTROL_LCD_DESC => q( 
+<b>Disable server configuration from a local keyboard</b>
+<p>
+Check this box if you do not want anyone to be able to connect a keyboard and monitor to the Switchvox server 
+and make changes to the server configuration. 
+</p>
+
+<p>
+This means that the LCD Panel is the only way to access Switchvox's Basic Server Functions. 
+For added protection, you can set a password for the use of the LCD Panel. 
+</p>
+),
+};

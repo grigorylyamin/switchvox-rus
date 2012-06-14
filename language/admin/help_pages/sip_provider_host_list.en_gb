@@ -1,0 +1,13 @@
+$VAR1 = {
+    'T_ASK_YOUR_PROVI' => 'Спросите вашего провайдера, если они используют несколько узлов(хостов) для связи с АТС, и если они у них есть список IP-адресов, от которых могут приходить входящие звонки.',
+    'T_SOME_SIP_PROVI' => 'Some SIP providers have multiple servers on the internet that
+communicate with your pbx.  For example, you may register against
+sip.example.com, but receive calls from ny.example.com,
+la.example.com, and mia.example.com.  These hosts (or ip addresses)
+need to be listed here so that the pbx knows how to route calls from
+them.',
+    '__INCLUDES' => [
+        'common/incl_help_header',
+        'common/incl_help_footer'
+    ]
+};

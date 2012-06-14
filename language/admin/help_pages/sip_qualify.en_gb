@@ -1,0 +1,14 @@
+$VAR1 = {
+    'T_THISOPTION_IF' => 'this
+option if your provider does not respond to SIP OPTIONS packets',
+    'T_THE_RESPONSE_LA' => 'The response latency for these requests will be shown in the System Status page',
+    'T_DO_NOT_ENABLE' => 'Не включать',
+    'T_NAT_TUNNELS_CAN' => 'Туннель NAT может быть оставлен с этим механизмом.',
+    'T_ITS_SAFE_TO_L' => 'It\\'s safe to leave this option disabled if you are unsure.',
+    'T_ENABLING_THIS' => 'Включая эту опцию, система будет отправлять специальный SIP пакет каждые 60 секунд.',
+    'T_IF_THE_HOST_DOE' => 'Если хост не отвечает на запросы, АТС посчитает, что провайдер недоступен.',
+    '__INCLUDES' => [
+        'common/incl_help_header',
+        'common/incl_help_footer'
+    ]
+};

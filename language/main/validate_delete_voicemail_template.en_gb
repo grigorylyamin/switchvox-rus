@@ -1,0 +1,8 @@
+$VAR1 = {
+    'T_ARE_YOU_SURE_YO2' => 'Вы уверены, что хотите навсегда удалить почтовый шаблон голосовой почты',
+    'T_YES_DELETE_VOI' => 'Да, удалить шаблон email голосовой почты',
+    'T_NOTE_ANY_EMA' => 'Note: Any email addresses using this template will be reverted back to the 'External' system template.',
+    '__INCLUDES' => [
+        'incl_header'
+    ]
+};

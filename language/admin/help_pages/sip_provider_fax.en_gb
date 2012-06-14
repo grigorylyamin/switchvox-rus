@@ -1,0 +1,8 @@
+$VAR1 = {
+    'T_WHEN_AN_INCOMIN' => 'Когда входящий факс обнаружен на этом провайдере, факс направляется на этот добавочный номер.',
+    'T_ONLY_T38_FAXES' => 'Только T.38 факсы удаляются у SIP провайдров.',
+    '__INCLUDES' => [
+        'common/incl_help_header',
+        'common/incl_help_footer'
+    ]
+};

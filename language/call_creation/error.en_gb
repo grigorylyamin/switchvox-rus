@@ -1,0 +1,7 @@
+$VAR1 = {
+    '__INCLUDES' => [
+        'common/incl_help_header',
+        'common/incl_help_footer'
+    ],
+    'T_THERE_WAS_AN_E' => 'При инициировании этого звонка возникла ошибка'
+};

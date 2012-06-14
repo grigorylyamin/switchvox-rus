@@ -1,0 +1,7 @@
+$VAR1 = {
+    'T_TO_DIAGNOSE_AN' => 'To diagnose any problems you may experience with your phone system, check the Error Log. Notices are displayed on a white background, warnings are displayed on yellow, and the most severe errors are displayed on red. Sort the errors by clicking on the column headings. To find the errors fast, try sorting by "type".',
+    'T_USER_TIP' => 'Пользовательская подсказка',
+    '__INCLUDES' => [
+        'incl_header'
+    ]
+};

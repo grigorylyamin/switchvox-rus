@@ -1,0 +1,7 @@
+$VAR1 = {
+    '__INCLUDES' => [
+        'incl_header'
+    ],
+    'T_USER_TIP' => 'Пользовательская подсказка',
+    'T_THE_CALL_STATI' => 'The Call Statistics tool outputs usage reports on your phone activity in three different ways: a basic report to view online, an importable report for Excel, and a chart to analyze at a glance.'
+};

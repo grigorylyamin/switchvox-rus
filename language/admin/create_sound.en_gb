@@ -1,0 +1,18 @@
+$VAR1 = {
+    '__INCLUDES' => [
+        'incl_header'
+    ],
+    'T_UPLOAD_FILE6' => 'Загрузить файл',
+    'T_FOR_RECORDING' => 'для записи',
+    'T_CREATE_A_NEW_SO2' => 'Создать новый звук',
+    'T_WHAT_ARE_THE_EX2' => 'Какие слова являются точными',
+    'T_LANGUAGE' => 'Язык',
+    'T_SOUND_DESCRIPTI' => 'Описание/сценарий звука',
+    'T_EXTENSION_TO_RI2' => 'Звонить на добавочный номер',
+    'T_OF_THIS_RECORDI2' => 'этой записи?',
+    'T_SOUND_SOURCE3' => 'Источние звука',
+    'T_FOLDER' => 'Папка',
+    'T_SOUND_NAME3' => 'Название звука',
+    'T_RECORD_OVER_PHO3' => 'Записать по телефону',
+    'T_CREATE_SOUND' => 'Создать звук'
+};

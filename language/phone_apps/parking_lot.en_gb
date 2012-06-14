@@ -1,0 +1,9 @@
+$VAR1 = {
+    'T_P_LOT' => 'Парковочный лот',
+    'T_NO_PARKED' => 'В системе нет припаркованных звонков.',
+    '__INCLUDES' => [
+        'incl_softkeys',
+        'parkinglot_listings',
+        'incl_error_header'
+    ]
+};

@@ -1,0 +1,6 @@
+$VAR1 = {
+    'T_ADD_NEW_CALLER3' => 'Добавить новое правило АОНа',
+    'T_ADD_NEW_CALLER' => 'Добавить новое правило АОНа',
+    'T_ADD_NEW_RANGED' => 'Add New Ranged Caller ID Rule',
+    'T_ADD_NEW_CALLER2' => 'Добавить новое правило АОНа'
+};

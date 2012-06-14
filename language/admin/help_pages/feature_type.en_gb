@@ -1,0 +1,11 @@
+my $LANG =
+{
+
+T_FC_FAX => 'Fax',
+T_FC_FAX_DESC => q(
+This feature code lets you send a fax to an external number, and designate a phone-type extension as the owner of the fax.  The fax is sent using that extension's 
+call rules, and a copy of the sent fax is stored in that extension's outbox.
+
+),
+
+};

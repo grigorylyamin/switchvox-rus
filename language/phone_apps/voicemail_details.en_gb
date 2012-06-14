@@ -1,0 +1,15 @@
+$VAR1 = {
+    'T_NAME' => 'Имя',
+    'T_VM_DETAILS' => 'Датали голосовой почты',
+    'T_NUM' => 'Номер',
+    'T_DURATION' => 'Продолжительность',
+    'T_DATE' => 'Дата',
+    'T_TIME' => 'Время',
+    'T_PLAY' => 'Проиграть',
+    'T_DELETE' => 'Удалить',
+    'T_RECEIVED' => 'Получен',
+    '__INCLUDES' => [
+        'incl_softkeys',
+        'incl_error_header'
+    ]
+};

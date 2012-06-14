@@ -1,0 +1,8 @@
+##This file was auto generated##
+my $LANG =
+{
+RPP_ERROR_MSG   		=> "There was a problem rejecting the proposed extension for your phone.",
+RPP_ERROR_MANY_MSG		=> "There was a problem rejecting the proposed extension for at least one of your selected phones.",
+RPP_SUCCESS_MSG			=> "The proposed extension for your phone was rejected successfully.",
+RPP_SUCCESS_MANY_MSG	=> "The proposed extensions for your phones were rejected successfully.",
+};

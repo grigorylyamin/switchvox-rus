@@ -1,0 +1,47 @@
+$VAR1 = {
+    'T_LOW7' => 'Низкий',
+    'T_CODEC2' => 'Кодек',
+    'T_ILBC2' => 'ILBC',
+    'T_MEDIUM3' => 'Средний',
+    'T_HIGH8' => 'Высокий',
+    'T_NONE4' => 'Ни одного',
+    'T_VIDEO_CALLING' => 'Видео звонки не доступны по IAX.',
+    'T_GREAT6' => 'Отличный',
+    'T_POOR2' => 'Плохой',
+    'T_GOOD9' => 'Хороший',
+    'T_LOW8' => 'Низкий',
+    'T_LOW6' => 'Низкий',
+    'T_CONTACT_YOUR_S' => 'Свяжитесь с вашим SIP провайдером, чтобы узнать, какой видео кодек он поддерживает.',
+    'T_SPEEX2' => 'SPEEX',
+    'T_GOOD6' => 'Хороший',
+    'T_ALAW2' => 'ALAW',
+    'T_GOOD8' => 'Хороший',
+    'T_IN_THE_CASE_OF' => 'In the case of peered Switchvox servers, all
+audio codecs are supported.',
+    'T_ULAW2' => 'ULAW',
+    'T_CONTACT_YOUR_P' => 'Свяжитесь с вашим провайдером, чтобы узнать, какой аудио кодек он поддерживает.',
+    'T_GOOD7' => 'Хороший',
+    'T_GREAT5' => 'Отличный',
+    'T_G7262' => 'G726',
+    'T_LPC12' => 'LPC10',
+    'T_GSM2' => 'GSM',
+    'T_CPU_USAGE2' => 'Использование CPU',
+    'T_LOW5' => 'Низкий',
+    'T_ULAW_AND_ALAW2' => 'ULAW and ALAW generally work with every provider and provide 
+great sound quality. G722 provides excellent sound quality.
+If you are unsure, use the defaults, ULAW and ALAW.',
+    'T_G7222' => 'G722',
+    'T_SOUND_QUALITY2' => 'Качество звонка',
+    'T_BANDWIDTH_USAGE2' => 'Использование пропускной способности (кбит/с)',
+    'T_AUDIO2' => 'Аудио',
+    'T_ADPCM2' => 'ADPCM',
+    'T_NONE5' => 'Никакой',
+    'T_VIDEO2' => 'Видео',
+    'T_HIGH7' => 'Высокий',
+    'T_EXCELLENT2' => 'Превосходный',
+    'T_GREAT4' => 'Великолепный',
+    '__INCLUDES' => [
+        'common/incl_help_header',
+        'common/incl_help_footer'
+    ]
+};

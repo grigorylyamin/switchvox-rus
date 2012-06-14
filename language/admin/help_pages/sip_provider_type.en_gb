@@ -1,0 +1,15 @@
+$VAR1 = {
+    'T__THIS_IS_A_THE' => ': This is a the default.  If you are making
+regular phone calls to the rest of the world over this line then use
+this option.  This will cause this pbx to send SIP REGISTER requests to
+this provider.',
+    'T_PEER' => 'пир',
+    'T_PROVIDER' => 'Провайдер',
+    'T__A_PEER_IS_ANO' => ': A peer is another server that you want to link with this
+one.  For example, if you are peering two offices together, you may configure them as peers.
+This disables SIP registration.',
+    '__INCLUDES' => [
+        'common/incl_help_header',
+        'common/incl_help_footer'
+    ]
+};

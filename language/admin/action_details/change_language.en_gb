@@ -1,0 +1,4 @@
+$VAR1 = {
+    'T_CHANGE_LANGUAGE' => 'Изменить язык на',
+    'T_ACTION_TYPE' => 'Тип действия'
+};

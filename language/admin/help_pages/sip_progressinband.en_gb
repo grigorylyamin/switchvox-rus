@@ -1,0 +1,7 @@
+$VAR1 = {
+    'T_SETTING_THIS_O' => 'Почему SIP провайдер мог быть в ',
+    '__INCLUDES' => [
+        'common/incl_help_header',
+        'common/incl_help_footer'
+    ]
+};

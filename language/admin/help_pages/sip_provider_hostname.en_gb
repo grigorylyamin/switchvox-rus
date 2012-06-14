@@ -1,0 +1,10 @@
+$VAR1 = {
+    'T_THIS_IS_THE_SIP' => 'Это SIP сервер предоставленный вашим SIP-провайдером. Он также может быть назван сервер регистрации. Вот некоторые примеры:
+sipnet.ru, 
+access1.voicepulse.com или proxy01.sipphone.com',
+    'T_IF_UNSURE_CON' => 'Если неуверены, свяжитесь с вашим SIP проавайдером, чтобы узнать значение.',
+    '__INCLUDES' => [
+        'common/incl_help_header',
+        'common/incl_help_footer'
+    ]
+};

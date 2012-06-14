@@ -1,0 +1,6 @@
+$VAR1 = {
+    'T_STUFF' => 'персонал',
+    '__INCLUDES' => [
+        'incl_header'
+    ]
+};

@@ -1,0 +1,11 @@
+$VAR1 = {
+    'T_CALL_LOG2' => 'Лог звонка',
+    'T_REPORT_TYPE' => 'Тип отчета',
+    'T_CALL_REPORT' => 'Очет по звонкам',
+    'T_QUEUE_REPORT' => 'Очет по очередям',
+    'T_WHAT_DO_THESE_T' => 'Что означают эти типы?',
+    'T_CREATE_A_SCHEDU' => 'Создать запланированный отчет ',
+    '__INCLUDES' => [
+        'incl_header'
+    ]
+};

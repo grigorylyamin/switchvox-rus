@@ -1,0 +1,8 @@
+$VAR1 = {
+    '__INCLUDES' => [
+        'incl_header'
+    ],
+    'T_ATTEMPTING_TO2' => 'Attempting to diagnose any problems with your IAX Provider, this may take a few seconds, please be patient and do not refresh this page.',
+    'T_IAX_DIAGNOSE_PAGE_TITLE' => 'Диагностирование IAX VOIP провайдера',
+    'T_BACK_TO_CONNECTION_STATUS' => 'Назад к статусу соединения'
+};

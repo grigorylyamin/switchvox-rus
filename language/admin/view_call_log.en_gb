@@ -1,0 +1,26 @@
+$VAR1 = {
+    'T_ALL_CALLS' => 'Все звонки',
+    'T_SEE_WHAT_CALLS' => 'See what calls have been made on the phone system. Use the form below to narrow down the information that you view in the logs in order to derive a more meaningful and specific call report.',
+    'T_CALL_QUEUES' => 'Очереди звонков',
+    'T_IVRS' => 'IVRs',
+    'T_VIEW_REPORT' => 'Просмотреть отчет',
+    'T_TO_DATE' => 'До даты',
+    'T_EXTENSION' => 'Добавочный номер',
+    'T_TYPE_12311' => 'Тип',
+    'T_INCOMING_CALLS' => 'Входящие звонки',
+    'T_AGENTS' => 'Операторы',
+    'T_HOLD_DOWN_CTRL' => 'Удержать CTRL для выбора',
+    'T_OUTGOING_CALLS' => 'Исходящие вызовы',
+    'T_MMDDYYYY' => '(мм/дд/гггг)',
+    'T_ALL_EXTENSIONS' => 'Все добавочные',
+    'T_USER_EXTEN' => 'Добавочные номера пользователя',
+    'T_OUPUT_TO_XLS_F' => 'Вывод в .xls файл',
+    'T_FROM_DATE' => 'с даты',
+    'T_MULTIPLE_ITEMS' => 'несколько значений',
+    'T_VIEW_TYPE' => 'Просмотреть тип',
+    '__INCLUDES' => [
+        'incl_header',
+        '../common/incl_calendar_header',
+        '../common/incl_table'
+    ]
+};

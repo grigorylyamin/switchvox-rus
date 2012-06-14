@@ -1,0 +1,18 @@
+$VAR1 = {
+    'T_INTELLIGENTLY' => 'Intelligently enable the jitterbuffer with a dynamic window size when the call is terminated on Switchvox. Try this option first if you have audio quality issues.',
+    'T_INTELLENGENTLY' => 'Intellengently enable the jitterbuffer with a fixed window size. This may be useful if jitter is sporadic, yet sudden. Or, if you need to mask problems with poorly configured routers that cannot implement QoS.',
+    'T_ALWAYS_ENABLE2' => 'Always enable the jitterbuffer with a fixed window size. Select this if all else fails. This masks the underlying issue; it\\'s best to fix the jitter problem itself, instead of using this option.',
+    'T_ALWAYS4' => 'Всегда',
+    'T_THE_FOLLOWING2' => 'Доступны следующие настройки джиттербуфера',
+    'T_WHEN_NEEDED_WIT' => 'When Needed with Fixed Window',
+    'T_ALWAYS_WITH_FIX' => 'Всегда с фиксированным окном',
+    'T_WHEN_NEEDED' => 'Когда потребуется',
+    'T_NEVER3' => 'Никогда',
+    'T_ITS_BEST_TO_L' => 'It\\'s best to leave the jitterbuffer disabled if you are not having any audio quality problems.',
+    'T_ALWAYS_ENABLE' => 'Always enable the jitterbuffer with a dynamic window size. This may be useful if you are using phones or other SIP devices that do not have their own jitterbuffer.',
+    'T_THIS_OPTION_TU' => 'This option turns on the jitterbuffer as specified. A jitterbuffer combats network problems by inducing a small delay in call latency to make up for lost or delayed voice packets. You may want to enable the jitterbuffer if you have bad network connectivity between Switchvox and your SIP Provider.',
+    '__INCLUDES' => [
+        'common/incl_help_header',
+        'common/incl_help_footer'
+    ]
+};

@@ -1,0 +1,10 @@
+$VAR1 = {
+    '__INCLUDES' => [
+        'common/incl_help_header',
+        'common/incl_help_footer'
+    ],
+    'T_THIS_FEATURE_CO4' => 'This feature code will allow an extension, with the correct permissions, to answer a call that is on ringing a different extension.',
+    'T_ASSUME_THAT_3' => 'Assume that *39 is defined as the Directed Pickup feature code. If extension 202
+is ringing with an incoming call, dialing *39202 from another phone will pick up the call ringing in on 202\\'s extension.',
+    'T_EXAMPLE3' => 'Пример'
+};

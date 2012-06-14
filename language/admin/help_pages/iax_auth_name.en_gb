@@ -1,0 +1,9 @@
+$VAR1 = {
+    '__INCLUDES' => [
+        'common/incl_help_header',
+        'common/incl_help_footer'
+    ],
+    'T_THIS_IS_THE5' => 'Это',
+    'T_PROVIDED_TO_YO' => 'предоставленные вашим IAX провайдером. Он используется для аутентификации вашей АТС во время IAX регистрации и исходящих звонков.',
+    'T_USERNAME2' => 'имя пользователя'
+};

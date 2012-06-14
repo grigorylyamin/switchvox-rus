@@ -1,0 +1,5 @@
+$VAR1 = {
+    '__INCLUDES' => [
+        'edition/incl_validate_delete_conference_extension'
+    ]
+};

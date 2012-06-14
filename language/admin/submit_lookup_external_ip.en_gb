@@ -1,0 +1,7 @@
+$VAR1 = {
+    'T_EXTERNAL_IP_DET' => 'Обнаружен внешний IP',
+    'T_CHOOSE_THIS_IP' => 'Выберете этот IP',
+    '__INCLUDES' => [
+        'incl_popupheader'
+    ]
+};

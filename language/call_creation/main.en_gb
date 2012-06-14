@@ -1,0 +1,7 @@
+$VAR1 = {
+    'T_PLEASE_CONSULT' => 'Пожалуйста, проконсультируйтесь с руководством о взаимодействии с API.',
+    '__INCLUDES' => [
+        'common/incl_help_header',
+        'common/incl_help_footer'
+    ]
+};

@@ -1,0 +1,6 @@
+$VAR1 = {
+    'T_MISSING_MAPPING' => 'Пропущено название  соответствия для этой таблицы',
+    '__INCLUDES' => [
+        'incl_options_object_style'
+    ]
+};

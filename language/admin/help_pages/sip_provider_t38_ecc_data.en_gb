@@ -1,0 +1,7 @@
+$VAR1 = {
+    'T_T38_ERROR_CORR' => 'T38 Error Correction Code (ECC) избыточность данных. Этот параметр определяет количество избыточных пакетов изображений, содержащихся в T38 frame. Значение по умолчанию 1.',
+    '__INCLUDES' => [
+        'common/incl_help_header',
+        'common/incl_help_footer'
+    ]
+};

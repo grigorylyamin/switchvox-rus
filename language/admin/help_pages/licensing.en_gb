@@ -1,0 +1,23 @@
+$VAR1 = {
+    'T_MAXIMUM_CONCURR2' => 'Максимальное число одновременных звонков',
+    'T_THIS_IS_THE2' => 'This is the date your subscription will expire.  If you do not renew 
+  your subscriptions before the expiration date shown, you will no longer 
+  be able to receive support or feature updates.',
+    'T_THIS_SHOWS_T' => 'Показывает текущую версию программного обеспечения АТС.',
+    'T_CURRENT_VERSION2' => 'Текущая версия',
+    'T_THIS_SECTION_O' => 'Этот раздел страницы обновлений отображает текущее состояние АТС',
+    'T_MAXIMUM_USER_EX2' => 'Максимальное число добавочных номеров пользователя',
+    'T_THIS_LISTS_T' => 'Перечисляет максимальные количества SIP или виртуальных добавочных номеров, разрешенные в системе.',
+    'T_PHONE_CONFIGURA2' => 'Токены конфигурации телефона',
+    'T_THIS_LISTS_T3' => 'This lists the number of tokens you have available for the automatic
+  phone configuration feature of the PBX. For each token you have you can
+  configure one phone.',
+    'T_SUBSCRIPTION_EX' => 'Окончание подписки',
+    'T_THIS_LISTS_T2' => 'This lists the maximum calls that the system is licensed to handle
+  at one time.  Note that this licensing number may be larger or
+  smaller than the capacity of the hardware this PBX is running on.',
+    '__INCLUDES' => [
+        'common/incl_help_header',
+        'common/incl_help_footer'
+    ]
+};

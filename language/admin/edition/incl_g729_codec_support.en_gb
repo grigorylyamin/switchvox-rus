@@ -1,0 +1,50 @@
+$VAR1 = {
+    'T_STATE' => 'Состояние',
+    'T_PHONE' => 'Телефон',
+    'T_CANCEL6' => 'Отменить',
+    'T_ADDRESS_1' => 'Адрес',
+    'T_ENTER_YOUR_G72' => 'Введите лицензионный ключ G729',
+    'T_POSTAL_CODE' => 'Почтовый код',
+    'T_CITY' => 'Город',
+    'T_DIGIUM_G729_E' => 'DIGIUM G.729 END USER LICENSE AGREEMENT
+
+IMPORTANT: THIS SOFTWARE END USER LICENSE AGREEMENT ("EULA") IS A LEGAL AGREEMENT BETWEEN YOU AND DIGIUM AND IS NOT THE GPL THAT IS USED FOR THE VAST MAJORITY OF OUR PRODUCTS.
+
+1. Definitions:
+"Software" shall mean the files 'codec_g729a.so' and 'Register'. "Digium" means Digium, Inc. and its licensors if any.
+
+2. Grant of License:
+You are hereby granted a non-exclusive, non-transferable license to use G.729 on the number of channels you have purchased only, subject to the conditions below.
+
+3.  Restrictions:
+a) You agree not to reverse engineer or decompile, extract symbols from, re-link, or modify the executables in any way without the express written consent of Digium.
+
+b) You agree not to distribute or redistribute the Software outside of yourself or your company.
+
+4.  No Warranty:
+THE Software IS PROVIDED "AS-IS" AND WITHOUT WARRANTY OF ANY KIND TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.  THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE Software IS WITH YOU.  SHOULD THE Software PROVE DEFECTIVE, YOU ASSUME THE COST OF ALL NECESSARY SERVICING REPAIR OR CORRECTION.  IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW SHALL Digium OR ITS LICENSORS IF ANY BE LIABLE TO YOU FOR DAMAGES INCLUDING ANY GENERAL, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE Software (INCLUDING BUT NOT LIMITED TO LOSS OF DATA OR DATA BEING RENDERED INACCURATE OR  LOSSES SUSTAINED BY YOU AND OR THIRD PARTIES OR A FAILURE OF THE Software TO OPERATE WITH ANY OTHER Software, EVEN IF DIGIUM OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. 
+
+5.  General
+This EULA shall be governed by the internal laws of the State of Alabama.  If any provision of this EULA shall be held by a court of competent jurisdiction to be contrary to law, that provision will be enforced to the maximum extent possible, and the remaining provisions of this EULA will remain in full force and effect.',
+    'T_REQUIRED9' => '(требуется)',
+    'T_REQUIRED3' => '(требуется)',
+    'T_REQUIRED4' => '(требуется)',
+    'T_FIRST_NAME' => 'Имя',
+    'T_COUNTRY' => 'Страна',
+    'T_REQUIRED8' => '(требуется)',
+    'T_G729_SUPPORT' => 'Поддержка G729',
+    'T_REQUIRED2' => '(требуется)',
+    'T_LAST_NAME' => 'Фамилия',
+    'T_ADDRESS_2' => 'Адрес',
+    'T_I_HAVE_READ_AND' => 'Я прочитал и согласен выполнять Лицензионное соглашение по G729 ',
+    'T_COMPANY' => 'Компания',
+    'T_REQUIRED' => 'Требуется',
+    'T_REQUIRED5' => '(требуется)',
+    'T_EMAIL_ADDRESS' => 'Адрес Email',
+    'T_SUBMIT' => 'Отправить',
+    'T_REQUIRED6' => '(требуется)',
+    'T_REQUIRED7' => '(требуется)',
+    '__INCLUDES' => [
+        ''
+    ]
+};

@@ -1,0 +1,24 @@
+$VAR1 = {
+    '__INCLUDES' => [
+        'edition/extension_groups',
+        'incl_header'
+    ],
+    'EG_TD_DATE_CREATED' => 'Созданные данные',
+    'CEG_SM_CREATED_GROUP' => 'Группа добавочных номеров успешно создана.',
+    'EG_E_MISSING_GNAME' => 'Не определено название группы',
+    'EG_TD_EXT_GROUPS_ID' => 'Изменить / Удалить',
+    'EG_TD_GROUP_NAME' => 'Название группы',
+    'EG_T_CANCEL' => 'Отменить',
+    'EG_T_YES_DEL' => 'Да, удалить группу добавочных номеров',
+    'EG_BT_CREATE_GROUP' => 'Создать группу добавочных номеров',
+    'EG_ND_NO_GROUPS' => 'В системе нет ни одной группы добавочных номеров.',
+    'EG_TB_DELETE' => 'Удалить',
+    'EG_TN_TABLE_TITLE' => 'Группы добавочных номеров',
+    'MEG_E_WRONG_ACTION' => 'Invalid action passed to Modify Extension Group.',
+    'EG_TD_MEMBER_COUNT' => 'Участники',
+    'EG_TB_MODIFY' => 'Изменить',
+    'EG_TD_ORG_NAME' => 'Организация',
+    'EG_SM_DELETED_GROUP' => 'Группа добавочных номеров успешно удалена.',
+    'T_CANCEL28' => 'Отменить',
+    'T_YES_DELETE_EXT_GROUPS' => 'Да, удалить группу добавочных номеров'
+};

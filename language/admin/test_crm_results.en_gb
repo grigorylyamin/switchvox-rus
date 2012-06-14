@@ -1,0 +1,10 @@
+$VAR1 = {
+    'T_NOT_TESTED2' => 'Не протестировано',
+    'T_WARNING10' => 'Предупреждение',
+    'T_FAILED2' => 'Не удалось',
+    'T_PASSED2' => 'Пройдено',
+    '__INCLUDES' => [
+        '../common/incl_help_header',
+        '../common/incl_help_footer'
+    ]
+};

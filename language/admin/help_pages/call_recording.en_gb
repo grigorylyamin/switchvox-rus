@@ -1,0 +1,15 @@
+$VAR1 = {
+    '__INCLUDES' => [
+        'common/incl_help_header',
+        'common/incl_help_footer'
+    ],
+    'T__WHEN_A_USER_R' => '. When a user records a call (his own call or another 
+person\\'s), those recordings are shown here. These are the same recordings that the 
+user has in his Mailbox, so if you or the user deletes one of these recordings,
+it is no longer available in either area. However, if the user forwarded the
+recording to another Switchvox user, that version is unchanged.',
+    'T_THERE_IS_ONE_D' => 'Есть одно правило записи звонков, установленное по умолчанию, которому автоматически следует Свитчвокс, оно называется',
+    'T_USERINITIATED' => 'user-initiated recordings',
+    'T_THIS_LETS_YOU2' => 'This lets you set up rules for recording calls. Any calls that match these 
+rules are recorded and listed on this page. You can view, listen to, and download recorded calls.'
+};

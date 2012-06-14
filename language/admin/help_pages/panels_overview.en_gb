@@ -1,0 +1,11 @@
+$VAR1 = {
+    'T_THESE_PANELS_P' => 'These panels provide integration with external applications into each
+user\\'s Switchboard.  After setting up these panels, they will be
+available in the Switchboard when it is launched.  To access the
+Switchboard, log in with your extension in the',
+    'T_MAIN_SECTION' => '/главный раздел',
+    '__INCLUDES' => [
+        'common/incl_help_header',
+        'common/incl_help_footer'
+    ]
+};

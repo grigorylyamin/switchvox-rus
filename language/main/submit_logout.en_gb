@@ -1,0 +1,10 @@
+$VAR1 = {
+    'T_YOU_HAVE_BEEN_L' => 'Вы вышли из веб портала',
+    'T_PLEASE_RELOGIN' => 'Войдите, чтобы использовать веб комплексом',
+    'T_USER_NAME' => 'Имя пользователя',
+    'T_SIGN_IN' => 'Войти',
+    'T_PASSWORD' => 'Пароль',
+    '__INCLUDES' => [
+        'incl_header'
+    ]
+};

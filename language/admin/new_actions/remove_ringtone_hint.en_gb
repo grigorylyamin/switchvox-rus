@@ -1,0 +1,8 @@
+$VAR1 = {
+    'T_REMOVE_A_RINGTONE' => 'Remove a Distinctive Ring Hint',
+    'T_CLEAR_ALL_RINGTONE' => 'Clear all Distinctive Ring Hints',
+    '__INCLUDES' => [
+        'new_actions/incl_button',
+        'new_actions/incl_missing_digit_variables'
+    ]
+};

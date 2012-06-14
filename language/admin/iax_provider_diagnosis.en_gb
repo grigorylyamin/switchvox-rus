@@ -1,0 +1,12 @@
+$VAR1 = {
+    '__INCLUDES' => [
+        'incl_header'
+    ],
+    'T_IAX_PRO_DIAGNOSIS' => 'Диагностика IAX провайдера',
+    'T_RUN_DIAGNOSTIC' => 'Запустить механизм диагностики еще раз',
+    'T_WARNING9' => 'Предупреждение',
+    'T_FAILED' => 'Ошибка',
+    'T_NOT_TESTED' => 'Не протестировано',
+    'T_PASSED' => 'Пройдено',
+    'T_BACK_TO_CONNECTION_STATUS' => 'Назад к статусу соединения'
+};

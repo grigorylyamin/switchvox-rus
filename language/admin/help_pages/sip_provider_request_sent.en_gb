@@ -1,0 +1,11 @@
+$VAR1 = {
+    'T_WHY_SIP_PROVIDE' => 'Почему SIP провайдер мог быть в',
+    'T_REQUEST_SENT_S' => 'Состояние высланного запроса.',
+    'T_THIS_COULD_JUST' => 'This could just mean your phone system is trying to register with your SIP provider. Give the process 10 minutes and if it doesn\\'t change to a registered state then read the solutions below.',
+    'T_THIS_COULD_MEAN' => 'This could mean that you sent the request to your SIP provider but the SIP provider can not talk back to you. If you are using NAT (behind a router) then it could be issues with your firewall rules. Make sure you are forwarding ports 5060 and 10000-20000 to your phone system machine from the firewall.',
+    'T_THIS_COULD_MEAN2' => 'Это может означать, что ваш SIP провайдер не отвечает. Вы можете связаться с ним и убедиться, что у него не произошло оключение системы.',
+    '__INCLUDES' => [
+        'common/incl_help_header',
+        'common/incl_help_footer'
+    ]
+};

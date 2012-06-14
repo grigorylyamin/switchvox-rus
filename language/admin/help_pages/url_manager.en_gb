@@ -1,0 +1,128 @@
+$VAR1 = {
+    'T_THE_DATE' => 'Дата и время сообщения голосовой почты.',
+    'T_TO_TRAC' => 'to track new voicemail messages and implement an escalation policy. 
+      Note: Setting XML values in the response to this request results 
+      in undefined behavior. Return empty XML for this request.',
+    'T_THE_URL_MANAGE' => 'The URL Manager lets Switchvox interact with external 
+Web applications. When certain events occur in Switchvox, 
+it can submit information about the event to a Web 
+application, and respond to the XML that is returned.',
+    'T_BE_VERY_CAREFUL' => 'будьте очень аккуратны',
+    'T_THE_DATA_ENTERE' => 'The data entered after a feature code.
+      For example, in *62204, you have an EXTENSION of 62, an 
+      EXTENSION_TYPE of feature_monitor, and a FEATURE_DATA of 204.',
+    'T_SEE_ALL_EXTENSI' => 'Просмотреть все типы добавочных номеров.',
+    'T_JOB_ID' => 'JOB_ID',
+    'T_ON_AGENT_LOGGED2' => 'Опертор вышел из системы',
+    'T_TRIGGERE2' => 'Сработает, когда оператор проверяет голосовую почту. Это событие может быть использовано в привязке к',
+    'T_TRIGGERE5' => 'Сработает, когда звонок заканчивается. Это событие может быть использовано в привязке к переменной JOB_ID, чтобы зафиксировать завершение звонков, которые вызвали предыдущие события. ЗАМЕТКА: установка значений XML в ответ на этот запрос приводит к неопределенному поведению системы. Возвращайет пустой XML для этого запроса. ',
+    'T_TO_NOT_C' => 'to not
+      create routing loops. For example, if a call to extension 333
+      results in a request that sets transfer_extension to 333, the
+      PBX will loop endlessly. It is advised to not set
+      transfer_extension in the response to this event unless it\\'s
+      absolutely necessary.',
+    'T_VM_DATE3' => 'VM_DATE',
+    'T_INCOMING_DID3' => 'Входящий_DID',
+    'T_ON_AGENT_LOGGED' => 'Когда оператор вошел в систему',
+    'T_TRIGGERE3' => 'Сработает, когда оператор входит в очередь.',
+    'T_SET_THE_TEXT_PO' => 'установите текстовую часть АОН-а в данную строку ',
+    'T_ON_NEW_VOICEMAI2' => 'При новом событии голосовой почты',
+    'T_ON_NEW_VOICEMAI' => 'При новойголосовой почте',
+    'T_VM_MSGNUM' => 'VM_MSGNUM',
+    'T_SWITCHVOX_ROUTE' => 'Свитчвокс направляет звонок на добавочный 333.',
+    'T_AFTER_THE_URL_I' => 'After the URL is requested, route.cgi might look up the
+    number 8585551212, and decide to route the call to extension
+    333. In order to accomplish this, it returns the following
+    XML',
+    'T_THE_TEXT_COMPON' => 'Текстовая часть АОН-а. Например: Боб Джонс',
+    'T_TRANSFER_EXTENS' => 'transfer_extension',
+    'T_A_UNIQUE_ID_OF' => 'A unique id of the call. Note that this string of digits
+      is not a numerical value: 99.100 is not equal to 99.1. This
+      variable is useful for correlating multiple events (and also
+      certain IVR requests).',
+    'T_EVENT_TYPE' => 'EVENT_TYPE',
+    'T_QUEUES2' => 'Очереди',
+    'T_THE_TYPE' => 'Добавочный номер, который ассоциирован с событием',
+    'T_VM_DUR3' => 'VM_DUR',
+    'T_BLOCK_ARE' => 'block are
+    optional. The following tags can be added to perform various
+    operations',
+    'T_THIS_EVENT_WILL2' => 'This event will be triggered whenever a call hits an
+      extension. This can happen multiple times for each call. For
+      example, a call may hit an IVR, a queue, and then a phone
+      extension. XML can be returned to route calls differently on
+      this event, however',
+    'T_ON_CHECKED_VOIC' => 'На проверенных голосовых сообщениях',
+    'T_WITH_THIS_OPTI' => 'с этой опцией. Есть возможность испортить АТС, создав в ней маршрутные петли',
+    'T_CALL_INFO' => 'call_info',
+    'T_CALLER_ID_NAME2' => 'CALLER_ID_NAME',
+    'T_THE_EXTENSION_A' => 'Добавочный номер, который ассоциирован с событиями голосовой почты',
+    'T_SET_THE_CALLER' => 'установить данный номер в качестве АОНа звонка ',
+    'T_THE_DURA' => 'Продолжительность сообщения голосовой почты в секундах.',
+    'T_VARIABLES' => 'Переменные',
+    'T_FOR_CERTAIN_EVE' => 'For certain events, the remote web application can return
+    XML in order to perform certain operations on the call. Here is
+    a complete example of an XML response',
+    'T_THE_URL_RETURNE' => 'The URL returned in this field will appear in the
+      Switchboard as a clickable icon. For example: a remote web
+      application might lookup the caller\\'s phone number in a
+      customer database, and return the display_url of their page
+      in a CRM system.',
+    'T_ALL_OF_THE_TAGS' => 'All of the tags inside the',
+    'T_OVERVIEW3' => 'Просмотр',
+    'T_CALLERID_NUM' => 'callerid_num',
+    'T_EVENTS' => 'События',
+    'T_LTXML_VERSI2' => '&lt;?xml version="1.0" encoding="ISO-8859-1"?&gt; &lt;!DOCTYPE call_info SYSTEM "http://www.switchvox.com/xml/call_info.dtd"&gt; &lt;call_info&gt; &lt;callerid_num&gt;8585551212&lt;/callerid_num&gt; &lt;callerid_name&gt;John Doe&lt;/callerid_name&gt; &lt;transfer_extension&gt;850&lt;/transfer_extension&gt; &lt;display_url&gt;http://intranet.example.com/crm.cgi?custid=22&lt;/display_url&gt; &lt;/call_info&gt;',
+    'T_THIS_EVENT_WILL' => 'This event will be triggered at the beginning of an
+      incoming call. This applies to calls received from VoIP
+      providers, any channel groups, as well as calls between
+      extensions. It is very common for requests for this event
+      type to return XML for routing the call or altering the
+      Caller ID.',
+    'T_THE_PHONE_NUMBE2' => 'Номер, набранный внешним звонящим.  Может быть пустой для внутренних звонков, или звонки через аналоговые линии, которые не предоставляют DID',
+    'T_HTTP1921682' => 'http://192.168.0.100/route.cgi?cid_number=8585551212&amp;cid_name=BOB+JOHNSON',
+    'T_WHEN_AN_IN' => 'Во время получения входящего звонка Switchvox отправит Caller ID на уделенное веб приложение. Это приложение сравнит номер звонящего со своей базой, и отправит звонок агенту, которые ответственен за эту компанию.',
+    'T_EXAMPLE_AN_EXT' => 'Например: инструмент маршрутизации внешних звонков',
+    'T_VM_MAILBOX3' => 'VM_MAILBOX',
+    'T_EXTENSION_TYPE' => 'Тип добавочного номера',
+    'T_A_COMMA_SEPARAT' => 'A comma separated list of the queue account_ids being 
+          logged in to or logged out of. In the case where the user is
+      being logged out of all queues, the list only contain
+      the list of queues the user is a member of.',
+    'T_FEATURE_DATA' => 'FEATURE_DATA',
+    'T_DISPLAY_URL' => 'display_url',
+    'T_BE_EXTREM' => 'Будьте очень осторожны',
+    'T_XML_RESPONSE' => 'Ответ XML',
+    'T_WHICH' => 'Какой',
+    'T_TRANSFER_THE_CA' => 'переводит звонок на данный добавочный.',
+    'T_EACH_EVENT_CAN' => 'Each event can submit various information about the call.
+    This is done by substituting variables in the requested URL.
+    Not every variable is available in every event, check the
+    Acceptable Variables menu to see which variables are
+    available in each event. Here is the complete list of
+    variables',
+    'T_TRIGGERE' => 'Triggered when a voicemail message is left for an extension. 
+      This event requests the voicemail URL. Note: Setting XML values 
+      in the response to this request results in undefined behavior. 
+      Return empty XML for this request.',
+    'T_ON_INCOMING_CAL' => 'При входящем вызове',
+    'T_THE_INTERNAL_EX' => 'Внутренний добавочный, связанный с этим событием',
+    'T_ON_ROUTE_TO_EXT' => 'Маршрут к добавочному',
+    'T_EXTENSION6' => 'Добавочный',
+    'T_THERE_ARE_A_NUM' => 'Есть несколько событий, которые будут запрашивать URL',
+    'T_LTCALL_INFO' => '&lt;call_info&gt; &lt;transfer_extension&gt;333&lt;/transfer_extension&gt; &lt;/call_info&gt;',
+    'T_THE_PHONE_NUMBE' => 'Номер звонящего. Например: 84951234567',
+    'T_BEFORE_REQUESTI' => 'Перед запросом URL АТС заменит переменные, обозначенные знаком "%", их фактическими значениями. В приведенном выше примере, образец запроса будет выглядеть так:',
+    'T_HTTP192168' => 'http://192.168.0.100/route.cgi?cid_number=%CALLER_ID_NUMBER%&amp;cid_name=%CALLER_ID_NAME%',
+    'T_TRIGGERE4' => 'Сработает, когда оператор выходит из очереди.',
+    'T_CALLER_ID_NUMBE2' => 'CALLER_ID_NUMBER',
+    'T_ON_CALL_HANGUP' => 'При окончании вызова',
+    'T_IN_THIS_EXAMPLE' => 'В этом примере предполагается, что удаленный веб-сервер работает на адресе 192.168.0.100, и что приложение маршрутизации называется route.cgi. Для этого, следующий URL будут введен в Incoming Call Event URL:',
+    'T_THE_UNIQ' => 'Уникальный номер этого сообщения голосовой почты.',
+    'T_CALLERID_NAME' => 'callerid_name',
+    '__INCLUDES' => [
+        'common/incl_help_header',
+        'common/incl_help_footer'
+    ]
+};

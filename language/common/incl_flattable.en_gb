@@ -1,0 +1,8 @@
+$VAR1 = {
+    'T__UPDATED_EVERY' => '. Обновляется каждые полчаса',
+    'T_DATA_CACHED_AT' => 'Информация закэширована на',
+    '__INCLUDES' => [
+        'incl_mouseover',
+        'incl_popup'
+    ]
+};

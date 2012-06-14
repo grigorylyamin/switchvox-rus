@@ -1,0 +1,6 @@
+##This file was auto generated##
+my $LANG =
+{
+UP_ERROR_MANY_MSG		=> "There was a problem unconfiguring the selected phones.",
+UP_SUCCESS_MANY_MSG		=> "Your phones were unconfigured successfully.",
+};

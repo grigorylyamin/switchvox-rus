@@ -1,0 +1,15 @@
+$VAR1 = {
+    '__INCLUDES' => [
+        'common/incl_help_header',
+        'common/incl_help_footer'
+    ],
+    'T_RINGING' => 'Дозвон',
+    'T_GET_EXTENSION2' => 'Get Extension Status returns one of the following results',
+    'T_INVALID_NBSP' => 'INVALID  &nbsp;&nbsp;',
+    'T_UNAVAILABLE_NB' => 'НЕДОСТУПЕН &nbsp;&nbsp;',
+    'T_BUSY_NBSP' => 'ЗАНЯТО &nbsp;&nbsp;',
+    'T_GET_EXTENSION' => 'Get Extension Status gets the status of the extension, and saves the result into an IVR variable. You specify the extension number by selecting a previously defined variable from the drop down menu, or by entering the extension number in the text box.',
+    'T_THESE_ARE_CASE' => 'These are case sensitive, so \\'IDLE\\' does not equal \\'idle\\'.',
+    'T_IDLE_NBSP' => 'IDLE     &nbsp;&nbsp;',
+    'T_INUSE_NB' => 'INUSE       &nbsp;&nbsp;'
+};

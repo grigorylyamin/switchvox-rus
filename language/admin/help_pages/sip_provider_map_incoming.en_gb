@@ -1,0 +1,17 @@
+$VAR1 = {
+    'T__THIS_IS_THE' => '- this is the default setting.  It uses the rules on the
+Incoming Calls section as well as the Callback Extension above
+to decide which extension to ring when you receive a call over
+this provider.',
+    'T_NO12' => 'Нет',
+    'T__SELECT_THIS' => '- Select this option if this provider is a peer.  This will allow
+callers from this peer to directly dial any extension in your PBX.
+Incoming calls will not follow the rules in the Incoming Calls section
+and they will not ring the Callback Extension.',
+    'T_YES13' => 'Да',
+    'T_THIS_OPTION_ALL' => 'Эта настройки позволит вам менять маршрутизацию входящих звонков. Ваши возможности',
+    '__INCLUDES' => [
+        'common/incl_help_header',
+        'common/incl_help_footer'
+    ]
+};

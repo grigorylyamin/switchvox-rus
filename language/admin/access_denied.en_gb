@@ -1,0 +1,7 @@
+$VAR1 = {
+    '__INCLUDES' => [
+        'incl_err_header'
+    ],
+    'T_YOU_DO_NOT_HAV2' => 'У вас нет достаточных прав администратора чтобы получить доступ к запрашиваемой странице или команде',
+    'T__PLEASE_CONTA' => '. Please contact your system administrator or Switchvox Support if you feel this is an error.'
+};

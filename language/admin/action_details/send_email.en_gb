@@ -1,0 +1,6 @@
+$VAR1 = {
+    'T_EMAIL_SUBJECT2' => 'Тема Email',
+    'T_VARIABLE25' => '(переменная)',
+    'T_EMAIL_ADDRESS2' => 'Адрес Email',
+    'T_ACTION_TYPE33' => 'Тип Действия'
+};

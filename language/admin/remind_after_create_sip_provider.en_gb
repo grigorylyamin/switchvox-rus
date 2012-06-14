@@ -1,0 +1,15 @@
+$VAR1 = {
+    'T_SYSTEM_OUTGOI' => 'system. Outgoing call rules have automatically been generated using this VOIP provider. You can view more information on these newly created outgoing call rules in the',
+    'T_OUTGOING_CALLS' => 'Исходящие вызовы',
+    'T_PAGE' => 'страница.',
+    'T_SECTION_OF_THE' => 'раздел пакета администрирования.',
+    'T_DONT_REMIND_ME' => 'Больше не напоминать об этом.',
+    'T_REMIND_STATUS' => 'Новый VOIP провайдер добавлен в систему. Убедитесь, что система связана с провайдером должным образом, посетив',
+    'T_SYSTEM_STATUS' => 'Статус соединения',
+    'T_A_NEW_VOIP_PRO' => 'Новый VOIP провайдер только что был добавлен в систему, однако чтобы направить на него исходящий вызов, сначала надо установить правила исходящих вызовов в',
+    'T_NOTE' => 'ЗАМЕТКА',
+    'T_THE_FIRST_VOIP' => 'Первый VOIP провайдер только что был добавлен в',
+    '__INCLUDES' => [
+        'incl_header'
+    ]
+};

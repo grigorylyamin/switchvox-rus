@@ -1,0 +1,16 @@
+$VAR1 = {
+    'T_ADVANCED_DEBUGGING_DESC' => 'Расширенная сессия отладки полезна для идентификации источника проблемы. Однако эти сессии дополнительно нагружают систему. Мы не рекомендуем использовать этот инструмент до прямого запроса от из технической поддержки.',
+    'T_ADVANCED_ERROR' => 'Просмотр расширенного журнала ошибок',
+    'T_ERRLOG' => 'Журнал ошибок',
+    'T_HERE2' => 'здесь',
+    'T_ADV_DEBUG' => 'Расширенная отладка',
+    'T_VIEW_AN_ERR' => 'Ошибка даты в журнале',
+    'T_VIEW10' => 'Просмотр',
+    'T_VISIT_ADV_DEBUG' => 'Перейти к расширенной отладке',
+    'T_TO_VIEW_THE' => 'для просмотра',
+    'T_IN_THE_ERROR' => 'In the error logs, all server errors from the phone system are recorded and stored by date. They are returned as sortable columns to make finding the information you are looking for fast and easy. Please click',
+    'T_NEW_IN_THE_ERROR' => 'Все ошибки сервера телефонной системы записываются и сохраняются по дате в журнале ошибок. Они приходят в виде сортируемых столбцов, позволяющих найти нужную  информацию быстро и легко.',
+    '__INCLUDES' => [
+        'incl_header'
+    ]
+};

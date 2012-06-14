@@ -1,0 +1,14 @@
+$VAR1 = {
+    'T_CC_CASCADE' => 'Каскад',
+    'T_CC_AFTER' => 'после',
+    'T_CC_EXAMPLE' => 'Пример: 918585551212',
+    'T_CC_QUEUE_CALLS' => 'звонки очереди',
+    'T_CC_RINGS' => 'звонит',
+    'T_ATTEMPT_TO_PRES2' => 'Attempt to preserve caller id.',
+    'T_CC_ALL_CALLS' => 'все звонки',
+    'T_CC_ANYTIME' => 'В любое время',
+    'T_CC_DIRECT_CALLS' => 'прямые звонки',
+    'T_CC_MAKE_SURE' => 'Убедитесь, что добавили требуемый номер для осуществления исходящих звонков.',
+    'T_CC_WHEN_TIME_I' => 'когда время',
+    'T_CC_TO' => 'to'
+};

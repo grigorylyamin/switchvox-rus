@@ -1,0 +1,29 @@
+$VAR1 = {
+    'T_ENTER_HTTP' => 'Введите \\'http://www.mydomain.com/great_sound93.wav\\' в поле URL',
+    'T_SAVE_SETTINGS7' => 'Сохранить настройки',
+    'T_CHOOSE_SOUND' => 'Choose \\'sound_name\\' from the IVR variable drop down, and click "Append"',
+    'T_WHEN_THIS_IVR4' => 'Когда действие в IVR достигнуто, звуковой файл из \'http://www.mydomain.com/good_sound1.wav\\' будет загружен и проигран',
+    'T_CHOOSE_URL_BA' => 'Выберите \\'url_base\\' из списка IVR переменных, и нажмите "Добавить"',
+    'T_SAVE_SETTINGS6' => 'Сохранить настройки',
+    'T_A_PREVIOUS_IVR5' => 'A previous IVR action like \\'Set Variable\\' sets the variable \\'sound_name\\'
+         to \\'good_sound1.wav\\'',
+    'T_THIS_ACTION_DO' => 'Это действие скачивает звуковой файл в формате WAV из URL и проигрывает звук.',
+    'T_CLICKING_APPE' => 'Clicking "Append" below will append the selected variable names to the URL input field. The variable names will appear enclosed with %\\'s. When the URL is requested the %\\'s and variable names will be replaced with the variable values.',
+    'T_A_PREVIOUS_IVR4' => 'A previous IVR action like \\'Set Variable\\' sets the variable \\'url_base\\'
+         to \\'http://www.mydomain.com/\\'',
+    'T_EXAMPLE_13' => 'Пример 1',
+    'T_URL_BASESO' => '\\'%url_base%%sound_name%\\' появится в адресной строке',
+    'T_YOU_CAN_ENTER2' => 'Вы можете ввести \\'static\\' URL, который всегда одинаков, или вы можете создать \\'dynamic\\' URL, введя переменные, по которым система построит ссответствующуй URL.',
+    'T_A_DYNAMIC_URL2' => 'A dynamic URL can include IVR Action variables or system variables.
+When using a variable, make sure that a previous action has assigned a value to 
+that variable,
+otherwise nothing will be inserted into the URL. To add a variable to the URL,
+select it from the appropriate drop down menu, then click \\'Append\\'. The variable will appear
+in the URL field.',
+    'T_EXAMPLE_22' => 'Пример 2',
+    'T_WHEN_THIS_IVR3' => 'Когда это действие IVR достигнуто, звуковой файл \\'http://www.mydomain.com/great_sound93.wav\\' скачивается и проигрывается',
+    '__INCLUDES' => [
+        'common/incl_help_header',
+        'common/incl_help_footer'
+    ]
+};

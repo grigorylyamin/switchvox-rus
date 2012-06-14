@@ -1,0 +1,155 @@
+$VAR1 = {
+    '__INCLUDES' => [
+        'common/incl_help_header',
+        'common/incl_help_footer'
+    ],
+    'T_HTTPS19216812' => 'https://192.168.8.80/api?cmd=call&amp;dial_first=abc&amp;dial_second=101&amp;admin=1&amp;dial_as=206&amp;password=69f4dfc225247988f2ce7df53f2e9969&amp;response_type=xml',
+    'T_VAR_VARIABLENAM' => 'var_VARIABLENAME',
+    'T_PASSWORD4' => 'пароль',
+    'T_THE_ABOVE_URL' => 'Ссылка запроса, представленная выше, сообщает АТС (находящейся по адресу 192.168.1.50), что надо инициировать звонок на добавочный номер 101. Затем, когда 101 ответит, соединить его с добавочным 800.',
+    'T_AFTER_THE_DIAL' => 'После того, как номер dial_first был набран и ответил будет вызван этот номер. Если номер dial_first не ответил, тогда этот номер не будет вызван.',
+    'T_LTDIAL_FIRST' => '&lt;dial_first&gt;101&lt;/dial_first&gt;',
+    'T_LTDIAL_SECOND' => '&lt;dial_second&gt;105&lt;/dial_second&gt;',
+    'T_DIAL_FIRST' => 'dial_first',
+    'T_THIS_IS_AN_ENCO' => 'Это закодированный пароль администратора, который позволяет администратору звонить. Если пароль администратора меняется, то этот пароль также изменится и должен быть обновлен.
+',
+    'T_LTCMDGTCALL' => '&lt;cmd&gt;call&lt;/cmd&gt;',
+    'T_NO_FORMAT' => 'no_format',
+    'T_LTFINAL_DIAL4' => '&lt;final_dial_second/&gt;',
+    'T_NAME8' => 'Название',
+    'T_LTERRORGTTH' => '&lt;error&gt;Номер, который Вы ввели в переменную dial_first содержит неверные параметры.&lt;/error&gt;',
+    'T_SETS_THE_DATA_T' => 'Sets the data type that the response will be from the call
+                                API. If calling the API from a browser setting HTML might be
+                                appropriate. An external application might need an XML response.
+                                See below for sample XML responses.',
+    'T_HTTPS192168' => 'https://192.168.1.50/api?cmd=call&amp;dial_first=101&amp;dial_second=800',
+    'T_EXTENSION4' => 'добавочный номер',
+    'T_ADMIN' => 'администратор',
+    'T_32_ALPHA_NUMERI' => 'численный код 32 alpha',
+    'T_LTCMDGTCALL2' => '&lt;cmd&gt;call&lt;/cmd&gt;',
+    'T_ALLOWS_YOU_TO_S' => 'Allows you to set the value of a variable in your IVR from the call creation API. First, 
+                                define a variable in your IVR and name it something like "balance". Then in your call creation API
+                                prepend the string "var_" to the name of your variable and then set it equal to the value you want to
+                                pass into your IVR. Example ...&amp;dial_first=915551212&amp;dial_second=800&amp;var_balance=453.',
+    'T_EXAMPLE_CALL_AP' => 'Примеры ссылок API звонка',
+    'T_SAME_EXAMPLE_AS' => 'Примеры, подобные описанным выше, но с определенным паролем, таким образом им не надо заходить в систему.',
+    'T_NOTE_WE_ADDED' => '*Note: We added the "no_format=1"
+because the number already has a 9 prefix on it.',
+    'T_NOTE_THE_PASSW' => '*Note the password was not included so
+101 must be logged in and their cookie must be set.',
+    'T_THE_CALL_CREATI' => 'API создания звонка позволяет внешним приложениям инициировать звонки через АТС.',
+    'T_LTRESPONSEG2' => '&lt;/response&gt;',
+    'T_2_CHARACTER_ST2' => '20 символьная строка',
+    'T_HTTPS1921688' => 'https://192.168.1.50/api?cmd=call&amp;dial_first=8584578299&amp;dial_second=800&amp;admin=1&amp;password=69f4dfc225247988f2ce7df53f2e9969&amp;dial_as=101
+',
+    'T_DEFINES_WHICH_A' => 'Определяет какое действие API выполняет',
+    'T_RESPONSE_TYPE' => 'response_type',
+    'T_THERE_ARE_MORE' => 'There are more variables you can
+pass in the URL to trigger different behavior with with the call
+creation API. Look over the Call API Variables below and be sure to 
+check out the example section below.',
+    'T_DESIGNATES_THAT' => 'Designates that this call is being made by the administrator
+                                and they are allowed to dial as any extension in the system. If
+                                this setting is not set then the system assumes the call is being
+                                made by the extension in the dial_first variable and will use
+                                that extension\\'s call rules.',
+    'T_DESCRIPTION2' => 'Описание',
+    'T_THE_ABOVE_SCENA' => 'The above scenario is fine if you always have a cookie set for the
+extension you are attempting to dial, but many times
+you want to originate calls to an extension without having a cookie set. This is done but using admin authorization in your
+URL requests. Here is a copy of the sample URL above but using admin
+authorization',
+    'T_CMD' => 'cmd',
+    'T_AS_USER_11_RI2' => 'Как пользователь 101, позвоните 101 и, когда они ответят, соедините их с добавочным 105. Сделайте этот запрос, как администратор, используя администраторский пароль API звонка для авторизации.',
+    'T_THIS_IS_THE_NUM' => 'Это первый номер, на который вы хотите звонить',
+    'T_AS_USER_11_RI' => 'Как пользователь 101, позвоните 101 и, когда они ответят, соедините их с 858-457-8299.',
+    'T_HTTPS19216811' => 'https://192.168.1.50/api?cmd=call&amp;dial_first=101&amp;dial_second=105&amp;admin=1&amp;password=69f4dfc225247988f2ce7df53f2e9969',
+    'T_HTTPS1921689' => 'https://192.168.1.50/api?cmd=call&amp;dial_first=8584578299&amp;dial_second=8586747514&amp;admin=1&amp;password=69f4dfc225247988f2ce7df53f2e9969&amp;dial_as=101',
+    'T_LTDIAL_SECOND2' => '&lt;dial_second&gt;101&lt;/dial_second&gt;',
+    'T_YOU_WILL_NOTICE' => 'You will notice that we changed
+dial_second from an extension to be an external number. Now the
+PBX will originate a call to extension 101 and
+then connect them to the party at 8584578299. One thing to note is
+that you do not need to prefix a 9 (or whatever number you use to
+make outgoing calls) to external numbers because the Call Creation
+API will do this for you automatically. You can modify the settings that
+automatically alter your call api numbers by logging into your PBX\\'s administration suite and navigating to "Extensions" -&gt;
+
+"Manage Extension" and then clicking the "modify" button next
+to a phone\\'s extension. Then click on "Show Advanced
+Settings" and you can modify which number to automatically prefix
+to external numbers (see example image below).',
+    'T_LTSTATUSGTF' => '&lt;status&gt;failed&lt;/status&gt;',
+    'T_DETERMINES_HOW' => 'Determines how long to ring the first number before timing out the call.',
+    'T_EXTENSION_EXTE' => 'extension, external number',
+    'T_YOU_MAY_HAVE_NO' => 'You may have noticed we have added "&amp;admin=1"
+which means the admin is performing this URL request and the
+"&amp;password=69f4dfc225247988f2ce7df53f2e9969" is an
+encoded version of the admin password to authorize the request. You
+can find your admin\\'s encoded password by visiting your PBX\\'s
+administration suite and navigating to "Machine Admin" -&gt;
+
+"Change Admin Password". This page displays your current password
+for the API. *Note: if you change your admin password this also
+changes your encoded call api password as well.',
+    'T_CALL_CREATION_A2' => 'API переменные создания звонка',
+    'T_HTTPS1921686' => 'https://192.168.1.50/api?cmd=call&amp;dial_first=101&amp;dial_second=105&amp;admin=1&amp;password=69f4dfc225247988f2ce7df53f2e9969
+',
+    'T_EASY_ENOUGH_HO' => 'Easy enough, however we don\\'t want just
+anyone requesting URLs and originating calls in our system thus there
+has to be some type of authorization.  In the above case this request
+would only be successful if the dial_first number is an extension on the PBX and you have a cookie set for that extension. If no cookie is set the call
+request will be rejected and no call will be originated to either
+numbers.',
+    'T_LTSTATUSGTS' => '&lt;status&gt;success&lt;/status&gt;',
+    'T_DIAL_AS' => 'dial_as',
+    'T_SET_THIS_VARIAB' => 'Set this variable if you don\\'t want your dial_first and
+                                dial_second numbers to be modified by the call api settings.
+                                Example: Don\\'t prefix a 9 when the calling number is 10 digits.',
+    'T_LTRESPONSEGT2' => '&lt;response&gt;',
+    'T_DIAL_EXTERNAL_N' => 'Dial external number 858-457-8299 and
+when they answer connect them to extension 800 (our IVR). The
+dial_as=101 tells the system to place the call using extension\\'s call
+rules and call api settings.',
+    'T_LTRESPONSEGT' => '&lt;response&gt;',
+    'T_CIDNAME' => 'cidname',
+    'T_NOTE_THIS_IS' => 'Заметка, это вопрос безопасности поскольку пароль пользователя -обычный текст.',
+    'T_EXAMPLE_CALL_AP2' => 'Пример XML запроса API звонка
+',
+    'T_LTRESPONSEG' => '&lt;/response&gt;',
+    'T_EXTENSION_EXTE2' => 'добавочный номер, внешний номер',
+    'T_IGNORE_USER_CAL' => 'ignore_user_call_rules',
+    'T_THIS_IS_USED_IN' => 'This is used in conjunction with the admin variable to tell
+                                the system which extension\\'s call rules to use when making the
+                                call.',
+    'T_DIAL_EXTENSION' => 'Наберает добавочный 101, и когда ответят, соединяет их с 858-457-8299 и устанавливает АОН, отображаемый абоненту 101 как "Автонабор"',
+    'T_HTMLXML' => '"html","xml"',
+    'T_LTFINAL_DIAL2' => '&lt;final_dial_second&gt;105&lt;/final_dial_second&gt;',
+    'T_YOU_CAN_ALSO_US' => 'Также вы можете использовать API инициации звонка, чтобы набирать внешние номера. Это копия ссылки, представленной выше, но измененная таким образом, чтобы содержать внешний номер',
+    'T_HTTPS1921683' => 'https://192.168.1.50/api?cmd=call&amp;dial_first=101&amp;dial_second=8584578299&amp;admin=1&amp;password=69f4dfc225247988f2ce7df53f2e9969',
+    'T_HTTPS1921685' => 'https://192.168.1.50/api?cmd=call&amp;dial_first=101&amp;dial_second=8584578299&amp;password=12345',
+    'T_LTFINAL_DIAL3' => '&lt;final_dial_first/&gt;',
+    'T_HTTPS1921684' => 'https://192.168.1.50/api?cmd=call&amp;dial_first=101&amp;dial_second=8584578299',
+    'T_DIAL_SECOND' => 'dial_second',
+    'T_DIAL_EXTERNAL_N2' => 'Позвоните на внешний номер 858-457-8299, и когда они ответят, соедините их с внешним номером 858-674-7514.',
+    'T_POSSIBLE_VALUES' => 'Возможные значения',
+    'T_HTTPS1921682' => 'https://192.168.1.50/api?cmd=call&amp;dial_first=101&amp;dial_second=800&amp;admin=1&amp;password=69f4dfc225247988f2ce7df53f2e9969
+',
+    'T_LTDIAL_FIRST2' => '&lt;dial_first&gt;abc&lt;/dial_first&gt;',
+    'T_HTTPS19216810' => 'https://192.168.1.50/api?cmd=call&amp;dial_first=8584578299&amp;dial_second=805&amp;admin=1&amp;password=69f4dfc225247988f2ce7df53f2e9969&amp;dial_as=101&amp;var_balance=450',
+    'T_CALL2' => '"звонок"',
+    'T_HTTPS1921687' => 'https://192.168.1.50/api?cmd=call&amp;dial_first=101&amp;dial_second=98584578299&amp;admin=1&amp;password=69f4dfc225247988f2ce7df53f2e9969&amp;no_format=1&amp;cidname=AutoDialer',
+    'T_99_DEFAULT_3' => '0-99[по умолчанию 30]',
+    'T_THE_CALL_CREATI2' => 'Доступ к API создания звонка осуществляется путем запроса специально сформированной ссылки из АТС. Этот запрос может поступить от внешней программы или при путем ввода  ссылки в ваш веб браузер. Вот очень пример ссылки запроса',
+    'T_TIMEOUT' => 'таймаут',
+    'T_CALL_CREATION_A' => 'Просмотр API создания звонка ',
+    'T_2_CHARACTER_ST' => '20 символьная строка',
+    'T_WHAT_IS_THE_CAL3' => 'Для чего используется API создания звонка?',
+    'T_LTFINAL_DIAL' => '&lt;final_dial_first&gt;101&lt;/final_dial_first&gt;',
+    'T_DIAL_EXTERNAL_N3' => 'Набирает внешний номер 858-457-8299 и при ответе соединяет с добавочным 805 (пользовательский IVR), устанавливая значение переменной IVR "баланс" в значение "450". Таким образом IVR может прочитать эту пременную ("баланс") звонящему.',
+    'T_SET_THIS_VARIAB2' => 'Set this variable if do not want the ringing call to follow the extension\\'s call rules. By default, if the dial_first number is an extension it will follow whatever call rules the extension has setup (ie: go to voicemail, cascade, etc).',
+    'T_SETS_THE_NAME_O' => 'Sets the name of the caller ID on the call to the dial_first
+                                number. If you are originating the call to your extension is is
+                                helpful to set the caller id to remind you who is calling. The
+                                caller id number is automatically set to the dialed number.'
+};

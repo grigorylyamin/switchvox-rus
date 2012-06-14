@@ -1,0 +1,7 @@
+$VAR1 = {
+    'T_EVENT_TRIGGERS' => 'Триггеры событий',
+    '__INCLUDES' => [
+        'incl_header',
+        'edition/incl_url_manager'
+    ]
+};

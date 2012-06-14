@@ -1,0 +1,11 @@
+$VAR1 = {
+    'T_THIS_IS_THE_PH' => 'Этот номер будет отображаться в качестве АОНа при звонках через этого провайдера.',
+    'T_NOTE9' => 'ЗАМЕТКА',
+    'T_SETTING_THIS' => 'Setting this field may cause all outbound calls to fail.  Before
+altering your caller id, contact your provider to verify that they
+support this feature.',
+    '__INCLUDES' => [
+        'common/incl_help_header',
+        'common/incl_help_footer'
+    ]
+};

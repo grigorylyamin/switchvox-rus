@@ -1,0 +1,17 @@
+$VAR1 = {
+    '__INCLUDES' => [
+        'incl_header'
+    ],
+    'T_WHAT_DOES_THIS7' => 'Что это означает?',
+    'T_DIGITS_IN_LENGT5' => 'цифр в длину',
+    'T_MODIFY_EXTENSIO6' => 'Изменить добавочный номер',
+    'T_VOICEMAIL_ACC' => 'Добавочный номер доступа к голосовой почте',
+    'T_CREATE_EXTENSIO7' => 'Создать добавочный номер',
+    'T_DO_NOT_REQUIRE3' => 'Do not require password as long as caller is calling from their own extension.',
+    'T_THIS_EXTENSIO2' => 'Этот добавочный номер может быть набран из IVR.',
+    'T_SAVE_EXTENSION' => 'Сохранить добавочный номер',
+    'T_REQUIRE_PASSWORD' => 'Требует пароль',
+    'T_MODIFY_VOICEMAIL_EXTENSION' => 'Изменить добавочный номер голосовой почты',
+    'T_CREATE_VOICEMAIL_EXTENSION' => 'Создать добавочный номер голосовой почты',
+    'T_EXTENSION' => 'Добавочный номер'
+};

@@ -1,0 +1,6 @@
+$VAR1 = {
+    '__INCLUDES' => [
+        'incl_header'
+    ],
+    'T_CURRENTLY_RUN' => 'Currently running your SIP Debug. This process will last 30 seconds and capture any SIP data that is sent through the PBX during this time. After the 30 seconds has expired this page willl redirect to the SIP Debug output. Please be patient and do not refresh this page.'
+};

@@ -1,0 +1,6 @@
+$VAR1 = {
+    '__INCLUDES' => [
+        'incl_header'
+    ],
+    'T_TELL_ME_HOW' => 'Сообщите мне как'
+};

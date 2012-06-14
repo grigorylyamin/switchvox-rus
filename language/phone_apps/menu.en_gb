@@ -1,0 +1,13 @@
+$VAR1 = {
+    'T_PARKING_LOTS' => 'Парковка звонка',
+    'T_VOICEMAIL' => 'Голосовая почта',
+    'T_PHONEBOOKS' => 'Телефонные книги',
+    'T_DIRECTORY' => 'Справочник',
+    'T_LOG_OUT' => 'Выйти',
+    'T_RECORD_CALL' => 'Записать звонок',
+    'T_PHONE_APPS_MENU' => 'Меню телефонного приложения',
+    '__INCLUDES' => [
+        'incl_softkeys',
+        'incl_error_header'
+    ]
+};

@@ -1,0 +1,16 @@
+$VAR1 = {
+    '__INCLUDES' => [
+        'incl_header'
+    ],
+    'T_CONFERENCE_MEMB' => 'Участники конференции могут нажать # и быть направлены на добавочный номер []',
+    'T_CREATE_EXTENSIO' => 'Создать добавочный номер',
+    'T_CREATE_SCE' => 'Создать ',
+    'T_MODIFY_SCE' => 'Modify Simple Conference Extension',
+    'T_CONFERENCE_EXTENS' => 'Meet Me Conference Center Extension',
+    'T_PLAY_MUSIC_ON_H' => 'Проиграть музыку на ожидании, когда в конференции только один участник',
+    'T_THIS_EXTENSIO3' => 'Этот добавочный номер может быть набран из IVR.',
+    'T_CONSTRAINT' => 'цифр в длину',
+    'T_WHAT_DOES_THIS10' => 'Что это означает?',
+    'T_PLAY_SOUND_WHEN' => 'Проигрывать звук, когда люди входят/уходят',
+    'T_MODIFY_EXTENSIO' => 'Модифицировать добавочный номер'
+};

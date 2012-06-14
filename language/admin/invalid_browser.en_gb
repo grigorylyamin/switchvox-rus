@@ -1,0 +1,11 @@
+$VAR1 = {
+    'T_UNSUPPORTED_BROWSER' => 'Неподдерживаемый браузер',
+    'T_NOT_TESTED' => 'Не протестировано',
+    'T_FOR_OPTIMAL' => 'Для лучшей работы мы рекомендуем использовать один из следующих  веб браузеров',
+    'T_CHROME' => 'Для Windows версия Chrome 8.0 и более поздние.',
+    'T_SAFARI' => 'Для Windows или Mac версия Safari 5.0 и более поздние.',
+    'T_FF' => 'Версия Firefox 3.5.X или более поздняя для Windows, Mac, or Linux.',
+    'T_IE' => 'Internet Explorer версии 8.X на Windows.',
+    'T_GET_BROWSER' => 'Скачать браузер',
+    'T_PROCEED' => 'Продолжить в этом браузере'
+};

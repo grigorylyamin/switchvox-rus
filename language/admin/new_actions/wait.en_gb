@@ -1,0 +1,8 @@
+$VAR1 = {
+    'T_WHAT_IS_AN_INT' => 'Что такое прерываемое ожидание?',
+    'T_THIS_WAIT_IS_IN' => 'Это ожидание непрерываемое',
+    'T_WAIT_TIME_IN_S' => 'Сколько времени в секундах',
+    '__INCLUDES' => [
+        'new_actions/incl_button'
+    ]
+};

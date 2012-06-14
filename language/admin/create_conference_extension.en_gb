@@ -1,0 +1,14 @@
+$VAR1 = {
+    '__INCLUDES' => [
+        'edition/incl_create_conference_extension'
+    ],
+    'T_CREATE_EXTENSIO' => 'Создать добавочный номер',
+    'T_CREATE_TITLE' => 'Create Meet Me Conference Center Extension',
+    'T_MODIFY_TITLE' => 'Modify Meet Me Conference Center Extension',
+    'T_CONFERENCE_EXTENS' => 'Meet Me Conference Center Extension',
+    'T_INFINITE' => 'бесконечное',
+    'T_CONSTRAINT' => 'цифр в длину',
+    'T_AFTER' => 'После',
+    'T_INVALID_PIN_A' => 'invalid conference room number attempts route caller to extension',
+    'T_MODIFY_EXTENSIO' => 'Модифицировать добавочный номер'
+};

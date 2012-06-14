@@ -1,0 +1,25 @@
+$VAR1 = {
+    '__INCLUDES' => [
+        'common/incl_help_header',
+        'common/incl_help_footer'
+    ],
+    'T_CONDITIONAL_CL' => 'Conditional Clause is used to branch callers to different actions based on IVR
+Action variables. A Conditional Clause action has three parts:  the variable to
+evaluate, the criteria to use, and a value to compare against.',
+    'T_IF_YOUR_VARIAB2' => 'Если переменная содержит числа, Вы можете использовать любые критерии',
+    'T_EQUALS_IS_SE' => '\\'Equals\\' is selected in the drop down list of criteria',
+    'T_NOTE_IVR_ACTI' => 'Note: IVR Action variables (such as \\'extension_status\\' in the example) 
+are created when you create certain IVR Actions. For
+example, when you add a new \\'Record Digits\\' action, you specify the name of a
+variable in which to store digits that the caller presses. Then, that variable is
+available for use in a Conditional Clause.',
+    'T_EXAMPLE_1' => 'Пример 1',
+    'T_IF_YOUR_VARIAB' => 'If your variable contains text, you can only use the criteria \\'Equals\\' or \\'Does
+Not Equal\\'. The other criteria are only for use with a variable that contains
+numbers. Also, the text you enter is case sensitive, so \\'RINGING\\' does not equal
+\\'ringing\\'.',
+    'T_EXTENSION_STA' => '\\'extension_status\\' is selected in the drop down list of variables',
+    'T_INUSE_IS_THE' => '\\'INUSE\\' is the value in the text box',
+    'T_IN_THIS_CASE' => 'In this case, if the \\'extension_status\\' variable contains \\'INUSE\\', the
+Conditional Clause is true. Otherwise, it is false.'
+};

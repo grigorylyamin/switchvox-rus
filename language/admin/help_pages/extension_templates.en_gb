@@ -1,0 +1,14 @@
+$VAR1 = {
+    '__INCLUDES' => [
+        'common/incl_help_header',
+        'common/incl_help_footer'
+    ],
+    'T_TOOL_THIS_WIL' => 'tool. This will enable you to set your own default values during the extension setup process for each type extension you would like to create.',
+    'T_FOR_EXAMPLE_Y' => 'For example, you might like for all sales managers to have a similar setup, a SIP phone with voicemail that belongs in the call group, "Sales". Now, for every sales user, you can apply the same template to save you time filling out the required fields, but you will have the flexibility to modify your template defaults for each extension (ie. every sales guy but bob should have a voicemail.) Just apply the template and customize options as needed.',
+    'T_YOU_MAY_WISH_T' => 'You may wish to set up templates to make the process of adding extensions to your system even easier by clicking on',
+    'T_EXTENSION_TEMPL' => 'Шаблон добавочного номера',
+    'T_EXTENSION_TEMPL2' => 'Шаблоны добавочного номера',
+    'T_IN_THE' => 'в',
+    'T_PBX_ADMIN' => 'Администратор АТС',
+    'T_EXTENSION_TEMP' => 'Extension Templates allow you to set up as many types of phones and configurations as you need and then quickly apply them to accounts on the PBX system. You may have just one template or different templates for different types of extensions.'
+};

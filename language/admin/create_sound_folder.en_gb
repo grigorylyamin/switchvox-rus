@@ -1,0 +1,8 @@
+$VAR1 = {
+    '__INCLUDES' => [
+        'incl_header'
+    ],
+    'T_CREATE_SOUND_FO' => 'Создать папку звуков',
+    'T_FOLDER_DESCRIPT' => 'Folder Description',
+    'T_FOLDER_NAME' => 'Название папки'
+};

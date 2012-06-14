@@ -1,0 +1,17 @@
+$VAR1 = {
+    '__INCLUDES' => [
+        'common/incl_help_header',
+        'common/incl_help_footer'
+    ],
+    'T_THIS_IS_AN_EXP' => 'This is an experimental setting that may or may not fix the logging issues that occur with the',
+    'T_MEDIA_ONLY' => 'только медиа',
+    'T_ENABLING_THIS7' => 'Enabling this option is extremely risky, and will likely result in sporadic dropped calls that are terribly hard to troubleshoot. This lets calls be transferred away from the PBX if they connect two remote IAX clients.',
+    'T_KEEP_CALLS_PAS' => 'Keep calls passing through the PBX. This option is the safest approach, and ensures that logging and call recording work correctly.',
+    'T_TRY_TO_TRANSFE' => 'Try to transfer calls away from the PBX. This option sacrifices functionality such as logging, to save a bit of bandwidth. Set this at your own risk.',
+    'T_SETTING_SET_T' => 'настройка. Устнавливайте это на свой страх и риск.',
+    'T_YES12' => 'Да',
+    'T_NO11' => 'Нет',
+    'T_NO10' => 'Нет',
+    'T_WE_STRONGLY_RE' => 'Мы настоятельно рекомнедуем оставить этот набор',
+    'T_YES11' => 'Да'
+};

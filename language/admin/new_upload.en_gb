@@ -1,0 +1,11 @@
+$VAR1 = {
+    'T_SOUND' => 'звук.',
+    'T_UPLOAD_NEW' => 'Загрузить новый звук',
+    'T_VERSION_OF' => 'версия',
+    'T_UPLOA' => 'Загрузить файл',
+    'T_PLEASE_CHOOSE_T' => 'Выберите файл для загрузки в',
+    'T_UPLOAD_NEW_SOUN' => 'Загрузить новый звук',
+    '__INCLUDES' => [
+        'incl_header'
+    ]
+};

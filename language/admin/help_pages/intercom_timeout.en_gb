@@ -1,0 +1,7 @@
+$VAR1 = {
+    'T_THIS_IS_THE_LEN' => 'This is the length of time that the system will attempt to connect an intercom call. After this duration any intercom calls that have not been answered will be hung up by the system.',
+    '__INCLUDES' => [
+        'common/incl_help_header',
+        'common/incl_help_footer'
+    ]
+};

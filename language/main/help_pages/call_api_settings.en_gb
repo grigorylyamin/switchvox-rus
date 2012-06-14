@@ -1,0 +1,27 @@
+$VAR1 = {
+    '__INCLUDES' => [
+        'common/incl_help_header',
+        'common/incl_help_footer'
+    ],
+    'T_HOW_DOES_IT_WOR' => 'Как это работает?',
+    'T_CMDCALL' => 'cmd=call',
+    'T_WHAT_IS_THE_CAL2' => 'Для чего используется API звонка?',
+    'T_THE_CALL_API_I' => 'The Call API is a simple web enabled interface that allows external programs to send certain commands to the PBX. These commands tell the PBX to perform certain tasks, one of the more popular tasks involves originating a call to an extension on the system.',
+    'T_EXAMPLE_URLHT' => 'Пример URL: https://IP.OF.PBX/api?cmd=call&amp;extension=104&amp;number=918005551212',
+    'T_WHEN_THE_CALL_I' => 'When the call is answered by the extension this will be the number it will try to ring',
+    'T_WHAT_EXTENSION' => 'На какой добавочный системы АТС звонить',
+    'T_NUMBER185551' => 'номер=18005551212',
+    'T_TELLS_THE_PBX_T' => 'Команда инициирования звонка сообщает команду АТС',
+    'T_THE_CALL_API_I2' => 'The Call API is used by external programs to send commands to the PBX. 
+An example of an external program that might utilize the Call API would be a contact manager program (such as Outlook or SugarCRM) that stores telephone numbers for contacts. 
+When a user looks up a contact in their contact manager they might want to click on the phone number of the contact and have it ring their phone and originate a call to that contact's phone number. This would all be possible through the PBX's Call API.',
+    'T_ORIGINATING_A_C' => 'Инициирование звонка',
+    'T_WHAT_IS_THE_CAL' => 'Что такое API звонка?',
+    'T_BELOW_ARE_A_LI' => 'Ниже представлен список URLов и описание их функционала.',
+    'T_EXTENSION14' => 'добавочный номер=104',
+    'T_WHEN_VALUES_AR' => 'When values are sent to the call API they may not be able to be understood by the system without some modification. 
+This modification is performed by the call API settings which you define.
+Take for example originating a call in the system. 
+When you want to dial an outgoing number on your PBX (depending on your setup) you must first dial a 9 before dialing the real phone number. However, when an external program wants to originate a call in the system it doesn't know what digit to perpend to the number and just sends the real number to dial. This is where the call API settings will come in and before sending the real number to the PBX it intercepts it and appends a 9 before sending it on.',
+    'T_HOW_DO_MY_CALL' => 'Как настройки API звонка влияют на API звонка?'
+};

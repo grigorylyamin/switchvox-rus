@@ -1,0 +1,16 @@
+$VAR1 = {
+    'T_IT_IS_HELPFUL' => 'It is helpful to name your RSA something unique to this PBX so that
+you can identify its use on remote systems.  For example, you may
+name one system\\'s key newyorkoffice, and another system\\'s key would be
+londonoffice.  You can then download newyorkoffice.pub and then upload
+it to your London office PBX.',
+    'T_RSA_KEYS_CAN_BE' => 'RSA keys can be used for authenticating peers using IAX.  This isn\\'t
+usually necessary for using commercial IAX providers, but it can be
+handy when peering multiple IAX-compatible PBXes together.  After
+downloading your RSA public key, you can then upload it to other
+phone systems when you create or modify an IAX Provider.',
+    '__INCLUDES' => [
+        'common/incl_help_header',
+        'common/incl_help_footer'
+    ]
+};

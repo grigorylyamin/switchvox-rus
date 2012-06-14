@@ -1,0 +1,12 @@
+$VAR1 = {
+    'T_SIP_PRO_DIAGNOSIS' => 'Диагностика SIP провайдера',
+    'T_FAILED6' => 'Не удался',
+    'T_NOT_TESTED6' => 'Не протестировано',
+    'T_PASSED6' => 'Пройдено',
+    'T_RUN_DIAGNOSTIC3' => 'Запустить еще раз механизм диагностики',
+    'T_WARNING20' => 'Предупреждние',
+    'T_BACK_TO_CONNECTION_STATUS' => 'Назад к статусу соединения',
+    '__INCLUDES' => [
+        'incl_header'
+    ]
+};

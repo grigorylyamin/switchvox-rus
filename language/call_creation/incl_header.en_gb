@@ -1,0 +1,9 @@
+$VAR1 = {
+    'T_PBX' => 'АТС',
+    'T_CLOSE_WINDOW' => 'Закрыть окно',
+    'T_PBX_IS_OFFLINE' => 'АТС отключена',
+    'T_PBX_IS_NOT_REGI' => 'АТС не зарегистрирована',
+    '__INCLUDES' => [
+        ''
+    ]
+};

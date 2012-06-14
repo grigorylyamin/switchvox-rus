@@ -1,0 +1,8 @@
+my $LANG =
+{
+RP_REBOOT_ERROR 		=> 'There was an error rebooting your phone. Please reboot your phone manually.',
+RP_BRAND_NOT_SUPPORTED	=> 'Your phone brand cannot be rebooted by the PBX. Please reboot your phone manually.',
+RP_REBOOT_SUCCESS		=> 'Your phone was successfully rebooted.',
+RP_REBOOT_EXTERNAL		=> 'Your phone is on a network that is not local to the PBX. The PBX attempted to reboot it, but cannot tell if it was successful. You may need to reboot this phone manually.',
+RP_NOT_YOUR_PHONE		=> 'The phone you are trying to reboot is not registered to your account.',
+};

@@ -1,0 +1,14 @@
+$VAR1 = {
+    'T_THERE_IS_MORE_T' => 'К локальной сети подключено больше одной сети (например, удаленный офисный VPN).',
+    'T_NETWORKS_CAN_B' => 'Networks can be listed in either CIDR (eg: 192.168.0.0/24) or netmask (eg: 192.168.0.0/255.255.255.255) notation.',
+    'T_USE_THIS_SECTI' => 'Use this section to list any additional networks that are not
+separated from the PBX by a NATing router.  This option is only needed if',
+    'T_YOU_WISH_TO_USE' => 'Вы хотите использовать гарнитуры или софтфоны из-вне вашей сети.',
+    'T_AND7' => 'и',
+    'T_AND6' => 'и',
+    'T_YOUR_PBX_IS_BEH' => 'Ваша АТС находится за маршрутизатором, который работает как NAT.',
+    '__INCLUDES' => [
+        'common/incl_help_header',
+        'common/incl_help_footer'
+    ]
+};

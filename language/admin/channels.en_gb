@@ -1,0 +1,10 @@
+$VAR1 = {
+    '__INCLUDES' => [
+        'incl_header',
+        '../common/incl_table'
+    ],
+    'T_VIEW7' => 'Просмотреть',
+    'T_CREATE_NEW_CHAN' => 'Создать группу каналов',
+    'T_INDIVIDUAL_CHAN' => 'Индивидуальные каналы',
+    'T_CHANNEL_GROUPS' => 'Группы каналов'
+};

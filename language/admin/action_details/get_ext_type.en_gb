@@ -1,0 +1,6 @@
+$VAR1 = {
+    'T_VARIABLE24' => 'Переменная',
+    'T_VARIABLE_TO_STO2' => 'Variable To Store Type In',
+    'T_EXTENSION18' => 'Добавочный номер',
+    'T_ACTION_TYPE30' => 'Тип действия'
+};

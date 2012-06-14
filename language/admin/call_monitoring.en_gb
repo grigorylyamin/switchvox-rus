@@ -1,0 +1,11 @@
+$VAR1 = {
+    '__INCLUDES' => [
+        'incl_header',
+        '../common/incl_dhtml_window_popup'
+    ],
+    'T_HANGUP_CALL' => 'Положить трубку',
+    'T_PAGE_HEAD_CURRENT_CALLS' => 'Мониторинг текущих звонков',
+    'T_YES_HANGUP' => 'Да, положить трубку',
+    'T_CANCEL' => 'Отменить',
+    'T_ARE_YOU_SURE' => 'Вы уверены, что хотите окончить этот разговор?'
+};

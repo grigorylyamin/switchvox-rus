@@ -1,0 +1,32 @@
+$VAR1 = {
+    'T_6_STATE_VIEW' => 'Просмотр состояния',
+    'T_THERE_WAS_AN_ER2' => 'Была ошибка.',
+    'T_FETCHING_YOUR2' => 'Запрашивается информация о вашей лицензии.',
+    'T_PANEL' => 'панель',
+    'T_12_NEIGHBORHO' => 'Район',
+    'T_TEST_SETTINGS2' => 'Тест настроек',
+    'T_TEST_YOUR_SETTI2' => 'Протестируйте ваши настройки',
+    'T_EXTENSIONS4' => 'добавочные',
+    'T_ALL_AVAILABLE_A7' => 'Все доступные эккаунты',
+    'T_1_WORLD_VIEW' => 'Мир',
+    'T_PLUGIN_SUPPORT' => 'Поддержка расширения',
+    'T_MISSING2' => 'Отсутствует',
+    'T_15_STREET_VIE' => 'Улица',
+    'T_SETTINGS2' => 'Настройки',
+    'T_DEFAULT_ZOOM_LE' => 'Уровень увеличения по умолчанию',
+    'T_SAVE_SETTINGS8' => 'Сохранить настройки',
+    'T_3_COUNTRY_VIE' => 'Страна',
+    'T_PHONE_NU' => 'Телефонный номер для просмотра в тестировании',
+    'T_EXTENSIONS_WITH3' => 'Добавочные номера с',
+    'T_LICENSE2' => 'Количество лицензий',
+    'T_EXTENSIONS_ALLO4' => 'Добавочные, которым разрешено пользваться этим расширением',
+    'T_9_CITY_VIEW' => 'Город',
+    'T_ADD_MEMBER' => 'Добавить участника',
+    'T_REMOVE_MEMBER' => 'Удалить участника',
+    '__INCLUDES' => [
+        'incl_header',
+        'edition/incl_intercom_javascript_show_groups',
+        'create_extension_group',
+        'js_list_movement'
+    ]
+};

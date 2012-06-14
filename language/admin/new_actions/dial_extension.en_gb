@@ -1,0 +1,9 @@
+$VAR1 = {
+    '__INCLUDES' => [
+        'new_actions/incl_button'
+    ],
+    'T_SELECT_A_VARIAB5' => 'Выбрать переменную:',
+    'T_OR13' => 'Или',
+    'T_ENTER_IN_E3' => 'Ввести в добавочный номер вручную:',
+    'T_EXTENSION_TO_DI' => 'Набрать добавочный номер'
+};

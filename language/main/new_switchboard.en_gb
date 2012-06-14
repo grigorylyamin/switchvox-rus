@@ -1,0 +1,24 @@
+$VAR1 = {
+    'T_SAVING_YOUR_SWI' => 'Сохраняется ваша Свитчборд раскладка',
+    'T_LOADING_SWITCHB' => 'Загрузка Свитчборда',
+    'T_MY_PRESENCE' => 'Мой статус',
+    'T_MY_LOCATION' => 'Мой телефон',
+    'T_AWAY' => 'Отошел',
+    'T_PANEL_SETTINGS3' => 'Настройки панели',
+    'T_DO_NOT_DISTURB' => 'Не беспокоить',
+    'T_SAVE_LAYOUT' => 'Сохранить расположение',
+    'T_SWITCHBOARD_E' => 'Switchboard - Добавочный',
+    'T_VOICEMAIL_NOT_U' => 'Голосовая почта не обновлена',
+    'T_OPTIONS' => 'Настройки',
+    'T_AVAILABLE' => 'Доступный',
+    'T_EMPTY_WINDOW4' => 'Пустое окно',
+    'T_EXTENDED_AWAY' => 'Расширенный Отошел',
+    'T_CHATTY' => 'Разговорчивый',
+    'T_PANELS' => 'Панели',
+    '__INCLUDES' => [
+        'sbpanels/chatbox',
+        'sbpanels/current_calls',
+        'sbpanels/directory',
+        'sbpanels/rapid_dial'
+    ]
+};

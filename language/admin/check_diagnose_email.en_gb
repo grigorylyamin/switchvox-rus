@@ -1,0 +1,8 @@
+$VAR1 = {
+    '__INCLUDES' => [
+        'incl_header'
+    ],
+    'T_RUNNING_DIAGN2' => 'Диагностика запущена, это займет несколько секунд, пожалуйста не обновляйте страницу',
+    'T_EMAIL_DIAGNOST' => 'диагностика Email',
+    'T_BACK_TO_SMTP_NOTIFICATIONS' => 'Вернуться к SMTP уведомлениям'
+};

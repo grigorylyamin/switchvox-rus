@@ -1,0 +1,12 @@
+$VAR1 = {
+    'UXH_COMBINED_CONCURRENT' => 'Всего одновременных звонков за последний день',
+    'AXC_FOR_THE_PAST_DAY' => 'за последний день',
+    'ZOU_FOR_THE_PAST_HOUR' => 'за последний час',
+    'FPX_FOR_THE_PAST_SIX' => 'за последние 6 часов',
+    'AOP_FOR_THE_PAST_WEEK' => 'за последнюю неделю',
+    'OAP_FOR_THE_PAST_MONTH' => 'за последний месяц',
+    'DGD_FOR_THE_PAST_YEAR' => 'за прошедший год',
+    '__INCLUDES' => [
+        'incl_header'
+    ]
+};

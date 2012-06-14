@@ -1,0 +1,32 @@
+$VAR1 = {
+    'T_SALESFORCEC' => 'Salesforce.com является зарегистрированной торговой маркой salesforce.com. Google является зарегистрированной торговой маркой компании Google Inc. SugarCRM является зарегистрированной торговой маркой компании SugarCRM Инк. Панели Switchboard не являются одобренными,  созданными или связанными с владельцами торговых марок, указанных выше.',
+    'T_PANEL_NAME3' => 'Название панели',
+    'T_DELETE14' => 'Удалить',
+    'T_STANDARD_PANELS' => 'Стандартные панели',
+    'T_SALESFORCECOM' => 'Salesforce.com&reg; Панель Switchboard',
+    'T_YES_DELETE13' => 'Да, удалить',
+    'T_DESCRIPTION6' => 'Описание',
+    'T_CREATE_A_NEW_CU' => 'Создать новую пользовательскую панель в Switchboard',
+    'T_EMPTY_WINDOW5' => 'Пустое окно',
+    'T_ARE_YOU_SURE10' => 'Вы действительно хотите удалить эту пользовательскую панель',
+    'T_MODIFY4' => 'Изменить',
+    'T_CANCEL27' => 'Отменить',
+    'T_USE_GOOGLER' => 'Использование Google.Maps, чтобы точно определить расположение входящих звонков, в зависимости от их АОН-а.',
+    'T_THIS_PANEL_W' => 'This panel will display information from your SugarCRM&reg;
+  database about the incoming caller.',
+    'T_SWITCHBOARD_PAN' => 'Панель Свитчборда',
+    'T_GOOGLEREG_MAP' => 'Google&reg; Maps Switchboard Panel',
+    'T_CUSTOM_PANELS2' => 'Дополнительные панели',
+    'T_CREATE_PANEL' => 'Создать панель',
+    'T_NO_CUSTOM_PANEL' => 'Нет дополнительных панелей',
+    'T_WHENEVER_AN' => 'Whenever an incoming call is received, this panel will show
+  the caller's information from your Salesforce.com&reg;
+  database.',
+    'T_FREE_TRIAL' => 'пробная версия',
+    'T_PANEL_SETTINGS5' => 'Настройки панели',
+    'T_SUGARCRMREG_S' => 'SugarCRM&reg; Панель Switchboard',
+    'T_SETUP' => 'Установка',
+    '__INCLUDES' => [
+        'incl_header'
+    ]
+};

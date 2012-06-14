@@ -1,0 +1,8 @@
+$VAR1 = {
+    'T_EG_AN_AGENT' => 'E.g. An agent hangs up a support call and her phone won\\'t ring again for at least 10 seconds, because her wrap up time is set to 10.',
+    'T_WRAP_UP_TIME_IS' => 'Wrap up time is the minimum amount of time (in seconds) after disconnecting a call before the agent can receive a new call from the queue.',
+    '__INCLUDES' => [
+        'common/incl_help_header',
+        'common/incl_help_footer'
+    ]
+};

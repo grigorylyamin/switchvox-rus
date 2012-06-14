@@ -1,0 +1,9 @@
+$VAR1 = {
+    '__INCLUDES' => [
+        'incl_header'
+    ],
+    'PT_DEL_OPTION' => 'Удалить опцию',
+    'T_YES_DELETE_OPT' => 'Да, удалить опцию',
+    'T_ARE_YOU_SURE_YO20' => 'Вы уверены, что хотите навсегда удалить',
+    'T__OPTION_FROM_T' => 'опция этого меню IVR?'
+};

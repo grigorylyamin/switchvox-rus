@@ -1,0 +1,18 @@
+$VAR1 = {
+    '__INCLUDES' => [
+        'incl_ringcount_select'
+    ],
+    'T_AND_DO_NOT_PRES' => 'и не сохранять caller id',
+    'T_SIMULTANEOUSLY' => 'одновременно',
+    'T_RINGS' => 'звонков',
+    'T_ALL_CALLS2' => 'все звонки',
+    'T_DIRECT_CALLS' => 'прямые звонки',
+    'T_AND_ATTEMPT_TO' => 'и попытаться сохранить caller id',
+    'T_AFTER2' => 'после',
+    'T_QUEUE_CALLS' => 'звонки очереди',
+    'T_RING_ALL' => 'звонить всем',
+    'T_FOR' => 'Для',
+    'T_ATTEMPT_TO_PRES' => 'Пытается сохранить АОН.',
+    'T_IMMEDIATELY' => 'незамедлительно',
+    'T_AND3' => 'и'
+};

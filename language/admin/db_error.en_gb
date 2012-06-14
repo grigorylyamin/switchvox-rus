@@ -1,0 +1,7 @@
+$VAR1 = {
+    '__INCLUDES' => [
+        'incl_header'
+    ],
+    'T_THIS_MAY_JUST' => 'This may just be a temporary issue. Please reload this page in your web browser to see if that fixes your issue. If a reload displays this same page again then please be patient as your database may be starting up.  If your database does not come up after 5 minutes then please reboot your PBX.',
+    'T_YOUR_DATABASE_I' => 'Ваша база данных в данный момент выключена.'
+};

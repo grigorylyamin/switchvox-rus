@@ -1,0 +1,11 @@
+$VAR1 = {
+    'T_GO11' => 'Перейти',
+    'T_FOR3' => 'For',
+    'T_FROM2' => 'С',
+    'T_TO3' => 'До',
+    'T_ALL_ACCOUNTS' => 'Все эккаунты',
+    '__INCLUDES' => [
+        'incl_header',
+        '../common/incl_table'
+    ]
+};

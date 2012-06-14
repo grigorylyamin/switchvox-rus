@@ -1,0 +1,12 @@
+$VAR1 = {
+    'T_PLEASE_NOTE_THA' => 'Имейте в виду, что файлы, которые вы загружаете, должны быть в OGG Vorbis (.ogg) формате.',
+    'T_THE_MUSIC_ON_H' => 'Редактор музыки на ожидании позволяет создавать группы, загружать новые песни, управлять порядком проигрывания и др.',
+    'T_IT_IS_POSSIBLE' => 'Есть возможность добавления поддержки для других видов, таких как  MP3, путем загрузки нового кодека в систему. Для этого необходимо выбрать “Кодек” из меню “Добавить новый”, нажать “Перейти” и вы попадете на страницу, с которой можно загрузить новые кодеки. На этой же странице есть инструкции как добавить поддержку MP3 для файлов “Музыка на ожидании”.',
+    'T_DONT_FORGET_T' => 'Don\\'t forget that you can also use this feature to make announcements to your callers. Just upload a file with your recorded message and treat it the same way that you would if it were a music file, changing it as often as you wish.',
+    'T_FIND_A_CONVERTE' => 'Найти программу конвертер.',
+    'T_MANY_FREE_PROG' => 'Существует много бесплатных программ для конвертации mp3, wav и других форматов в .ogg.',
+    '__INCLUDES' => [
+        'common/incl_help_header',
+        'common/incl_help_footer'
+    ]
+};

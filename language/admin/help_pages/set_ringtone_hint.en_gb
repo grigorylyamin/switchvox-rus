@@ -1,0 +1,10 @@
+##This file was auto generated##
+my $LANG =
+{
+T_OVERVIEW => 'Overview',
+T_OVERVIEW_DESC => q(
+<p>
+Add description of Ringtone Hints here.....
+</p>
+),
+};

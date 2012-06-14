@@ -1,0 +1,8 @@
+$VAR1 = {
+    'T_PHONEBOOKS' => 'Телефонные книги',
+    'T_NO_PHONEBOOKS' => 'У вас нет ни одной телефонной книги.',
+    '__INCLUDES' => [
+        'incl_softkeys',
+        'incl_error_header'
+    ]
+};

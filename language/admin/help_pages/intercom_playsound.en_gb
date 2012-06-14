@@ -1,0 +1,7 @@
+$VAR1 = {
+    'T_IF_THIS_IS_SET' => 'If this is set to yes, the chosen sound will play when the intercom call is connected to inform users they can begin talking.',
+    '__INCLUDES' => [
+        'common/incl_help_header',
+        'common/incl_help_footer'
+    ]
+};

@@ -1,0 +1,17 @@
+$VAR1 = {
+    'T_NO8' => 'Нет',
+    'T_IF_YOUR_PROVI' => 'if your provider explicitly requests that you violate the SIP standard 
+in this manner. If this is',
+    'T_LEAVE_THIS_SET2' => 'Оставьте этот набор',
+    'T_YES10' => 'Да',
+    'T__SWITCHVOX_USE' => ', Свитчвокс использует свой локальный IP адрес в заголовке завпросов в поле От.',
+    'T__CHANGING_IT_T' => '. Заменя на',
+    'T_YES9' => 'Да',
+    'T_YES8' => 'Да',
+    'T_WILL_VIOLATE' => 'will violate 
+section 8.1.1.3 of the SIP standard, RFC 3261. Only set this to',
+    '__INCLUDES' => [
+        'common/incl_help_header',
+        'common/incl_help_footer'
+    ]
+};

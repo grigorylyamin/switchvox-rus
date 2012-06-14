@@ -1,0 +1,9 @@
+$VAR1 = {
+    'T_CHOOSE_AN_EXTE2' => 'Выберите добавочный номер',
+    'T_SELECT' => 'Выбрать',
+    '__INCLUDES' => [
+        '../common/incl_help_header',
+        '../common/incl_options_object',
+        '../common/incl_help_footer'
+    ]
+};

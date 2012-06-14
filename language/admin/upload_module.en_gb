@@ -1,0 +1,10 @@
+$VAR1 = {
+    'T_RPM_FILE' => 'Загрузить файл модуля RPM',
+    'FRO_MISSING_PATH_PARAMET' => 'Пропущен параметр пути.',
+    'DQD_ERROR_CREATING_MODUL' => 'Ошибка при создании директории module_rpm.',
+    'BTE_ERROR_INSTALLING_THE' => 'Ошибка при установке загруженного RPM.',
+    'OPN_SUCCESSFULLY_INSTALL' => 'Модуль rpm успешно установлен.',
+    '__INCLUDES' => [
+        'incl_header'
+    ]
+};

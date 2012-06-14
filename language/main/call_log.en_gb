@@ -1,0 +1,18 @@
+$VAR1 = {
+    '__INCLUDES' => [
+        'incl_header',
+        '../common/incl_table',
+        '../common/incl_calendar_header'
+    ],
+    'T_USE_THIS_FORM_T' => 'Используйте эту форму для просмотра истории звонков этого добавочного номера для диапазона дат.',
+    'T_ALL_CALLS' => 'Все звонки',
+    'T_VIEW_REPORT2' => 'Просмотреть отчет',
+    'T_OUTGOING_CALLS' => 'Исходящие вызовы',
+    'T_MMDDYYYY10' => 'мм/дд/гггг',
+    'T_MMDDYYYY11' => 'мм/дд/гггг',
+    'T_OUPUT_TO_XLS_F2' => 'Вывод в .xls файл',
+    'T_VIEW5' => 'Просмотр',
+    'T_INCOMING_CALLS' => 'Входящие звонки',
+    'T_TO_DATE4' => 'До даты',
+    'T_FROM_DATE4' => 'От даты'
+};

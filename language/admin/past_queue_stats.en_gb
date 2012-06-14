@@ -1,0 +1,33 @@
+$VAR1 = {
+    'QS_TC_CURRENT_CALLS' => 'Текущие звонки на ожидании',
+    'PQS_TT_QUEUE_MEMBERS' => 'Статистика участников',
+    'QS_TC_LARGEST_SIZE' => 'Наибольшая длинна очереди',
+    'QS_WAIT_TIME' => 'Время ожидания',
+    'QS_TC_TALKING_TO' => 'В данный момент говорит с ',
+    'T_DATE_RANGE' => 'Диапазон дат',
+    'QS_TC_DUMPED_CALLS' => 'Сброшенные звонки',
+    'QS_TC_EXT' => 'Добавочные номера',
+    'QS_ND_QUEUE_ENTRIES' => 'В этой очереди нет ожидающих звонков',
+    'QS_TC_COMPLETED_CALLS' => 'Завершенные звонки',
+    'QS_TC_CALLER_ID' => 'ID звонящего',
+    'QS_TC_LONGEST_HOLD' => 'Самое длительное время ожидания',
+    'QS_TC_CURRENT_POS' => 'Текущее положение в очереди',
+    'QS_TC_LOGGED_IN' => 'Время последнего входа',
+    'QS_TXT_QUEUE_NAME' => 'Название очереди',
+    'QS_TC_ABANDONDED_CALLS' => 'Пропущенные звонки',
+    'QS_TC_LAST_CALL' => 'Время последнего звонка',
+    'PQS_TT_QUEUE_STATS' => 'Статистика очереди',
+    'QS_TC_REDIRECTED_CALLS' => 'Перенаправленные звонки',
+    'QS_ND_QUEUE_MEMBERS' => 'В очереди нет ни одного участника',
+    'QS_TT_QUEUE_ENTRIES' => 'Текущие звонки на ожидании в %1',
+    'T_QUEUE' => 'Очередь',
+    'QS_TC_STATUS' => 'Статус участника',
+    'QS_TC_TOTAL_CALLS' => 'Принятые звонки',
+    'QS_ND_QUEUE_STATS' => 'В данной очереди нет учестников',
+    'QS_TC_NAME' => 'Название',
+    'T_THRU' => 'thru',
+    '__INCLUDES' => [
+        '../common/incl_help_header',
+        '../common/incl_help_footer'
+    ]
+};

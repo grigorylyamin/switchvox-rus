@@ -1,0 +1,12 @@
+$VAR1 = {
+    'TELL_ME_MORE_ABOUT_SCHEDULING_REPORTS' => 'Узнать больше о запланированных отчетах',
+    'GET_DETAILED_REPORTS_EMAILED' => 'Получайте подробные отчеты по электронной почте на регулярной основе, это  поможет мониторить статистику звонков вашей компании.',
+    'SM_DELETED_SCHEDULED_REPORT' => 'Запланированный отчет успешно удален.',
+    'SM_MODIFIED_SCHEDULED_REPORT' => 'Запланированный отчет успешно изменен.',
+    'CREATE_A_NEW_SCHEDULED_REPORT' => 'Создать новый запланированный отчет',
+    'SM_CREATED_SCHEDULED_REPORT' => 'Запланированный отчет успешно создан.',
+    '__INCLUDES' => [
+        'incl_header',
+        '../common/incl_table'
+    ]
+};

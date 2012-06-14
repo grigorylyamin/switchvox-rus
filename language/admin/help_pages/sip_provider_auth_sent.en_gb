@@ -1,0 +1,10 @@
+$VAR1 = {
+    'T_WHY_SIP_PROVIDE4' => 'Почему SIP провайдер может быть в',
+    'T_THIS_PROBABLY_M' => 'This probably means that your account is not valid with your SIP provider. Make sure you have typed in your provider number and provider password in correctly.',
+    'T_THIS_COULD_JUST2' => 'This could just mean your phone system is trying to authenticate with your SIP provider. Give the process 10 minutes and if it doesn\\'t change to a registered state then read the solutions below.',
+    'T_REQUEST_SENT_S2' => 'Состояние отправленного запроса.',
+    '__INCLUDES' => [
+        'common/incl_help_header',
+        'common/incl_help_footer'
+    ]
+};

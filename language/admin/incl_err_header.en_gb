@@ -1,0 +1,12 @@
+$VAR1 = {
+    '__INCLUDES' => [
+        '../common/incl_jscss',
+        '../common/incl_nav'
+    ],
+    'T_ERROR6' => 'ОШИБКА',
+    'T_CONFLICTING_EXT' => 'Конфликтующие добавочные',
+    'T_CONFLICTING_OUT' => 'Конфликтует и исходящими правилами вызовов',
+    'T_LOGOUT' => 'Выход',
+    'T_WELCOME' => 'Добро пожаловать',
+    'T_WARNING4' => 'ПРЕДУПРЕЖДЕНИЕ'
+};

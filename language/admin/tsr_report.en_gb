@@ -1,0 +1,17 @@
+$VAR1 = {
+    'T_TO_DOWNLOAD_A_T' => 'To download a TSR  ( Technical Service Request ) Report please click the "Download TSR Report" below. In the event of problems with your PBX you can send a TSR Report to customer service so they can better diagnose any problems you might have.',
+    'T_DISABLE_TECH_SU' => 'Отключить доступ тех. поддержки',
+    'T_ENABLE_TECH_SUP' => 'Включить доступ тех. поддержки',
+    'T_PLEASE_DO_NO' => 'Не включайте доступ технической поддержки без прямого запроса от Digium.',
+    'T_AFTER_TECH_SUP' => 'После включения удаленного доступа технической поддержки, Вам необходимо пробросить порт 22 на вашем фаерволе / маршрутизаторе.',
+    'T_NOTE4' => 'ЗАМЕТКА',
+    'T_ALLOW_TECH_SUPP' => 'Разрешить доступ технической поддержке ',
+    'T_DOWNLOAD_A_TECH' => 'Скачать отчет ',
+    'T_DOWNLOAD_TSR_RE' => 'Скачать отчет TSR',
+    'T_PL_CALL_TS_GET_PASS' => 'Пожалуйста, позвоните в техническую поддержку, чтобы получить ваш Пароль для VPN соединения.',
+    'T_TS_WILL_NOT' => 'Техническая поддержка никогда не позвонит вам и не спросит вашего пароля.',
+    'T_VPN_CON_PASS' => 'Пароль для VPN соединения',
+    '__INCLUDES' => [
+        'incl_header'
+    ]
+};

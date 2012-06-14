@@ -1,0 +1,13 @@
+$VAR1 = {
+    '__INCLUDES' => [
+        'incl_softkeys',
+        'incl_error_header'
+    ],
+    'T_ENTRY_DETAILS' => 'Детали записи',
+    'T_NAME' => 'Имя',
+    'T_EMAIL' => 'Email',
+    'T_ADDITIONAL_NUMS' => 'Дополнительные номера',
+    'T_BACK_TO_LIST' => 'Назад к списку записей',
+    'T_TYPE' => 'Тип записи',
+    'T_NUM' => 'Номер'
+};

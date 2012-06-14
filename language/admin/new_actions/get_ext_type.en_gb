@@ -1,0 +1,14 @@
+$VAR1 = {
+    '__INCLUDES' => [
+        'new_actions/incl_back_button',
+        'new_actions/incl_button',
+        'new_actions/incl_missing_digit_variables',
+        'new_actions/incl_tabletitle'
+    ],
+    'T__OR17' => '- ИЛИ -',
+    'T_MORE_ABOUT_GET' => 'More About Get Extension Type',
+    'T_VARIABLE_NAME_F5' => 'Variable Name for Result',
+    'T_ENTER_IN_E4' => 'Введите в добавочный номер вручную',
+    'T_SELECT_A_VARIAB7' => 'Выберите переменную',
+    'T_EXTENSION_TO_GE' => 'Extension To Get Type Of'
+};

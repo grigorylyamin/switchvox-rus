@@ -1,0 +1,33 @@
+$VAR1 = {
+    'T_AND5' => 'и',
+    'T_IF_THE_DIALED_N' => 'Если набранный номер начинается с цифр из правила, оставшаяся часть номера должна минимальная по длине для совпадения.',
+    'T_AND_THEN_PREPE' => 'и затем добавтьте в начало цифры',
+    'T_TO_THE_NUMBER2' => 'на номер.',
+    'T_AND4' => 'и',
+    'T_SOLUTION' => 'Решение',
+    'T_THE_REST_OF_TH' => 'Остальная часть номера должна быть между',
+    'T_BEFORE_CONNECT' => 'Перед соединением, обрезать ',
+    'T_IF_YOU_HAVE_A' => 'Если Ваш SIP провайдер обязывает добавлять * на все вызовы 1800, Все сотрудники компании должны преднабирать 9 для осуществления исходящих звонков.',
+    'T_DIGITS_FROM_TH' => 'цифр от начала,',
+    'T_IF_THE_DIALED_N2' => 'If the dialed number begins with digits from textbox 1 then the rest of the number should be at maximum this length in order to match.',
+    'T_IF_THE_NUMBER_M2' => 'If the number matches criteria set forth by 1,2,3 and after it\\'s had its digits trimmed by 4, then the value in textbox 5 should be the digits you want to prepend to the dialed number. Leave blank to not prepend any digits.',
+    'T_THE_PATTEN_MATC' => 'The Patten Match is used to match numbers that employees dial and perform certain actions (trimming and prepending digits) on those matched numbers.',
+    'T_DIGITS_IN_LENG2' => 'цифр в длину.',
+    'T_BEFORE_CONNECT2' => 'Перед соединением с номером, отрезать',
+    'T_IF_THE_NUMBER_M' => 'If the number matches criteria set forth by 1,2,3 then the value in textbox 4 should be the number of digits you want to trim from the front of the dialed number. Leave blank or enter 0 if you don\\'t want to trim any digits.',
+    'T_NUMBER_BEGINS2' => 'Номер начинается с цифр',
+    'T_DIGITS_FROM_TH2' => 'цифр от начала',
+    'T_WHEN_WOULD_I' => 'Когда я воспользуюсь этим?',
+    'T_EACH_TEXTBOX_AB' => 'Each textbox above has a number in it which corresponds to its explanation below',
+    'T_THE_REST_OF_TH2' => 'Остальная часть номера должна быть между',
+    'T_DIGITS_IN_LENG' => 'цифр в длину.',
+    'T_NUMBER_BEGINS' => 'Номер начинается с цифр',
+    'T_AND_THEN_PREPEN' => 'а затем добавьте в начало цифры',
+    'T_TO_THE_NUMBER' => 'на номер.',
+    'T_THIS_SHOULD_BE' => 'This should be a digit or list of digits that the dialed number begins with in order to match.',
+    'T_SITUATION' => 'Ситуация',
+    '__INCLUDES' => [
+        'common/incl_help_header',
+        'common/incl_help_footer'
+    ]
+};

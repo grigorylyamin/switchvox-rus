@@ -1,0 +1,9 @@
+$VAR1 = {
+    'T_THIS_IS_WHERE' => 'Здесь можно определить рабочие часы, выходные, праздники и другое, на основании которых вы сможете устанавливать правила звонков.',
+    'T_TIME_FRAMES_ARE' => 'Time Frames are defined ranges of time that will be used by call routing features of the PBX.',
+    'T_EG_SEND_A' => '(Пример; Направлять все звонки, которые поступают после 19:00, напрямую в голосовую почту.)',
+    '__INCLUDES' => [
+        'common/incl_help_header',
+        'common/incl_help_footer'
+    ]
+};

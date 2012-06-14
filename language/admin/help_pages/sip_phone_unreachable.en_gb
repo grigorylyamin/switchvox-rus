@@ -1,0 +1,15 @@
+$VAR1 = {
+    'T_MAKE_SURE_YOUR6' => 'Убедитесь, что ваш телефон включен и подключен к вашей локальной сети кабелем Ethernet.',
+    'T_CHECK_THE_CONFI' => 'Check the configuration of your phone. Your SIP phone has to be configured to know the IP of your PBX and has to have the correct password you typed in under the "Phone Password" when you created the extension in web administration suite. 
+Different phones have different ways of being configured. Some have a web interface that you can access by typing the IP address of the phone into your web browser or other phones have a menu system that can be access through the phone\\'s LCD display. Either interface should allow you to change the registration server address to be that of your PBX system and to also change the password the phone uses when connecting to the PBX. For more information on configuring your phone please see your phone\\'s manual or call your phone\\'s technical support.',
+    'T_IF_YOUR_PHONE_H2' => 'Если в вашем телефоне есть встроенный переключатель, убедитесь, что кабель Ethernet подключен к соответствующему Ethernet разъему.',
+    'T_UNREACHABLE_ST2' => 'Недоступное состояние?',
+    'T_MAKE_SURE_THERE2' => 'Убедитесь, что между вашим телефоном и телефонной системой нет брандмауэра, который может блокировать доступ вашему телефону к телефонной системе.',
+    'T_MAKE_SURE_YOUR7' => 'Убедитесь, что ваш телефон находится в той же локальной сети, что и телефонная система, а не на отдельной подсети локальной сети.',
+    'T_THIS_MEANS_THA2' => 'This means that the SIP phone you have created has not registered with the server yet. This might not be a problem if you are aware that the phone does not exist, is not plugged in, or being moved. However, if the phone does exist then this means there is a problem with it getting to the phone system. Below are a list of problems that could be causing this.',
+    'T_WHY_SIP_PHONES2' => 'Почему SIP телефон мог быть в ',
+    '__INCLUDES' => [
+        'common/incl_help_header',
+        'common/incl_help_footer'
+    ]
+};

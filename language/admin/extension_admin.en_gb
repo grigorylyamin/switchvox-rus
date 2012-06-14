@@ -1,0 +1,8 @@
+$VAR1 = {
+    '__INCLUDES' => [
+        'incl_header',
+        'incl_subnav_descriptions'
+    ],
+    'T_USER_TIP6' => 'Пользовательская подсказка',
+    'T_USE_THE_MANAGE' => 'Use the Manage Extensions tool to set up and manage IVRs, call queues, and agents, as well as basic phone extensions.'
+};

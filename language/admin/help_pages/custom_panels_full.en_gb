@@ -1,0 +1,43 @@
+$VAR1 = {
+    '__INCLUDES' => [
+        'common/incl_help_header',
+        'common/incl_help_footer'
+    ],
+    'T_A_BOOLEAN' => 'A boolean integer value indicating if this is the first time the
+    panel is requesting the page.  On startup, the panel will request
+    the url without any associated call information with FIRST_LOAD
+    set to 1. After subsequent calls, FIRST_LOAD will be set to 0.',
+    'T_THE_LAST_F' => 'Последние 4 цифры регистрационного кода вашей АТС.',
+    'T_A_HEXIDECI' => 'A hexidecimal md5 hash of the PBX\\'s registration code.',
+    'T_SETTINGS' => 'Настройки',
+    'T_CALLER_ID_NUMBE' => 'АОН',
+    'T_THE_TEXT_C' => 'Текстовая часть АОНа текущего взонка. Пример: BOB JONES',
+    'T_PANEL_DESCRIPTI2' => 'Описание панели',
+    'T_CALLER_ID_NAME' => 'АОН',
+    'T_CUSTOM_PANEL' => 'Custom panels allow third-party web developers to create panels in the
+  Switchboard that display an external web page.  This web page is
+  refreshed every time a call is received, allowing the web developer to
+  customize the content to display information about the current caller.',
+    'T_PANEL_NAME2' => 'Название панели',
+    'T_THE_FOLLOWING' => 'The following settings must be provided',
+    'T_THE_PANEL_NAME' => 'Название панели появится, как название окна панели',
+    'T_HTTPWWWEXAM' => 'http://www.example.com/mywebservice?caller_id=%CALLER_ID_NUMBER%',
+    'T_A_STRING_O' => 'A string of numbers and underscores representing the current user\\'s switchboard session.
+    There are no guarantees that this session_id is unique across logins or machines.',
+    'T_URL_VARIABLES' => 'URL переменные',
+    'T_FULL_REG_CODE_D' => 'FULL_REG_CODE_DIGEST',
+    'T_OVERVIEW' => 'Просмотр',
+    'T_EXTENSIONS2' => 'Добавочным, добавленным в лист справа позволено использовать панель. Панели автоматически не покажутся в Switchboard, до того момента как пользователь не активирует их в меню выбора панелей.',
+    'T_PANEL_URL2' => 'URL панели',
+    'T_THE_URL_CA' => 'URL может включать переменные между знаками % . Смотрите ниже лист переменных, которые поддерживаются.',
+    'T_THERE_ARE_A_NU' => 'Есть несколько переменных, которые будут вставлены в URL при каждом запросе.',
+    'T_SESSION_ID' => 'SESSION_ID',
+    'T_FIRST_LOAD' => 'FIRST_LOAD',
+    'T_EXTENSIONS_ALLO3' => 'Добавочные номера, которым позволено использовать эту панель',
+    'T_THE_PHONE2' => 'Телефонный номер текущего звонка. Например: 8585551212',
+    'T_PARTIAL_REG_COD' => 'PARTIAL_REG_CODE',
+    'T_EXTENSION5' => 'Добавочный',
+    'T_THE_DESCRIPTION' => 'Описание отображается только для администратора, и не показывается пользователю',
+    'T_THE_EXTENS' => 'Добавочный текущего пользователя Switchboard. ',
+    'T_THIS_IS_TH' => 'Веб страница, которая будет загружена в панель, например:'
+};

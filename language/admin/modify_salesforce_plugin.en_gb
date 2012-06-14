@@ -1,0 +1,25 @@
+$VAR1 = {
+    'T_FETCHING_YOUR' => 'Запрашивается информация о вашей лицензии.',
+    'T_SUGARCRM_PROXY' => 'SugarCRM Proxy',
+    'T_TEST_YOUR_SETTI' => 'Протестируйте ваши настройки',
+    'T_LICENSE' => 'Количество лицензий',
+    'T_EXTENSIONS_WITH' => 'Добавочные номера с SugarCRM',
+    'T_THERE_WAS_AN_ER' => 'Произошла ошибка.',
+    'T_EXTENSIONS_ALLO' => 'Добавочные номера допущенные к использованию Sugarcrm',
+    'T_SAVE_SETTINGS4' => 'Сохранить настройки',
+    'T_TEST_SETTINGS' => 'Тест настроек',
+    'T_USERNAME' => 'Имя пользователя',
+    'T_PASSWORD3' => 'Пароль',
+    'T_SUGARCRM' => 'Поддержка расширения SugarCRM',
+    'T_ALL_AVAILABLE_A3' => 'Все доступные эккаунты',
+    'T_SUGARCRM_SETTIN' => 'Настройки SugarCRM',
+    'T_MISSING' => 'Отсутствует',
+    'T_PHONE_NUMBE' => 'Номер телефона для тестовой проверки',
+    'T_EXTENSIONS' => 'добавочные',
+    'T_SUGARCRM_URI' => 'SugarCRM URI',
+    'T_ADD_MEMBER' => 'Добавить участника',
+    'T_REMOVE_MEMBER' => 'Удалить участника',
+    '__INCLUDES' => [
+        'incl_header'
+    ]
+};

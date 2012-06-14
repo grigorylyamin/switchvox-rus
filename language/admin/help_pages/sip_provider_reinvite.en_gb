@@ -1,0 +1,33 @@
+$VAR1 = {
+    'T_THIS_IS_THE3' => 'This is the safest setting that presents the least likelihood of trouble.',
+    'T_THE_PBX_RED2' => 'The PBX redirects media streams only between participants who are not behind NAT, using a different mechanism within the SIP protocol. Set this at your own risk.',
+    'T_THE_PBX_DIR' => 'The PBX directs media streams between participants when it is able to. Set this at your own risk.',
+    'T_SETTING_BUT_U' => 'setting, but uses a different mechanism within the SIP protocol. Only set this if you have been explicitly instructed to do so.',
+    'T_THIS_LETS_SW' => 'This lets Switchvox redirect the media stream of some calls,
+  bypassing the PBX and passing directly between both
+  participants. This may offer bandwidth and quality improvements in
+  certain scenarios, but it\\'s extremely risky.',
+    'T_NONNAT_CONNECT2' => 'Только соединения не из под NAT, используя метод UPDATE',
+    'T_IMPORTANT3' => 'Важный',
+    'T_NONNAT_CONNECT' => 'Только соединения не из под NAT',
+    'T_ALWAYS7' => 'Всегда',
+    'T_THE_FOLLOWIN' => 'Доступны следующие настройки:',
+    'T_THE_PBX_RED' => 'The PBX redirects media streams only between participants who are not behind NAT. Set this at your own risk.',
+    'T_THIS_IS_THE4' => 'Это схоже с',
+    'T_WE_STRONGLY' => 'Настоятельно рекомендуется оставить этот набор',
+    'T_THIS_SETTING_I' => 'This setting is just a recommendation
+  to Switchvox that reinvite is possible.  There are many scenarios,
+  such as when a call is being monitored or recorded, where Switchvox
+  will not be able to reinvite the call away.',
+    'T_ENABLING_THI' => 'Enabling this option is incredibly risky, and will likely result in
+  sporadic one-way audio, dropped calls, or not being able to place
+  calls.',
+    'T_NEVER6' => 'Никогда',
+    'T_ALWAYS_USING_T' => 'Always, Using the UPDATE method',
+    'T_NEVER5' => 'Никогда',
+    'T_ALWAYS6' => 'Всегда',
+    '__INCLUDES' => [
+        'common/incl_help_header',
+        'common/incl_help_footer'
+    ]
+};

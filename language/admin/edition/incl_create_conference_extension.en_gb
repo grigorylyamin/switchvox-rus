@@ -1,0 +1,7 @@
+$VAR1 = {
+    '__INCLUDES' => [
+        'incl_header'
+    ],
+    'T_WHAT_DOES_THIS2' => 'Что это означает?',
+    'T_THIS_EXTENSIO' => 'Этот добавочный номер может быть набран из IVR.'
+};

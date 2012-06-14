@@ -1,0 +1,14 @@
+$VAR1 = {
+    'T_WHEN_THE_IVR_R' => 'Когда IVR достигнет этого действия, ',
+    'T_IMMEDIATELY3' => 'немедленно',
+    'T_STORES_THE_CHO' => 'stores the chosen sound in the Sound Manager slot you choose
+above, overwriting the existing sound there. Be sure to implement your own
+protection to limit this action to trusted parties (e.g., require a pass
+code).',
+    'T_RECORDED_SOUND2' => 'Сохранить записанные звуки',
+    'T_CAUTION' => 'Внимание',
+    'T_SOUND_TO_STORE_AS' => 'Сохранить звук как',
+    '__INCLUDES' => [
+        'new_actions/incl_missing_sound_variables'
+    ]
+};

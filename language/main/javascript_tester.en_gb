@@ -1,0 +1,23 @@
+$VAR1 = {
+    'T_CHAIN_LOOKUPS_V' => 'Chain lookups vs Cache Chain Lookups (max 50000)',
+    'T_IFRAME_CREATION' => 'время создания IFrame сравнивается с  временем divCreation ',
+    'T_DIVCREATION' => 'divCreation',
+    'T_REGEXP_ITERATIO' => 'Проход по регулярному выражению с sub',
+    'T_LOCALVAR' => 'LocalVar',
+    'T_SWITCHBOARD2' => 'Свитчборд',
+    'T_BROWSER' => 'Браузер',
+    'T_GLOBAL_VS_LOCAL' => 'LocalVar',
+    'T_XMLPARSE' => 'xmlParse',
+    'T_FOR_VS_EACH' => 'For vs Each',
+    'T_CHAINLOOKUP' => 'chainLookup',
+    'T_FORLOOP' => 'forLoop',
+    'T_TEST_SPEED_OF_X' => 'Проверка скорости разборки XML',
+    'T_IFRAMECREATION' => 'iframeCreation',
+    'T_SPRINTF_TESTING' => 'Тестирование Sprintf',
+    'T_CACHECHAINLOOKU' => 'cacheChainLookup',
+    'T_JSON' => 'JSON',
+    'T_GLOBALVAR' => 'GlobalVar',
+    'T_ARRAY_ITERATION' => 'Проход по массиву с replace',
+    'T_EACHLOOP' => 'eachLoop',
+    'T_MAXLOOPS' => 'MAXLOOPS'
+};

@@ -1,0 +1,7 @@
+$VAR1 = {
+    'T_T38_ERROR_COR' => 'T38 Error Correction Code (ECC) сигнал избыточность. Этот параметр определяет количество избыточных пакетов сигнала, содержащийся в T38 сигнале кадра. Значение по умолчанию 3.',
+    '__INCLUDES' => [
+        'common/incl_help_header',
+        'common/incl_help_footer'
+    ]
+};

@@ -1,0 +1,13 @@
+$VAR1 = {
+    'T_NOTE17' => 'Заметка',
+    'T_THIS_OPTION' => 'Эта опция может использоваться, чтобы предотвратить появления всплывающего окна с предупреждением в вашем браузере, когда вы получаете доступ к веб администрироваю АТС.',
+    'T_THERE_IS_ANOTH' => 'There is another way to prevent your browser
+  from popping up a security warning when you access the PBX:  Select
+  the option to install or save the PBX\\'s certificate the next time
+  the warning occurs.  This will prevent the popup from returning.',
+    'T_IF_YOU_ARE_U' => 'Если вы не уверены в https сертификатах, вы можете оставить этот раздел пустым.',
+    '__INCLUDES' => [
+        'common/incl_help_header',
+        'common/incl_help_footer'
+    ]
+};

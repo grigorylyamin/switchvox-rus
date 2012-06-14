@@ -1,0 +1,21 @@
+$VAR1 = {
+    'T_LEVEL_USERS_C2' => 'уровень, пользователи могут видеть свою статистику и общую статистику очереди за день',
+    'T_WITH_THE' => 'С',
+    'T_WITH_THE2' => 'С',
+    'T_LEVEL_USERS_C' => 'level, users can see their own queue
+statistics for the day.',
+    'T_MY_STATUS' => 'Мой статус',
+    'T_OVERVIEW2' => 'Просмотр',
+    'T_DETAILED_VIEW' => 'Детализированный вид',
+    'T__USERS_CAN_SEE' => ', users can see all the statistics, and
+a live view of the active queue members, active callers, and the 
+callers waiting in the queue.',
+    'T_WITH_THE3' => 'С',
+    'T_THIS_SETTING_L' => 'This setting lets you designate which users are allowed to view this 
+queue panel in their switchboard, and what level of visibility they have.',
+    'T_QUEUE_USERPERM' => 'Права пользователей очереди',
+    '__INCLUDES' => [
+        'common/incl_help_header',
+        'common/incl_help_footer'
+    ]
+};

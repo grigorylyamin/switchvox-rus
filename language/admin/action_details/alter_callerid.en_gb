@@ -1,0 +1,11 @@
+$VAR1 = {
+    'T_TEXT_TO_ADD' => 'Добавить текст',
+    'T_ALTER_METHOD' => 'Alter Method',
+    'T_VARIABLE3' => '(переменная)',
+    'T_PART_OF_THE_CAL' => 'Part of the caller ID alter',
+    'T_CALLER_ID_NUMBER' => 'АОН',
+    'T_CALLER_ID_NAME' => 'АОН',
+    'T_PREPEND' => 'подставить',
+    'T_APPEND' => 'Добавить',
+    'T_REPLACE_WITH' => 'Заменить на'
+};

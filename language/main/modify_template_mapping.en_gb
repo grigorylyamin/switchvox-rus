@@ -1,0 +1,13 @@
+$VAR1 = {
+    'T_A_WAV_FILE_WILL2' => 'WAV файл будет прикреплен к письму, если вы укажете "ДА"',
+    'T_SAVE4' => 'Сохранить',
+    'T_MODIFY_VOICEMAI2' => 'Modify Voicemail Email Template Mapping',
+    'T_NO2' => 'Нет',
+    'T_TEMPLATE5' => 'Шаблон',
+    'T_ATTACH_THE_VOIC2' => 'Прикрепить сообщение голосовой почты к сообщению?',
+    'T_YES2' => 'Да',
+    'T_EMAIL7' => 'Email',
+    '__INCLUDES' => [
+        'incl_header'
+    ]
+};

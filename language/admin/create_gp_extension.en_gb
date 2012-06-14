@@ -1,0 +1,31 @@
+$VAR1 = {
+    '__INCLUDES' => [
+        'incl_header',
+        'js_list_movement',
+        'edition/incl_intercom_javascript_show_groups',
+        'edition/incl_intercom_auth_radio',
+        'edition/incl_intercom_auth_groups',
+        'edition/incl_intercom_user_radio',
+        'edition/incl_intercom_user_groups',
+        'edition/incl_intercom_javascript_show_groups'
+    ],
+    'T_GROUP_PICKUP_ME' => 'Пользователи группового перехвата',
+    'T_GROUP_PICKUP_US' => 'Пользователи и администраторы группового перехвата',
+    'T_GROUP_THAT_IS_A' => 'Авторизованные добавочные для использования добавочного группового перехвата',
+    'T_CONSTRAINT' => 'цифр в длину',
+    'T_CREATE_GROUP2' => 'Создать новую группу',
+    'T_NO_GROUPS_IN_TH' => 'Еще не создано ни одной группы',
+    'T_WHAT_IS_A_GROU' => 'What is a group pickup extension?',
+    'T_MODIFY_EXTENSIO' => 'Модифицировать добавочный номер',
+    'T_CREATE_EXTENSIO' => 'Создать добавочный номер',
+    'T_GROUP_PICKUP_SE' => 'Group Pickup Settings',
+    'T_DGP' => 'Group Pickup Extension',
+    'T_GROUP_THAT_WILL' => 'Extensions that will be picked up',
+    'T_ALL_AVAILABLE_A9' => 'Все доступные эккаунты',
+    'T_CREATE_GROUP1' => 'Создать номую группу',
+    'T_GROUP_PICKUP_AD' => 'Group Pickup Admins',
+    'T_CREATE_TITLE' => 'Create Meet Me Conference Center Extension',
+    'T_MODIFY_TITLE' => 'Modify Meet Me Conference Center Extension',
+    'T_ADD_MEMBER' => 'Добавить участника',
+    'T_REMOVE_MEMBER' => 'Удалить участника'
+};

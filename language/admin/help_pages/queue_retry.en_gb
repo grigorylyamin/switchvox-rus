@@ -1,0 +1,20 @@
+##This file was auto generated##
+my $LANG =
+{
+
+T_QUEUE_RETRY => q( 
+<em>Seconds to Wait Between Members</em> is the time (in seconds)
+to wait between attempts at reaching a member of a queue.
+),
+
+T_THINGS_TO_NOTE	=> 'Note',
+
+T_LOW_NUMBER => q(
+
+If you set this to a low number and have a large ring all queue, or a queue
+where no one is logged in, there is a potential for system performance issues.
+This is because the system will continuously, and quickly attempt to find someone
+to answer the queue call. Unless you have a specific reason for doing so, it is recommended
+to leave this value at the default of 5.
+),
+};

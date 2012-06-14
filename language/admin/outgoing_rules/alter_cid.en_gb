@@ -1,0 +1,8 @@
+$VAR1 = {
+    'T_ANY_OUTGOING_RU' => 'Any Outgoing Rule Excluding Peers',
+    'T_CHANGE_THEIR_CA' => 'поменять их АОНы на',
+    'T_ANY_RULE' => 'Любое исходящее правило',
+    'T_WHEN_EXTENSION' => 'Когда добавочный номер',
+    'T_AND_THEIR_CAL' => 'и их АОН на',
+    'T_IS_MAKING_AN_O' => 'производит исходящий вызов по правилу'
+};

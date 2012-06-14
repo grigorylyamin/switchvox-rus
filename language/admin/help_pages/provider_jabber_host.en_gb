@@ -1,0 +1,12 @@
+##This file was auto generated##
+my $LANG =
+{
+
+T_JABBER_HOST_DESC => q( 
+The Jabber Hostname of this peered PBX must be entered here for status 
+information to be correctly obtained. You can find the Jabber hostname in the 
+Network Settings page of the peered PBX.
+),
+
+
+};

@@ -1,0 +1,20 @@
+$VAR1 = {
+    '__INCLUDES' => [
+        'common/incl_help_header',
+        'common/incl_help_footer'
+    ],
+    'T_YOUR_EXTERNAL' => 'Your external ip is the public IP Address of your router.  Note that
+this will only work if you are forwarding the necessary ports from the
+public IP of your router back to your PBX.  Any SIP phones you use
+outside of your network must use this external IP for registration.',
+    'T_THIS_OPTION_IS5' => 'This option is used in conjuction with NAT Port Forwarding.  This will
+allow phones to send and receive calls to their extension from a remote
+network.',
+    'T_NOTE16' => 'ЗАМЕТКА',
+    'T__YOU_CANNOT_US' => ': You cannot use this feature if your ISP 
+does not give you a static external IP address.  Check with your
+ISP to make sure that the public IP you enter in this option will
+not change.  If you do not have a static public IP, you will only be
+able to use phones from within your local network.',
+    'T_IF_YOU_ARE_UNS2' => 'Если вы не знаете наверняка, какой у вас публиный IP адрес, вы можете кликнуть на Определить внешний IP, чтобы автоматически определить его.'
+};

@@ -1,0 +1,21 @@
+$VAR1 = {
+    '__INCLUDES' => [
+        'incl_header'
+    ],
+    'T_WHICH_ACTION_SH' => 'Which action should it start playing?',
+    'T_CREATE_IVR_TITLE' => 'Создать добавочный номер IVR',
+    'T_MODIFY_IVR_TITLE' => 'Изменить добавочный номер IVR',
+    'T_ALWAYS_CONTEXT' => 'Начало меню IVR',
+    'T_CONTEXT_ENTRY_P' => 'Точка входа меню IVR',
+    'PE_CHOOSE_ACTION' => 'You must choose a valid IVR starting action.',
+    'T_CREATE_EXTENSIO' => 'Создать добавочный номер',
+    'T_CONTEXT_NAME' => 'Название меню IVR',
+    'T_CHOOSE_CONTEXT' => 'Вы должны выбрать действующее меню IVR или создать новое, используя редактор IVR. ',
+    'PE_CHOOSE_CONTEXT' => 'Вы должны выбрать действующее меню IVR.',
+    'T_WHAT_DOES_THIS' => 'Что это означает?',
+    'T_WHICH_IVR_SHOUL' => 'Which IVR should this extension play?',
+    'T_CAN_IVR_DIAL' => 'Этот добавочный может быть набран из IVR.',
+    'T_DIGITS_IN_LENGT6' => 'цифр в длину',
+    'T_MODIFY_EXTENSIO' => 'Модифицировать добавочный номер',
+    'T_IVR_EXTENSION' => 'Добавочный номер IVR'
+};

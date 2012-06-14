@@ -1,0 +1,18 @@
+$VAR1 = {
+    '__INCLUDES' => [
+        'common/incl_help_header',
+        'common/incl_help_footer'
+    ],
+    'T_ALLOWS_AN_EXTE3' => 'Позволяет добавочному номеру безмолвно прослушивать текущий вызов другого добавочного из его телефонной книги.',
+    'T_THE_EXTENSION_P' => 'The extension permissions section allows the admin to grant certain extensions the right to perform actions on other extensions using the switchboard. These actions include:',
+    'T_ALLOWS_AN_EXTE' => 'Allows an extension to view the caller id information of 
+another extension\\'s current call from their phonebook.',
+    'T_CAN_PICKUP_RING' => 'Может перехватывать звонки',
+    'T_ALLOWS_AN_EXTE4' => 'Позволяет добавочному номеру отвечать на звонок, адресованный другому добавочному номеру, из его телефонной книги.',
+    'T_CAN_MONITOR_CAL' => 'Может отслеживать звонки',
+    'T_CAN_RECORD_CALL' => 'Может записывать звонки',
+    'T_ALLOWS_AN_EXTE5' => 'Позволяет добавочному номеру инифиировать интерком соединение с другим добавочным номером.',
+    'T_CAN_VIEW_CALLS' => 'Может просматривать звонки',
+    'T_CAN_INTERCOM' => 'Может использовать интерком',
+    'T_ALLOWS_AN_EXTE2' => 'Позволяет добавочному номеру записывать текущий звонок другого добавочного номера из его телефонной книги.'
+};

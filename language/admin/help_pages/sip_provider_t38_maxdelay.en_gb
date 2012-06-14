@@ -1,0 +1,10 @@
+$VAR1 = {
+    'T_MAXIMUM_EXPEC' => 'Maximum expected T38 packet delay in milliseconds.
+        The result of this specification is that all T38 packets are padded to prepare the fax stack for the specified delay.
+        As long as the packet delay is less than or equal to the specified value, the fax stack will not realize that there is an actual packet delay because of the packet padding.
+        The default value of 800 milliseconds should cover most use cases.',
+    '__INCLUDES' => [
+        'common/incl_help_header',
+        'common/incl_help_footer'
+    ]
+};

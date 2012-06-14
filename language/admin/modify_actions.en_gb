@@ -1,0 +1,11 @@
+$VAR1 = {
+    'T_NBSPFINAL' => 'Конечное правило',
+    'T_ADD_NEW_ACTION' => 'Создать действие IVR',
+    'T_LISTEN_FOR_OPTI' => 'Прослушайте опции',
+    'T_BACK_TO_THE_IV' => 'Назад в Редактор IVR',
+    'T_MODIFY_ACTIONS' => 'Изменить действие',
+    '__INCLUDES' => [
+        'incl_header',
+        '../common/incl_table'
+    ]
+};

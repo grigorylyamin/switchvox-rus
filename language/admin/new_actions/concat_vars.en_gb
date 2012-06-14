@@ -1,0 +1,26 @@
+$VAR1 = {
+    '__INCLUDES' => [
+        'new_actions/incl_back_button',
+        'new_actions/incl_button'
+    ],
+    'T_JOB_ID6' => 'JOB_ID',
+    'T_VARIABLE_CONCAT' => 'Variable Concatenation',
+    'T_CLICK_BUTTON_TO4' => 'Click button to add the selected variable enclosed with %'s to your variable concatenation.',
+    'T_CLICK_BUTTON_TO3' => 'Click button to add the selected variable enclosed with %'s to your variable concatenation.',
+    'T_IN_THE_INPUT' => 'In the input box above, enter a representation of the concatenation you wish to create. You can add
+        variables to the concatenation by clicking the Append to Concatenation buttons below. You can also concatenate 
+        strings to variables. Variables must be enclosed with %'s. For example. to concatenate the variables VAR1 and VAR2,
+        and the string "test", the input box must contain the following',
+    'T_VAR1VAR2TE' => '%VAR1%%VAR2%test',
+    'T_APPEND_TO_CONCA' => 'Append to Concatenation',
+    'T_POSSIBLE_IVR_VA4' => 'Possible IVR Variables To Concatenate',
+    'T_APPEND_TO_CONCA2' => 'Append to Concatenation',
+    'T_CALLER_ID_NUMBE8' => 'CALLER_ID_NUMBER',
+    'T_CALLER_ID_NAME9' => 'CALLER_ID_NAME',
+    'T_INCOMING_DID8' => 'INCOMING_DID',
+    'T_POSSIBLE_SYSTEM4' => 'Возможные системные переменные для конкатенации',
+    'T_VARIABLE_NAME_F7' => 'Имя переменной для конкатенации',
+    'T_EXAMPLE8' => 'Пример',
+    'T_EXTENSION13' => 'Добавочный',
+    'T_DIALED_NUMBER' => 'DIALED_NUMBER'
+};

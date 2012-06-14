@@ -1,0 +1,16 @@
+$VAR1 = {
+    'T_AN_OUTGOING_C' => 'An outgoing call rule is a dialing pattern and its associated routing information. If a
+rule matches, and the user placing the call is allowed to use that rule, the call will be
+sent via the method selected.',
+    'T_FOR_EXAMPLE_T' => 'For example, the international outgoing call rule is triggered
+whenever a user dials "9011" followed by 7 to 13 digits. Such calls are sent to
+the device you have chosen to handle such calls; like a SIP provider or Channel
+Group. You can create multiple rules that match the same pattern. In such cases, if
+there is a pattern match, whichever rule is higher in the priority list gets called first. If
+that rule fails, and it is not marked as a final rule, the next rule will be called and so
+on.',
+    '__INCLUDES' => [
+        'common/incl_help_header',
+        'common/incl_help_footer'
+    ]
+};

@@ -1,0 +1,9 @@
+$VAR1 = {
+    'T_SEND_TO_VOICEMA6' => 'Отправить в голосовую почту добавочного номера',
+    'T_SELECT_A_VARIAB12' => 'Выберете переменную',
+    'T_EXTENSION_TO_DI2' => 'Набрать добавочный номер',
+    'T__OR22' => '- ИЛИ -',
+    '__INCLUDES' => [
+        'new_actions/incl_button'
+    ]
+};

@@ -1,0 +1,5 @@
+$VAR1 = {
+    'T_DTMF_DIGITS_TO' => 'Проиграть цифры DTMF',
+    'T_ACTION_TYPE25' => 'Тип действия',
+    'T_VARIABLE22' => '(переменная)'
+};

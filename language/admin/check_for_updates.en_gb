@@ -1,0 +1,15 @@
+$VAR1 = {
+    'T_UPLOAD' => 'Загрузить',
+    'T_WARNING' => 'ПРЕДУПРЕЖДЕНИЕ',
+    'T_APPLY_THIS_UPDA' => 'Применить это обновление',
+    'T_MORE_INFO' => 'больше информации...',
+    'T_CHECK_ERR' => 'При проверке обновлений возникла ошибка. Убедитесь, что ваша АТС подключена к интернету.',
+    'T_UPDATING_YOUR' => 'Updating your system will result in an automatic software restart of your phone system. Any current phone connections will be dropped and any agents logged in will be logged out of their respective queues.',
+    'T_OBSOLETE_UPDATE' => 'Obsolete Updates',
+    'T_APPLY' => 'Применить',
+    'T_ERROR11' => 'ОШИБКА',
+    'T_UPDATE' => 'Обновление',
+    'T_UPLOAD_UPDATE_F' => 'Загрузить файл обновления',
+    'T_DESCRIPTION7' => 'Описание',
+    'T_NO_UPDATES_JACK_666' => 'Нет доступных обновлений для вашей системы.'
+};

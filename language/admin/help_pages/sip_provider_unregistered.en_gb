@@ -1,0 +1,12 @@
+$VAR1 = {
+    'T_UNREGISTERED_S' => 'Состояние незарегистрирован.',
+    'T_MAKE_SURE_YOUR5' => 'Make sure your SIP provider host name is entered correctly and your phone system can resolve the host name. If your host is wrong you might want to check your error log for any Warnings that tell you of a bad host. Example: "No such host: swtichvox.com" or "Unable to lookup \\'swtichvox.com\\'".',
+    'T_WHY_SIP_PROVIDE3' => 'Почему SIP провайдер может быть',
+    'T_CHECK_YOUR_INTE2' => 'Check your Internet connection. If your phone system does not have access to the Internet then it can not properly connect to your SIP provider.',
+    'T_MAKE_SURE_YOU_E2' => 'Убедитесь, что вы верно ввели номер вашего провайдера или пароль.',
+    'T_AN2' => 'an',
+    '__INCLUDES' => [
+        'common/incl_help_header',
+        'common/incl_help_footer'
+    ]
+};

@@ -1,0 +1,7 @@
+$VAR1 = {
+    'T_THIS_IS_THE_VAL' => 'This is the value that is sent to the phone for an intercom call in the alert info header. It is not recommended that this valued be changed from the default of Intercom.',
+    '__INCLUDES' => [
+        'common/incl_help_header',
+        'common/incl_help_footer'
+    ]
+};

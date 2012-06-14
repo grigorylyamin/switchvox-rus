@@ -1,0 +1,8 @@
+$VAR1 = {
+    'T_NOTE_YOU_CAN' => 'Note: You can change the default sound of the position announcement by changing the Announcement sounds below. This is useful if you want to say a custom message to the user that is more useful.',
+    'T_WHEN_ANNOUNCE_P' => 'When Announce Position in Queue is set to "yes" this will announce the caller\\'s position in the queue when they first enter and also repeat this announcement every certain amount of seconds depending on your Announce Frequency setting. To not announce this information to the caller you can set the value to "no" and they will go straight to on-hold music.',
+    '__INCLUDES' => [
+        'common/incl_help_header',
+        'common/incl_help_footer'
+    ]
+};

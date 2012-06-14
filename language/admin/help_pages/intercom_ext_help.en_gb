@@ -1,0 +1,8 @@
+$VAR1 = {
+    'T_INTERCOMPAGING' => 'Интерком/Пэйджинг',
+    'T_THIS_EXTENSION3' => 'This extension type is used to make an announcement over the speakerphone on a group of phones. Targeted phones will not ring, but answer immediately into speaker-phone mode.  Note that the use of this extension type is dependent on a compatible and correctly configured handset.  This extension type allows you to define which phones participate in the paging group, as well as who is allowed to dial it.',
+    '__INCLUDES' => [
+        'common/incl_help_header',
+        'common/incl_help_footer'
+    ]
+};

@@ -1,0 +1,11 @@
+$VAR1 = {
+    '__INCLUDES' => [
+        'common/incl_help_header',
+        'common/incl_help_footer'
+    ],
+    'T_IMPORTANT2' => 'Важно',
+    'T_RECORDED_CALLS5' => 'Recorded calls can also be removed from the system if you decrease the maximum number/size of calls to keep around past the number currently stored on the system.',
+    'T_HOW_LONG_DO_YO' => 'Как долго вы хотите хранить записи?',
+    'T_THIS_SECTION' => 'This section lets you define the maximum number of recorded calls to store on the system for a recording job. After the maximum number of calls or the maximum size in megabytes has been reached the system will automatically prune the oldest recorded calls.',
+    'T_EXAMPLE_YOU_C' => 'Example: You create a recording job and choose to "Keep around the last 100 calls". A month goes by and you have 75 recorded calls on the system due to this recording job. You decide to modify the recording job and choose to only keep around 50 calls on the system. The result is that 25 of your oldest recordings will be removed.'
+};

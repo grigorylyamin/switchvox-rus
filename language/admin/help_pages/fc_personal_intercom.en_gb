@@ -1,0 +1,12 @@
+$VAR1 = {
+    '__INCLUDES' => [
+        'common/incl_help_header',
+        'common/incl_help_footer'
+    ],
+    'T_NOTE14' => 'Заметка',
+    'T_THIS_FEATURE_R2' => 'This feature requires intercom support on the handset receiving the call.',
+    'T_IF_55_IS_THE' => 'If *55 is the intercom feature code, and you dial *55202, you will now be talking over the
+ intercom on extension 202\\'s phone.',
+    'T_THIS_FEATURE_AL' => 'This feature allows an extension, with the correct permissions, to directly dial another extension\\'s intercom.',
+    'T_EXAMPLE4' => 'Пример'
+};

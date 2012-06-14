@@ -1,0 +1,11 @@
+##This file was auto generated##
+my $LANG =
+{
+
+T_IS_SWITCHVOX_DESC => q( 
+If this VOIP Provider is a peered PBX, set this option to 'Yes'. 
+This lets you use advanced functionality with the peered PBX.
+),
+
+
+};

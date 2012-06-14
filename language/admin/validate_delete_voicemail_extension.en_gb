@@ -1,0 +1,8 @@
+$VAR1 = {
+    'T_WITHOUT_AT_LEAS' => 'Without at least one voicemail extension users will not be able to check their voicemail.',
+    'T_YES_DELETE_EXT' => 'Да, удалить добавочный номер',
+    'T_ARE_YOU_SURE_YO' => 'Вы уверены, что хотите навсегда удалить добавочный номер Meet Me конференции',
+    '__INCLUDES' => [
+        'incl_header'
+    ]
+};

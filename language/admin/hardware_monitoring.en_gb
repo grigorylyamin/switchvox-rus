@@ -1,0 +1,19 @@
+$VAR1 = {
+    '__INCLUDES' => [
+        'incl_header'
+    ],
+    'T_NBSPGOODNBSP' => 'Хороший',
+    'T_CURRENT_STAT' => 'Текущий статус',
+    'T_AN_ALERT_HAS_NO' => 'Тревога не была отправлена.',
+    'T_AND_ALERT_HAS_B' => 'Тревога была отправлена.',
+    'T_NBSPOVER_THRE' => 'Over Threshold!',
+    'T_LAST_UPDATED' => 'Последнее обновление',
+    'T_HIDE_ADVANCED_H' => 'Спрятать расширенную информацию об оборудовании',
+    'T_SHOW_ADVANCED_H' => 'Показать расширенную информацию об оборудовании',
+    'T_THRESHOLD' => 'Threshold',
+    'T_CURRENT_STAT2' => 'Значение текущего статуса',
+    'T_MEMORY' => 'память',
+    'T_DISK' => 'диск',
+    'T_LOAD' => 'загрузить',
+    'T_SERVER_INFORMATION' => 'Информация о сервере'
+};

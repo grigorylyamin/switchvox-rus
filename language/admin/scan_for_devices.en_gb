@@ -1,0 +1,7 @@
+$VAR1 = {
+    'T_SCANNING_FOR' => 'Scanning for new cards may take a few seconds, please be patient and do not refresh this page.',
+    'T_TITLE' => 'Проверка обновления',
+    '__INCLUDES' => [
+        'incl_header'
+    ]
+};

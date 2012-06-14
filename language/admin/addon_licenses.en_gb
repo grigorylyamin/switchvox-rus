@@ -1,0 +1,8 @@
+$VAR1 = {
+    '__INCLUDES' => [
+        'incl_header',
+        'brand/incl_check_for_addons'
+    ],
+    'T_TO_CHECK_FOR_ADDONS' => 'Пройдите на наш вебсайт, чтобы увидеть, какие дополнительные продукты доступны для системы Свитчвокс',
+    'T_ADDON_TITLE' => 'Дополнительные продукты Digium'
+};

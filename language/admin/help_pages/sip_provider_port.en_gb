@@ -1,0 +1,9 @@
+$VAR1 = {
+    'T_THIS_IS_THE_UD' => 'This is the UDP port used to communicate with the remote SIP provider.
+If you are unsure, leave this set to 5060, the standard port for SIP
+communication.  It is very rare to use a port other than 5060.',
+    '__INCLUDES' => [
+        'common/incl_help_header',
+        'common/incl_help_footer'
+    ]
+};

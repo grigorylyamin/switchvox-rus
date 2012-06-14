@@ -1,0 +1,7 @@
+$VAR1 = {
+    'T_ERROR_CORRECTI2' => 'Error Correction Mode (ECM) для факсов G711. По умолчанию эта функция включена.',
+    '__INCLUDES' => [
+        'common/incl_help_header',
+        'common/incl_help_footer'
+    ]
+};

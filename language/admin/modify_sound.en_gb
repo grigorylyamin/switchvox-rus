@@ -1,0 +1,27 @@
+$VAR1 = {
+    'T_UPDATE_A_SOUND' => 'Обновить звук',
+    'T_RECORD_OVER_PHO4' => 'Записать по телефону',
+    'T_UPLOAD_FILE8' => 'Загрузить файл',
+    'T_CLOSE3' => 'Закрыть',
+    'T_NO_SND_CE_LANG_JACK666' => 'Для данного языка звук отсутствует.',
+    'T__DEFAULT_LANGU2' => '*язык по умочанию',
+    'T_YOUR_PHONE' => 'Ваш телефон должен сейчас звонить.',
+    'T_PLEASE_ANSW2' => 'Пожалуйста, ответьте на звонок, чтобы услышить звук.',
+    'T_CANCEL25' => 'Отменить',
+    'T_GO8' => 'Перейти',
+    'T_EXTENSION8' => 'Добавочные номера для дозвона',
+    'T_LANGUAGE3' => 'Язык',
+    'T_STATUS' => 'Статус',
+    'T_SOUND_INFORMATI' => 'Информация о звуке',
+    'T_SOUND_PACK2' => 'Пакет звуков',
+    'T_DESCRIPTION3' => 'Описание',
+    'T_NAME10' => 'Название',
+    'T_ACTIVE' => 'Активный',
+    'T_ACTIONS' => 'Действия',
+    'T_INACTIVE' => 'Неактивный',
+    'T_EMPTY12' => 'Пустой',
+    '__INCLUDES' => [
+        'incl_header',
+        '../common/incl_dhtml_window_popup'
+    ]
+};

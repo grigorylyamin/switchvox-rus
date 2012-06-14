@@ -1,0 +1,11 @@
+$VAR1 = {
+    'T_EXTENSION2' => 'Добавочный',
+    'T_HEAD_HELP' => 'помощь',
+    'T_WARNING3' => 'Предупреждение',
+    'T_ERROR5' => 'Ошибка',
+    'T_LOGOUT' => 'Выход',
+    'T_SERVER_IS_OFFLI2' => 'Сервер отключен - обратитесь к администратору',
+    '__INCLUDES' => [
+        'edition/incl_header_switchboard'
+    ]
+};

@@ -1,0 +1,16 @@
+$VAR1 = {
+    '__INCLUDES' => [
+        'new_actions/incl_button',
+        'new_actions/incl_missing_digit_variables'
+    ],
+    'T_U' => 'Использовать текст из этой переменной',
+    'T_APPEND' => 'Добавить',
+    'T_CALLER_ID_NUMBE3' => 'Номер ID звонящего',
+    'T_HOW_DO_YOU_WANT' => 'Как вы хотите изменить ID звонящего?',
+    'T_CALLER_ID_NAME4' => 'Номер ID звонящего',
+    'T_PREPEND' => 'подставить',
+    'T_REPLACE_WITH' => 'Заменить на',
+    'T_WHICH_PART_OF_T' => 'Какую часть ID звонящего вы хотите изменить?',
+    'T_USE_THIS_T' => 'Используйте этот текст, чтобы изменить ID звонящего',
+    'T__OR6' => '- ИЛИ -'
+};

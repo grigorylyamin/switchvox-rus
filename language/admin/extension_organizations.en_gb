@@ -1,0 +1,23 @@
+$VAR1 = {
+    '__INCLUDES' => [
+        'incl_header',
+        '../common/incl_table'
+    ],
+    'OG_TFD_DELETE_DISABLED' => 'Это системная организация, она не может быть удалена',
+    'OG_E_MISSING_GNAME' => 'Missing Organization Name value in function: create_extension_organization',
+    'OG_TD_DATE_CREATED' => 'Созданные данные',
+    'OG_SM_DELETED_ORG' => 'Организация добавочного номера успешно удалена.',
+    'OG_BT_CREATE_ORG' => 'Create Extension Organization',
+    'OG_TB_MODIFY' => 'Изменить',
+    'COG_SM_CREATED_ORG' => 'Successfully created your extension organization.',
+    'MOG_E_WRONG_ACTION' => 'Invalid action passed to Modify Extension Organization.',
+    'OG_ND_NO_ORGS' => 'В данный момент в вашей системе нет ни одной организации.',
+    'OG_TD_EXT_DELETE' => 'Удалить',
+    'OG_TD_EXT_ORGS_ID' => 'ID',
+    'OG_TD_EXT_MODIFY' => 'Изменить',
+    'OG_T_PAGE_DESC' => 'Create, modify, and delete extension organizations to help to streamline the administration of extensions on your PBX.',
+    'OG_TD_ORG_NAME' => 'Название организации',
+    'OG_TD_MEMBER_COUNT' => 'Участники',
+    'OG_TB_DELETE' => 'Удалить',
+    'OG_TN_TABLE_TITLE' => 'Extension Organizations'
+};

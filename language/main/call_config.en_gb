@@ -1,0 +1,7 @@
+$VAR1 = {
+    '__INCLUDES' => [
+        'incl_header'
+    ],
+    'T_SET_UP_YOUR_PH' => 'Set up your Phonebook to make it easier to call those you need to reach most. Additionally, you will be able to see who on your list is on the phone when you use the Switchboard- handy when you wouldn't like to interrupt them.',
+    'T_USER_TIP4' => 'Пользовательская подсказка'
+};

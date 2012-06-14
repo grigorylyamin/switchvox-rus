@@ -1,0 +1,39 @@
+##This file was auto generated##
+my $LANG =
+{
+T_OVERVIEW => 'Overview',
+T_OVERVIEW_DESC => q(
+<p>
+The 'Record Digits' IVR action records digits pressed by the caller 
+(DTMF tones). The digits are saved in the specified
+IVR variable.
+</p>
+<p>
+Recording stops when the caller presses the pound (#) 
+key, or has pressed the maximum number of digits.
+</p>
+<p>
+The maximum number of digits must be a number from 0 to 255.
+If it is '0', the recording 
+continues until the caller presses #, or presses
+255 digits.
+</p>
+),
+T_IVR_ACTIONS => 'IVR Actions',
+T_IVR_ACTIONS_DESC => q(Most IVR actions can use variables and static values.  If 
+using variable this IVR action will be very important to you as few others can
+set the value of variables.  Record_Digits can set values, Record_Sound can
+set the value of Sound variables(the sound file), Get_Extension_Status, 
+Get_Extension_Type are some others, but most don't set variables, they use them.
+),
+T_SET_GLOBAL => 'Set Global Variable',
+T_SET_GLOBAL_DESC => q(
+This Actions takes the value of a normal IVR Variable and stores it into a Global IVR Variable for use by other IVR Actions
+ in other IVR Menus and calls.
+),
+T_GET_GLOBAL => 'Get Global Variable',
+T_GET_GLOBAL_DESC => q(
+This Actions takes the value of a Global IVR Variable and stores it into a normal IVR Variable for use by the current 
+IVR Menu with the current call.
+),
+};

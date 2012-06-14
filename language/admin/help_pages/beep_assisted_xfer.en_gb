@@ -1,0 +1,7 @@
+$VAR1 = {
+    '__INCLUDES' => [
+        'common/incl_help_header',
+        'common/incl_help_footer'
+    ],
+    'T_WHEN_CHECKED_T' => 'When checked, this option will cause the person receiving an assisted transfer call to hear a beep on the line to notify them that they are now connected to the transferred call.'
+};

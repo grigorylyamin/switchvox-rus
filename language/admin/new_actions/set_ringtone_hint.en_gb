@@ -1,0 +1,10 @@
+$VAR1 = {
+    'T_ABOUT_SET_RINGTONE' => 'More About Distinctive Ring Hints',
+    'T_CREATE_A_NEW_RINGTONE' => 'Create a new Distinctive Ring Hint',
+    'T_USE_VALUE_OF_VAR' => 'Использовать значение переменной',
+    'T_ENTER_A_RINGTONE' => 'Enter a Distinctive Ring Hint manually',
+    '__INCLUDES' => [
+        'new_actions/incl_button',
+        'new_actions/incl_missing_digit_variables'
+    ]
+};

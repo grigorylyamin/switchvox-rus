@@ -1,0 +1,10 @@
+##This file was auto generated##
+my $LANG =
+{
+CUP_ERROR_MSG   		=> "There was a problem pushing the initial configuration to your phone.",
+CUP_ERROR_MANY_MSG		=> "There was a problem designating the selected phones as set for initial configuration.",
+CUP_SUCCESS_MSG			=> "The initial configuration was successfully pushed to your phone.",
+CUP_SUCCESS_MANY_MSG	=> "The checked phones were successfully claimed for initial configuration.",
+CUP_ERR_CHECK_TOKENS	=> "There was a problem determining how many phone configurations you have available on your system.",
+CUP_ERR_NO_TOKENS       => "You do not have enough purchased phone configurations to configure the number of phones you checked. Your current available phone configuration count is ",
+};

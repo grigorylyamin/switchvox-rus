@@ -1,0 +1,18 @@
+$VAR1 = {
+    '__INCLUDES' => [
+        'incl_header'
+    ],
+    'T_DO_NOT_REQUIRE2' => 'Не требует логина и пароля',
+    'T_ALWAYS_PROMPT' => 'Всегда напоминать операторам входить в их добавочные номера',
+    'T_QUEUES_TO_AFFEC' => 'Влияет на эти очереди',
+    'T_LOGINLOGOUT_T' => 'Login/Logout toggle',
+    'T_AFFECT_AL' => 'Влияет на все очереди',
+    'T_DIGITS_IN_LENGT3' => 'цифр в длину',
+    'T_AFFECT_VIRTUAL' => 'Affect virtual extension login/logout status',
+    'T_CREATE_EXTENSIO5' => 'Создать добавочый номер',
+    'T_MODIFY_EXTENSIO4' => 'Изменить добавочый номер',
+    'T_DO_NOT_REQUIRE' => 'Не требует пароль для выхода из системы',
+    'T_EXTENSION' => 'Добавочный номер',
+    'T_AGENT_LOG_IN' => 'Вход для оператора',
+    'T_AGENT_LOG_OUT' => 'Выход для оператора'
+};

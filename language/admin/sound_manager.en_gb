@@ -1,0 +1,29 @@
+$VAR1 = {
+    'T_ADD_NEW2' => 'Создать:',
+    'T_FOLDER2' => 'Папка',
+    'T__DEFAULT_LANGU' => 'язык по умолчанию',
+    'T_SOUND' => 'звук.',
+    'T_SOUND_PACK' => 'Пакет звуков',
+    'T_ALL_SOUND_PACKS' => 'Все пакеты звуков',
+    'T_ALL_SOUNDS' => 'Все звуки',
+    'T_FILES' => 'файлы',
+    'T_DELETE10' => 'Удалить',
+    'T_DELETE_CHECKED' => 'Удалить проверенные',
+    'T_MOVE_CHECKED' => 'Переместить проверенные в папку',
+    'T_WARNING' => 'ПРЕДУПРЕЖДЕНИЕ',
+    'T_LANGUAGE2' => 'Язык',
+    'T_TELL_ME_MORE_A12' => 'Расскажите большео Менеджере звуков',
+    'T_SOUND_MGR' => 'Менеджер звуков',
+    'JFY_CHANGING_THE_DEFAULT' => 'Изменение языка по умолчанию приведет к автоматичкому перезапуску вашей АТС. Все текущие звонки будут сброшены, и все участники очередей выйдут из системы.',
+    'T_CHANGING_DEFAULT_PACK' => 'Activating a sound pack automatically restarts the PBX. All current calls will be dropped, and members will be logged out of their queues.',
+    'T_CREATE_AND_MA' => 'Создавать и управлять записями для IVRов и очередей.',
+    'T_ALL_LANGUAGES' => 'Все языки',
+    'T_ALL_FOLDERS' => 'Все папки',
+    'T_VIEW9' => 'Просмотреть',
+    'T_MOVE_TO' => 'Переместить в',
+    'T_GO5' => 'Перейти',
+    'T_FOLDER_LISTINGS' => 'Списки папок',
+    '__INCLUDES' => [
+        'incl_header'
+    ]
+};

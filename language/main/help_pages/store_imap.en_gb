@@ -1,0 +1,11 @@
+$VAR1 = {
+    'T_DELETE_LOCAL_CO' => 'Удалить локальную копию голосовой почты',
+    'T_IF_THIS_OPTIO' => 'If this option is checked, voicemail messages will not be delivered locally to your IMAP mailbox.  
+This means that you will not be able to check voicemail messages from your phone and no message waiting indicator light will flash.  
+You will only be able to check voicemail messages from the email addresses you specify in this section.',
+    'T_IF_THIS_OPTIO2' => 'If this option is checked and you do not specify any email addresses for voicemail notifications, then you will be unable to check your voicemail messages.',
+    '__INCLUDES' => [
+        'common/incl_help_header',
+        'common/incl_help_footer'
+    ]
+};

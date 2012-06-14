@@ -1,0 +1,19 @@
+$VAR1 = {
+    'T__IF_YOU_ARE_ON2' => '. Если вы пользуетесь одним языком в Свитчвоксе, используйте эту настройку. Для использования другого языка для этих объявлений в данной очереди выберите этот язык',
+    'T_THE_SOUNDFILE2' => 'The sound-file dropdown automatically lists all of the sound files in the Sound Manager\\'s Call Queue folder.',
+    'T_THANK_YOU_THA' => 'Спасибо: Спасибо за ваше терпение',
+    'T_HOLD_TIME_THE' => 'Время ожидания: Установленное время ожидания в данный момент составляет',
+    'T_MINUTES_MINUT' => 'Минуты: Минуты',
+    'T_THERE_ARE_VARI' => 'There are various announcement sounds that are played to the caller when she is waiting in a queue. All of these sounds can be customized for this queue. Each announcement listed here has a description, and a sound-file dropdown to select the sound that plays when this announcement is triggered.',
+    'T_YOU_ARE_NEXT' => 'Вы следующий',
+    'T_CALLS_WAITING' => 'Ожидающие звонки',
+    'T_MAKE_THE_FOLLO' => 'Make the following selections for the accouncements',
+    'T_MANAGE_ANNOUNCE' => 'Управление объявлениями',
+    'T_USE_CALL_LANGUA2' => 'Используйте язык звонка',
+    'T_CALLER_NUMBER' => 'Номер звонящего: в настоящее время вы номер звонящего',
+    'T_LANGUAGE_PLAY' => 'Язык: Проигрывать все объявления звуковых файлов на этом языке. Чтобы использовать язык, установленный для текущего вызова, выберите',
+    '__INCLUDES' => [
+        'common/incl_help_header',
+        'common/incl_help_footer'
+    ]
+};

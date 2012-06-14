@@ -1,0 +1,23 @@
+$VAR1 = {
+    '__INCLUDES' => [
+        'common/incl_help_header',
+        'common/incl_help_footer'
+    ],
+    'T_PBXLOCALHOSTL' => 'pbx@localhost.localdomain',
+    'T_DATE_MON_2' => 'Дата: Понедельник, 20 Июня 2005 14:09:51 -0700 От:',
+    'T_TO_JOE_PHONEU' => 'Кому: Joe Phoneuser',
+    'T_YOU_MAY_NEED_T' => 'You may need to set this field to be a real email address before you
+are able to receive voicemail notification emails.  Some strict mail
+servers will bounce emails appearing from the localhost.localdomain
+domain.',
+    'T_WHEN_YOU_RECEIV' => 'When you receive emails notifying you of new voicemail, they will
+appear to come from this email address.  IE: the address in bold below
+will be changed to the email address you enter in this field',
+    'T_SUBJECT_PBX' => 'Subject: [PBX]: New message 1 in mailbox 201
+
+Dear Joe Phoneuser: 
+
+    You have received a 0:34 long message (number 1)
+in mailbox 201 from "Potential Customer" <555-1212>, 
+on Monday, June 20, 2005 at 02:09:51 PM.'
+};

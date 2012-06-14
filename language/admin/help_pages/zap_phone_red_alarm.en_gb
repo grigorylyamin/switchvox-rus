@@ -1,0 +1,10 @@
+$VAR1 = {
+    'T_WHY_ZAP_LINES_C' => 'Why zap lines could be in',
+    'T_THIS_MEANS_YOU' => 'This means your hardware device is issuing a RED Alarm or a LOS (Loss of Signal) on the current line. This generally means that your phone is not plugged into the device\\'s line or that your device is having signaling problems on the line.',
+    'T_A_MORE_TECHNIC' => 'A more technical explanation of why a Red Alarm occurs is that the incoming signal amplitude is, for a time duration of at least 1 ms, more than 20 dB below the nominal amplitude. When this happens the equipment shall react within 12 ms by issuing AIS (alarm indication signal).',
+    'T_RED_ALARM_STAT' => 'Состояние красной тревоги.',
+    '__INCLUDES' => [
+        'common/incl_help_header',
+        'common/incl_help_footer'
+    ]
+};

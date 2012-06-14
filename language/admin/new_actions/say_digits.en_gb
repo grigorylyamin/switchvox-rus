@@ -1,0 +1,9 @@
+$VAR1 = {
+    'T_ENTER_IN_DIGITS' => 'Введите по цифрам вручную',
+    'T_DIGITS_TO_SAY' => 'Проговорить цифры',
+    'T_SELECT_A_VARIAB4' => 'Выберите переменную',
+    'T__OR11' => '- ИЛИ -',
+    '__INCLUDES' => [
+        'new_actions/incl_button'
+    ]
+};

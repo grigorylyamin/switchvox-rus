@@ -1,0 +1,32 @@
+$VAR1 = {
+    'T_CALLER_ID_NAME10' => 'CALLER_ID_NAME',
+    'T_APPEND7' => 'Добавить',
+    'T_IN_THE_URL_FIE3' => 'В поле URL введите полное имя URL к звуковому файлу, который Вы желаете проиграть. Это должен быть WAV файл. URL может быть статичным или динамичным. Динамичный URL нуждается в параметрах, в предыдущем переданном IVR.',
+    'T_APPEND6' => 'Добавить',
+    'T_POSSIBLE_IVR_VA5' => 'Возможные лдля использования переменные IVR:',
+    'T_EXAMPLE_23' => 'Пример 2',
+    'T_CLICK_APPEND_TO6' => 'Кликните Добавить для добавления выбранных переменных с %'s в Ваш URL',
+    'T_WHAT_IS_AN_INT3' => 'Что такое прерываемый звук?',
+    'T_JOB_ID7' => 'JOB_ID',
+    'T_HOW_DO_I_USE_T4' => 'Как использовать эту страницу?',
+    'T_URL4' => 'URL:',
+    'T_CALLER_ID_NUMBE9' => 'CALLER_ID_NUMBER',
+    'T_THIS_SOUND_IS_I2' => 'Непрерываемый звук',
+    'T_HTTPWWWMYD3' => 'http://www.example.com/great_sound93.wav',
+    'T_CLICKING_APPE2' => 'Clicking "Append" below will append the selected variable names to the URL input field.  
+The variable names will appear enclosed with %'s.  When the URL is requested the 
+%'s and variable names will be replaced with the variable values.',
+    'T_INCOMING_DID9' => 'Входящий_DID',
+    'T_POSSIBLE_SYSTEM5' => 'Возможные для использования системные переменные:',
+    'T_URL_BASESOU' => 'http://www.example.com/play.cgi?name=%customer_name%',
+    'T_EXTENSION14' => 'добавочный номер=104',
+    'T_CLICK_APPEND_TO5' => 'Кликните Добавить, чтобы добавить выбранную переменную, обрамленную знаками %, к вашему URL',
+    'T_EXAMPLE_14' => 'Пример 1',
+    'T_DIALED_NUMBER' => 'DIALED_NUMBER',
+    'T_URL_SETTINGS' => 'Настройки URL',
+    'T_SOUND_SETTINGS' => 'Настройки звуков',
+    '__INCLUDES' => [
+        'new_actions/lwp_timeout',
+        'new_actions/incl_button'
+    ]
+};

@@ -1,0 +1,15 @@
+$VAR1 = {
+    '__INCLUDES' => [
+        'new_actions/incl_back_button',
+        'new_actions/incl_button'
+    ],
+    'T_DOES_NOT_EQUAL' => 'Не равен',
+    'T_IS_LESS_THAN' => 'Меньше, чем',
+    'T_AT_ENTRY_POINT' => 'Точка входа',
+    'T_IF' => 'если',
+    'T_IS_GREATER_THAN' => 'Больше, чем',
+    'T_IVR_MENU_BEGINN3' => 'Начало меню IVR',
+    'T_THEN_GO_TO_IVR' => 'Затем пройти в меню IVR',
+    'T11' => 'More About Conditional Clause',
+    'T_EQUALS' => 'Равен'
+};

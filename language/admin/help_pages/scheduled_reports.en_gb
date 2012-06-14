@@ -1,0 +1,14 @@
+$VAR1 = {
+    'T_EVERY_TWO_MONTH' => 'Every two months get a report that tracks which hour of the day your company gets the most calls. These stats could help organize work schedules to better match your company\\'s call load.',
+    'T_EVERY_HOUR_GET' => 'Every hour get a report of the total number of incoming calls per queue on the system starting from the beginning of the day. As the day progresses a queue manager will be able to monitor which queue is getting the most calls and assign resources if needed.',
+    'T_AT_THE_END_OF_E' => 'At the end of each day have a report containing the total number of outgoings calls made by each member of the sales teams. This allows the sales manager to find out which member of his team is making the highest volume of outgoing sales calls.',
+    'T_INSTEAD_OF_HAV' => 'Instead of having to login to the administration interface and running a report manually, an admin can setup a report to run on a recurring basis. 
+After the reports run, the results will be automatically emailed to an email address entered by the admin. 
+Having reports emailed to you on a regular basis helps you keep track of important call statistics and have reports easily available in your inbox.',
+    'T_BELOW_ARE_SOME' => 'Ниже представлены несколько примеров отчетов, которые вы можете запустить для вашей компании',
+    'T_EACH_FRIDAY_GET' => 'Each Friday get a report about the number of calls answered by each tech support representative. This might help a tech support manager give a bonus the hardest working tech support representative that answered the most calls each week.',
+    '__INCLUDES' => [
+        'common/incl_help_header',
+        'common/incl_help_footer'
+    ]
+};

@@ -1,0 +1,10 @@
+$VAR1 = {
+    'PSO_PHONE_SETUP_OPTIONS' => 'Опции настроек телефона',
+    'PSO_ALT_HOST_OPT' => 'Alternate Host Default Option',
+    'PSO_SEC_OPT' => 'Опции безопасности',
+    'PSO_DIGIT_MAP_OPTS' => 'Digit Map Options',
+    'PSO_NTP_OPTS' => 'Опция NTP',
+    'PSO_PHONE_DISCOVERY_OPTS' => 'Опции поиска телефонов',
+    'PSO_DIGIT_MAP_OPTIONS_DESC' => 'These values will be used to generate the digit map for your phones. Most setups will not require that you change any values here. Please consult your manual or customer support before changing any of these options.',
+    'PSO_CUST_DM_DESC' => 'If you wish to specify a custom digit map to use with your phones, you may enter it below. (Leave this blank if you are unsure.)'
+};

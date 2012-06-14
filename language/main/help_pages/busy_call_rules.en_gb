@@ -1,0 +1,16 @@
+$VAR1 = {
+    '__INCLUDES' => [
+        'common/incl_help_header',
+        'common/incl_help_footer'
+    ],
+    'T_SEND_TO_VOICEMA2' => 'Отправить на голосовую почту - Это правило будет отправлять неотвеченные звонки в ваш ящик голосовой почты.',
+    'T_RING_ALL_THIS2' => 'Звонить всем - Это правило позволяет определить до 3 дополнительных добавочных номеров, которые будут звонить одновременно.',
+    'T_TIP' => 'Подсказка',
+    'T_TEST_THE_BEHAV' => 'Test the behavior of your busy calls by calling your extension from another phone to ensure that it is ringing as you intended.',
+    'T_TYPES_OF_BUSY' => 'Типы правил звонков по занято',
+    'T_SECRET_CODE_TH2' => 'Секретный код - Это правило не пропустит ни одного вызова пока, абонент не введет секретный код.',
+    'T_BUSY_CALL_RULE' => 'Busy Call Rules can be put into effect for only callers that dial your extension directly, only callers that reach your extension via a call queue, or for both types of calls. Busy Call Rules can also be applied during specific periods of time, known as Time Frames. Rules can be re-ordered by using the green up and down arrow buttons to alter the behavior of your unanswered calls.',
+    'T_CALL_CASCADE_T2' => 'Call Cascade- This rule allows you to send an unsanswered call out to another extension or external phone (like your mobile phone). Be sure to add a "9", or any other necessary digits that you need to dial "out", to the beginning of the phone number if you are cascading to an external phone.  Call cascade allows that call to return to the next rule in the list, if that phone also remains unanswered. This means you can stack call cascade rules on top of each other in order to have your calls "follow you" to different phones, but collect all your voicemail in your extension's mailbox if you don't pick up any of the phones.',
+    'T_USE_BUSY_CALL_R' => 'Use Busy Call Rules to customize how your extension behaves when you are currently on the phone. Do you want callers to be directed to your voicemail box? Do you want the caller to be transfered to another extension? Create and stack rules to suit your individual needs.',
+    'T_CALL_FORWARD_T2' => 'Call Forward- This rule will send unanswered calls to another extension, keep in mind that the extension that you forward callers to can be another phone, a call queue, or any other type of extension on the system. Once a call is forwarded to another extension, the unanswered call rules for that new extension will be obeyed.'
+};

@@ -1,0 +1,22 @@
+$VAR1 = {
+    '__INCLUDES' => [
+        'incl_header'
+    ],
+    'T_CREATE_VM_TEMPLATE' => 'Create Notification Template',
+    'T_MODIFY_VM_TEMPLATE' => 'Modify Notification Template',
+    'T_TEMPLATE_NAME' => 'Название шаблона',
+    'T_SUBJECT2' => 'Тема',
+    'T__RECIPIENTS2' => '- имя и фамилия получателя',
+    'T_RESTORE_TO_ORIG' => 'Восставновить первоначальный шаблон',
+    'T_MODIFY_VOICEMAI3' => 'Сохранить шаблон',
+    'T__A_URL_TO_THE4' => '- ссылка для скачивания сообщения и удаления его из почтового ящика получателя.',
+    'T_YOU_CAN_USE2' => 'Каждая переменная заменяется ее реальным значением, когда письмо отправлено.',
+    'T__THE_DATE_AND2' => '- дата и время, когда было оставлено сообщение',
+    'T__THE_DURATION2' => '- продолжительность сообщения голосовой почты',
+    'T__A_URL_TO_THE3' => '- ссылка для скачивания сообщения',
+    'T__THE_RECIPIEN2' => '- добавочный номер получателя',
+    'T_BELOW_YOU_CAN_T2' => 'Below you can customize the template that is sent to the extension-owner when they recieve a notification.',
+    'T__THE_CALLER_I2' => '- АОН человека, оставившего сообщение',
+    'T_SAVE_TEMPLATE2' => 'Save Notification Template',
+    'T_RESTORE_TEMPLATE' => 'Вы уверены, что хотите восстановить шаблон?'
+};

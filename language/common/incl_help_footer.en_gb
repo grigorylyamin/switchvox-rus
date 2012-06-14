@@ -1,0 +1,5 @@
+$VAR1 = {
+    'T_CLOSE' => 'Закрыть',
+    'T_DIGIUM_INC2' => 'Digium, Inc',
+    'T_COPYRIGHT_COPY2' => 'Copyright &copy; 2010,'
+};

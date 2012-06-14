@@ -1,0 +1,21 @@
+$VAR1 = {
+    'T__OR8' => '- ИЛИ -',
+    'T_SAY_DATE_FROM_A' => 'Проговорить дату из переменной',
+    'T_YES14' => 'Да',
+    'T_SAY_A_PREDEFINE' => 'Проговорить предопределенную даты',
+    'T_YOU_MAY_LEAVE_T' => 'Вы можете оставить время пустым, чтобы проговаривалась только дата.',
+    'T_SAY_THE_CURRENT' => 'Проговаривать текущую дату и время, когда звонок входит в это действие',
+    'T_VARIABLE_MUST_B' => 'Variable must be in epoch time.',
+    'T_PM3' => 'После полудня',
+    'T_AM3' => 'До полудня',
+    'T_AND_TIME' => 'и время',
+    'T_EXAMPLE5' => 'Пример',
+    'T10' => 'Если дата "01/21/2003 19:40" представлена в выбраном формате, она будет проговорена вот так',
+    'T_FORMAT_TO' => 'Формат проговаривания даты',
+    '__INCLUDES' => [
+        'new_actions/incl_button',
+        '../common/incl_calendar_header',
+        'new_actions/incl_tabletitle',
+        'new_actions/incl_missing_digit_variables'
+    ]
+};

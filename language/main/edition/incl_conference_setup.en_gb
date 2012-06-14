@@ -1,0 +1,29 @@
+$VAR1 = {
+    '__INCLUDES' => [
+        'incl_header'
+    ],
+    'T_WHAT_IS_THIS_FO' => 'Что это значит?',
+    'T_ONLY_SOUND' => 'Только звук',
+    'T_TELL_ME_MORE_AB' => 'Узнать больше информации об администраторах',
+    'T_CONFERENCE_ADMI' => 'Администраторы конференций',
+    'T_SAVE_CONFERENCE' => 'Сохранить настройки конференции',
+    'T_YES_DELETE' => 'Да, удалить правило',
+    'T_YOUR_CONFERENCE' => 'Номер вашей конференц комнаты',
+    'T_DELETE_CONFEREN' => 'Удалить конференц комнату',
+    'T_PANEL_SETTINGS' => 'Настройки панели',
+    'T_SOUND_WITH_CALL2' => 'Звук с именем звонящего (опция просмотра пользователя)',
+    'T_HANG_UP_CONFER' => 'Закончить конференцию, когда все администраторы конференции вышли',
+    'T_CANCEL' => 'Отменить',
+    'T_ARE_YOU_SURE' => 'Вы уверены, что хотите окончить этот разговор?',
+    'T_USERS_CAN_NOT' => 'Пользователи не могут говорить до тех пор, пока администратор конференции находится в конференц комнате',
+    'T_EMPTY_WINDOW' => 'Пустое окно',
+    'T_GENERAL_SETTING' => 'Основные настройки',
+    'T_ADMIN_SETTINGS' => 'Настройки администратора',
+    'T_ONLY_ALLOW_CONF' => 'Разрешить разговаривать только администраторам конференций',
+    'T_5_DIGITS' => '5 цифр',
+    'T_ALL_AVAILABLE_A2' => 'Все доступные эккаунты',
+    'T_SOUND_WITH_CALL' => 'Звук с именем звонящего',
+    'T_ADD_MEMBER' => 'Добавить участника',
+    'T_REMOVE_MEMBER' => 'Удалить участника',
+    'T_CLICK_THE_ARROW' => 'Click the arrow to have the system assign you a random unused conference room number.'
+};

@@ -1,0 +1,14 @@
+$VAR1 = {
+    'T_YES_DELETE3' => 'Да, удалить',
+    'T_ARE_YOU_SUR' => 'Вы уверены, что хотите удалить эту группу прав добавочного номера?',
+    'T_SAVE_CHANGES' => 'Сохранить изменения',
+    'T_NO_MAPPINGS' => 'Пока не было сделано ни одного соответствия.',
+    'T_CANCEL_EDIT' => 'Отменить редактирование',
+    'T_CANCEL5' => 'Отменить',
+    'T_SUCCESSFULLY_SA' => 'Ваши изменения группы успешно сохранены',
+    'T_CURRENTLY_EDITI' => 'В настоящее время редактируется',
+    '__INCLUDES' => [
+        '../common/incl_options_object',
+        '../common/incl_dhtml_window_popup'
+    ]
+};

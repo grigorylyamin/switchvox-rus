@@ -1,0 +1,15 @@
+$VAR1 = {
+    'T_RENEW_BUTTON' => 'Обновить мою подписку',
+    'T_ARE_YOU_SURE_Y' => 'Вы действительно хотите продолжить?',
+    'T_UPLOAD' => 'Загрузить',
+    'T_WARNING' => 'ПРЕДУПРЕЖДЕНИЕ',
+    'T_BE' => 'Перед применением обновления, убедитесь, что Вы сделали и загрузили резервную копию системы. Обновление системы сбросит все текущие звонки и временно приостановит прямое функционирование системы.',
+    'T_UPLOAD_UPDATE_F' => 'Загрузить файл обновления',
+    '__INCLUDES' => [
+        'incl_header',
+        'incl_voicemail_migration',
+        'edition/incl_updates_phone_configs',
+        'edition/incl_updates_subscription_expire',
+        '../common/incl_dhtml_window_popup'
+    ]
+};

@@ -1,0 +1,28 @@
+$VAR1 = {
+    'T_HOW_DO_I_USE_T2' => 'Как использовать эту страницу?',
+    'T_YOUR_CGI_URL_A' => 'Ваш CGI URL, указанный выше, должен возвращать XML, содержащий любые переменные и их соответствующие значения. Однако, чтобы в дальнейшем использовать эти переменные в других действиях IVR, вы должны предопределить их ниже.',
+    'T_ENTER_ANY_VARIA' => 'Enter any variable names that will be passed back',
+    'T_IN_THE_URL_FIE' => 'In the URL field above, enter the full URL path to the CGI program that you would like the IVR to pass data to.
+You can add values to be passed to your URL by clicking the "Append" button below.
+This will append the selected variable name to the end of your URL enclosed with %'s, 
+When this URL is submitted the %'s and variable names are replaced with their corresponding values.',
+    'T_HTTPWWWMYD' => 'http://www.mydomain.com/cgi-bin/app.cgi?account=%ACCOUNT%&amp;digits=%PIN%',
+    'T_INCOMING_DID4' => 'INCOMING_DID',
+    'T_APPEND3' => 'Добавить',
+    'T_CLICK_APPEND_TO' => 'Кликните Добавить, чтобы добавить выбранную переменную, обрамленную знаками %, к вашему URL',
+    'T_POSSIBLE_SYSTEM' => 'Возможные системные переменные для отправки:',
+    'T_EXAMPLE6' => 'Пример',
+    'T_EXTENSION9' => 'Добавочный',
+    'T_CLICK_APPEND_TO2' => 'Click Append to add the selected variable enclosed with %'s to your URL',
+    'T_JOB_ID2' => 'JOB_ID',
+    'T_URL2' => 'URL:',
+    'T_APPEND2' => 'Добавить',
+    'T_CALLER_ID_NAME5' => 'CALLER_ID_NAME',
+    'T_CALLER_ID_NUMBE4' => 'CALLER_ID_NUMBER',
+    'T_POSSIBLE_IVR_VA' => 'Отправить возможные переменные IVR:',
+    'T_DIALED_NUMBER' => 'DIALED_NUMBER',
+    '__INCLUDES' => [
+        'new_actions/lwp_timeout',
+        'new_actions/incl_button'
+    ]
+};

@@ -1,0 +1,12 @@
+$VAR1 = {
+    '__INCLUDES' => [
+        'common/incl_help_header',
+        'common/incl_help_footer'
+    ],
+    'T_THIS_IS_THE_DI' => 'This is the digit map that is used for dialing Switchvox extensions. 
+By default, this is the length of the longest extension.',
+    'T_USUALLY_YOU_DO' => 'Usually you do not need to change this setting. However, if you 
+have peered Switchvoxes, this setting should be the length of
+the longest extension found on any of the peers.',
+    'T_EXTENSION_LENGT' => 'Длина добавочного номера'
+};

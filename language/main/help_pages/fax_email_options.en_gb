@@ -1,0 +1,12 @@
+$VAR1 = {
+    '__INCLUDES' => [
+        'common/incl_help_header',
+        'common/incl_help_footer'
+    ],
+    'T_FAX_NOTIFICATIO' => 'Настройки факсовых уведомлений',
+    'T_THIS_LETS_YOU' => 'This lets you set up multiple email addresses 
+for notification that you have received a fax.
+This is useful if you want to be notified at both your 
+work and personal email addresses, or if you want your
+administrative assistant to be notified.'
+};

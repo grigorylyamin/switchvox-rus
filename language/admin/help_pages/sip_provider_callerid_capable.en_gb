@@ -1,0 +1,11 @@
+$VAR1 = {
+    'T_CHANGING_YOUR' => 'Changing your caller id number may cause all outbound calls to fail.
+Before enabling this option, contact your provider to verify that they
+support this feature.',
+    'T_NOTE15' => 'ЗАМЕТКА',
+    'T_IF_YOUR_PROVID' => 'Если ваш провайдер принимает АОНы, использование этой опции позволит вам устанавливать любой АОН, который будет отображаться при исходящих звонках.',
+    '__INCLUDES' => [
+        'common/incl_help_header',
+        'common/incl_help_footer'
+    ]
+};

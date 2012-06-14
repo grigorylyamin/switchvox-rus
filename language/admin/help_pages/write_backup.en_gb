@@ -1,0 +1,40 @@
+$VAR1 = {
+    'T_BUTTON_ON_THE' => 'кнопка на главной странице резервных копий.',
+    'T_ALL_VOICEMAIL2' => 'Все сообщения голосовой почты и факсы сохранены в вашей системе.',
+    'T_ALL_THE_AUDIO2' => 'Все аудио файлы, записанных звонков.',
+    'T_ON_THIS_PAGE' => 'On this page, you can set up a one-time backup. 
+You are given a breakdown of what will be backed up and how much space each backed up item will take. You have the option of whether 
+or not to back up some of the optional items. Make sure the checkbox is checked for any optional items you want backed up. When you are 
+satisfied with your selections, click the "Create Backup" button to begin the backup process.',
+    'T_PBX_CONFIGURATI2' => 'Конфигурация АТС',
+    'T_THE_BEST_PRAC' => 'The \\'best practice\\' for backups is to schedule a daily automatic 
+backup that stores the backup file on an FTP server. To do this, 
+use the',
+    'T_CONFIGURATION3' => 'Конфигирационные файлы телефонной системы.',
+    'T_RSA_AUTHENTICA2' => 'Ключи аутентификации RSA, которые вы могли сохранить для IAX аутентификации.',
+    'T_DATABASE_CONFIG2' => 'Конфигурация базы данных',
+    'T_SOUNDS_SOUND2' => 'Звуки / Пакеты звуков',
+    'T_REQUIRED_ITEMS2' => 'Требуемые пункты',
+    'T_AUDIO_CODECS2' => 'Аудио кодеки',
+    'T_ANY_AUDIO_CODE2' => 'Любые аудио кодеки, которые вы могли установить на вашу систему для проигрывания сжатого аудио.',
+    'T_OPTIONAL_ITEMS2' => 'Дополнительные пункты',
+    'T_VOICEMAIL_AND_F2' => 'Файлы голосовой почты и факсов',
+    'T_SETUP_AUTOMATIC2' => 'Установить автоматические резервные копии',
+    'T_RECORDED_CALLS4' => 'Записанные звонки',
+    'T_CONFIGURATION4' => 'Конфигурационные файлы любых телефонных карт, которые используются в вашей системе.',
+    'T_A_BACKUP_OF_YO2' => 'Резервная копия вашей базы данных во всеми добавочными номерами, очередями звонков, информацией об IVR и др.',
+    'T_MUSIC_ON_HOLD_F2' => 'Файлы музыки на ожидании',
+    'T_THE_SYSTEM_ERR2' => 'Логи системных ошибок.',
+    'T_A_BACKUP_OF_AL2' => 'Резервная копия все звуковых файлов музыки на удержании вашей системы.',
+    'T_HARDWARE_CONFIG2' => 'Конфигурация оборудования',
+    'T_PBX_ERROR_LOGS2' => 'Логи ошибок АТС',
+    'T_ALL_THE_SOUND2' => 'Все звуковые файлы вашей системы.',
+    'T_THIS_PAGE_LETS' => 'Эта страница позволяет создавать резервные копии вашей АТС Свитчвокс.',
+    'T_IAX_RSA_KEYS2' => 'Ключи IAX RSA',
+    'T_IMPORTANT' => 'Важный',
+    'T_BELOW_IS_A_BRE' => 'Below is a breakdown of what the items are',
+    '__INCLUDES' => [
+        'common/incl_help_header',
+        'common/incl_help_footer'
+    ]
+};

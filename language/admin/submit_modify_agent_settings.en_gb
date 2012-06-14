@@ -1,0 +1,6 @@
+my $LANG = {
+SMAS_PE_AUTO_LOG	=> "Seconds Until Auto Log Off must be between 0-999 seconds.",
+SMAS_PE_ACK_CALL	=> "Acknowledge call must be yes or no",
+SMAS_PE_WRAPUP		=> "Wrapup time must be between 0-99 seconds",
+SMAS_PE_MOH_GROUP	=> "You must choose a music on hold group",
+};

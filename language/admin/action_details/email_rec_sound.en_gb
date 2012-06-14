@@ -1,0 +1,9 @@
+$VAR1 = {
+    'T_FROM_EMAIL_ADDR2' => 'От адреса Email',
+    'T_ACTION_TYPE35' => 'Тип действия',
+    'T_EMAIL_SUBJECT3' => 'Тема письма',
+    'T_VARIABLE26' => '(переменная)',
+    'T_YES20' => 'Да',
+    'T_TO_EMAIL_ADDRES' => 'На адрес Email',
+    'T_ATTACH_RECORDED' => 'Вложить записанный звук(и)'
+};

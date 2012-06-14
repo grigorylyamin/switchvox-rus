@@ -1,0 +1,14 @@
+$VAR1 = {
+    'T_OUTGOING_CALL_D2' => 'Диагностикой исходящих вызовов можно воспользоваться, чтобы определить какие правила исходящих вызовов используются и почему.',
+    'T_ENABLING_OUTGO2' => 'Enabling Outgoing Call Diagnostics Mode will automatically read diagnostic information over the phone to all callers from all extensions.',
+    'T_FOR_EXAMPLE_I3' => 'For example, If you were to enable Outgoing Call Diagnostics Mode and then dial an internal extension (800), instead of connecting the call, the system will read back, "You have dialed, eight zero zero. This call will be sent to outgoing rule number seven. This rule will send the call to extension eight zero zero. Press one to attempt this call through rule number seven."',
+    'T_LISTENING_TO_T' => 'Listening to the provided diagnostic information and following the voice prompts should provide enough insight into the path that calls are taking in the system to solve any calling problems or unexpected call behavior taking place in the system.',
+    'T_OCCASIONALLY' => 'Occasionally, calls are not placed using the rules that are expected- i.e., the diagnostic information informs you that the call will be placed over rule number seven, but you intended for the call to be placed over rule number three.',
+    'T_FIRST_MAKE_SU' => 'First, make sure the number that you are dialing matches the pattern for rule number three. The list of rules may be found in the Outgoing Calls tool. If the pattern does not match, your outgoing call will not be connected using that rule.',
+    'T_IF_THE_NUMBER' => 'на номера от',
+    'T_THIS_PARTICULA' => 'This particular example is relatively simple, but as outgoing calls become more complex by trimming or appending digits, altering Caller ID, or matching multiple outgoing call rules, the diagnostic information provided will also become more complex.',
+    '__INCLUDES' => [
+        'common/incl_help_header',
+        'common/incl_help_footer'
+    ]
+};

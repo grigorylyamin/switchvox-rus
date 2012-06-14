@@ -1,0 +1,9 @@
+$VAR1 = {
+    'T_RESTORING_THIS' => 'Restoring this backup will drop all current calls and restart your phone system. All data created since this backup was created will be lost, including extensions and voicemail.',
+    'T_WARNING' => 'ПРЕДУПРЕЖДЕНИЕ',
+    'T_YES_RESTORE_BA' => 'Да, восстановить резервные копии',
+    'T_ARE_YOU_SURE_YO' => 'Вы уверены, что хотите навсегда удалить добавочный номер Meet Me конференции',
+    '__INCLUDES' => [
+        'incl_header'
+    ]
+};

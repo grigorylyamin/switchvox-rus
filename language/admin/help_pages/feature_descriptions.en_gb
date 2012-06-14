@@ -1,0 +1,16 @@
+$VAR1 = {
+    '__INCLUDES' => [
+        'common/incl_help_header',
+        'edition/help_pages/incl_feature_descriptions',
+        'common/incl_help_footer'
+    ],
+    'T_VOICEMAIL_ATTAC' => 'Вложения голосовой почты',
+    'T_WEB_TOOL_ACCESS' => 'Доступ к веб-интерфейсу',
+    'T_BLOCK_CALLS_C' => 'Block Calls - Checking this option allows the user of this extension to set up rules for blocking particular calls by prefix, area code, specific phone numbers, etc.',
+    'T_CASCADE_CALLS' => 'Каскадные звонки',
+    'T_UNPARK_CALLS' => 'Отпарковать звонки',
+    'T_VOICEMAIL_ACCES' => 'Доступ в голосовую почту',
+    'T_FORWARD_CALLS' => 'Forward Calls',
+    'T_SECRET_CODE_A' => 'Secret Code - Allow the user the ability to set up a secret code that can be used to connect calls. Callers that do not key in the secret code will not be connected.',
+    'T_RINGALL_MUCH' => 'Ringall - Much like cascade but rings all phones at once.  E.g.: When a call comes in, ring my desk, cell phone, and house phones all at once.'
+};

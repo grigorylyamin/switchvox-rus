@@ -1,0 +1,4 @@
+$VAR1 = {
+    'T_NOTE29' => 'ЗАМЕТКА',
+    'T_YOU_DO_NOT_HAV' => 'You do not have any valid or open device channels for this phone.  Valid device channels are part of a FXS hardware device and'
+};

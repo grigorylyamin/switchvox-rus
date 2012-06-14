@@ -1,0 +1,19 @@
+$VAR1 = {
+    'T_WORK' => 'Работа',
+    'T_FRIENDS' => 'Друзья',
+    'T_EXTENSION_TO_SE' => 'Добавочный номер, на который отправить звук',
+    'T_RECORDINGS' => 'Записи',
+    'T_FAMILY' => 'Семья',
+    'T__OR5' => '- ИЛИ -',
+    'T_VOICEMAIL_FOLDE' => 'Папка голосовой почты для добавления звуков',
+    'T_ENTER_IN_E' => 'Введите в добавочный номер вручную',
+    'T_VARIABLE_OF_SOU' => 'Переменная звука для отправки',
+    'T_SELECT_A_VARIAB' => 'Выберите переменную',
+    '__INCLUDES' => [
+        'incl_missing_sound_variables',
+        'incl_back_button',
+        'incl_button',
+        'incl_tabletitle',
+        'incl_missing_digit_variables'
+    ]
+};

@@ -1,0 +1,18 @@
+$VAR1 = {
+    '__INCLUDES' => [
+        'common/incl_help_header',
+        'common/incl_help_footer'
+    ],
+    'T_EXAMPLE2' => 'Пример',
+    'T_PRESS3' => 'Нажмите',
+    'T_THIS_FEATURE_CO3' => 'This feature code will allow an extension, with the correct permissions, to silently listen in on another extension\\'s current call.
+While monitoring a call you can switch to different modes by pressing the corresponding digits on your phone:',
+    'T_FOR_BARGE_MODE' => 'для режима Вмешаться. В этом режиме обе стороны разговора Вас услышат.',
+    'T_PRESS2' => 'Нажмите',
+    'T_TO_RETURN_TO_T' => 'to return to the default monitor mode.',
+    'T_PRESS' => 'Нажмите',
+    'T_FOR_WHISPER_MO' => 'для режима шепота. Этот режим позволит вам разговаривать с добавочным номером, за которым вы следите, так, что другая сторона вас не услышит.',
+    'T_ASSUME_92_IS' => 'Assume *92 is the Call Monitor feature code, and extension 202 is currently on an
+important call.  Dialing *92202 will listen in on 202\\'s call, without either party knowing. If 202
+needs help during the call, the the extension monitoring the call may press the 5 key to speak to 202 only.'
+};

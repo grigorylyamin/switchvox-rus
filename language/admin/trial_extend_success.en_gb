@@ -1,0 +1,6 @@
+$VAR1 = {
+    'T_THANK_YOU_FOR_EXTEND' => 'Thank you for extending your 60 day trial of the Switchvox phone system. You will be able to make and receive calls for another 14 days. Please keep your Registration Code in a safe place, just in case you need to reinstall the software.',
+    '__INCLUDES' => [
+        'incl_header'
+    ]
+};

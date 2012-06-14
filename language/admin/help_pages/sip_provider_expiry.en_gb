@@ -1,0 +1,10 @@
+$VAR1 = {
+    'T_THIS_CONTROLS5' => 'This controls the duration (in seconds) between SIP registration requests sent to your provider.
+Selecting a value different from the default of 120 seconds may cause
+problems with most NAT routers.
+Do not change this unless explicitly instructed by your provider.',
+    '__INCLUDES' => [
+        'common/incl_help_header',
+        'common/incl_help_footer'
+    ]
+};

@@ -1,0 +1,7 @@
+$VAR1 = {
+    '__INCLUDES' => [
+        'common/incl_help_header',
+        'common/incl_help_footer'
+    ],
+    'T_SELECT_THE_SIP' => 'Выбрать SIP провайдера, систему голосовой почты которого вы хотели бы использовать.'
+};

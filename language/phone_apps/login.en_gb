@@ -1,0 +1,12 @@
+$VAR1 = {
+    'OND_DO_NOT_REMOVE' => 'Не удаляйте.',
+    'T_LOGIN' => 'Идентификатор',
+    'T_EXTENSION' => 'Добавочный номер',
+    'T_PHONE_APP_LOGIN' => 'Phone App Login',
+    'T_PHONE_APPLICATI' => 'Phone Applications Login',
+    'T_PASSWORD' => 'Пароль',
+    'T_LOGIN_INCORRECT' => 'Неверный логин',
+    'T_SOFT_LOGIN' => 'Вход',
+    'T_SOFT_EXIT' => 'Выход',
+    'T_SOFT_CLEAR' => 'Очистить'
+};

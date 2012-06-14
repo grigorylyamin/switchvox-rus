@@ -1,0 +1,7 @@
+$VAR1 = {
+    'T_YOUR_SYSTEM_IS' => 'Your system is having problems receiving its status. This is most likely due to your PBX being offline. You may want to restart your system if this persists.',
+    'T_WARNING5' => 'ПРЕДПРЕЖДЕНИЕ',
+    '__INCLUDES' => [
+        'incl_header'
+    ]
+};

@@ -1,0 +1,13 @@
+$VAR1 = {
+    'T_IN_ORDER_RING' => 'In Order - Ring each member in order, always starting with the first member in the list.',
+    'T_ROUND_ROBIN_T' => 'Round Robin - Take turns ringing each queue member.',
+    'T_RANDOM_RANDOM' => 'Случайный - Произвольно звонит одному из участников очереди.',
+    'T_FEWEST_CALLS' => 'Наименьшие звонки - Позвонить участнику очереди, у которого наименьшее число завершенных звонков в этой очереди.',
+    'T_LEAST_RECENTLY' => 'Least Recently Called - Ring queue member which was least recently called by this queue',
+    'T_RING_ALL_RING' => 'Звонить всем - Звонит всем участникам очереди одновременно, пока один из них не ответит.',
+    'T_THE_DIFFERENT_R' => 'Вы можете выбрать разные стратегии дозвона из следующих ',
+    '__INCLUDES' => [
+        'common/incl_help_header',
+        'common/incl_help_footer'
+    ]
+};

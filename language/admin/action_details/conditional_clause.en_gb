@@ -1,0 +1,6 @@
+$VAR1 = {
+    'T_IVR_MENU_ENTRY3' => 'Точка входа меню IVR',
+    'T_ACTION_TYPE14' => 'Тип действия',
+    'T_GO_TO_IVR_MENU3' => 'Перейти в меню IVR',
+    'T_CONDITIONAL_CLA' => 'Условное выражение'
+};

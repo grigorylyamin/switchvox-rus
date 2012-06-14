@@ -1,0 +1,72 @@
+$VAR1 = {
+    '__INCLUDES' => [
+        'common/incl_help_header',
+        'common/incl_help_footer'
+    ],
+    'T_IN_THE_EXTENSI' => 'В файле extensions.conf можно просмотреть, как извлекать настройки из комманды набора',
+    'T_TERTIARY_OUTBOU' => 'Tertiary Outbound Host',
+    'T_USERNAME4' => 'имя пользователя',
+    'T_HOSTNAMEIP_ADD2' => 'Hostname/IP Address',
+    'T_TYPEPEER' => 'type=peer',
+    'T_AND8' => 'и',
+    'T_CALLER_ID_NUMB' => 'АОН',
+    'T_IAX_PROVIDER_FI2' => 'Поля IAX провайдера',
+    'T_PASSWORD5' => ':пароль',
+    'T_CALLER_ID_NAME3' => 'АОН',
+    'T_SECONDARY_OUTBO' => 'Secondary Outbound Host',
+    'T_IAXCONF_PARAME' => 'iax.conf parameter',
+    'T_EXTEN__X1' => 'exten => _X.,1,Dial(IAX2/',
+    'T_USERNAMEMYUSER' => 'username=myuser',
+    'T_YOUR_PASSWORD3' => 'Ваш пароль',
+    'T_RSA_AUTHENTICAT' => 'Ключ аутентификации RSA',
+    'T_IAX_PROVIDER_LA2' => 'Описание IAX провайдера',
+    'T_INCOMING_PASSWO' => 'Входящий пароль',
+    'T_CALLERIDJOHN' => 'callerid="John Doe &lt;5551212&gt;"',
+    'T_USERNAME3' => 'имя пользователя',
+    'T_YOUR_ACCOUNT_ID3' => 'ID вашего эккаунта',
+    'T_NOTE23' => 'ЗАМЕТКА',
+    'T_AUTHRSA' => 'auth=rsa',
+    'T_LABEL' => '[label]',
+    'T_OR9' => 'или',
+    'T_REPLACED_BY' => 'заменен',
+    'T_PASSWORD6' => ':пароль',
+    'T_IAX_PROVIDER_FI3' => 'Поля IAX провайдера',
+    'T_EXTENSIONSCONF' => 'extensions.conf Dial string',
+    'T_YOUR_ACCOUNT_ID' => 'Ваш Account ID',
+    'T_DISALLOWALLAL' => 'disallow=all
+allow=ulaw
+allow=alaw',
+    'T_PROVIDER_CODECS' => 'Кодеки провайдера',
+    'T_OR11' => 'или',
+    'T_HERE_IS_AN_EXA' => 'Here is an example register line in the iax.conf configuration file',
+    'T_IAXPROVIDERC' => '@iax.provider.com',
+    'T_HOSTIAXPROVID' => 'host=iax.provider.com',
+    'T_SECRETMYPASSWO' => 'secret=mypassword',
+    'T_HERE_IS_A_SECT' => 'Это раздел в конфигурационном файле iax.conf',
+    'T_IAXCONF_REGIST' => 'iax.conf register statement',
+    'T_INCOMING_AUTHEN' => 'Incoming Authentication Type',
+    'T_NOT_USED' => 'не используется',
+    'T_HOSTNAMEIP_ADD' => 'Имя хоста/IP адрес',
+    'T_MANY_IAX_PROVID' => 'Many IAX providers distribute their configuration instructions in the
+form of configuration files for the Asterisk PBX.  The following
+information will enable you to translate between Asterisk
+configuration files and this phone system\\'s IAX Providers section.',
+    'T_CALLBACK_EXTEN' => 'Добавочный номер обратного вызова',
+    'T_INKEYSKEYNAME' => 'inkeys=keyname',
+    'T_CONTEXTNOTUSED' => 'context=notused',
+    'T__THIS_HELP_SEC' => ': This help section is not necessary if you do
+not need to convert settings from asterisk configuration files.  For
+more specific help on the IAX Providers section, please consult the
+help links for each field for more information on configuring IAX.',
+    'T_YOUR_ACCOUNT_ID2' => 'ID вашего эккаунта',
+    'T_EXTEN' => '/${EXTEN})',
+    'T_REGISTER' => 'зарегистрировать =>',
+    'T_IAXPROVIDERC2' => '@iax.provider.com',
+    'T_YOUR_PASSWORD' => 'Ваш пароль',
+    'T_IAX_PROVIDER_FI' => 'Поля IAX провайдера',
+    'T_YOUR_PASSWORD2' => 'Ваш пароль',
+    'T_PRIMARY_OUTBOUN' => 'Главный внешний хост',
+    'T_OR12' => 'или',
+    'T_OR10' => 'или',
+    'T_HOSTNAMEIP_ADD3' => 'Имя хоста / IP адрес'
+};

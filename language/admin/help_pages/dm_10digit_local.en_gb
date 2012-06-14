@@ -1,0 +1,9 @@
+$VAR1 = {
+    '__INCLUDES' => [
+        'common/incl_help_header',
+        'common/incl_help_footer'
+    ],
+    'T_IF_YOU_SET_UP' => 'If you set up your outgoing call rules to use 10 digit local dialing 
+you should check this box. In most cases you should leave this blank.',
+    'T_USE_1_DIGIT_LO' => 'Используйте 10 цифр для местного звонка'
+};

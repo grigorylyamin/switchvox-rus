@@ -1,0 +1,10 @@
+$VAR1 = {
+    '__INCLUDES' => [
+        'common/incl_help_header',
+        'common/incl_help_footer'
+    ],
+    'T_THIS_SECTION_I' => 'This section is purely for testing your PBX\\'s access to the CRM
+service, the login information is not used outside of this test.
+Instead, each user must enter their own login information in the
+Switchboard when they enable the panel.'
+};

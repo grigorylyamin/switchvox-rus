@@ -1,0 +1,6 @@
+$VAR1 = {
+    'T_MANAGE_ADMINS' => 'Управление администраторами',
+    '__INCLUDES' => [
+        'incl_header'
+    ]
+};

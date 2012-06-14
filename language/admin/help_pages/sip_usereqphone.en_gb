@@ -1,0 +1,10 @@
+$VAR1 = {
+    'T_THIS_OPTION_HA' => 'This option has no effect on the vast majority of 
+SIP providers. Enable it if your provider explicitly 
+requests it. This adds the string \\'user=phone\\' on the 
+end of the SIP URI used in various messages.',
+    '__INCLUDES' => [
+        'common/incl_help_header',
+        'common/incl_help_footer'
+    ]
+};

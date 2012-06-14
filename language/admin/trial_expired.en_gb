@@ -1,0 +1,7 @@
+$VAR1 = {
+    'T_ACCEPT' => 'Я принимаю это соглашение',
+    'T_APPLY_TRIAL_EXTENSION' => 'Apply trial extension',
+    '__INCLUDES' => [
+        'incl_header_nonav'
+    ]
+};

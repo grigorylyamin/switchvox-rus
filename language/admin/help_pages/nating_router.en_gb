@@ -1,0 +1,31 @@
+$VAR1 = {
+    'T_N' => 'N',
+    'T_ROUTE3' => 'Маршрут',
+    'T_ETWORK' => 'etwork',
+    'T_THIS_OPTION_CO5' => 'This option controls how the PBX should attempt to communicate with
+the phone if it is behind a router performing NAT.  It is safe to
+select the "Always" option if you are unsure, even if the phone is not
+behind a router performing NAT.',
+    'T_REQUEST_RFC358' => 'Request RFC3581 Symmetric Response Routing, and perform it on the
+phone as well.  This works with almost every type of phone, and should
+not cause problems in non-NAT situations.',
+    'T_NEVER4' => 'Никогда',
+    'T_RANSLATION' => 'ranslation',
+    'T_SEND_RESPONSES' => 'Send responses symmetrically, but do not include the rport tag in the
+Via header.  This may be useful for some phones with incomplete
+RFC3581 support.',
+    'T_DONT_PERFORM' => 'Don\\'t perform RFC3581 Symmetric Response Routing on the phone, but
+request it from the phone via the rport tag in the SIP Via header.
+This might be used if the PBX is behind NAT, but the phone is not.',
+    'T_A' => 'A',
+    'T_T' => 'T',
+    'T_NO9' => 'Нет',
+    'T_DO_NOT_PERFORM' => 'Do not perform or request RFC3581 Symmetric Response Routing, even if
+the handset requests it with the rport tag.',
+    'T_DDRESS' => 'ddress',
+    'T_ALWAYS5' => 'Всегда',
+    '__INCLUDES' => [
+        'common/incl_help_header',
+        'common/incl_help_footer'
+    ]
+};

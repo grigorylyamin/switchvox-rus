@@ -1,0 +1,43 @@
+$VAR1 = {
+    'T_YOU_CAN_USE_V' => 'You can use variables in your template that are substituted with real values when the email gets sent. 
+For example, %VM_NAME% in a template will print as the extension user's first and last name.
+There is a full list of these variables on the pages where you create or edit a template.',
+    'T_YOU_JUST_RECEI' => 'You just received a %VM_DUR% long message in mailbox 
+%VM_MAILBOX% from %VM_CALLERID%, on %VM_DATE%.',
+    'T_VOICEMAIL_NOT' => 'Voicemail notification options let you customize how you want to receive a notification email when you get a voicemail message. 
+You can set up multiple email addresses, each with an email template and whether you want the voicemail message attached as a WAV file. 
+These options let you handle your voicemail entirely through email.',
+    'T_VOICEMAIL_EMAIL3' => 'Почтовые шаблоны голосовой почты',
+    'T_AND_ANOTHER_T' => 'И другой шаблон для работы рабочего почтового эккаунта, который может выглядеть следующим образом:',
+    'T_VOICEMAIL_EMA' => 'Voicemail Email Templates let you customize your voicemail notification emails.
+You can create multiple templates and tailor them to different types of email accounts. 
+These custom templates are available (along with default templates) when you create or edit a Voicemail Notification Option.',
+    'T_DEFAULT_TEMPL' => 'Существуют шаблоны по умолчанию, а так же вы можете создать свои собственные.',
+    'T_DEAR_VM_NAME' => 'Dear %VM_NAME%:
+
+You just received a %VM_DUR% long message (number 
+%VM_MSGNUM%) in mailbox %VM_MAILBOX% from %VM_CALLERID%, 
+on %VM_DATE%.
+
+You can get this message via the phone, or use the links 
+below to download the message.
+
+Download the message and mark it as read.
+%DOWNLOAD_LINK%
+Note: This will mark it as read in the system.
+
+Download the message and delete it.
+Important: This will completely remove the message from 
+the system and this link will no longer work.
+%DOWNLOAD_LINK_AND_MARK_DELETED%
+
+Thank you!
+
+--Switchvox',
+    'T_VOICEMAIL_NOTIF' => 'Настройки уведомления голосовой почты',
+    'T_YOU_CAN_CREAT' => 'Вы можете создать несколько шаблонов для использования различных учетных записей электронной почты. Например, можно настроить шаблон для мобильных учетных записей электронной почты, который может выглядеть следующим образом:',
+    '__INCLUDES' => [
+        'common/incl_help_header',
+        'common/incl_help_footer'
+    ]
+};

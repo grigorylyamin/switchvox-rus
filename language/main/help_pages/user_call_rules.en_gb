@@ -1,0 +1,20 @@
+$VAR1 = {
+    'T_SEND_TO_VOICEMA' => 'Отправить в голосовую почту - Это правило направит неотвеченные звонки в ваш ящик голосовой почты.',
+    'T_BE_VERY_CAREFU' => 'Be very careful with Queue Calls or All Calls.  Sending a queue call to voicemail will stop all phones from ringing and immediately send the caller to voicemail.  Similar behavior may occur with forwarding queue calls to IVRs or external numbers.',
+    'T_CALL_CASCADE_T' => 'Call Cascade- This rule allows you to send an unanswered call out to another extension or external phone (like your mobile phone). Be sure to add a "9", or any other necessary digits that you need to dial "out", to the beginning of the phone number if you are cascading to an external phone.  Call cascade allows that call to return to the next rule in the list, if that phone also remains unanswered. This means you can stack call cascade rules on top of each other in order to have your calls "follow you" to different phones, but collect all your voicemail in your extension's mailbox if you don't pick up any of the phones.',
+    'T_DIRECT_CALLS_A' => 'Опция Прямые Звонки означает звонки, которые набирают ваш внутренний номер напрямую, вы почти всегда должны выбирать эту опцию.',
+    'T_RULE_ORDERING' => 'Порядок правил',
+    'T_QUEUE_CALLS_AP' => 'Звонки из очереди, означают лишь те звонки, которые пришли из очереди. Все звонки включают в себя прямые звонки и звонки из очереди',
+    'T_CALL_RULES_CON' => 'Правила набора контролируют что происходит, когда используется этот набор правил. Обязательно проверьте свои правила, позвонив на свой внутренний номер с другого телефона.',
+    'T_RING_ALL_THIS' => 'Звонить всем - Это правило позволяет определить до 3 дополнительных добавочных номеров, которые будут звонить одновременно.',
+    'T_CALL_FORWARD_T' => 'Перенаправление звонка - правило, которое направит не отвеченный  звонок на другой добавочный. Добавочный на которой уйдет звонок может быть другим телефоном, очередью или иной другой тип добавочного в системе.',
+    'T_DIRECT_QUEUE' => 'Прямые вызовы, вызовы в очередь и все вызовы',
+    'T_DRAG_AND_DROP' => 'Перетаскивайте правила, чтобы приоритезировать их. Правила выполняются с верху вниз.',
+    'T_NOTE' => 'ЗАМЕТКА',
+    'T_SECRET_CODE_TH' => 'Секретный код - Это правило не пропустит ни одного вызова пока, абонент не введет секретный код.',
+    'T_TYPES_OF_RULES' => 'Типы правил',
+    '__INCLUDES' => [
+        'common/incl_help_header',
+        'common/incl_help_footer'
+    ]
+};

@@ -1,0 +1,8 @@
+$VAR1 = {
+    'T_HOW_DOES_THIS_W' => 'Как это работает?',
+    'T_EMPTY_WINDOW3' => 'Пустое окно',
+    'T_PANEL_SETTINGS2' => 'Настройки панели',
+    '__INCLUDES' => [
+        'incl_header'
+    ]
+};

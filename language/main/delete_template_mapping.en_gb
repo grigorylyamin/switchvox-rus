@@ -1,0 +1,12 @@
+$VAR1 = {
+    '__INCLUDES' => [
+        'incl_header'
+    ],
+    'T_AND_IS_SET_TO' => 'и установить',
+    'T_ARE_YOU_SURE_YO3' => 'Are you sure you want to permanently delete this voicemail email template mapping?',
+    'T_THE_TEMPLATE' => 'Шаблон',
+    'T_RECEIVE_WAV_ATT' => 'получить wav вложения.',
+    'T_NOT' => 'не',
+    'T_IS_MAPPED_TO_T' => 'is mapped to the email address',
+    'T_YES_DELETE_VOI2' => 'Delete Voicemail Email Template Mapping'
+};

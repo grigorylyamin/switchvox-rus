@@ -1,0 +1,12 @@
+$VAR1 = {
+    '__INCLUDES' => [
+        'incl_header'
+    ],
+    'T_AGENT_LOG_IN2' => 'Входя оператора',
+    'T_DIGITS_IN_LENGT2' => 'цифр в длину',
+    'T_CREATE_EXTENSIO4' => 'Создать добавочный номер ',
+    'T_AGENT_LOG_OUT2' => 'Агент вышел',
+    'T_EXTENSION3' => 'Добавочный номер',
+    'T_DIRECTORY' => 'Справочник',
+    'T_DIAL_TONE' => 'Dial tone'
+};

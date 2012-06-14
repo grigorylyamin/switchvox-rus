@@ -1,0 +1,10 @@
+$VAR1 = {
+    '__INCLUDES' => [
+        'common/incl_help_header',
+        'common/incl_help_footer'
+    ],
+    'T_CLICK_THE_LINK2' => 'Клинените на ссылку наже, чтобы войти в онлайн пользовательский интерфейс',
+    'T_WITH_NUMBER2' => 'с номером',
+    'T_CURRENTLY_RINGI2' => 'Текущий звонящий добавочный номер',
+    'T_LOGIN2' => 'Вход'
+};

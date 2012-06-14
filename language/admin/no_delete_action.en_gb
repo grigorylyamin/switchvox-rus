@@ -1,0 +1,8 @@
+$VAR1 = {
+    'T__SIGNIFIES_TH' => 'Обозначить текущее действие, которое пытаетесь удалить.',
+    'T_PLEASE_SEE' => 'Please see the list below of where this action is still in use and remove this action. After this is complete for all items you can remove this action safely.',
+    'T_YOU_CANNOT_DELE' => 'Вы пока не можете удалить это действие, так как оно используется в системе.',
+    '__INCLUDES' => [
+        'incl_header'
+    ]
+};
