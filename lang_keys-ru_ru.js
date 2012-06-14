@@ -1,5 +1,5 @@
 switchvox.lang._set_plural(function(a){return(a>1)?1:((a==0)?1:0)});switchvox.lang._set_keys({
-LANG_DEMO_FEET_TALL:["I am %s foot tall","I am %s feet tall"],
+LANG_DEMO_FEET_TALL:["I am %s foot tall","I am %s feet tall test git"],
 AB_EDITION:["Edition"],
 AB_VERSION:["Version"],
 AB_COPYRIGHT:["Copyright"],
