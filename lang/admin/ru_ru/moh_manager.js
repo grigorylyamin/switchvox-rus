@@ -1,0 +1,2 @@
+Object.extend(switchvox.lang._LANG.keys,{MOH_PAGE_DESC:["The music on hold manager lets you create groups of music, upload new songs, manage the play order, and more."],
+T_MUSIC_ON_H:["Music On Hold"]});

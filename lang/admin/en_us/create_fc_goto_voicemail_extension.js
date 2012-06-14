@@ -1,0 +1,11 @@
+Object.extend(switchvox.lang._LANG.keys,{T_SAVE_FEATURE_CODE:["Save Feature Code"],
+T_SAVING_FEATURE_CODE:["Saving Feature Code"],
+T_SUCCESS_FEATURE_CODE:["Successfully Created Your Feature Code.  Redirection"],
+T_FC_GOTO_VOICEMAIL:["Go To Voicemail Feature Code"],
+T_MODIFY_FC_GOTO_VOICEMAIL:["Go To Voicemail Feature Code"],
+T_FC_GOTO_VOICEMAIL_SETTINGS:["Go To Voicemail Settings"],
+T_BLURB:["Creates a new go to voicemail feature code."],
+T_FEATURE_CODE:["Feature Code"],
+T_SAVE_VOICEMAIL:["Save Voicemail Feature Code"],
+T_UPDATE_MSG:["Go To Voicemail Feature Code has been saved."],
+});

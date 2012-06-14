@@ -1,0 +1,13 @@
+Object.extend(switchvox.lang._LANG.keys,{BTN_CREATE_PRES:["Create Status Option"],
+TH_PRESENCE_STATUS:["Full Status"],
+TH_OWNER:["Owner"],
+TT_SYSTEM_PRESENCE:["This is a system status option. It cannot be modified or deleted."],
+SH_PRES_OPT_SETTINGS:["Status Option Settings"],
+BTN_SAVE_PRES_SETTINGS:["Save Status Settings"],
+L_PRESENCE:["Status"],
+L_STATUS:["Sub-Status"],
+MSG_PRES_SAVE_PRO:["Saving Status Option Settings"],
+MSG_PRES_SAVE_SUC:["Status Option successfully saved."],
+MSG_PRES_SAVE_ERR:["There was a problem saving the status option."],
+T_OWNER_USER:["User"],
+T_OWNER_SYSTEM:["System"]});

@@ -1,0 +1,1 @@
+Object.extend(switchvox.lang._LANG.keys,{T_RUNNING_DIAG:["Ejecutando herramienta de diagnóstico"],T_REREUN_DIAGNOSE:["Volver a ejecutar diagnóstico de correo electrónico"],T_ENTER_AN_EMAIL:["Introduzca una dirección de correo electrónico para realizar la comprobación del correo electrónico saliente con: "],TEST:["I have %s test.","I have %s tests."]});

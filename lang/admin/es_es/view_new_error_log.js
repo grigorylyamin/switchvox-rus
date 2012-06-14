@@ -1,0 +1,1 @@
+Object.extend(switchvox.lang._LANG.keys,{ADVANCED_ERROR_LOGS:["Registros de errores avanzados"],TEST:["I have %s test.","I have %s tests."]});

@@ -1,0 +1,1 @@
+Object.extend(switchvox.lang._LANG.keys,{T_HOME:["Página de inicio del administrador"],T_LOGOUT:["Desconexión"],PT_ACCESS_DENIED:["Acceso denegado"],DESC_HOME:["Volver a la página de inicio del administrador"],DESC_LOGOUT:["Está actualmente conectado como %s. Desconéctese si desea acceder como un administrador diferente."],TEST:["I have %s test.","I have %s tests."]});

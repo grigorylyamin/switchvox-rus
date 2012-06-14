@@ -1,0 +1,10 @@
+Object.extend(switchvox.lang._LANG.keys,{T_CREATE_SOUND_FO:["Create Sound Folder"],
+T_FOLDER_DESCRIPT:["Folder Description"],
+T_FOLDER_NAME:["Folder Name"],
+T_FOLDER_QTY:["Folder Quantity"],
+T_FOLDER_TYPE:["Folder Type"],
+T_EXISTING_FOLDERS:["All Folders"],
+T_NO_FOLDERS:["There are no sound folders on your system."],
+T_MODIFY_SOUND_FO:["Modify Sound Folder"],
+T_SAVE_SOUND_FO:["Save Sound Folder"],
+T_FOLDER_INFO:["Folder Information"]});
