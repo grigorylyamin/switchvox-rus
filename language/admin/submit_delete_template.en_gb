@@ -1,3 +1,0 @@
-my $LANG = {
-SDT_PE_ACCOUNT_ID		=> "Missing the Account ID",
-};

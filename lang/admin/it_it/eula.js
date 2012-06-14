@@ -1,1 +1,0 @@
-Object.extend(switchvox.lang._LANG.keys,{T_EULA:["Contratto di licenza per utente finale "],T_BLURB:["Ogni utente con poteri amministrativi deve accettare i seguenti termini della licenza utente finale prima di continuare."],T_CANCEL:["Annulla"],T_SAVE_SETTINGS:["Accetta"],TEST:["I have %s test.","I have %s tests."]});

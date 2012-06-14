@@ -1,1 +1,0 @@
-Object.extend(switchvox.lang._LANG.keys,{T_USER_NAME:["Estensione"],T_LOG_IN:["Accedi"],T_PASSWORD:["Password"],T_LOGIN_TITLE:["Connessione Utente"],TEST:["I have %s test.","I have %s tests."]});

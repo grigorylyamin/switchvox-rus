@@ -1,1 +1,0 @@
-Object.extend(switchvox.lang._LANG.keys,{T_REPORT_THIS_ERR2:["Riporta questo errore"],T_IGNORE_THIS_ERR2:["Ignora questo errore"],UPT_ERROR_ENCOUNTERED:["Si è verificato un errore"],TEST:["I have %s test.","I have %s tests."]});

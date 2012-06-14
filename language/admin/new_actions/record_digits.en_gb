@@ -1,8 +1,0 @@
-$VAR1 = {
-    'T__OR23' => '- ИЛИ -',
-    '__INCLUDES' => [
-        'incl_button',
-        'incl_tabletitle',
-        'incl_missing_digit_variables'
-    ]
-};

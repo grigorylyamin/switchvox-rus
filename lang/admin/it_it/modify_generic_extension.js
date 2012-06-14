@@ -1,1 +1,0 @@
-Object.extend(switchvox.lang._LANG.keys,{T_PREVIOUS_PAGE:["Pagina precedente"],MODIFY_GOTO_VOICEMAIL:["Modifica la funzione Vai al codice funzione di segreteria"],TEST:["I have %s test.","I have %s tests."]});

@@ -1,1 +1,0 @@
-Object.extend(switchvox.lang._LANG.keys,{ADVANCED_ERROR_LOGS:["Registro Errori Avanzato"],TEST:["I have %s test.","I have %s tests."]});

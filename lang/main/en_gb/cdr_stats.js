@@ -1,1 +1,0 @@
-Object.extend(switchvox.lang._LANG.keys,{LD_DATE_FORMAT:["dd/mm/yyyy"],LOCAL_DATE_FORMAT:["d/M/yyyy H:mm"],});

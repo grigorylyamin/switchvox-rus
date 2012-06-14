@@ -1,8 +1,0 @@
-$VAR1 = {
-    'T_CLICK_TO_SHOW_F' => 'Кликните, чтобы показать опции фильтра',
-    'T_CLICK_TO_HIDE_F' => 'Кликните, чтобы спрятать опции фильтра',
-    '__INCLUDES' => [
-        'incl_header',
-        'edition/incl_select_call_recording_account'
-    ]
-};

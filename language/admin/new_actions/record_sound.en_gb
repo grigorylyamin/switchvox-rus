@@ -1,6 +1,0 @@
-$VAR1 = {
-    'T__OR12' => '- ИЛИ -',
-    '__INCLUDES' => [
-        'new_actions/incl_button'
-    ]
-};

@@ -1,6 +1,0 @@
-$VAR1 = {
-    'T_LAUNCH_SB' => 'Запустить Switchboard',
-    '__INCLUDES' => [
-        ''
-    ]
-};

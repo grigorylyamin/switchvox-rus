@@ -1,1 +1,0 @@
-Object.extend(switchvox.lang._LANG.keys,{T_HOME:["Home admin"],T_LOGOUT:["Disconnetti"],DESC_HOME:["Ritorna alla homepage dell'amministratore"],PT_ACCESS_DENIED:["Accesso negato"],DESC_LOGOUT:["Attualmente connessi come %s. Disconnettersi per connettersi come un amministratore diverso."],TEST:["I have %s test.","I have %s tests."]});
