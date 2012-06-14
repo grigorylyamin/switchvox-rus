@@ -1,0 +1,12 @@
+Object.extend(switchvox.lang._LANG.keys,{T_SAVE_EXTENSION:["Save Extension"],
+T_REQUIRE_PASSWORD:["Require Extension Password"],
+T_EXTENSION_DESCRIPTION:["2 digits in length"],
+T_FC_FAX:["Fax Feature Code"],
+T_MODIFY_FC_FAX:["Fax Feature Code"],
+T_FC_FAX_SETTINGS:["Fax Settings"],
+T_BLURB:["Creates or modifies a fax feature code."],
+T_FEATURE_CODE:["Feature Code"],
+T_SAVE_FEATURE_CODE:["Save Feature Code"],
+T_SAVE_FAX:["Save Fax Feature Code"],
+T_UPDATE_MSG:["Fax Feature Code has been saved."],
+});

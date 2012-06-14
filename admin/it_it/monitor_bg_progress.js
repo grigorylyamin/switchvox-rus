@@ -1,0 +1,1 @@
+Object.extend(switchvox.lang._LANG.keys,{T_BE_PATIENT:["Si prega di essere pazienti e di non aggiornare la pagina."],T_PERCENT_LOAD:["Percentuale caricata... "],TEST:["I have %s test.","I have %s tests."]});

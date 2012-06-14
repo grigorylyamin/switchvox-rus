@@ -1,0 +1,1 @@
+Object.extend(switchvox.lang._LANG.keys,{T_RUNNING_DIAG:["Strumento diagnostico in esecuzione"],T_REREUN_DIAGNOSE:["Riesegui e-mail di diagnosi"],T_ENTER_AN_EMAIL:["Inserisci un indirizzo e-mail per testare l'e-mail in uscita con: "],TEST:["I have %s test.","I have %s tests."]});

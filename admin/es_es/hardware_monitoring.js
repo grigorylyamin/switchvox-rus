@@ -1,0 +1,1 @@
+Object.extend(switchvox.lang._LANG.keys,{T_ADVANCED_HARDWARE:["Información avanzada del servidor"],TEST:["I have %s test.","I have %s tests."]});

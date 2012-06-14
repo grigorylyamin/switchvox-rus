@@ -1,0 +1,10 @@
+Object.extend(switchvox.lang._LANG.keys,{T_TELEPHONY_CARDS:["Telephony Cards"],
+T_THIS_HARDWARE:['This hardware device has spans that may need their settings configured. Please look over your span settings below and make sure all the values are correct for this device.  After the appropriate values for your span have been set click the "Save Settings" button. After this step you will configure the channels on this device.'],
+T_IF_YOUR_SPAN_S:['If your span settings are already correct you can skip directly to configuring the channels on this device by clicking the "Configure Channels" button below.'],
+T_ANY_MODIFICATI2:["Any modifications to the span settings will require a restart to your phone system and cause all current calls to drop."],
+T_CONFIGURE_CHANN:["Configure Channels"],
+T_GOING_CONFIGURE_CHANN:["Going To Configure Channels"],
+T_NBSPNBSPSEL2:["Select a Span to Configure"],
+T_SPAN:["Span"],
+T_GO10:["Go"],
+});

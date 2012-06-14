@@ -1,0 +1,12 @@
+Object.extend(switchvox.lang._LANG.keys,{T_TELEPHONY_CARDS:["Telephony Cards"],
+T_YOU_WILL_NOT_B:['NOTE: You will not be able to make calls using this device unless its channels are included in the correct channel groups.  You can view what channel group this device\'s channels are currently in by the value in the "Current Group" column in the table below.  If they have a value of "No Group" this channel will not function properly.'],
+T_GO_TO_CHANNEL_A:["Go to Channel Groups"],
+T_GOING_TO_CHANNEL_A:["Going to Channel Groups"],
+T_YOU_CAN_ADDRE:['You can add/remove channels from channel groups via the Channel Groups section by clicking the "Go to Channel Groups" button below.'],
+NQW_THERE_ARENT_ANY_CH:["There aren't any channels on this device"],
+IOQ_CHANNELS_OF_THIS_DEV:["Channels of this Device"],
+NNG_DEVICE_CHANNEL:["Device Channel"],
+ZFI_CHANNEL_TYPE:["Channel Type"],
+DWG_CURRENT_GROUP:["Current Group"],
+WMK_PHONE_NUMBER:["Phone Number"],
+});

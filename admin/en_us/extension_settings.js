@@ -1,0 +1,12 @@
+Object.extend(switchvox.lang._LANG.keys,{SH_GENERAL_SETTINGS:["General Settings"],
+SH_SECURITY_SETTINGS:["Security Settings"],
+T_EXTENSION_LENGT:["Extension Length"],
+T_BEEP_AFTER_AN:["Beep after an assisted transfer"],
+T_DIGITS:["digits"],
+T_SAVE_SETTINGS:["Save Extension Settings"],
+T_REQUIRE_STRONG_PHONE_PWD:["Require strong phone registration passwords"],
+T_REQUIRE_STRONG_USER_PWD:["Require strong extension passwords"],
+T_FORCE_NON_STRONG_CHANGE:["Require all extension-owners to change their password if it is not already strong"],
+UPT_EXTENSION_SETTINGS:["Extension Settings"],
+T_PROV_PWD_VSTRONG:["Phone Feature Packs automatically create very strong phone-registration passwords"],
+T_ENABLE_STRONG:["You must first require strong passwords."]});

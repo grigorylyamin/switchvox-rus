@@ -1,0 +1,1 @@
+Object.extend(switchvox.lang._LANG.keys,{T_UPDATE_FILE:["Actualizar archivo"],T_UPLOAD_MODULE:["Cargar módulo"],T_MODULE_RPM_FILE:["Archivo de módulo RPM"],T_UPLOADING_UPDATE:["Cargando actualización..."],T_UPLOAD_UPDATE:["Cargar actualización"],T_UPLOADING_MODULE:["Cargando módulo..."],TEST:["I have %s test.","I have %s tests."]});
