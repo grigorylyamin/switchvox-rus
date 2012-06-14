@@ -1,0 +1,31 @@
+$VAR1 = {
+          'T_EMAIL_ADDRE' => 'Dirección de correo electrónico a la que enviar un mensaje de prueba para',
+          'T_SAVE_EMAIL_SETT' => 'Guardar configuración de correo electrónico',
+          'T_TELL_ME_MORE_A10' => 'Más información sobre esto',
+          'T_IF_A_USER' => 'Si el buzón de mensajes de una extensión está lleno, las personas que llaman son transferidas a la extensión',
+          'T_CUSTOMIZE_THE_S2' => 'Personalice la configuración para los mensajes de correo electrónico de notificación de buzón de voz',
+          'T_VOICEMAIL_NOTIF3' => 'Dirección de correo electrónico "de origen" para notificaciones de buzón de voz',
+          'T_DO_NOT_LET_CALL' => 'No permitir que las personas que llaman dejen mensajes de voz de más de',
+          'T_DURING_A_U' => 'Durante un saludo del buzón de correo, las personas que llaman pueden pulsar la tecla "0" para salir y ser desviadas a la extensión',
+          'T_ABOUT_SMTP_AUT' => 'Acerca de la autentificación SMTP',
+          'T_YOU_ARE_CURR' => 'En estos momentos, está utilizando un servidor de buzón de voz externo. Por esta razón, la mayoría de los ajustes de esta página están desactivados.',
+          'T_VOICEMAIL_ROUTI' => 'Enrutamiento del buzón de voz',
+          'T_ABOUT_SMTP_AUT2' => 'Acerca de la autentificación SMTP',
+          'T_DURING_A_USE' => 'Durante un saludo del buzón de voz, las personas que llaman pueden pulsar la tecla "*" para conectar con el buzón de voz actual.',
+          'T_CUSTOM_VOICEMAI' => 'Personalizar la duración de los mensajes del buzón de voz',
+          'T_VOICEMAIL_SETTINGS' => 'Buzón de voz',
+          'T_WHAT_IS_THIS_U6' => '¿Para qué se utiliza esto?',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ],
+          'T_RUN_DIAGNOSTIC4' => 'Ejecutar la herramienta de diagnóstico',
+          'T_VOICEMAIL_NOTIF4' => 'Diagnóstico del correo electrónico de notificación del buzón de voz',
+          'T_EXTERNAL_VOICEM' => 'Buzón de voz externo',
+          'T_OUTBOUND_SMTP_P' => 'Contraseña del SMTP de salida',
+          'T_ARE_USERS_NOT_R' => '¿Los usuraos no están recibiendo los mensajes de correo electrónico de configuración del buzón de voz?',
+          'T_OUTBOUND_SMTP_S' => 'Servidor SMTP de salida',
+          'T_SECONDS2' => 'segundos.',
+          'T_SAVE_CUSTOM_VOI' => 'Guardar las duraciones personalizadas de los mensajes del buzón de voz',
+          'T_OUTBOUND_SMTP_U' => 'Nombre de usuario del SMTP de salida',
+          'T_DO_NOT_STORE_VO' => 'No almacenar el mensaje en el buzón de voz si permanece en silencio durante'
+        };

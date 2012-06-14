@@ -1,0 +1,9 @@
+$VAR1 = {
+          'T_ARE_YOU_SURE_YO30' => 'Are you sure you want to permanently delete this music on hold group',
+          'T__AND_ALL_OF_TH' => 'and all of the files in it?',
+          'T_DELETE_MOH_GROUP' => 'Delete Music on Hold Group',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_YES_DELETE_GRO' => 'Yes, Delete Group'
+        };

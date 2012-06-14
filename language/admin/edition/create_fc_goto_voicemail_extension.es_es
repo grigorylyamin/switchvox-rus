@@ -1,0 +1,13 @@
+$VAR1 = {
+          'T_CREATE_EXTENSIO3' => 'Crear extensión',
+          'T_MORE_ABOUT_THE' => 'Más información acerca del código de función del buzón de voz',
+          'T_CREATE_FC_GOTO_VOICEMAIL_EXTENSION' => 'Crear código de función de la extensión de Ir al mensaje de voz',
+          'T_2_DIGITS_IN_LEN3' => '2 dígitos de longitud',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ],
+          'T_MODIFY_FC_GOTO_VOICEMAIL_EXTENSION' => 'Modificar código de función de la extensión de Ir al mensaje de voz',
+          'T_THIS_FEATURE_CO' => 'Este código de función marcará directamente el buzón de voz de otra extensión.',
+          'T_ENTER_FC_GOTO_VOICEMAIL_EXTENSION' => 'Introducir extensión de Ir al mensaje de voz',
+          'T_FEATURE_CODE_EX3' => 'Extensión de código de función'
+        };

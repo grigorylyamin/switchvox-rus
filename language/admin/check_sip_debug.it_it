@@ -1,0 +1,6 @@
+$VAR1 = {
+          'T_CURRENTLY_RUN' => 'Esecuzione debug SIP attualmente in corso. Il processo durerà 30 secondi e catturerà tutti i dati SIP inviati attraverso il PBX in questo periodo. Dopo 30 secondi dalla scadenza, si verrà reindirizzati al risultato di debug SIP. Attendere e non aggiornare la pagina.',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ]
+        };

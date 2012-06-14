@@ -1,0 +1,4 @@
+$VAR1 = {
+          'UP_ERROR_MANY_MSG' => 'Hubo un problema al reiniciar los teléfonos seleccionados.',
+          'UP_SUCCESS_MANY_MSG' => 'Sus teléfonos se han reiniciado correctamente.'
+        };

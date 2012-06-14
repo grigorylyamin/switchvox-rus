@@ -1,0 +1,4 @@
+$VAR1 = {
+          'T_NOTE29' => 'NOTA',
+          'T_YOU_DO_NOT_HAV' => 'Non si dispone di Variabili IVR valide tra cui scegliere nel sistema. Per crearne una, aggiungere un\'azione che utilizza una variabile IVR, ad es. l\'azione "Registra audio".'
+        };

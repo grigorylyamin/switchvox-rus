@@ -1,0 +1,7 @@
+$VAR1 = {
+          'T_ARE_YOU_SURE_YO10' => '¿Está seguro de que desea eliminar permanentemente esta regla de ID de persona que llama?',
+          'T_YES_DELETE_RULE2' => 'Sí, eliminar la regla de ID de persona que llama',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ]
+        };

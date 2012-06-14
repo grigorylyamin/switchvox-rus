@@ -1,0 +1,20 @@
+$VAR1 = {
+          'T_WHAT_ARE_EXTEN' => 'What are extension templates?',
+          'TC_DATE_CREATED' => 'Date Created',
+          'T_CREATE_A_NEW_EX' => 'Create A New Extension Template',
+          'TC_DELETE' => 'Delete',
+          'SM_DELETE_TEMPLATE' => 'Successfully deleted extension template.',
+          'TC_TEMPLATE_NAME' => 'Template Name',
+          'T_CREATE_NEW' => 'Create New',
+          'ND_NO_TEMPLATES' => 'You don\'t have any templates in your system',
+          'T_CREATE_MODIF' => 'Create, modify and delete extension templates to streamline the administration of extensions on your PBX.',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'SM_MODIFY_TEMPLATE' => 'Successfully updated extension template.',
+          'TC_TEMPLATE_ORG' => 'Template Organization',
+          'TC_DELETE_DISABLED' => 'This is a system template and it can not be deleted.',
+          'TT_MODIFY_TEMPLATES' => 'Modify Existing Templates',
+          'TC_MODIFY' => 'Modify',
+          'SCT_PE_TEMPLATE_NAME' => 'Must provide a valid template name (1-32 alphanumeric characters)'
+        };

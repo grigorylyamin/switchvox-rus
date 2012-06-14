@@ -1,0 +1,26 @@
+$VAR1 = {
+          'T_CREATE_EXTS' => 'Valuta importazione',
+          'E_HANDLE_DUPE' => 'Non è un metodo valido per la gestione di voci duplicate.',
+          'T_VIRTUAL' => 'Virtuale',
+          'T_HANDLE_DUPE' => 'Su Estensione duplicata',
+          'T_EXT_TYPE' => 'Tipo estensione',
+          'T_EXT_TEMPLATE' => 'Modello di estensione',
+          'T_SKIP' => 'Ignora',
+          'E_CSV_FILENAME' => 'Nome file CSV manante o contiene caratteri non consentiti.',
+          'T_UPDATE' => 'Aggiorna informazioni',
+          'E_NO_EXT_FILE' => 'Impossibile trovare il file dati estensione.',
+          'T_BULK_CREATE_EXT' => 'Estensioni importazione in blocco',
+          'T_SUBMIT2' => 'invia',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_DETERMINE_TIME' => 'Determinazione tempo rimanente…',
+          'T_EXT_FILE' => 'File estensione',
+          'T_UPLOADING_FILE' => 'Carica file',
+          'E_EXT_TYPE' => 'Non è un tipo di estensione valida.',
+          'T_DEL_RECREATE' => 'Elimina e ricrea',
+          'E_TEMPLATE' => 'Non è un modello valido.',
+          'T_SIP' => 'SIP',
+          'T_NO_REPORT_FILE' => 'Impossibile trovare file rapporto',
+          'T_HOW_DO_I_USE_T' => 'Come utilizzo questa pagina?'
+        };

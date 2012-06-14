@@ -1,0 +1,8 @@
+$VAR1 = {
+          'T_TO_MAKE_CHANGE' => 'To make changes to the way that an extension is set up, click on the "Modify" button next to that extension and edit the settings on the settings detail page. To remove an extension from your system permanently, click on the "Delete" button next to that extension.',
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ],
+          'T_THIS_PAGE_ALLO' => 'This page allows you to administer the extensions that are set up on your system. Each column is sortable and you can narrow down your view by using the drop down menu to see only certain types of extensions.  The search box will search for either extension numbers if you type in digits, or extension names if you type in text.'
+        };

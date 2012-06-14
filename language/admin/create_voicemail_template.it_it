@@ -1,0 +1,22 @@
+$VAR1 = {
+          'T_SUBJECT2' => 'Oggetto',
+          'T_RESTORE_TO_ORIG' => 'Ripristina modello originale',
+          'T__RECIPIENTS2' => '- Nome e cognome del destinatario',
+          'T_TEMPLATE_NAME' => 'Nome modello',
+          'T_MODIFY_VOICEMAI3' => 'Salva modello',
+          'T__A_URL_TO_THE4' => '- Un URL per scaricare il messaggio e eliminarlo dalla casella di posta del destinatario.',
+          'T_YOU_CAN_USE2' => 'Ogni variabile è sostituita dal valore reale all\'invio della e-mail.',
+          'T__THE_DATE_AND2' => 'Data e ora del messaggio mancanti',
+          'T__THE_DURATION2' => '- Durata del messaggio di segreteria',
+          'T_MODIFY_VM_TEMPLATE' => 'Modica modello di notifica',
+          'T__A_URL_TO_THE3' => 'Un URL all\'amministratore web per scaricare il messaggio',
+          'T__THE_RECIPIEN2' => '- Estensione del destinatario',
+          'T_CREATE_VM_TEMPLATE' => 'Crea modello di notifica',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ],
+          'T_BELOW_YOU_CAN_T2' => 'Sotto è possibile personalizzare il modello inviato all\'estensione_proprietario quando riceve una notifica.',
+          'T__THE_CALLER_I2' => '- Id chiamante della persona che ha lasciato il messaggio',
+          'T_SAVE_TEMPLATE2' => 'Salva modello di notifica',
+          'T_RESTORE_TEMPLATE' => 'Ripristinare il modello?'
+        };

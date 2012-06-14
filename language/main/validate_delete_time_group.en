@@ -1,0 +1,8 @@
+$VAR1 = {
+          'T_YES_DELETE_TIM' => 'Yes, Delete Time Frame',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_ARE_YOU_SURE_YO4' => 'Are you sure you want to permanently delete the',
+          'T__TIME_FRAME' => 'time frame?'
+        };

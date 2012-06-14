@@ -1,0 +1,9 @@
+$VAR1 = {
+          'T_FROM_EMAIL_ADDR2' => 'From Email Address',
+          'T_ACTION_TYPE35' => 'Action Type',
+          'T_EMAIL_SUBJECT3' => 'Email Subject',
+          'T_VARIABLE26' => '(Variable)',
+          'T_YES20' => 'Yes',
+          'T_TO_EMAIL_ADDRES' => 'To Email Address',
+          'T_ATTACH_RECORDED' => 'Attach Recorded Sound(s)'
+        };

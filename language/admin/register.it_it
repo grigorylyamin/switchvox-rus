@@ -1,0 +1,12 @@
+$VAR1 = {
+          'T_UPGRADE' => 'Se ha acquistato l\'upgrade dalla versione di prova di 60 giorni a SMB, clicchi <a href="/admin?cmd=register&upgrade=1">qui</a> per immettere il nuovo codice di registrazione SMB.',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ],
+          'T_ALSO_BE_SURE' => 'Accertarsi di conservare il supporto di installazione e il codice di registrazione in un luogo sicuro per poterlo reinstallare se necessario.',
+          'T_THIS_INSTALLATI' => 'Installazione già registrata. Grazie!',
+          'T_NOW_THAT_YOU' => 'Ora che il PBX è registrato, è possibile create tante nuove estensioni quante sono consentite dalle Sottoscrizioni.',
+          'T_YOU_MAY_NEED_TO' => 'Potrebbe essere necessario fornire questo codice di registrazione per il supporto tecnico.',
+          'T_THANK_YOU_FOR_R' => 'Grazie per aver registrato il PBX.',
+          'T_FIRST_SIX_CH' => 'Primi sei caratteri del codice di registrazione'
+        };

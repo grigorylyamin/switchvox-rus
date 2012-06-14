@@ -1,0 +1,23 @@
+$VAR1 = {
+          'T_JOB_ID6' => 'JOB_ID',
+          'T_VARIABLE_CONCAT' => 'Concatenación de variables',
+          'T_CLICK_BUTTON_TO4' => 'Haga clic en el botón para añadir la variable seleccionada incluida en %s a su concatenación de variables.',
+          'T_CLICK_BUTTON_TO3' => 'Haga clic en el botón para añadir la variable seleccionada incluida en %s a su concatenación de variables.',
+          'T_IN_THE_INPUT' => 'En el cuadro de entrada de arriba, introduzca una representación de la concatenación que desee crear. Puede añadir      variables a la concatenación haciendo clic en los botones Añadir a la concatenación situados abajo. También puede concatenar       cadenas a variables. Las variables deben estar incluidas entre %\'s. Por ejemplo, para concatenar las variables VAR1 y VAR2,     y la cadena "prueba", el cuadro de entrada debe incluir lo siguiente:',
+          'T_VAR1VAR2TE' => '%VAR1%%VAR2%prueba',
+          'T_APPEND_TO_CONCA' => 'Añadir a la concatenación',
+          'T_POSSIBLE_IVR_VA4' => 'Posibles variables de IVR para concatenar',
+          'T_APPEND_TO_CONCA2' => 'Añadir a la concatenación',
+          '__INCLUDES' => [
+                            'new_actions/incl_back_button',
+                            'new_actions/incl_button'
+                          ],
+          'T_CALLER_ID_NUMBE8' => 'CALLER_ID_NUMBER',
+          'T_CALLER_ID_NAME9' => 'CALLER_ID_NAME',
+          'T_INCOMING_DID8' => 'INCOMING_DID',
+          'T_POSSIBLE_SYSTEM4' => 'Posibles variables de sistema para concatenar',
+          'T_VARIABLE_NAME_F7' => 'Nombre de variable para concatenación:',
+          'T_EXAMPLE8' => 'Ejemplo',
+          'T_EXTENSION13' => 'EXTENSION',
+          'T_DIALED_NUMBER' => 'DIALED_NUMBER'
+        };

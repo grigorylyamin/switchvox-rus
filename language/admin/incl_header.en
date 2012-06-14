@@ -1,0 +1,11 @@
+$VAR1 = {
+          'T_SYSTEM_IS_NOT_R2' => 'Your PBX is not registered. Click to view.',
+          'T_WARNING22' => 'WARNING',
+          'T_SYSTEM_IS_OFFLI2' => 'Your PBX is currently offline. Click to view.',
+          '__INCLUDES' => [],
+          'T_WEAK_PASSWORD_A' => 'Weak Password Alert',
+          'T_LOGOUT' => 'Logout',
+          'T_ERROR9' => 'ERROR',
+		  'T_HEAD_HELP' => 'help',
+          'T_RC_AUTO_BACKUP_WARNING' => 'Auto Backup Warning',
+        };

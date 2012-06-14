@@ -1,0 +1,24 @@
+$VAR1 = {
+          'EG_TD_DATE_CREATED' => 'Fecha de creación',
+          'EG_T_YES_DEL' => 'Sí, eliminar grupo de extensiones',
+          'EG_T_HELP_LINK' => 'Más información acerca de grupos de extensiones',
+          'CEG_SM_CREATED_GROUP' => 'Se creó un grupo de extensiones correctamente',
+          'EG_TD_EXT_GROUPS_ID' => 'Modificar / Eliminar',
+          'EG_E_MISSING_GNAME' => 'No hay ningún nombre de grupo especificado',
+          'EG_TD_GROUP_NAME' => 'Nombre de grupo',
+          'EG_BT_CREATE_GROUP' => 'Crear grupos de extensiones',
+          'EG_ND_NO_GROUPS' => 'No hay ningún grupo de extensiones en este sistema.',
+          'EG_T_CANCEL' => 'Cancelar',
+          'EG_TB_DELETE' => 'Eliminar',
+          '__INCLUDES' => [
+                            'edition/extension_groups',
+                            'incl_header'
+                          ],
+          'EG_TN_TABLE_TITLE' => 'Grupos de extensiones',
+          'MEG_E_WRONG_ACTION' => 'Acción no válida para modificar grupo de extensiones',
+          'EG_TD_MEMBER_COUNT' => 'Miembros',
+          'EG_TB_MODIFY' => 'Modificar',
+          'EG_TD_ORG_NAME' => 'Organización',
+          'EG_SM_DELETED_GROUP' => 'Se eliminó un grupo de extensiones correctamente',
+          'EG_T_PAGE_DESC' => 'Agrupar las extensiones facilita la aplicación de cambios y funciones a varias extensiones al mismo tiempo.'
+        };

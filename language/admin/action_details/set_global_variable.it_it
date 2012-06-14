@@ -1,0 +1,7 @@
+$VAR1 = {
+          'T_SOURCE_VARIABLE' => 'Variabile sorgente',
+          'T_GLOBAL_VARIABLE' => 'Variabile globale da impostare',
+          'T_VARIABLE6' => '(Variabile)',
+          'T_GLOBAL_VARIAB2' => '(variabile globale)',
+          'T_ACTION_TYPE13' => 'Tipo azione'
+        };

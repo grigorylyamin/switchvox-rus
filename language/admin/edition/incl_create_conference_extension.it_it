@@ -1,0 +1,7 @@
+$VAR1 = {
+          'T_WHAT_DOES_THIS2' => 'Cosa significa?',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_THIS_EXTENSIO' => 'Questa estensione può essere composta da un IVR.'
+        };

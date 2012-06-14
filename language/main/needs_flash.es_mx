@@ -1,0 +1,7 @@
+$VAR1 = {
+          'T_CLOSE_WINDOW2' => 'Cerrar ventana',
+          'T_IN_ORDER_TO_E' => 'Para asegurarse de que las funciones del Panel de control funciona correctamente, se necesita la última versión del Reproductor Flash de Adobe. La última versión de Flash puede descargarse gratuitamente en el siguiente enlace.',
+          'T_ADOBE_FLASH_PLA' => 'Reproductor Flash de Adobe',
+          'T_SWITCHBOARD3' => 'Panel de control',
+          'T_I_AM_SORRY_Y' => 'Lo lamento, su versión de Flash es incompatible con esta versión del Panel de control.'
+        };

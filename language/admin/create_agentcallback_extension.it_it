@@ -1,0 +1,18 @@
+$VAR1 = {
+          'T_DO_NOT_REQUIRE2' => 'Non richiedere password per connettersi',
+          'T_AGENT_LOG_OUT' => 'Connessione agente',
+          'T_ALWAYS_PROMPT' => 'Richiedi sempre agli agenti di inserire la propria estensione di accesso',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_LOGINLOGOUT_T' => 'Attivazione connessione/disconnessione',
+          'T_QUEUES_TO_AFFEC' => 'Code a cui applicare la selezione',
+          'T_AGENT_LOG_IN' => 'Connessione agente',
+          'T_AFFECT_AL' => 'Applica a tutte le code',
+          'T_DIGITS_IN_LENGT3' => 'Cifre in lunghezza',
+          'T_EXTENSION' => 'Estensione',
+          'T_AFFECT_VIRTUAL' => 'Applica stato di connessione/disconnessione dell\'estensione virtuale',
+          'T_CREATE_EXTENSIO5' => 'Crea estensione',
+          'T_DO_NOT_REQUIRE' => 'Non richiedere password per disconnettersi',
+          'T_MODIFY_EXTENSIO4' => 'Modifica estensione'
+        };

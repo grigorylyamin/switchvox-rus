@@ -1,0 +1,11 @@
+$VAR1 = {
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_AFTER_YOU_HAVE' => 'After you have completed creating a new group you can then upload files and place them in that new group.',
+          'T_NOTE32' => 'NOTE',
+          'T_YOU_MUST_FIRST2' => 'You must first create a Music On Hold Group before you can upload any files into the system.',
+          'T_YOU_CAN_CREATE2' => 'You can create a new group by clicking the the "Create Music On Hold Group" button below.',
+          'T_BACK_TO_MUSIC_O' => 'Back to Music On Hold Main Page',
+          'T_CREATE_MUSIC_ON' => 'Create Music On Hold Group'
+        };

@@ -1,0 +1,14 @@
+$VAR1 = {
+          'T_SAVE_AGENT_SETT' => 'Salva impostazioni agente',
+          'T_NUMBER_OF_MISSE' => 'Nmero di chiamate perse prima della disconnessione automatica',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_WHAT_DOES_THIS3' => 'Cosa significa?',
+          'T_NONBSPNBSP' => 'No',
+          'T_YESNBSPNBSP' => 'Sì',
+          'T_WHAT_DOES_THIS4' => 'Cosa significa?',
+          'T_WHAT_IS_A_CALL' => 'Cos\'è un agente di coda chiamata?',
+          'T_CUSTOMIZE_THE_S' => 'Personalizza le impostazioni per gli agenti della coda di chiamate. Se si dispone di più code di chiamate, queste impostazioni vengono applicate a tutte.',
+          'T_ACKNOWLEDGE_CAL' => 'Accettazione della chiamata'
+        };

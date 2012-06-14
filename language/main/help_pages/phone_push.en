@@ -1,0 +1,12 @@
+$VAR1 = {
+          'T_PAGE_INTRO' => '
+If your phone has been configured with the PBX automatic phone
+provisioning tool, you can specify which of your Phonebooks that tools uses.
+When your phone is rebooted, that phonebook that will always be loaded into your
+phone. 
+',
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ]
+        };

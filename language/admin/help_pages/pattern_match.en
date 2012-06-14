@@ -1,0 +1,33 @@
+$VAR1 = {
+          'T_AND5' => 'and',
+          'T_IF_THE_DIALED_N' => 'If the dialed number begins with digits from textbox 1 then the rest of the number should be at minimum this length in order to match.',
+          'T_AND_THEN_PREPE' => 'and then prepend the digits',
+          'T_TO_THE_NUMBER2' => 'to the number.',
+          'T_AND4' => 'and',
+          'T_SOLUTION' => 'Solution',
+          'T_THE_REST_OF_TH' => 'The rest of the number must be between',
+          'T_BEFORE_CONNECT' => 'Before connecting the call, trim',
+          'T_IF_YOU_HAVE_A' => 'If you have a SIP provider that makes you add a * to all your 1800 calls and you want all employees to dial a 9 to make outgoing calls.',
+          'T_DIGITS_FROM_TH' => 'digits from the front,',
+          'T_IF_THE_DIALED_N2' => 'If the dialed number begins with digits from textbox 1 then the rest of the number should be at maximum this length in order to match.',
+          'T_IF_THE_NUMBER_M2' => 'If the number matches criteria set forth by 1,2,3 and after it\\\'s had its digits trimmed by 4, then the value in textbox 5 should be the digits you want to prepend to the dialed number. Leave blank to not prepend any digits.',
+          'T_THE_PATTEN_MATC' => 'The Patten Match is used to match numbers that employees dial and perform certain actions (trimming and prepending digits) on those matched numbers.',
+          'T_DIGITS_IN_LENG2' => 'digits in length.',
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ],
+          'T_BEFORE_CONNECT2' => 'Before connecting the call, trim',
+          'T_IF_THE_NUMBER_M' => 'If the number matches criteria set forth by 1,2,3 then the value in textbox 4 should be the number of digits you want to trim from the front of the dialed number. Leave blank or enter 0 if you don\\\'t want to trim any digits.',
+          'T_NUMBER_BEGINS2' => 'Number begins with the digits',
+          'T_DIGITS_FROM_TH2' => 'digits from the front,',
+          'T_WHEN_WOULD_I' => 'When would I ever use this?',
+          'T_EACH_TEXTBOX_AB' => 'Each textbox above has a number in it which corresponds to its explanation below',
+          'T_THE_REST_OF_TH2' => 'The rest of the number must be between',
+          'T_DIGITS_IN_LENG' => 'digits in length.',
+          'T_NUMBER_BEGINS' => 'Number begins with the digits',
+          'T_AND_THEN_PREPEN' => 'and then prepend the digits',
+          'T_TO_THE_NUMBER' => 'to the number.',
+          'T_THIS_SHOULD_BE' => 'This should be a digit or list of digits that the dialed number begins with in order to match.',
+          'T_SITUATION' => 'Situation'
+        };

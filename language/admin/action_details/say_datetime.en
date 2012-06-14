@@ -1,0 +1,6 @@
+$VAR1 = {
+          'T_DATETIME_TO_SA' => 'Date/Time to Say',
+          'T_EG' => 'E.g.',
+          'T_DATE_FORMAT' => 'Date Format',
+          'T_ACTION_TYPE9' => 'Action Type'
+        };

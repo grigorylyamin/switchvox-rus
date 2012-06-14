@@ -1,0 +1,27 @@
+$VAR1 = {
+          'T_EXAMPLE7' => 'Ejemplo',
+          'T_SOUND_SETTINGS' => 'Configuración de la variable de sonido',
+          'T_SOUND_TO_SEND' => 'Sonido para enviar:',
+          'T_CLICK_APPEND_TO3' => 'Haga clic en Añadir para añadir la variable seleccionada incluida en %s a su URL',
+          'T_JOB_ID3' => 'JOB_ID',
+          'T_URL3' => 'URL:',
+          'T_APPEND5' => 'Añadir',
+          'T_EXTENSION10' => 'EXTENSION',
+          'T_CALLER_ID_NAME6' => 'CALLER_ID_NAME',
+          'T_CALLER_ID_NUMBE5' => 'CALLER_ID_NUMBER',
+          'T_POSSIBLE_SYSTEM2' => 'Posibles variables de sistema para incluir en la URL:',
+          'T_IN_THE_URL_FIE2' => 'En el campo URL de arriba, introduzca la ruta completa de la URL para el programa CGI cargado al que desee enviareste sonido.Puede añadir valores para su traslado a su URL haciendo clic en los botones "Añadir" situados más abajo.Esto añadirá el nombre de la variable seleccionada al final de su URL, entre %\'s.Cuando esta URL se envíe, los %\'s y los nombres de las variables se sustituirán por sus valores correspondientes.',
+          '__INCLUDES' => [
+                            'new_actions/incl_missing_sound_variables',
+                            'new_actions/lwp_timeout',
+                            'new_actions/incl_button'
+                          ],
+          'T_POSSIBLE_IVR_VA2' => 'Posibles variables de IVR para incluir en la URL:',
+          'T_CLICK_APPEND_TO4' => 'Haga clic en Añadir para añadir la variable seleccionada incluida en %s a su URL',
+          'T_URL_SETTINGS' => 'Configuración de URL',
+          'T_HOW_DO_I_USE_T3' => '¿Cómo puedo utilizar esta página?',
+          'T_DIALED_NUMBER' => 'DIALED_NUMBER',
+          'T_HTTPWWWMYD2' => 'http://www.midominio.com/cgi-bin/upload.cgi?cuenta=%ACCOUNT%&amp;dígitos=%PIN%',
+          'T_APPEND4' => 'Añadir',
+          'T_INCOMING_DID5' => 'INCOMING_DID'
+        };

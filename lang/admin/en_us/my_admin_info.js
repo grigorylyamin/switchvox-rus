@@ -1,0 +1,10 @@
+Object.extend(switchvox.lang._LANG.keys,{PT_MY_ADM_INFO:["My Account"],
+T_LANG_LOC:["Language and Location"],
+T_PASS1:["New Password"],
+T_PASS1_DESCRIPTION:["Leave blank for no change"],
+T_PASS2:["Retype New Password"],
+T_LIGHTWEIGHT:["Minimalist Mode"],
+T_PASS_SAVE:["Save Account"],
+T_SAVING:["Saving Changes"],
+T_SUCCESS:["Successfully saved, reloading."],
+T_SUCCESS_NO_CHANGE:["Sucesssfully Saved"]});

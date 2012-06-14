@@ -1,0 +1,9 @@
+$VAR1 = {
+          'T_TO_APPLY_FOR_A' => 'da applicare per una nuova licenza.',
+          'T_PLEASE_VISIT_T' => 'Visitare',
+          'T_REGISTER_PAGE' => 'Pagina Registrazione',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_YOU_LICENSE_HA' => 'La licenza è stata disinstallata.'
+        };

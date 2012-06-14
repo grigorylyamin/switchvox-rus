@@ -1,0 +1,7 @@
+$VAR1 = {
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ],
+          'T_MAXIMUM_TRANSF2' => 'Maximum transfer rate used during fax rate negotiation.  The default maximum transfer rate is 14400.'
+        };

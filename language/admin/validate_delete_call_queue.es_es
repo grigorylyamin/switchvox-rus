@@ -1,0 +1,8 @@
+$VAR1 = {
+          'T_ARE_YOU_SURE_YO28' => '¿Está seguro de que desea eliminar permanentemente esta cola de llamadas?',
+          'T_DEL_QUEUE' => 'Eliminar cola de llamadas',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ],
+          'T_YES_DELETE_CAL' => 'Sí, eliminar la cola de llamadas'
+        };

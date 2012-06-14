@@ -1,0 +1,4 @@
+$VAR1 = {
+          'T_DENOTES_PERMANE' => 'Denota membro permanente',
+          'T_DENOTES_MEMBER' => 'Denota Membro che deve eseguire l\'accetto'
+        };

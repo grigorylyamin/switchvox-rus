@@ -1,0 +1,19 @@
+$VAR1 = {
+          'T_FAILED4' => 'Fallo',
+          'T_HOW_DO_I_FIND' => '¿Cómo puedo encontrar la dirección IP de mi teléfono SIP?',
+          'T_RERUN_PHONE_DIA' => 'Volver a ejecutar el diagnóstico del teléfono para la extensión',
+          'T_PASSED4' => 'Autorizado',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ],
+          'T_WHAT_DOES_THIS6' => '¿Qué significa esto?',
+          'T_YES34' => 'Sí',
+          'T_SIP_PH_DIAGNOSIS' => 'Diagnóstico del teléfono SIP',
+          'T_BACK_TO_CONNECTION_STATUS' => 'Volver a estado de conexión',
+          'T_WARNING12' => 'Advertencia',
+          'T_THIS_IS_A' => 'Éste es un teléfono externo:',
+          'T_RUN_DIAGNOSTIC2' => 'Volver a ejecutar la herramienta de diagnóstico',
+          'T_INTERNAL_IP_ADD' => 'Dirección IP interna o teléfono SIP para extensión',
+          'T_NOT_TESTED4' => 'No comprobado',
+          'T_NO6' => 'No'
+        };

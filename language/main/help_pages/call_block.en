@@ -1,0 +1,12 @@
+$VAR1 = {
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ],
+          'T_CALL_BLOCKING' => 'Call Blocking allows you to specify phone numbers that you do not wish
+to accept calls from. You may block specific phone numbers or you may
+block any numbers that begin with a specified prefix. Call Block may
+be customized to only occur during specified time segments. You may
+choose how to handle the blocked call by specifying whether that
+caller should be hung up on, sent to voicemail, etc.'
+        };

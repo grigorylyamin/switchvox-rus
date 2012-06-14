@@ -1,0 +1,12 @@
+$VAR1 = {
+          'T_THIS_IS_THE_PH' => 'This is the phone number to display in the Caller ID for calls
+using this provider.',
+          'T_NOTE9' => 'NOTE',
+          'T_SETTING_THIS' => 'Setting this field may cause all outbound calls to fail.  Before
+altering your caller id, contact your provider to verify that they
+support this feature.',
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ]
+        };

@@ -1,0 +1,8 @@
+$VAR1 = {
+          'T_YOU_CAN_MANAGE' => 'Puede gestionar su buzón de voz igual que el correo electrónico utilizando la interfaz del Buzón, con carpetas para organizar sus mensajes y la posibilidad de desviar los mensajes del buzón de voz a otras extensiones.',
+          '__INCLUDES' => [
+                            'incl_header',
+                            'incl_subnav_descriptions'
+                          ],
+          'T_USER_TIP5' => 'Consejo para usuario'
+        };

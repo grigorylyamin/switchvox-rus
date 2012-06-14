@@ -1,0 +1,17 @@
+$VAR1 = {
+          'T_YOU_ARE_CURR' => 'You are currently using an external voicemail server. Because of this, most of the settings on this page are disabled.',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_VOICEMAIL_SETTINGS' => 'Voicemail',
+          'T_DURING_A_U' => 'During a voicemail greeting, callers may push the "0" key to exit and be forwarded to extension',
+          'T_DURING_A_USE' => 'During a voicemail greeting, callers may push the "*" key to log into the current voicemail box.',
+          'T_IF_A_USER' => 'If an extension\'s Mailbox is full, callers are forwarded to extension',
+          'T_VOICEMAIL_ROUTI' => 'Voicemail Routing',
+          'T_EXTERNAL_VOICEM' => 'External Voicemail',
+          'T_CUSTOM_VOICEMAI' => 'Custom Voicemail Message Length',
+          'T_SECONDS2' => 'seconds.',
+          'T_SAVE_CUSTOM_VOI' => 'Save Custom Voicemail Message Lengths',
+          'T_DO_NOT_STORE_VO' => 'Do not store voicemail if message is just silence for',
+          'T_DO_NOT_LET_CALL' => 'Do not let callers leave voicemail messages longer than',
+        };

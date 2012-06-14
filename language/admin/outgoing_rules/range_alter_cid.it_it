@@ -1,0 +1,10 @@
+$VAR1 = {
+          'T_ANY_RULE2' => 'Ogni regola in uscita',
+          'T_TO_THEIR_EXTEN' => 'alla loro estensione',
+          'T_AND_IS_MAKING' => 'e sta effettuando una chiamata in uscita attraverso la regola',
+          'T_WHEN_AN_EXTENSI' => 'Quando un\'estensione è nell\'intervallo da',
+          'T_AND_PREPENDING' => 'e anteponi',
+          'T_CHANGE_THEIR_CA2' => 'modifica il loro id chiamante a numero derivato aggiungendo',
+          'T_TO2' => 'a',
+          'T_ANY_OUTGOING_RU2' => 'Ogn iregola in uscita esclusi i peer'
+        };

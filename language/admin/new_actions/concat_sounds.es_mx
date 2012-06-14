@@ -1,0 +1,22 @@
+$VAR1 = {
+          'T_CLICK_BUTTON_TO' => 'Haga clic en el botón para añadir el sonido seleccionado a su combinación de sonidos.',
+          'T_FOLDER5' => 'Carpeta',
+          'T_EXISTING_SOUNDS' => 'Sonidos existentes',
+          '__INCLUDES' => [
+                            'new_actions/incl_missing_sound_variables',
+                            'new_actions/incl_tabletitle',
+                            'new_actions/incl_button'
+                          ],
+          'T_CURRENT_LANGUAG' => 'Idioma actual',
+          'T_CLICK_BUTTON_TO2' => 'Haga clic en el botón para añadir el sonido de variable seleccionado a su combinación de sonidos.',
+          'T_THE_BOXES_ABO' => 'Los cuadros de arriba representarán los sonidos y el orden de los sonidos que desee combinar. Para añadir un sonido, seleccione un sonido o variablede los menús desplegables de abajo y haga cic en el botón Añadir para combinar adecuado. Puede combinar hasta 10 sonidos en una variable de sonido.Puede borrar su orden de combinación y empezar de nuevo haciendo clic en el botón Borrar sonidos combinados.',
+          'T_SOUND_DESCRIPTI4' => 'Descripción del sonido',
+          'T_SOUND_VARIABLES' => 'Variables de sonido',
+          'T_LANGUAGE5' => 'Idioma',
+          'T_CLEAR_MERGE_SOU' => 'Borrar sonidos combinados',
+          'T_SOUNDS_TO_MERGE' => 'Sonidos para combinar',
+          'T_SOUND_TO_PLAY' => 'Sonido para reproducir',
+          'T_APPEND_TO_MERGE2' => 'Añadir para combinar',
+          'T_APPEND_TO_MERGE' => 'Añadir para combinar',
+          'T_VARIABLE_NAME_F3' => 'Nombre de variable para sonido combinado'
+        };

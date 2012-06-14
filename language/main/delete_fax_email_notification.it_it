@@ -1,0 +1,10 @@
+$VAR1 = {
+          'T_ARE_YOU_SURE_YO5' => 'Eliminare definitivamente questa notifica di fax?',
+          'T_DELETE_FAX_EMAIL_NOTIFICATION' => 'Elimina notifica di fax',
+          'T_YES_DELETE_FAX' => 'Sì, elimina notifica di fax',
+          'T_WILL_NO_LONGER' => 'Non si riceveranno più notifiche di fax se si procede.',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ],
+          'T_THE_EMAIL_ADD' => 'L\'indirizzo e-mail'
+        };

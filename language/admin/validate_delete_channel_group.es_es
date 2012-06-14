@@ -1,0 +1,10 @@
+$VAR1 = {
+          'T_DELETING_THIS' => 'Al eliminar este grupo de canales, su sistema telefónico se reiniciará. Se perderá cualquier llamada telefónica actual y todos los agentes conectados se desconectarán.',
+          'T_WARNING' => 'ADVERTENCIA',
+          'T_DELETE_CHA' => 'Eliminar grupo de canales',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ],
+          'T_YES_DELETE_CHA' => 'Sí, eliminar grupo de canales',
+          'T_ARE_YOU_SURE_YO' => '¿Está seguro de que desea eliminar permanentemente el grupo de canales?'
+        };

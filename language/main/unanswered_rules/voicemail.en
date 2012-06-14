@@ -1,0 +1,15 @@
+##This file was auto generated##
+my $LANG =
+{
+T_VM_SEND			=> 'Send',
+T_VM_DIRECT_CALLS	=> 'direct calls',
+T_VM_QUEUE_CALLS	=> 'queue calls',
+T_VM_ALL_CALLS		=> 'all calls',
+T_VM_TO_VOICEMAI	=> 'to voicemail',
+T_VM_AFTER			=> 'after',
+T_VM_RINGS_WHEN		=> 'rings when time is',
+T_VM_IMMED			=> 'immediately',
+'__INCLUDES'		=> [
+                            'incl_ringcount_select',
+					   ],
+};

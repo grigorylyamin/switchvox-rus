@@ -1,0 +1,4 @@
+$VAR1 = {
+          'T_REBOOT_PHONE2' => 'Esegui reboot telefono',
+          'T_SAVE_SETTING' => 'Salva impostazione'
+        };

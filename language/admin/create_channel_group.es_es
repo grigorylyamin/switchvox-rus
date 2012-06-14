@@ -1,0 +1,14 @@
+$VAR1 = {
+          'T_MODIFY_CHANNEL' => 'Modificar grupo de canales',
+          'T_SAVE_CHANNEL_GR' => 'Guardar grupo de canales',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ],
+          'T_ANY_MODIFICATI' => 'Cualquier modificación en cualquier configuración de los grupos de canales requerirá un reinicio del sistema telefónico. Se perderá cualquier conexión telefónica actual y todos los agentes conectados se desconectarán.',
+          'T_CREATING_A_NEW' => 'Crear un nuevo grupo de canales requiere un reinicio de su sistema telefónico. Se perderá cualquier conexión telefónica actual y todos los agentes conectados se desconectarán.',
+          'T_NOTE7' => 'NOTA',
+          'T_CHANNEL_GROUP_C' => 'Configuración de grupo de canales',
+          'T_UNLESS_YOU_ARE' => 'A menos que sea un usuario avanzado, sólo debería ajustar los siguientes campos de Configuración de grupo de canales. Nombre de grupo, Tipo de dispositivo y Extensión de devolución de llamada (si fuese el caso).',
+          'T_WARNING18' => 'ADVERTENCIA',
+          'T_CREATE_CHANNEL' => 'Crear grupo de canales'
+        };

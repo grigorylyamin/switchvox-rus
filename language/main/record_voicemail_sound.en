@@ -1,0 +1,13 @@
+$VAR1 = {
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_SOUND_NAME' => 'Sound Name',
+          'T_SOUND_SOURCE' => 'Sound Source',
+          'T_THIS_WILL' => 'This will ring the above extension for the recording. Answer the phone, follow the voice instructions, hangup, and then click the "Done" button on the next page. Your sound will be saved successfully.',
+          'T_RECORD_OVER_PHO' => 'Record Over Phone',
+          'T_ONLY_WAV_OR_GSM' => 'Only wav or gsm files are supported',
+          'T_CREATE_NEW_SOUN' => 'Create New Sound',
+          'T_EXTENSION_TO_RI' => 'Extension to Ring',
+          'T_UPLOAD_FILE' => 'Upload File'
+        };

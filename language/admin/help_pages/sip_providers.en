@@ -1,0 +1,14 @@
+$VAR1 = {
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ],
+          'T_THE_VOIP_PROVID' => 'The VOIP Providers section allows you to use external Voice Over IP
+connections for placing outbound calls.  VOIP providers can be either
+commercial Voice Over IP phone services, or other VOIP hardware such
+as other PBX systems that you wish to peer with.',
+          'T_THERE_ARE_TWO' => 'There are two types of VOIP providers: SIP or IAX.  These are two
+common protocols used for placing phone calls over the internet.  Ask
+your provider which protocol they prefer if you are unsure which one
+to use.'
+        };

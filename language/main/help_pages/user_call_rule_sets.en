@@ -1,0 +1,15 @@
+$VAR1 = {
+          'T_CASCADE_CALLS_T' => 'Cascade calls to my cell if I don\'t answer',
+          'T_ROUTE_CALLS_DIF' => 'Route calls differently based on the time of day',
+          'T_HELP_ME_WITH_BA' => 'Help me with basic Call Rule Sets',
+          'T_HELP_ME_WITH_AD' => 'Help me with advanced Call Rule Sets',
+          'T_CREATE_AN_ALTER' => 'Create an alternate rule set that I can enable when I\'m out of the office',
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ],
+          'T_YOU_CAN_USE_CAL' => 'You can use Call Rule Sets to define what happens when your extension is called.',
+          'T_FORWARD_ALL_MY' => 'Forward all my calls to another extension',
+          'T_MANAGE_MULTIPLE' => 'Manage multiple rule sets at a time',
+          'T_GO_STRAIGHT_TO' => 'Go straight to voicemail when I\'m on the phone'
+        };

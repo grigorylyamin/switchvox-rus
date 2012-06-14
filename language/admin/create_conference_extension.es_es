@@ -1,0 +1,14 @@
+$VAR1 = {
+          'T_CREATE_EXTENSIO' => 'Crear extensión',
+          '__INCLUDES' => [
+                            'edition/incl_create_conference_extension'
+                          ],
+          'T_CONFERENCE_EXTENS' => 'Extensión de centro de conferencias Meet Me',
+          'T_INFINITE' => 'Ilimitado',
+          'T_MODIFY_TITLE' => 'Modificar la extensión del centro de conferencias "Meet Me',
+          'T_CONSTRAINT' => 'dígitos de longitud',
+          'T_INVALID_PIN_A' => 'intentos no válidos al número de la sala de conferencias, transferir la llamada a la extensión ',
+          'T_AFTER' => 'Después de',
+          'T_MODIFY_EXTENSIO' => 'Modificar extensión',
+          'T_CREATE_TITLE' => 'Crear la extensión del centro de conferencias "Meet Me'
+        };

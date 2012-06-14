@@ -1,0 +1,16 @@
+$VAR1 = {
+          'T_CREATE_DIRECTED' => 'Create Directed Pickup Group',
+          'T_WHICH' => 'Which ',
+          'T_THAT_CAN_USE' => ' that can use directed pickup',
+          'T_CALLS_CAN_THEY' => ' calls can they pickup',
+          'T_FEATURE_CODE_EX' => 'Feature Code Extension',
+          'T_MORE_ABOUT_DIR' => 'More about directed pickup',
+          'T_CREATE_EXTENSIO' => 'Create Extension',
+          '__INCLUDES' => [
+                            'incl_header',
+                            '../common/incl_permission_settings',
+                          ],
+          'T_2_DIGITS_IN_LEN' => '2 digits in length',
+          'T_MODIFY_EXTENSIO' => 'Modify Extension',
+          'T_THIS_FEATURE' => 'This feature code will allow an extension to answer a call that is ringing on a different extension.'
+        };

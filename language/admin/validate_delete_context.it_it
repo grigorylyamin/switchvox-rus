@@ -1,0 +1,17 @@
+$VAR1 = {
+          'T_ACTION' => 'Azione',
+          'T_WARNING' => 'ATTENZIONE',
+          'T_THE_VARIABLES' => 'Le variabili',
+          'PT_DEL_IVR_MENU' => 'Elimina menu IVR',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ],
+          'T_FOUND_IN_THIS' => 'Trovate in questo Menu IVR sono referenziate in azioni contenute in altri menu IVR. Se si rimuove questo menu IVR, le variabili non saranno rimosse dal sistema. Di seguito è presentato un elenco di nomi del menu Ivr e delle azioni che fanno riferimento a queste variabili.',
+          'T_ARE_YOU_SURE_YO' => 'Eliminare definitivamente il menu IVR',
+          'T_YES_DELETE_CON' => 'Sì, elimina menu IVR',
+          'T_ORDER' => 'ordine',
+          'T_ARE_NOT_REFERE' => 'non sono referenziate altrove nel sistema. Quando questa azione viene rimossa anche questa variabile verrà rimossa dal sistema.',
+          'T_VARIABLE_NAME' => 'Nome variabile',
+          'T_CONTEXT' => 'Menu IVR',
+          'T_NOTE' => 'NOTA'
+        };

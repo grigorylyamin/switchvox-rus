@@ -1,0 +1,12 @@
+$VAR1 = {
+          'T_PUBLISH_AUTOMAT2' => 'Publish Automated Fax',
+          'T_LOW_NBSP_N4' => 'Low',
+          'T_THUMB4' => 'Thumb',
+          'T_CHOOSE_EXTENSIO3' => 'Choose Extension',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_AUTOMATED_FAX_I2' => 'Automated Fax Info',
+          'T_RESOLUTION4' => 'Resolution',
+          'T_HIGH4' => 'High'
+        };

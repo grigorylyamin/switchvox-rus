@@ -1,0 +1,12 @@
+$VAR1 = {
+		'T_PHONEBOOK' => 'Phonebook',
+		'T_NO_ENTRIES' => 'There are no entries in this phonebook.',
+		'T_NEXT' => 'Next Page',
+		'T_PREV' => 'Previous Page',
+		'T_MORE' => 'more',
+		'T_CALL' => 'Call',
+		'__INCLUDES' => [
+                            'incl_softkeys',
+							'incl_error_header',
+                          ],
+};

@@ -1,0 +1,15 @@
+$VAR1 = {
+          'T_RECEIVED' => 'Recibido',
+          'T_PLAY' => 'Reproducir',
+          'T_NUM' => 'Número',
+          '__INCLUDES' => [
+                            'incl_softkeys',
+                            'incl_error_header'
+                          ],
+          'T_VM_DETAILS' => 'Detalles del buzón de voz',
+          'T_DURATION' => 'Duración',
+          'T_DELETE' => 'Eliminar',
+          'T_TIME' => 'Hora',
+          'T_NAME' => 'Nombre',
+          'T_DATE' => 'Fecha'
+        };

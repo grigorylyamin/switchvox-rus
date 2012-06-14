@@ -1,0 +1,72 @@
+$VAR1 = {
+          'T_IN_THE_EXTENSI' => 'In the extensions.conf file, here is how to extract the settings from a Dial command',
+          'T_TERTIARY_OUTBOU' => 'Tertiary Outbound Host',
+          'T_USERNAME4' => 'username',
+          'T_HOSTNAMEIP_ADD2' => 'Hostname/IP Address',
+          'T_TYPEPEER' => 'type=peer',
+          'T_AND8' => 'and',
+          'T_CALLER_ID_NUMB' => 'Caller ID Number',
+          'T_IAX_PROVIDER_FI2' => 'IAX Provider fields',
+          'T_PASSWORD5' => ':password',
+          'T_CALLER_ID_NAME3' => 'Caller ID Name',
+          'T_SECONDARY_OUTBO' => 'Secondary Outbound Host',
+          'T_IAXCONF_PARAME' => 'iax.conf parameter',
+          'T_EXTEN__X1' => 'exten => _X.,1,Dial(IAX2/',
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ],
+          'T_USERNAMEMYUSER' => 'username=myuser',
+          'T_YOUR_PASSWORD3' => 'Your Password',
+          'T_RSA_AUTHENTICAT' => 'RSA Authentication Key',
+          'T_IAX_PROVIDER_LA2' => 'IAX Provider Label',
+          'T_INCOMING_PASSWO' => 'Incoming Password',
+          'T_CALLERIDJOHN' => 'callerid="John Doe &lt;5551212&gt;"',
+          'T_USERNAME3' => 'username',
+          'T_YOUR_ACCOUNT_ID3' => 'Your Account ID',
+          'T_NOTE23' => 'NOTE',
+          'T_AUTHRSA' => 'auth=rsa',
+          'T_LABEL' => '[label]',
+          'T_OR9' => 'or',
+          'T_REPLACED_BY' => 'replaced by',
+          'T_PASSWORD6' => ':password',
+          'T_IAX_PROVIDER_FI3' => 'IAX Provider fields',
+          'T_EXTENSIONSCONF' => 'extensions.conf Dial string',
+          'T_YOUR_ACCOUNT_ID' => 'Your Account ID',
+          'T_DISALLOWALLAL' => 'disallow=all
+allow=ulaw
+allow=alaw',
+          'T_PROVIDER_CODECS' => 'Provider Codecs',
+          'T_OR11' => 'or',
+          'T_HERE_IS_AN_EXA' => 'Here is an example register line in the iax.conf configuration file',
+          'T_IAXPROVIDERC' => '@iax.provider.com',
+          'T_HOSTIAXPROVID' => 'host=iax.provider.com',
+          'T_SECRETMYPASSWO' => 'secret=mypassword',
+          'T_HERE_IS_A_SECT' => 'Here is a section in the iax.conf configuration file',
+          'T_IAXCONF_REGIST' => 'iax.conf register statement',
+          'T_INCOMING_AUTHEN' => 'Incoming Authentication Type',
+          'T_NOT_USED' => 'not used',
+          'T_HOSTNAMEIP_ADD' => 'Hostname/IP Address',
+          'T_MANY_IAX_PROVID' => 'Many IAX providers distribute their configuration instructions in the
+form of configuration files for the Asterisk PBX.  The following
+information will enable you to translate between Asterisk
+configuration files and this phone system\\\'s IAX Providers section.',
+          'T_CALLBACK_EXTEN' => 'Callback Extension',
+          'T_INKEYSKEYNAME' => 'inkeys=keyname',
+          'T_CONTEXTNOTUSED' => 'context=notused',
+          'T__THIS_HELP_SEC' => ': This help section is not necessary if you do
+not need to convert settings from asterisk configuration files.  For
+more specific help on the IAX Providers section, please consult the
+help links for each field for more information on configuring IAX.',
+          'T_YOUR_ACCOUNT_ID2' => 'Your Account ID',
+          'T_EXTEN' => '/${EXTEN})',
+          'T_REGISTER' => 'register =>',
+          'T_IAXPROVIDERC2' => '@iax.provider.com',
+          'T_YOUR_PASSWORD' => 'Your Password',
+          'T_IAX_PROVIDER_FI' => 'IAX Provider fields',
+          'T_YOUR_PASSWORD2' => 'Your Password',
+          'T_PRIMARY_OUTBOUN' => 'Primary Outbound Host',
+          'T_OR12' => 'or',
+          'T_OR10' => 'or',
+          'T_HOSTNAMEIP_ADD3' => 'Hostname/IP Address'
+        };

@@ -1,0 +1,22 @@
+$VAR1 = {
+          'T_CREATE_EXTENSIO6' => 'Crear extensión',
+          'T_SECONDS4' => 'segundos.',
+          'T_EXTENSION_RANGE_2' => 'y',
+          'CCE_CALLPARK_CONFLICT' => 'El intervalo de extensiones que introdujo entra en conflicto con las extensiones indicadas más abajo. Introduzca un intervalo de extensiones diferente, o diríjase a <a href="/admin?cmd=view_extensions">Gestionar extensiones</a> para cambiar estas extensiones.',
+          'T_RETURN_PARKED' => 'Devolver las llamadas estacionadas a la extensión que estacionó la llamada después de',
+          'T_EXTENSION_SECONDS_1' => 'Devolver las llamadas estacionadas a la extensión que estacionó la llamada después de',
+          'T_EXTENSION' => 'Extensión',
+          'T_DIGITS_IN_LENGT4' => 'dígitos de longitud',
+          'T_EXTENSION_SECONDS_2' => 'segundos',
+          'T_EXTENSION_RANGE_1' => 'El estacionamiento reservará todas las extensiones entre ',
+          'T_MODIFY_CALLPARK_EXTENSION' => 'Modificar extensión de estacionamiento de llamadas',
+          'T_CALL_PARKING_EX' => 'Extensión de estacionamiento de llamadas',
+          'T_PARKING_LOT_W' => 'El estacionamiento reservará todas las extensiones entre ',
+          'T_CREATE_CALLPARK_EXTENSION' => 'Crear extensión de estacionamiento de llamadas',
+          'T_MODIFY_EXTENSIO5' => 'Modificar extensión',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ],
+          'CBI_CONFLICTING_EXTENSI' => 'Extensiones en conflicto:',
+          'T_THROUGH' => 'hasta'
+        };

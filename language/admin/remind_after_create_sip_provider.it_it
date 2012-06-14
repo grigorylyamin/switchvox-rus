@@ -1,0 +1,17 @@
+$VAR1 = {
+          'T_SYSTEM_OUTGOI' => 'sistema. Le regole di chiamata in uscita sono state generate automaticamente utilizzando questo fornitore VOIP. È possibile visualizzare ulteriori informazioni sulle regole di chiamata in uscita appena create in',
+          'T_OUTGOING_CALLS' => 'Chiamate in uscita',
+          'T_PAGE' => ' pagina.',
+          'T_SECTION_OF_THE' => 'sezione di questa suite di amministrazione.',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ],
+          'T_GO_TO_SYSTEM_ST' => 'Vai a stato sistema',
+          'T_DONT_REMIND_ME' => 'Non ricordarmelo più.',
+          'T_REMIND_STATUS' => 'Nuovo fornitore VOIP aggiunto al sistema. Verificare che il sistema sia connesso correttamente al fornitore visitando',
+          'T_SYSTEM_STATUS' => 'Stato connessione',
+          'T_A_NEW_VOIP_PRO' => 'Un nuovo fornitore VOIP è stato aggiunto al sistema, ma per eseguire qualsiasi chiamata in uscita con questo fornitore, devono prima essere configurate le regole di chiamata in uscita nel',
+          'T_BACK_TO_VOIP_PR' => 'Torna a fornitori VOIP',
+          'T_NOTE' => 'NOTA',
+          'T_THE_FIRST_VOIP' => 'Primo fornitore VOIP aggiunto al'
+        };

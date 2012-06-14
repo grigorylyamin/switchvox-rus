@@ -1,0 +1,9 @@
+$VAR1 = {
+          'T_RING_PHONE_AND' => 'Ring Phone and Play Sound',
+          'T_PLAY_SOUND' => 'Play Sound Over Phone',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_SOUND_DESCRIPTI2' => 'Sound Description',
+          'T_EXTENSION_TO_CA' => 'Extension to Call'
+        };

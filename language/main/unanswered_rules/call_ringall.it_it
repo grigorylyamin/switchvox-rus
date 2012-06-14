@@ -1,0 +1,18 @@
+$VAR1 = {
+          'T_AND_DO_NOT_PRES' => 'e non preservare l\'id chiamate.',
+          'T_SIMULTANEOUSLY' => 'simultaneamente',
+          'T_RINGS' => 'squilla',
+          'T_ALL_CALLS2' => 'Tutte le chiamate',
+          'T_DIRECT_CALLS' => 'Chiamate dirette',
+          '__INCLUDES' => [
+                            'incl_ringcount_select'
+                          ],
+          'T_AND_ATTEMPT_TO' => 'e non tentare l\'id chiamate.',
+          'T_AFTER2' => 'dopo',
+          'T_QUEUE_CALLS' => 'Chiamate in coda',
+          'T_RING_ALL' => 'Telefona a tutti',
+          'T_FOR' => 'Per',
+          'T_ATTEMPT_TO_PRES' => 'e non tentare di preservare l\'id chiamate.',
+          'T_IMMEDIATELY' => 'immediatamente',
+          'T_AND3' => 'e'
+        };

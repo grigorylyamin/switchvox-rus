@@ -1,0 +1,15 @@
+$VAR1 = {
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ],
+          'T_MAKE_SURE_YOUR6' => 'Make sure your phone is ON and is plugged into your local LAN via an Ethernet cord.',
+          'T_CHECK_THE_CONFI' => 'Check the configuration of your phone. Your SIP phone has to be configured to know the IP of your PBX and has to have the correct password you typed in under the "Phone Password" when you created the extension in web administration suite. 
+Different phones have different ways of being configured. Some have a web interface that you can access by typing the IP address of the phone into your web browser or other phones have a menu system that can be access through the phone\\\'s LCD display. Either interface should allow you to change the registration server address to be that of your PBX system and to also change the password the phone uses when connecting to the PBX. For more information on configuring your phone please see your phone\\\'s manual or call your phone\\\'s technical support.',
+          'T_IF_YOUR_PHONE_H2' => 'If your phone has a built in switch make sure the Ethernet cord is plugged into the correct Ethernet jack.',
+          'T_UNREACHABLE_ST2' => 'Unreachable State?',
+          'T_MAKE_SURE_THERE2' => 'Make sure there isn\\\'t a firewall between your phone and your phone system that could be blocking your phone from accessing your phone system.',
+          'T_MAKE_SURE_YOUR7' => 'Make sure your phone is on the same LAN as your phone system on not on a separate partitioned LAN subnet.',
+          'T_THIS_MEANS_THA2' => 'This means that the SIP phone you have created has not registered with the server yet. This might not be a problem if you are aware that the phone does not exist, is not plugged in, or being moved. However, if the phone does exist then this means there is a problem with it getting to the phone system. Below are a list of problems that could be causing this.',
+          'T_WHY_SIP_PHONES2' => 'Why SIP phones could be in an'
+        };

@@ -1,0 +1,8 @@
+$VAR1 = {
+          'T_WHEN_AN_INCOMIN' => 'When an incoming fax is detected on this provider, the fax is routed to this extension.',
+          'T_ONLY_T38_FAXES' => 'Only T.38 faxes are detected on SIP Providers.',
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ]
+        };

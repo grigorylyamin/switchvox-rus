@@ -1,0 +1,11 @@
+$VAR1 = {
+          'T_FF' => 'Firefox versione 3.5.X o più recente per Windows, Mac, o Linux.',
+          'T_FOR_OPTIMAL' => 'Per una migliore esperienza, raccomandiamo l\'utilizzo di uno dei seguenti browser web',
+          'T_GET_BROWSER' => 'Scarica browser',
+          'T_PROCEED' => 'Continua con questo browser',
+          'T_CHROME' => 'Chrome versione 8.0 o più recente per Windows.',
+          'T_UNSUPPORTED_BROWSER' => 'Browser non supportato',
+          'T_NOT_TESTED' => 'Il browser web non è ufficialmente supportato dalla suite web di PBX.',
+          'T_SAFARI' => 'Safari versione 5.0 o più recente per Windows o Mac.',
+          'T_IE' => 'Internet Explorer versione 8.X su Windows.'
+        };

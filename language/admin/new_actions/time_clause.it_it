@@ -1,0 +1,11 @@
+$VAR1 = {
+          'T_THEN_GO_TO_IVR2' => 'Quindi accedere a Menu IVR',
+          'T_IF_THE_CURRENT' => 'Se il tempo attuale è all\'interno dell\'intervallo di tempo',
+          'T_IVR_MENU_BEGINN4' => 'Inizio Menu IVR',
+          '__INCLUDES' => [
+                            'new_actions/incl_button',
+                            'new_actions/incl_tabletitle'
+                          ],
+          'T_AT_ENTRY_POINT2' => 'Al punto di ingresso',
+          'T_ALWAYS8' => 'Sempre'
+        };

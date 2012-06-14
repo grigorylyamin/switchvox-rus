@@ -1,0 +1,8 @@
+$VAR1 = {
+          'T_NOTE_DEPENDIN' => 'Note: Depending on what ring strategy you use the order of members in your queue could matter. Example: If you choose Round Robin as your ring strategy it will call the member in the first position, then call the second, etc. To change the ordering of a member, highlight them and use the up/down arrows to change their position.',
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ],
+          'T_QUEUE_MEMBERS_A' => 'Queue Members are extensions that you add to your queue signifying that they have permission to log into the queue and receive calls from that queue. Only phone extensions and agents are valid queue members.'
+        };

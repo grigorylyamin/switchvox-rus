@@ -1,0 +1,17 @@
+$VAR1 = {
+          'T_CURRENTLY_RINGI' => 'Estensione che stanno attualmente squillando',
+          'T_WITH_NUMBER' => 'Con numero',
+          '__INCLUDES' => [
+                            '../common/incl_help_header',
+                            '../common/incl_help_footer'
+                          ],
+          'T_LOGIN' => 'Accesso',
+          'T_VARIABLE_NAME2' => 'Nomi variabile',
+          'T__VALUE2' => ', Valore',
+          'T__STATUS_NOT_D' => ',Stato: Non definito nel sistema.',
+          'T_VARIABLES_ENTER' => 'Variabili inserite nella creazione di chiamate',
+          'T_VARIABLE_NAME' => 'Nomi variabile',
+          'T__VALUE' => ', Valore',
+          'T_CLICK_THE_LINK' => 'Cliccare sul collegamento qui sotto per accedere alla suite utente on line:',
+          'T__STATUS_SUCCE' => ',Stato: Corrispondenza nel sistema riuscita.'
+        };

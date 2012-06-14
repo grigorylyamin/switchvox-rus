@@ -1,0 +1,13 @@
+$VAR1 = {
+		'__INCLUDES' => [
+                            'incl_softkeys',
+							'incl_error_header',
+                        ],
+	'T_PARKING_LOTS' => 'Call Parking',
+	'T_VOICEMAIL' => 'Voicemail',
+	'T_PHONEBOOKS' => 'Phonebooks',
+	'T_DIRECTORY' => 'Directory',
+	'T_LOG_OUT' => 'Log Out',
+	'T_RECORD_CALL' => 'Record Call',
+	'T_PHONE_APPS_MENU' => 'Phone Application Menu',
+};

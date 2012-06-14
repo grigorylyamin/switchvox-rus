@@ -1,0 +1,4 @@
+$VAR1 = {
+          'T_PROCESS_ALL_CA' => 'procesar todas las llamadas como un fax.',
+          'T_AND10' => 'y'
+        };

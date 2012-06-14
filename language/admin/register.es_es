@@ -1,0 +1,12 @@
+$VAR1 = {
+          'T_UPGRADE' => 'Si ha adquirido la actualización para la versión de prueba de 60 días para PYME, haga clic <a href="/admin?cmd=register&upgrade=1">aquí</a> para introducir el nuevo código de registro de PYME.',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ],
+          'T_ALSO_BE_SURE' => 'Asegúrese de guardar sus medios de instalación y Código de registro en un lugar seguro para poder reinstalarlo fácilmente si fuera necesario.',
+          'T_THIS_INSTALLATI' => 'Esta instalación ya está registrada. ¡Gracias!',
+          'T_YOU_MAY_NEED_TO' => 'Tal vez necesite indicar este código para recibir asistencia técnica.',
+          'T_NOW_THAT_YOU' => 'Ahora que su PBX está registrado, puede crear tantas extensiones nuevas como le permita su Suscripción.',
+          'T_FIRST_SIX_CH' => 'Los primeros seis caracteres de su código de registro',
+          'T_THANK_YOU_FOR_R' => 'Gracias por registrar su PBX.'
+        };

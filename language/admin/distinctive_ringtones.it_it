@@ -1,0 +1,15 @@
+$VAR1 = {
+          'T_PAGE_HEAD' => 'Suonerie caratteristiche',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ],
+          'T_RINGTONE_FILE_UPDATE' => 'Nuovo file suoneria',
+          'T_YES_DELETE' => 'Sì, elimina',
+          'T_ADD_A_RINGTONE' => 'Aggiungi una suoneria',
+          'T_ADD_RT' => 'Aggiungi suoneria',
+          'T_NAME' => 'Nome',
+          'T_UPDATE' => 'Aggiorna',
+          'T_CANCEL' => 'Annulla',
+          'T_RINGTONE_FILE' => 'File suoneria (file .WAV)',
+          'T_HOW_DOES_THIS' => 'Come funziona?'
+        };

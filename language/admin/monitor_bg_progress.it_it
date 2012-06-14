@@ -1,0 +1,9 @@
+$VAR1 = {
+          'T_PLEASE_BE_PATIE' => 'Attendere e non aggiornare la pagina.',
+          'T__COMPLETE3' => '0% completo',
+          '__INCLUDES' => [
+                            '../common/incl_help_header',
+                            'incl_header',
+                            '../common/incl_help_footer',
+                          ]
+        };

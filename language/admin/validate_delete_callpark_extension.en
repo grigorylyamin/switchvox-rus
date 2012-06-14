@@ -1,0 +1,7 @@
+$VAR1 = {
+          'T_YES_DELETE_EXT8' => 'Yes, Delete Extension',
+          'T_ARE_YOU_SURE_YO29' => 'Are you sure you want to permanently delete this call parking lot',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ]
+        };

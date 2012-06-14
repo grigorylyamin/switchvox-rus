@@ -1,0 +1,9 @@
+$VAR1 = {
+          '__INCLUDES' => [
+                          ],
+          'ONC_DO_NOT_REMOVE' => 'Do not remove.',
+          'T_ERROR' => 'Error',
+          'T_REQUEST_INVALID' => 'Your request was invalid.',
+          'T_PLEASE_MAKE_SURE' => 'Please make sure the URL you entered is correct.',
+          'T_IF_YOU_BELIEVE' => 'If you believe this is an error with the system, have your administrator contact customer support.',
+        };

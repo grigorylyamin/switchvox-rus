@@ -1,0 +1,7 @@
+$VAR1 = {
+          'T_THE_NETWORK_YOU' => 'La rete da cui si sta tentendo di accedere a questo sito non è consentita.',
+          'T_ERROR' => 'Errore',
+          'T_IF_YOU_BELIEVE_YOU' => 'In caso si ritenga che l\'accesso debba essere consentito, contattare l\'amministratore di sistema.',
+          '__INCLUDES' => [],
+          'T_NETWORK_FORBIDDEN' => 'La rete utilizzata è vietata o non si dispone dei permessi adeguati per visualizzare questa pagina.'
+        };

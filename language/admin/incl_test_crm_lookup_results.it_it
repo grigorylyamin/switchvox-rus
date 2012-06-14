@@ -1,0 +1,6 @@
+$VAR1 = {
+          'T_CONTACTS_MATC' => 'Contatti corrisposti per',
+          'T_EMAIL8' => 'E-mail',
+          'T_NAME7' => 'Nome',
+          'T_PHONE2' => 'Telefono'
+        };

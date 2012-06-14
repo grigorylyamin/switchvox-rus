@@ -1,0 +1,4 @@
+$VAR1 = {
+          'T_PARKING_LOT' => 'Estacionamiento',
+          'T_QUEUE_LOGIN_STA' => 'Estado de conexión a la cola'
+        };

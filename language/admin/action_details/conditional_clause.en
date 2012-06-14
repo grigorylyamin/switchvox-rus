@@ -1,0 +1,6 @@
+$VAR1 = {
+          'T_IVR_MENU_ENTRY3' => 'IVR Menu Entry Point',
+          'T_ACTION_TYPE14' => 'Action Type',
+          'T_GO_TO_IVR_MENU3' => 'Go To IVR Menu',
+          'T_CONDITIONAL_CLA' => 'Conditional Clause'
+        };

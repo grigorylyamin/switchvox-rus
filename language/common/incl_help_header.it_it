@@ -1,0 +1,5 @@
+$VAR1 = {
+          'T_CLOSE_WINDOW' => 'CHIUDI FINESTRA',
+          'T_ERROR' => 'ERRORE',
+          '__INCLUDES' => []
+        };

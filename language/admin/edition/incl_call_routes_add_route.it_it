@@ -1,0 +1,4 @@
+$VAR1 = {
+          'T_SINGLE_DID' => 'DID singoli',
+          'T_MULTIPLE_DID' => 'DID multipli'
+        };

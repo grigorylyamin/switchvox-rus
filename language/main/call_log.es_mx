@@ -1,0 +1,18 @@
+$VAR1 = {
+          'T_USE_THIS_FORM_T' => 'Utilice este formulario para visualizar el historial de llamadas de esta extensión para un intervalo de fechas.',
+          'T_ALL_CALLS' => 'Todas las llamadas',
+          'T_VIEW_REPORT2' => 'Visualizar informe',
+          'T_OUTGOING_CALLS' => 'Llamadas salientes',
+          'T_MMDDYYYY10' => 'dd/mm/aaaa',
+          '__INCLUDES' => [
+                            'incl_header',
+                            '../common/incl_table',
+                            '../common/incl_calendar_header'
+                          ],
+          'T_MMDDYYYY11' => 'dd/mm/aaaa',
+          'T_OUPUT_TO_XLS_F2' => 'Salida como archivo .xls',
+          'T_VIEW5' => 'Visualizar',
+          'T_INCOMING_CALLS' => 'Llamadas entrantes',
+          'T_TO_DATE4' => 'Fecha hasta',
+          'T_FROM_DATE4' => 'Fecha desde'
+        };

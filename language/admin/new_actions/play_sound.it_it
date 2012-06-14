@@ -1,0 +1,5 @@
+$VAR1 = {
+          '__INCLUDES' => [],
+          'T_THIS_SOUND_IS_I' => 'Questo file audio è interrompibile',
+          'T_WHAT_IS_AN_INT2' => 'Cos\'è un audio interrompibile?'
+        };

@@ -1,0 +1,11 @@
+$VAR1 = {
+          'T_CALL_LANGUAGE' => 'Lingua chiamata',
+          'T_SOUND_DESCRIPTI3' => 'Descrizione audio',
+          '__INCLUDES' => [
+                            'new_actions/incl_back_button',
+                            'new_actions/incl_button',
+                            'new_actions/incl_tabletitle'
+                          ],
+          'T_LANGUAGE4' => 'Lingua:',
+          'T_FOLDER4' => 'Cartella'
+        };

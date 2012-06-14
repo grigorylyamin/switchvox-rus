@@ -1,0 +1,24 @@
+$VAR1 = {
+          'T_ENTER_A_UNIQUE' => 'Enter a unique number for your conference room. This is the number that you give to callers so they can access your conference room. Click the green arrow to have the system pick a random, unused room number for you.',
+          'T_THIS_SECTION_L' => 'This section lets you create your own conference room.  Ask your
+Switchvox administrator for the main conference room extension number. 
+When a caller dials that number, he can access your conference room by dialing your conference room number.',
+          'T_SOUND_WITH_CALL4' => 'Sound with Caller Name (user review option)',
+          'T_CHECK_THIS_BOX4' => 'Check this box and select a sound to play to all members of the conference room when a new caller enters the room. There are three options for the sound type that is played when a caller enters and exits your conference room',
+          'T_THE_CALLER_IS' => 'The caller is prompted to record his name. The recorded name is then played along with a sound.',
+          'T_CONFERENCE_MEMB' => 'Conference members may press # and be sent to extension []',
+          'T_YOUR_CONFERENCE2' => 'Your Conference Room Number',
+          'T_SOUND_WITH_CALL3' => 'Sound with Caller Name',
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ],
+          'T_YOU_CAN_CHANGE' => 'You can change the behavior of your conference room using the following options',
+          'T_ONLY_A_SOUND_I' => 'Only a sound is played, no information about the caller.',
+          'T_ENTER_AN_EXTENS' => 'Enter an extension here, so that when a member hits the # key, he is transferred to that extension.',
+          'T_ONLY_SOUND2' => 'Only Sound',
+          'T_PLAY_MUSIC_ON_H' => 'Play Music On Hold when only 1 member is in the conference',
+          'T_PLAY_SOUND_WHEN' => 'Play sound when people enter/leave',
+          'T_THIS_IS_THE_SA' => 'This is the same as \'Sound with Caller Name,\' but it gives the caller an opportunity to listen to his recorded name, then accept or re-record it before joining the conference room.',
+          'T_CHECK_THIS_BOX5' => 'Check this box if you want this to be true. This gives feedback to a caller that they are the only one in the room.'
+        };

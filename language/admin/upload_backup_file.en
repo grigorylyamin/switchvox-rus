@@ -1,0 +1,14 @@
+$VAR1 = {
+          'T_SYSTEM_REGISTRA' => 'System Registration page',
+          'T_UPLOAD_AND_REST' => 'Upload and Restore Backup',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_YOUR_CURRENT_P' => 'Your current PBX configuration will be overwritten with the contents of the backup file you upload. Applying a backup will bring your PBX offline for a couple of minutes while the backup is loaded and processing. This will drop all calls in your system and log any agents out of their queues.',
+          'T_YOUR_PHONE_SYST' => 'Your phone system has not yet been registered and you can\'t apply backups to an unregistered system.',
+          'T_WARNING27' => 'WARNING',
+          'T__THANK_YOU' => '. Thank you.',
+          'T_TO_REGISTER_YOU' => 'To register your PBX please visit the',
+          'T_BACKUP_FILE' => 'Backup File',
+          'T_BKUP_FILE_DESC' => 'If your backup is contained on multiple files, please upload the meta file below, otherwise upload a single backup file.'
+        };

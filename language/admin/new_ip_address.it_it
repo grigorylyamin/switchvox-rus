@@ -1,0 +1,11 @@
+$VAR1 = {
+          'T_IT_MAY_BE_POSS' => 'È possibile trovare il nuovo IP cercando i registri del server DHCP per l\'indirizzo MAC del PBX',
+          'T_THE_IP_ADDRESS' => 'L\'indirizzo IP per il PBX è stato modificato.  La nuova posizione è',
+          'T_ADMIN2' => '/admin',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_THE_PBX_WILL_OB' => 'Il PBX otterrà un nuovo indirizzo IP da DHCP.',
+          'T_HTTPS' => 'https://',
+          'T_PLEASE_WAIT_A_M' => 'Attendere un minuto il riavvio della rete prima di accedere al PBX e alla nuova posizione'
+        };

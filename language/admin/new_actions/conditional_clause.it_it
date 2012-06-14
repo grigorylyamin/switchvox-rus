@@ -1,0 +1,15 @@
+$VAR1 = {
+          'T_DOES_NOT_EQUAL' => 'Non è uguale à',
+          '__INCLUDES' => [
+                            'new_actions/incl_back_button',
+                            'new_actions/incl_button'
+                          ],
+          'T_IS_LESS_THAN' => 'È inferiore a',
+          'T_AT_ENTRY_POINT' => 'Al punto di ingresso',
+          'T_IF' => 'Se',
+          'T_IS_GREATER_THAN' => 'È maggiore di',
+          'T_IVR_MENU_BEGINN3' => 'Inizio Menu IVR',
+          'T_THEN_GO_TO_IVR' => 'Quindi accedere a Menu IVR',
+          'T11' => 'Ulteriori informazioni sulla proposizione condizionale',
+          'T_EQUALS' => 'È uguale a'
+        };

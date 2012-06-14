@@ -1,0 +1,8 @@
+$VAR1 = {
+          'T__COMPLETE2' => '0% completado',
+          'T_YOUR_UPDAT' => 'Su actualización se está procesando en estos momentos. Por favor, espere y no actualice esta página.',
+          'T_TITLE' => 'Marcar actualización',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ]
+        };

@@ -1,0 +1,16 @@
+$VAR1 = {
+          'T_ADVANCED_DEBUGGING_DESC' => 'Le sessioni di identificazione avanzata degli errori possono essere utili per identificare la causa di un problema. Tuttavia, le sessioni assegnano un carico ulteriore alle risorse del sistema PBX. Si consiglia di utilizzare questo strumento solo se guidati da un rappresentante del servizio clienti.',
+          'T_ADVANCED_ERROR' => 'Visualizza Registri Errori Avanzati',
+          'T_HERE2' => 'qui',
+          'T_ERRLOG' => 'Registri errori',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ],
+          'T_ADV_DEBUG' => 'Identificazione avanzata degli errori',
+          'T_NEW_IN_THE_ERROR' => 'Nel registro errori sono registrati e conservati in ordine di data tutti gli errori di server del sistema di telefonia. Sono elencati in colonne per permettere di trovare le informazioni desiderate in maniera facile e veloce.',
+          'T_VIEW_AN_ERR' => 'Data registro errori',
+          'T_VIEW10' => 'Visualizza',
+          'T_VISIT_ADV_DEBUG' => 'Accedere a Identificazione avanzata degli errori',
+          'T_TO_VIEW_THE' => 'per visualizzare',
+          'T_IN_THE_ERROR' => 'Nei registri degli errori, tutti gli errori del server dal sistema di telefonia vengono registrati e archiviati per data. Vengono restituiti come colonne ordinabili per trovare le informazioni cercate rapidamente e facilmente. Cliccare'
+        };

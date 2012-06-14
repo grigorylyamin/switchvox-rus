@@ -1,0 +1,6 @@
+$VAR1 = {
+          'T__DEFINE_THIS2' => '- Define this extension to log a queue member out of one or more queues.',
+          'T_AGENT_LOG_IN' => 'Agent Log In',
+          'T_AGENT_LOG_OUT' => 'Agent Log Out',
+          'T__DEFINE_THIS' => '- Define this extension to log a queue member into one or more queues.  When a member is logged into a queue, calls are directed to that member per the queue\\\'s ringing strategy.'
+        };

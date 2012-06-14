@@ -1,0 +1,11 @@
+$VAR1 = {
+          'T__OR14' => '-O-',
+          'T_WAIT_THIS_MAN' => 'Attendi per i seguenti millisecondi tra cifre:',
+          'T_PLAY_EACH_DIG' => 'Riproduci ogni cifra per i seguenti millisecondi:',
+          '__INCLUDES' => [
+                            'new_actions/incl_button'
+                          ],
+          'T_DTMF_DIGITS' => 'Cifre DTMF da riprodurre',
+          'T_SELECT_A_VARIAB6' => 'Seleziona una variabile:',
+          'T_ENTER_IN_DIGITS2' => 'Inserire cifre manualmente'
+        };

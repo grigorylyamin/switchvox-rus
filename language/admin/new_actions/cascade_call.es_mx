@@ -1,0 +1,10 @@
+$VAR1 = {
+          'T_ENTER_IN_E5' => 'Introduzca la extensión manualmente:',
+          'T__OR20' => '-O-',
+          '__INCLUDES' => [
+                            'new_actions/incl_button'
+                          ],
+          'T_SELECT_A_VARIAB10' => 'Seleccione una variable:',
+          'T_EXTENSION_TO_RI3' => 'Extensión que debe sonar',
+          'T_NUMBER_OF_SECON' => 'Número de segundos que sonarán:'
+        };

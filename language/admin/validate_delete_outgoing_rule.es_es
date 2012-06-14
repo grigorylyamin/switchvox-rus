@@ -1,0 +1,7 @@
+$VAR1 = {
+          'T_YES_DELETE_RULE' => 'Sí, eliminar regla',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_ARE_YOU_SURE_YO' => '¿Está seguro de que desea eliminar permanentemente la regla de llamadas salientes?'
+        };

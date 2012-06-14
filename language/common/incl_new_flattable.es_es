@@ -1,0 +1,5 @@
+$VAR1 = {
+          'T_DATA_CACHED_AT2' => 'Datos en caché en',
+          'T__UPDATED_EVERY2' => '. Actualizado cada media hora',
+          '__INCLUDES' => []
+        };

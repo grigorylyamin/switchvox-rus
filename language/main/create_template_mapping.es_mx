@@ -1,0 +1,13 @@
+$VAR1 = {
+          'T_CREATE_NEW_VOIC' => 'Crear nuevo direccionamiento de plantilla de correo electrónico para buzón de voz',
+          'T_A_WAV_FILE_WILL' => 'Se adjuntará un archivo WAV a su mensaje de correo electrónico si selecciona "Sí".',
+          'T_YES' => 'Sí',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_EMAIL3' => 'Correo electrónico',
+          'T_ATTACH_THE_VOIC' => '¿Adjuntar el mensaje de buzón de voz a la notificación?',
+          'T_SAVE2' => 'Guardar',
+          'T_NO' => 'No',
+          'T_TEMPLATE3' => 'Plantilla'
+        };

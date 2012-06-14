@@ -1,0 +1,9 @@
+$VAR1 = {
+          'PAGE_TITLE_CREATE_BU' => 'Crea file di backup',
+          '__INCLUDES' => [
+                            'incl_header',
+                            'incl_backup_table'
+                          ],
+          'T_BACKUP_CREATIO' => 'La creazione del backup può richiedere diversi minuti e non dovrebbe avere effetti sulle chiamati attuali nel sistema. Una volta cliccato sul pulsante "Crea backup", si verrà reindirizzati a una schermata di attesa mentre il file di backup viene creato.',
+          'T_HOW_DO_I_USE_T' => 'Come utilizzo questa pagina?'
+        };

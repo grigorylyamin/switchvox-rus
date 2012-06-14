@@ -1,0 +1,14 @@
+$VAR1 = {
+          'T__OR17' => '-O-',
+          'T_MORE_ABOUT_GET' => 'Ulteriori informazioni su Ottieni tipo estensione',
+          'T_VARIABLE_NAME_F5' => 'Nome variabile per risultato',
+          '__INCLUDES' => [
+                            'new_actions/incl_back_button',
+                            'new_actions/incl_button',
+                            'new_actions/incl_missing_digit_variables',
+                            'new_actions/incl_tabletitle'
+                          ],
+          'T_ENTER_IN_E4' => 'Inserire estensione manualmente',
+          'T_SELECT_A_VARIAB7' => 'Seleziona una variabile',
+          'T_EXTENSION_TO_GE' => 'Estensione di cui ottenere tipo'
+        };

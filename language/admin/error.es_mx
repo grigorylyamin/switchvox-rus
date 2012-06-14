@@ -1,0 +1,8 @@
+$VAR1 = {
+          'T_REPORT_THIS_ERR2' => 'Informar de este error',
+          'T_YOU_HAVE_ENCOU2' => 'Usted se encontró con un error interno con el paquete de herramientas de administración.  Por favor, haga clic en el botón "Informar de este error" situado debajo para enviar este error y la información para ayudar a solucionar ester problema en el futuro, o haga clic en "Ignorar este error" para regresar al menú principal sin informar de este error.',
+          'T_IGNORE_THIS_ERR2' => 'Ignorar este error',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ]
+        };

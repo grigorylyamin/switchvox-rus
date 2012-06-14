@@ -1,0 +1,7 @@
+$VAR1 = {
+          'RP_REBOOT_ERROR' => 'Se ha producido un error al reiniciar su teléfono. Por favor, reinicie su teléfono manualmente.',
+          'RP_NOT_YOUR_PHONE' => 'El teléfono que está intentando reiniciar no está registrado para su cuenta.',
+          'RP_REBOOT_SUCCESS' => 'Su teléfono se ha reiniciado correctamente.',
+          'RP_REBOOT_EXTERNAL' => 'Su teléfono está en una red que no es local para el PBX. El PBX intentó reiniciarlo, pero no se puede saber si lo logró. Tal vez deba reiniciar este teléfono manualmente.',
+          'RP_BRAND_NOT_SUPPORTED' => 'Su marca de teléfono no puede ser reiniciada por el PBX. Por favor, reinicie su teléfono manualmente.'
+        };

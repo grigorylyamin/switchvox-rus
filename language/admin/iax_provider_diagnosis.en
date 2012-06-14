@@ -1,0 +1,13 @@
+$VAR1 = {
+		  'T_IAX_PRO_DIAGNOSIS' => 'IAX Provider Diagnosis',
+          'T_RUN_DIAGNOSTIC' => 'Run Diagnostic Tool Again',
+          'T_WARNING9' => 'Warning',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_FAILED' => 'Failed',
+          'T_NOT_TESTED' => 'Not Tested',
+          'T_PASSED' => 'Passed',
+          'T_BACK_TO_CONNECTION_STATUS' => 'Back to Connection Status'
+
+        };

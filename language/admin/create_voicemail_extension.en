@@ -1,0 +1,17 @@
+$VAR1 = {
+          'T_WHAT_DOES_THIS7' => 'What does this mean?',
+          'T_DIGITS_IN_LENGT5' => 'digits in length',
+          'T_MODIFY_EXTENSIO6' => 'Modify Extension',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_VOICEMAIL_ACC' => 'Voicemail Access Extension',
+          'T_CREATE_EXTENSIO7' => 'Create Extension',
+          'T_DO_NOT_REQUIRE3' => 'Do not require password as long as caller is calling from their own extension.',
+          'T_THIS_EXTENSIO2' => 'This extension can be dialed from an IVR.',
+		  'T_SAVE_EXTENSION' => 'Save Extension',
+		  'T_REQUIRE_PASSWORD' => 'Require Password',
+		  'T_MODIFY_VOICEMAIL_EXTENSION' => 'Modify Voicemail Extension',
+		  'T_CREATE_VOICEMAIL_EXTENSION' => 'Create Voicemail Extension',
+		  'T_EXTENSION' => 'Extension',
+        };

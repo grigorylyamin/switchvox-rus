@@ -1,0 +1,26 @@
+$VAR1 = {
+          'T_ALL_CALLS' => 'Todas las llamadas',
+          'T_TYPE_12311' => 'Tipo',
+          'T_SEE_WHAT_CALLS' => 'Vea qué llamadas se realizaron en el sistema telefónico. Utilice el siguiente formulario para refinar la información que visualizará en los informes para obtener un informe de llamadas más específico y útil.',
+          'T_CALL_QUEUES' => 'Colas de llamadas',
+          'T_IVRS' => 'Sistemas IVR',
+          'T_VIEW_REPORT' => 'Visualizar informe',
+          'T_TO_DATE' => 'Fecha hasta',
+          'T_EXTENSION' => 'Extensión',
+          'T_INCOMING_CALLS' => 'Llamadas entrantes',
+          'T_AGENTS' => 'Agentes',
+          'T_HOLD_DOWN_CTRL' => 'Mantenga pulsada la tecla CTRL para seleccionar varios elementos',
+          'T_OUTGOING_CALLS' => 'Llamadas salientes',
+          'T_MMDDYYYY' => '(dd/mm/aaaa)',
+          'T_ALL_EXTENSIONS' => 'Todas las extensiones',
+          'T_USER_EXTEN' => 'Exensiones de usuario',
+          '__INCLUDES' => [
+                            'incl_header',
+                            '../common/incl_calendar_header',
+                            '../common/incl_table'
+                          ],
+          'T_OUPUT_TO_XLS_F' => 'Salida a archivo .xls',
+          'T_FROM_DATE' => 'Fecha desde',
+          'T_MULTIPLE_ITEMS' => 'varios elementos',
+          'T_VIEW_TYPE' => 'Visualizar tipo'
+        };

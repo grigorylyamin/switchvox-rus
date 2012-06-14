@@ -1,0 +1,8 @@
+$VAR1 = {
+          'T_FOR_EXAMPLE_IF' => 'For example if you have External Access turned on and you have created an IVR that you allow users to dial extensions in then they can dial the voicemail extension and check their voicemail.',
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ],
+          'T_EXTERNAL_ACCESS' => 'External Access means that users can dial into your voicemail system from phones not connected to your PBX.'
+        };

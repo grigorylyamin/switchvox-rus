@@ -1,0 +1,7 @@
+$VAR1 = {
+          'T_RESTARTING_YO' => 'Il riavvio del sistema può richiedere alcuni minuti, attendere e non aggiornare la pagina.',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ],
+          'T_RESTARTING_SYSTEM' => 'Sistema di riavvio'
+        };

@@ -1,0 +1,8 @@
+$VAR1 = {
+          '__INCLUDES' => [
+                            'incl_header',
+                            'brand/incl_check_for_addons'
+                          ],
+          'T_TO_CHECK_FOR_ADDONS' => 'Visite nuestro sitio web para ver qué productos extra están disponibles para este sistema Switchvox',
+          'T_ADDON_TITLE' => 'Productos extra de Digium'
+        };

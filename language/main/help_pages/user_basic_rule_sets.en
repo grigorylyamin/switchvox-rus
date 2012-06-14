@@ -1,0 +1,23 @@
+$VAR1 = {
+          'T_A_COMMON_OPTIO' => 'A common option is to create a busy rule set that sends calls to
+voicemail after 0 rings. This will prevent your phone from ringing if
+you are already on a call.  If you added an option to cascade calls to
+your cell phone, you may want to add a busy rule set without the
+cascade.  This would prevent your cell phone from ringing if you are
+already on a call.',
+          'T_ONE_COMMON_ADD' => 'One common addition to the default rule set is to cascade calls to your
+cell phone if you do not answer immediately.',
+          'T_YOU_CAN_USE_A' => 'You can use a Busy Rule Set to route calls differently when you are
+already on the phone.  To enable Busy Rule Sets, uncheck the "Use my
+unanswered call rule sets" option and click Save.  Next click the Add
+New Busy Rule Set button.',
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ],
+          'T_DEFAULT_RULE_SE' => 'Default Rule Set',
+          'T_BUSY_RULE_SETS' => 'Busy Rule Sets',
+          'T_FOR_MOST_BASIC' => 'For most basic call routing, a single rule set is all that\'s needed.
+To change your call rules for the default rule set, click the Edit
+button and follow the help on the following page.'
+        };

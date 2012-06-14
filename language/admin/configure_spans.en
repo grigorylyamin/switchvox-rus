@@ -1,0 +1,15 @@
+$VAR1 = {
+          'T_DEVICE_INFO' => 'Device Information',
+          'T_DEVICE_NAME' => 'Device Name',
+          'T_CARD_TYPE' => 'Card Type',
+          'T_DEVICE_TYPE' => 'Device Type',
+          'T_PCI_ID' => 'PCI ID',
+          'T_NUM_SPANS' => '# of Spans',
+          'T_TOTAL_CHANNELS' => 'Total Channels',
+          'T_STATUS' => 'Status',
+          'T_NBSPNBSPCON2' => 'Configuration Span Options for Span',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_SAVE_SETTINGS11' => 'Save Settings'
+        };

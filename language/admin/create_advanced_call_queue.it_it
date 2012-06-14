@@ -1,0 +1,8 @@
+$VAR1 = {
+          'T_WAVE' => 'Wave',
+          '__INCLUDES' => [
+                            'incl_header',
+                            'edition/incl_call_queue_user_permissions',
+                            'call_queue/incl_queue_caller_sounds',
+                          ]
+        };

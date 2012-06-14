@@ -1,0 +1,16 @@
+$VAR1 = {
+          'T_CAN_BE_DOWNLOA' => 'può essere scaricato gratuitamente al collegamento seguente',
+          'T_IN_ORDER_TO_EN' => 'Per un funzionamento adeguato di Switchvox, è richiesto l\'utilizzo di uno dei seguenti browser web: Mozilla Firefox (versione 3+), Microsoft Internet Explorer (versione 7.0+), Apple Safari (versione 4.0+), o Google Chrome (versione 8.0+). Usare i seguenti link per scaricare una versione aggiornata di questi browser.',
+          'T_THE_LATEST_VER' => 'L\'ultima versione del browser web di Mozilla Firefox',
+          'T_SWITCHBOARD4' => 'Switchboard',
+          'T_CLOSE_WINDOW3' => 'Chiudi finestra',
+          'T_GET_IE' => 'Scarica Microsoft Internet Explorer',
+          'T_MICROSOFT_INTER' => 'Microsoft Internet Explorer',
+          'T_CAN_BE_DOWNLOA2' => 'può essere scaricato gratuitamente al collegamento seguente',
+          'T_GET_SAFARI' => 'Scarica Google Chrome',
+          'T_GET_FIREFOX' => 'Scarica Mozilla Firefox',
+          'T_THE_LATEST_VER2' => 'L\'ultima versione del browser web di Microsoft Internet Explorer',
+          'T_I_AM_SORRY_YOU' => 'Il browser web utilizzato è incompatibile con questa versione di Switchboard.',
+          'T_MOZILLA_FIREFOX' => 'Browser web di Mozilla Firefox',
+          'T_GET_CHROME' => 'Scarica Apple Safari'
+        };

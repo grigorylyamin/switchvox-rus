@@ -1,0 +1,30 @@
+$VAR1 = {
+          'T_APPEND7' => 'Postponi',
+          'T_CALLER_ID_NAME10' => 'CALLER_ID_NAME',
+          'T_SOUND_SETTINGS' => 'Impostazioni suono',
+          'T_APPEND6' => 'Postponi',
+          'T_IN_THE_URL_FIE3' => 'Nel campo URL sopra, inserire il percorso URL completo per il file audio da riprodurre.  Attualmente deve essere un file WAV.  L\'URL può essere statico o dinamico. L\'url statico viene semplicemente digitato nel campo URL e le impostazioni vengono salvate.  L\'URL dinamico richiederà l\'utilizzo di variabili da un elenco a discesa; o variabili IVR o variabili di sistema.  L\'URL dinamico richiederà azioni azioni IVR precedenti assegnando valori a tali variabili.',
+          'T_POSSIBLE_IVR_VA5' => 'Possibili variabili IVR da utilizzare:',
+          'T_CLICK_APPEND_TO6' => 'Clicca su Postponi per aggiungere la variabile selezionata comprensiva di %\'s all\'URL',
+          'T_EXAMPLE_23' => 'Esempio 2',
+          'T_WHAT_IS_AN_INT3' => 'Cos\'è un audio interrompibile?',
+          'T_HOW_DO_I_USE_T4' => 'Come utilizzo questa pagina?',
+          'T_JOB_ID7' => 'JOB_ID',
+          'T_URL4' => 'URL',
+          'T_CALLER_ID_NUMBE9' => 'CALLER_ID_NUMBER',
+          'T_THIS_SOUND_IS_I2' => 'Questo file audio è interrompibile',
+          'T_HTTPWWWMYD3' => 'http://www.example.com/great_sound93.wav',
+          'T_INCOMING_DID9' => 'INCOMING_DID',
+          'T_CLICKING_APPE2' => 'Cliccando su "Anteponi" sotto anteporrà i nomi variabile selezionati al campo di immissione dell\'URL.  I nomi variabili verranno visualizzati con %\'s.  Quando l\'URL è richiesto %\'s e I nomi variabile verranno sostituiti con valori variabile.',
+          '__INCLUDES' => [
+                            'new_actions/lwp_timeout',
+                            'new_actions/incl_button'
+                          ],
+          'T_POSSIBLE_SYSTEM5' => 'Possibili variabili di sistema da utilizzare:',
+          'T_URL_SETTINGS' => 'Impostazione URL',
+          'T_URL_BASESOU' => 'http://www.example.com/play.cgi?name=%customer_name%',
+          'T_CLICK_APPEND_TO5' => 'Clicca su Postponi per aggiungere la variabile selezionata comprensiva di %\'s all\'URL',
+          'T_EXTENSION14' => 'ESTENSIONE',
+          'T_DIALED_NUMBER' => 'DIALED_NUMBER',
+          'T_EXAMPLE_14' => 'Esempio 1'
+        };

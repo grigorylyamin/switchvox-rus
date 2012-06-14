@@ -1,0 +1,14 @@
+$VAR1 = {
+          'T_OPTION_IS_ENAB' => 'option is enabled
+in that IVR.  Please see the',
+          'T_MODIFY_OPTIONS' => 'Modify Options',
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ],
+          'T_CHECKING_THIS' => 'Checking this option will allow this extension to be dialed directly
+from an IVR if the',
+          'T_ALLOW_EXTENSION' => 'Allow Extension Dialing',
+          'T_SECTION_OF_THE4' => 'section of the
+IVR Editor for more information about dialing extensions from an IVR.'
+        };

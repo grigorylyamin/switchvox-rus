@@ -1,0 +1,8 @@
+$VAR1 = {
+          'T_ARE_YOU_SURE_YO28' => 'Are you sure you want to permanently delete this call queue',
+          'T_DEL_QUEUE' => 'Delete Call Queue',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_YES_DELETE_CAL' => 'Yes, Delete Call Queue'
+        };

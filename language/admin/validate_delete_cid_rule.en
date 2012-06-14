@@ -1,0 +1,7 @@
+$VAR1 = {
+          'T_ARE_YOU_SURE_YO10' => 'Are you sure you want to permanently delete this Caller ID Rule',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_YES_DELETE_RULE2' => 'Yes, Delete Caller ID Rule'
+        };

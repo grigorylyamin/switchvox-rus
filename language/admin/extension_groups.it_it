@@ -1,0 +1,24 @@
+$VAR1 = {
+          'EG_TD_DATE_CREATED' => 'Data creazione',
+          'EG_T_YES_DEL' => 'Sì, elimina gruppo estensioni',
+          'EG_T_HELP_LINK' => 'Per saperne di più sui gruppi di estensioni',
+          'CEG_SM_CREATED_GROUP' => 'Creazione gruppo di estensioni riuscita.',
+          'EG_E_MISSING_GNAME' => 'Nessun nome gruppo specificato.',
+          'EG_TD_EXT_GROUPS_ID' => 'Modifica / Elimina',
+          'EG_TD_GROUP_NAME' => 'Nome Gruppo',
+          'EG_BT_CREATE_GROUP' => 'Crea gruppo Estensioni',
+          'EG_ND_NO_GROUPS' => 'Non sono presenti gruppi di estensioni in questo sistema.',
+          'EG_T_CANCEL' => 'Annulla',
+          'EG_TB_DELETE' => 'Elimina',
+          '__INCLUDES' => [
+                            'edition/extension_groups',
+                            'incl_header'
+                          ],
+          'EG_TN_TABLE_TITLE' => 'Gruppi di estensioni',
+          'MEG_E_WRONG_ACTION' => 'Azione non valida per passare a modifica gruppo estensioni.',
+          'EG_TD_MEMBER_COUNT' => 'Membri',
+          'EG_T_PAGE_DESC' => 'Il raggruppamento di estensioni rende semplice l\'applicazione di modifiche e funzionalità a diverse estensioni contemporaneamente.',
+          'EG_SM_DELETED_GROUP' => 'Eliminazione gruppo di estensioni riuscita.',
+          'EG_TB_MODIFY' => 'Modifica',
+          'EG_TD_ORG_NAME' => 'Organizzazione'
+        };

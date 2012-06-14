@@ -1,0 +1,5 @@
+$VAR1 = {
+          'T_MODIFY' => 'Modify',
+          'T_NEW' => 'New',
+          'T_ACTION' => 'Action',
+        };

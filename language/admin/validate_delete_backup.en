@@ -1,0 +1,7 @@
+$VAR1 = {
+          'T_YES_DELETE_BAC' => 'Yes, Delete Backup',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_ARE_YOU_SURE_YO26' => 'Are you sure you want to permanently delete the backup created on'
+        };

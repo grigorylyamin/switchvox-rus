@@ -1,0 +1,7 @@
+$VAR1 = {
+          '__INCLUDES' => [
+                            'incl_header'
+                          ],
+          'T_ARE_YOU_SURE_YO17' => '¿Está seguro de que desea eliminar permanentemente este código de función de supervisión de llamadas? ',
+          'T_YES_DELETE_EXT6' => 'Sí, eliminar código de función'
+        };

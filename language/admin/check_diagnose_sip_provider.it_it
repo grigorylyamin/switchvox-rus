@@ -1,0 +1,7 @@
+$VAR1 = {
+          'T_PLEASE_WAIT' => 'Attendere',
+          'T_ATTEMPTING_TO' => 'Tentativo di diagnostica problemi con il fornitore SIP, potrebbe richiedere alcuni secondi, attendere e non aggiornare la pagina.',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ]
+        };

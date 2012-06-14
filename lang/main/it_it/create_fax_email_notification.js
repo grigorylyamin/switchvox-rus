@@ -1,0 +1,1 @@
+Object.extend(switchvox.lang._LANG.keys,{T_MODIFY_EMAIL:["Salva notifica di fax"],T_EMAIL:["Indirizzo e-mail"],T_SAVE_EMAIL:["Salva notifica e-mail"],T_FAX_EMAIL_NOTIFICATION:["Impostazioni notifica"],T_CREATE_EMAIL:["Crea notifica di fax"],TEST:["I have %s test.","I have %s tests."]});

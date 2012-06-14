@@ -1,0 +1,9 @@
+$VAR1 = {
+          'T_YOU_MAY_FIND_T' => 'You may find that the Time Frame that you wish to use has already been defined for you.',
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ],
+          'T_THESE_DEFAULT_T' => 'These default Time Frames have been set up by the administrator of your phone system for you to use.',
+          'T_JUST_CLICK_THE' => 'Just click the "View" button next to the Time Frame to see when it is.'
+        };

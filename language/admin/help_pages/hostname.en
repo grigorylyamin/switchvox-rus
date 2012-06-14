@@ -1,0 +1,12 @@
+$VAR1 = {
+          'T_THIS_OPTION_WI2' => 'This option will also set the web server\\\'s SSL key.  This may help prevent warnings from your browser when logging into the PBX.',
+          'T_YOU_MAY_WANT_T' => 'You may want to set this option if you have a specific dns 
+name for your pbx (eg: pbx.example.com).  This may alleviate problems
+with delivering voicemail emails through particularly strict SMTP
+servers.',
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ],
+          'T_IT_IS_PROBABLY' => 'It is probably safe to leave this option unchanged.'
+        };

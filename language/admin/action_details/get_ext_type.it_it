@@ -1,0 +1,6 @@
+$VAR1 = {
+          'T_VARIABLE24' => 'Variabile',
+          'T_VARIABLE_TO_STO2' => 'Variabile in cui archivare tipo',
+          'T_EXTENSION18' => 'Estensione',
+          'T_ACTION_TYPE30' => 'Tipo azione'
+        };

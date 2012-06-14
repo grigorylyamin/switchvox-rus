@@ -1,0 +1,7 @@
+$VAR1 = {
+          'T_YES_DELETE_ADM' => 'Sí, eliminar administrador',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_ARE_YOU_SURE_YO21' => '¿Está seguro de que desea eliminar permanentemente esta cuenta de administrador? '
+        };

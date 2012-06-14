@@ -1,0 +1,21 @@
+$VAR1 = {
+          'T__OR8' => '-O-',
+          'T_SAY_DATE_FROM_A' => 'Pronuncia data da una variabile',
+          'T_YES14' => 'Sì',
+          'T_SAY_A_PREDEFINE' => 'Pronuncia data predefinita',
+          'T_YOU_MAY_LEAVE_T' => 'È possibile lasciare l\'ora vuota per pronunciare solo la data.',
+          '__INCLUDES' => [
+                            'new_actions/incl_button',
+                            '../common/incl_calendar_header',
+                            'new_actions/incl_tabletitle',
+                            'new_actions/incl_missing_digit_variables'
+                          ],
+          'T_SAY_THE_CURRENT' => 'Pronuncia data e ora attuali quando la chiamata accede a questa azione',
+          'T_VARIABLE_MUST_B' => 'Questa variabile deve essere in formato epoch.',
+          'T_PM3' => 'PM',
+          'T_AM3' => 'AM',
+          'T_AND_TIME' => 'e ora',
+          'T_EXAMPLE5' => 'Esempio',
+          'T10' => 'se la data è "01/21/2003 7:40 P.M." utilizzando il formato data selezionato verrà pronunciato così',
+          'T_FORMAT_TO' => 'Formato in cui pronunciare la data'
+        };

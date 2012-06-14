@@ -1,0 +1,5 @@
+$VAR1 = {
+          'T_WHERE_TO_STORE' => 'Dónde almacenar en el Administrador de Sonidos',
+          'T_SOUND_VARIABLE' => 'Variable de sonido para almacenar',
+          'T_ACTION_TYPE26' => 'Tipo de acción'
+        };

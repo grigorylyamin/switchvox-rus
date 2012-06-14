@@ -1,0 +1,8 @@
+$VAR1 = {
+          'T_ARE_YOU_SURE_YO27' => 'Eliminare definitivamente i seguenti file audio',
+          'T_DELETE_SOU' => 'Elimina suoni',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ],
+          'T_YES_DELETE_SOU4' => 'Sì, elimina audio'
+        };

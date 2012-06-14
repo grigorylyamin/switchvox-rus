@@ -1,0 +1,7 @@
+$VAR1 = {
+          'T_WHEN_THERE_ARE' => 'Quando sono disponibili degli aggiornamenti per il sistema di telefonia, si riceve una notifica via e-mail. L\'acquisto di un contratto di assistenza consentirà di scaricare i pacchetti di aggiornamento.',
+          'T_USER_TIP' => 'Suggerimento utente',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ]
+        };

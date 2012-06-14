@@ -1,0 +1,7 @@
+$VAR1 = {
+          'T_THIS_MAY_JUST' => 'Esto puede ser tan sólo un problema temporal. Vuelva a cargar esta página en su navegador web para ver si así se soluciona el problema. Si al volver a cargar aparece la misma página, espere puesto que es posible que su base de datos esté iniciándose.  Si su base de datos no aparece después de cinco minutos, reinicie su PBX.',
+          'T_YOUR_DATABASE_I' => 'Su base de datos se encuentra desconectada en estos momentos.',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ]
+        };

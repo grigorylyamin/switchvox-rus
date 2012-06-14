@@ -1,0 +1,6 @@
+$VAR1 = {
+          'T_SAVE_LOC_SETTINGS' => 'Guardar configuración local',
+          'T_MUST_CONFIRM_LANG' => 'Por favor, confirme su idioma y local antes de continuar. Si desea realizar cambios en esta configuración en el futuro, puede hacerlo visitando la página Gestión de administradores.',
+          '__INCLUDES' => [
+                          ]
+        };

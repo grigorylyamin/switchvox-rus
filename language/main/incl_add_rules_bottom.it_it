@@ -1,0 +1,5 @@
+$VAR1 = {
+          'T_CANCEL9' => 'annulla',
+          'T_ARE_YOU_SURE4' => 'Eliminare questa regola di chiamata?',
+          'T_YES_DELETE6' => 'Sì, elimina'
+        };

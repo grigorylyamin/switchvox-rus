@@ -1,0 +1,9 @@
+$VAR1 = {
+          '__INCLUDES' => [
+                            'incl_header',
+                            'incl_backup_table',
+                          ],
+          'T_BACKUP_CREATIO' => 'Backup creation may take several minutes and should not affect any current calls in your system. After you click the "Create Backup" button, you will be directed to a wait screen while the backup file is created.',
+          'T_HOW_DO_I_USE_T' => 'How do I use this page?',
+		  'PAGE_TITLE_CREATE_BU' => 'Create a Backup File'
+        };

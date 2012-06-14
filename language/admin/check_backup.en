@@ -1,0 +1,7 @@
+$VAR1 = {
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+		  'T_PLEASE_WAIT' => 'please wait',
+          'T_YOUR_BACKUP_I' => 'Your backup is currently processing. Please be patient and do not refresh this page.'
+        };

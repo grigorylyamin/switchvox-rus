@@ -1,0 +1,22 @@
+$VAR1 = {
+          'T_YES6' => 'Yes',
+          'T__YOU_MUST_HAV' => ', you must 
+have a rule that allows IAX or SIP traffic for an external network.',
+          'T_ALLOW_NAT_PORT' => 'Allow NAT Port Forwarding',
+          'T_MACHINE_ADMIN' => 'Machine Admin -> Access Control',
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ],
+          'T_FORMORE_INFOR' => 'for
+more information on how to set up port forwarding on your router.',
+          'T_FOR_IAX_TRAFFI' => 'For IAX traffic, forward UDP port 4569',
+          'T_ON_YOUR_ROUTER' => 'On your router, you must forward the ports listed below. In',
+          'T_SELECT2' => 'Select',
+          'T_HTTPWWWPORT' => 'http://www.portforward.com',
+          'T_SEE' => 'See',
+          'T_FOR_SIP_TRAFFI' => 'For SIP traffic, forward UDP ports 5060 and 10000-20000',
+          'T_TO_ALLOW_NAT_P' => 'to allow NAT Port Forwarding to Switchvox. 
+This option is useful if you need to handle calls going to and coming 
+from an external network, and Switchvox is behind a router that performs NAT.'
+        };

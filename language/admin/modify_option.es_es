@@ -1,0 +1,11 @@
+$VAR1 = {
+          'T_OPTION_NUMBER2' => 'Número de opción',
+          'T_GO_TO_IVR_MEN' => 'Ir al menú IVR',
+          'T_IVR_ME' => 'Punto de entrada al menú IVR',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ],
+          'T_MODIFY_OPTION2' => 'Modificar opción',
+          'T_SAVE_OPTION' => 'Guardar opción',
+          'T_IVR_MENU_BEGINN' => 'Inicio del menú IVR'
+        };

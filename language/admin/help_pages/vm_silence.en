@@ -1,0 +1,9 @@
+$VAR1 = {
+          'T_YOU_CAN_SPECIF' => 'You can specify the number of seconds that it takes for Switchvox to "give up" on a caller if they reach your voicemail but don\\\'t leave a message.',
+          'T_SETTING_THIS_S' => 'Setting this should cut down on messages that are just several seconds of silence that are cluttering up your voicemail box.',
+          'T_FOR_EXAMPLE_I' => 'For example, if you\\\'ve specified "Do not store voicemail if message is just silence for 10 seconds," if someone calls and reaches your voicemail, and they still haven\\\'t started speaking to leave a message after 10 seconds, the Switchvox will hang up on them and will NOT save those 10 seconds of silence for you as a voicemail message.',
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ]
+        };

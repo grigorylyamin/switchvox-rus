@@ -1,0 +1,23 @@
+$VAR1 = {
+          'GUP_TD_EXT_INFO' => 'Est. Info',
+          'GUP_TD_NOTES' => 'Note',
+          'GUP_TD_PCAUTH_INFO' => 'Autenticazione config',
+          'GUP_TD_TEMPLATE' => 'Modello',
+          'GUP_TD_TABLE_TITLE' => 'Telefoni sconosciuti',
+          'GUP_TD_MAC_ADDRESS' => 'Indirizzo MAC',
+          'GUP_TD_MAP' => 'Mappa',
+          'GUP_TD_PHONE_MODEL' => 'Modello telefono',
+          'GUP_TD_PHONE_BRAND' => 'Marca telefono',
+          'GUP_TD_IP_ADDRESS' => 'Indirizzo IP',
+          'GUP_TD_FIRST_NAME' => 'Nome',
+          'GUP_TD_REG_SERV2' => 'Alterna Host',
+          'GUP_TD_PHONE_EXT' => 'Estensione',
+          'GUP_TD_EMAIL' => 'E-mail',
+          'GUP_TD_PHONE_CONFIG_ID' => 'ID',
+          'GUP_TD_LAST_NAME' => 'Cognome',
+          'GUP_TD_PCAUTH_LOGIN' => 'Accesso',
+          'GUP_NO_PHONES' => 'Non sono presenti telefoni non mappati sulla rete.',
+          'GUP_TD_PCAUTH_PWD' => 'Password',
+          'GUP_TN_TABLE_TITLE' => 'Telefoni non configurati',
+          'GUP_TD_PHONE_INFO' => 'Info telefono'
+        };

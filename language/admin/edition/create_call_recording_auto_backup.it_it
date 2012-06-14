@@ -1,0 +1,14 @@
+$VAR1 = {
+          'T_FTP_USERNAME' => 'Nome utente FTP',
+          'T_TEST_FTP_SETTIN' => 'Test Impostazioni FTP',
+          'T_FTP_PASSWORD' => 'Password FTP',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_EXTERNAL_FTP_S' => 'Impostazioni server FTP esterno',
+          'T_SAVE_SETTINGS' => 'Salva impostazioni',
+          'T_WHEN_SCHEDULI' => 'Quando si programma una regola di registrazione chiamata è possibile scegliere che delle chiamate registrate venga eseguito un backup su un server FTP  esterno prima che vengano eliminate dal PBX. Inserire le impostazioni del server FTP qui. Al momento della programmazione di una nuova registrazione di chiamata sarà possibile selezionare questo server FTP per fini di back up.',
+          'T_FTP_HOSTNAME' => 'Nome host FTP',
+          'T_PATH_OF_DEN' => 'Percorso di \'/\' denota directory accesso radice.',
+          'T_FTP_PATH' => 'Percorso FTP'
+        };

@@ -1,0 +1,7 @@
+$VAR1 = {
+          'T_PBX' => 'PBX',
+          'T_CLOSE_WINDOW' => 'Chiudi finestra',
+          'T_PBX_IS_OFFLINE' => 'PBX è fuori linea',
+          'T_PBX_IS_NOT_REGI' => 'PBX non registrato',
+          '__INCLUDES' => []
+        };

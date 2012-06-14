@@ -1,0 +1,7 @@
+$VAR1 = {
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_CREATE_LANGUAGE' => 'Crear idioma',
+          'T_LANGUAGE_NAME2' => 'Nombre de idioma'
+        };

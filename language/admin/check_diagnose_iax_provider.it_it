@@ -1,0 +1,8 @@
+$VAR1 = {
+          'T_IAX_DIAGNOSE_PAGE_TITLE' => 'Diagnosi fornitore Voip IAX',
+          'T_BACK_TO_CONNECTION_STATUS' => 'Ritorna allo Stato di connessione',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ],
+          'T_ATTEMPTING_TO2' => 'Tentativo di diagnostica problemi con il fornitore IAX, potrebbe richiedere alcuni secondi, attendere e non aggiornare la pagina.'
+        };

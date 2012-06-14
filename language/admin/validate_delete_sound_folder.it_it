@@ -1,0 +1,11 @@
+$VAR1 = {
+          'T_DELETING_THIS' => 'L\'eliminazione di questa cartella causerà anche l\'eliminazione definitiva di tutti i file audio contenuti.',
+          'T_YES_DELETE_FOL' => 'Sì, elimina cartella',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ],
+          'T_WARNING7' => 'ATTENZIONE',
+          'T_SOUNDS_THAT_WIL' => 'File audio da rimuovere',
+          'T_ARE_YOU_SURE_YO7' => 'Eliminare definitivamente questa estensione per eliminare definitivamente la cartella audio',
+          'T_DELETE_FOL' => 'Elimina cartella'
+        };

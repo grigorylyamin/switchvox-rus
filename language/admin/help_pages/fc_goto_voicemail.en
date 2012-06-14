@@ -1,0 +1,11 @@
+$VAR1 = {
+          'T_EXAMPLE' => 'Example',
+          'T_THIS_FEATURE_CO2' => 'This feature code will directly dial another extension\\\'s voicemail box. This can be used to  blind-transfer a call to an extension\\\'s voicemail.',
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ],
+          'T_ASSUME_THAT_5' => 'Assume that *56 is defined as the Go To Voicemail feature code.  Dialing
+  *56202 will go directly to extension 202\\\'s voicemail.  To transfer a
+  caller to extension 202\\\'s voicemail, simply transfer them to *56202.'
+        };

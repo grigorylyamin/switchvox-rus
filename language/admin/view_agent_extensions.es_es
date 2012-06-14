@@ -1,0 +1,12 @@
+$VAR1 = {
+          'VAGE_TD_EXT' => 'Extensión',
+          'VAGE_TD_LAST_NAME' => 'Apellido',
+          'VAGE_TD_FIRST_NAME' => 'Nombre',
+          'VAGE_TB_MODIFY' => 'Modificar',
+          'VAGE_TB_DELETE' => 'Eliminar',
+          'VAGE_TD_MOD_DEL' => 'Modificar / Eliminar',
+          'VAGE_TN_TABLE_TITLE' => 'Extensiones de agente',
+          'VAGE_TD_ACCOUNT_ID' => 'ID',
+          'VAGE_TD_EXT_TYPE' => 'Tipo de extensión',
+          'VAGE_TD_DATE_CREATED' => 'Fecha de creación'
+        };

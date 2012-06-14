@@ -1,0 +1,6 @@
+$VAR1 = {
+          'T_CREATE_ADMIN' => 'Admin Information and Permissions',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ]
+         };

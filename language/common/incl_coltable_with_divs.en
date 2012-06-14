@@ -1,0 +1,5 @@
+$VAR1 = {
+          'T_RELOADING_PA2' => 'Reloading page to fetch new rows. Please be patient.',
+          '__INCLUDES' => [],
+		  'T_NO_DATA_AVAILABLE' => 'No Data Available',
+        };

@@ -1,0 +1,29 @@
+$VAR1 = {
+          'T_THURSDAY6' => 'Giovedì',
+          'T_BACKUPS_SHOULD' => 'I backup devono essere trasferiti automaticamente a',
+          'T_FRIDAY12' => 'Venerdì',
+          'T_TEST_FTP_SETTIN2' => 'Test Impostazioni FTP',
+          'T_AT5' => 'a',
+          'T_FTP_USERNAME3' => 'Nome utente FTP',
+          'PAGE_TITLE_SET_AUTO_BU' => 'Imposta backup automatici',
+          'T_PM6' => 'PM',
+          'T_AUTOMATIC_BACK' => 'I backup automatici verranno eseguiti ogni',
+          'T_SATURDAY6' => 'Sabato',
+          'T_FTP_PATH3' => 'Percorso FTP',
+          'T_HOW_DO_I_USE_T5' => 'Come utilizzo questa pagina?',
+          'T_SUNDAY6' => 'Domenica',
+          'T_WHEN_THE_ABOVE' => 'Una volta raggiunta la soglia, I vecchi backup verranno eliminati dall\'host ftp.',
+          'T_TUESDAY6' => 'Martedì',
+          'T_NUMBER_OF_BACK' => 'Numero di copie di backup da conservare',
+          'T_MONDAY12' => 'Lunedì',
+          'T_PATH_OF_DEN2' => 'Percorso di \'/\' denota directory accesso radice.',
+          '__INCLUDES' => [
+                            'incl_header',
+                            'incl_backup_table'
+                          ],
+          'T_WEDNESDAY10' => 'Mercoledì',
+          'T_FTP_PASSWORD3' => 'Password FTP',
+          'T_DAY3' => 'Giorno',
+          'T_AM6' => 'AM',
+          'T_FTP_HOSTNAME3' => 'Nome host FTP'
+        };

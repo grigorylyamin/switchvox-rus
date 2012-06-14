@@ -1,0 +1,4 @@
+$VAR1 = {
+          'T_ACTION_TYPE18' => 'Tipo azione',
+          'T_SEND_TO_CALL_QU' => 'Invia a coda chiamata'
+        };

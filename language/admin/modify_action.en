@@ -1,0 +1,22 @@
+$VAR1 = {
+          'T_THE_VARIABLE' => 'The variable',
+          'T__USED_BY_THIS' => ', used by this action is not referenced in any other contexts. If you change this action\'s variable name to a new variable name, the old variable will be removed from the system and a new variable with the new name will be created. If you change this action\'s variable name to one that already exists in the system, that existing variable will be used in this action.',
+          'T__USED_BY_THIS3' => ', used by this action is referenced by other contexts. If you change the variable name, the old variable will still be used by other actions and continue to exist in the system. Changing this variable name to an existing variable name will result in that existing variable being used in this action.',
+          'T_WARNING16' => 'WARNING',
+          'T_NOTE5' => 'NOTE',
+          'T_THE_VARIABLES' => 'The variables',
+          'T_WHAT_DOES_THIS' => 'What does this mean?',
+          'T_VARIABLE_NAME3' => 'Variable Name',
+		  'T_MODIFY'		=> 'Modify',
+          'T_ORDER' => 'Order',
+          'T__USED_BY_THIS4' => ', used by this action are referenced by other contexts. If you change the variable names, the old variables will still be used by other actions and continue to exist in the system. Changing these variable names to existing variable names will result in those existing variables being used in this action.',
+          'T_CLICK_TO_HIDE' => 'Click to Hide Advanced Options',
+          'T_CLICK_TO_SHOW' => 'Click to Show Advanced Options',
+          'T_PLAY_VARIABLE' => 'Play sound from this variable',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T__USED_BY_THIS2' => ', used by this action are not referenced in any other contexts. If you change this action\'s variable names to new variable names, the old variables will be removed from the system and new variables with the new names will be created. If you change this action\'s variable names to variable names that already exist in the system, those existing variable will be used in this action.',
+          'T_ACTION3' => 'Action',
+          'T_IVR_MENU' => 'IVR Menu'
+        };

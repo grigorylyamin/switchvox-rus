@@ -1,0 +1,20 @@
+$VAR1 = {
+          'T_EXTENSIONS_WITH2' => 'Estensioni con questo pannello',
+          'T_CREATE_CUSTOM_U' => 'Crea pannello URL personalizzato',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_SELECT_EXT' => 'È necessario selezionare almeno 1 account dalla casella di selezione ‘Estensioni con pannello\'.',
+          'T_EXTENSIONS_ALLO2' => 'Estensioni autorizzate a utilizzare questo pannello',
+          'T_TELL_ME_A' => ' Per saperne di più sui pannelli personalizzati',
+          'T_CREATE_A_CUST' => 'Crea un pannello personalizzato che faccia riferimento a servizi web di terzi.',
+          'T_PANEL_SETTINGS4' => 'Impostazioni pannello',
+          'T_PANEL_NAME' => 'Nome pannello',
+          'T_PANEL_DESCRIPTI' => 'Descrizione pannello',
+          'T_PANEL_URL' => 'URL pannello',
+          'T_ADD_MEMBER' => 'Aggiungi membro',
+          'T_ALL_AVAILABLE_A4' => 'Tutti gli account disponibili',
+          'T_SELECT_ALL' => 'È necessario selezionare almeno 1 account dalla casella di selezione ‘Tutti gli account disponibili\'.',
+          'T_MODIFY_CUSTOM_U' => 'Modifica pannello URL personalizzato',
+          'T_REMOVE_MEMBER' => 'Rimuovi membro'
+        };

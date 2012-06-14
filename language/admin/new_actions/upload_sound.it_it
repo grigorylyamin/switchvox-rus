@@ -1,0 +1,27 @@
+$VAR1 = {
+          'T_EXAMPLE7' => 'Esempio',
+          'T_SOUND_SETTINGS' => 'Impostazioni variabile di suono',
+          'T_SOUND_TO_SEND' => 'Audio da inviare:',
+          'T_CLICK_APPEND_TO3' => 'Clicca su Postponi per aggiungere la variabile selezionata comprensiva di %\'s all\'URL',
+          'T_JOB_ID3' => 'JOB_ID',
+          'T_URL3' => 'URL',
+          'T_APPEND5' => 'Postponi',
+          'T_EXTENSION10' => 'ESTENSIONE',
+          'T_CALLER_ID_NAME6' => 'CALLER_ID_NAME',
+          'T_CALLER_ID_NUMBE5' => 'CALLER_ID_NUMBER',
+          'T_POSSIBLE_SYSTEM2' => 'Variabili sistema possibili da includere nell\'URL:',
+          'T_IN_THE_URL_FIE2' => 'Nel campo URL sopra, inserire il percorso URL completo per il file audio da riprodurre. È possibile aggiungere valori da passare all\'URL cliccando sui pulsanti "Anteponi" qui sotto.  Il nome variabile selezionato verrà anteposto alla fine dell\'URL compreso di %\'s, Quando questo URL viene inviato %\'s e i nomi variabile vengono sostituiti con il valore corrispondente.',
+          '__INCLUDES' => [
+                            'new_actions/incl_missing_sound_variables',
+                            'new_actions/lwp_timeout',
+                            'new_actions/incl_button'
+                          ],
+          'T_POSSIBLE_IVR_VA2' => 'Variabili di sistema possibili da includere nell\'URL:',
+          'T_CLICK_APPEND_TO4' => 'Clicca su Postponi per aggiungere la variabile selezionata comprensiva di %\'s all\'URL',
+          'T_URL_SETTINGS' => 'Impostazione URL',
+          'T_HOW_DO_I_USE_T3' => 'Come utilizzo questa pagina?',
+          'T_DIALED_NUMBER' => 'DIALED_NUMBER',
+          'T_HTTPWWWMYD2' => 'http://www.mydomain.com/cgi-bin/upload.cgi?account=%ACCOUNT%&amp;digits=%PIN%',
+          'T_APPEND4' => 'Postponi',
+          'T_INCOMING_DID5' => 'INCOMING_DID'
+        };

@@ -1,0 +1,9 @@
+$VAR1 = {
+          'T_SECTION_THEN' => 'section) then queue members will never be automatically
+logged out of the queue. While this may be a desired effect, this
+could also result in a queue member forgetting to log out of a queue
+and thus never being automatically logged out.',
+          'T_PBX_FEATURES' => 'PBX Features --> Agent Settings',
+          'T_IF_THE_SECOND' => 'If the "Seconds to Ring Each Member" value is greater than then "Max
+Time until Auto Log Off" setting (found in the'
+        };

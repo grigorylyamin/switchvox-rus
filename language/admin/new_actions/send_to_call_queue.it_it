@@ -1,0 +1,5 @@
+$VAR1 = {
+          'T_ADD_ACTION3' => 'Aggiungi azione',
+          'T_NBSPNBSPNEW3' => 'Nuova azione',
+          'KSD_CALL_QUEUE' => 'Coda chiamata'
+        };

@@ -1,0 +1,14 @@
+$VAR1 = {
+          'T_YOU_HAVE_JUST2' => 'Acaba de crear su primer grupo de canales en el sistema con el método de señalización adecuado para realizar llamadas salientes. Y puesto que éste es su primer grupo de canales, se generaron algunas reglas de llamadas salientes utilizando este grupo de canales. Puede visualizar más información sobre estas reglas de llamadas salientes recién creadas en la',
+          'T_YOU_HAVE_JUST' => 'Acaba de añadir un nuevo grupo de canales al sistema con el método de señalización adecuado para realizar llamadas salientes, pero para realizar llamadas salientes utilizando este grupo de canales, deberá configurar sus llamadas salientes para utilizar este nuevo grupo de canales. Puede crear, visualizar y modificar sus reglas de llamadas salientes existentes en el',
+          'T_OUTGOING_CALL' => 'Reglas de llamadas salientes',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ],
+          'T_CHANNEL_GROUPS2' => 'Grupos de canales',
+          'T_NOTE25' => 'NOTA',
+          'T_VIEW8' => 'Visualizar',
+          'T_SECTION_OF_THE5' => 'sección del paquete de herramientas de administración.',
+          'T_INDIVIDUAL_CHAN2' => 'Canales individuales',
+          'T_CREATE_NEW_CHAN2' => 'Crear grupo de canales'
+        };

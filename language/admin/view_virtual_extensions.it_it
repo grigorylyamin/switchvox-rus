@@ -1,0 +1,14 @@
+$VAR1 = {
+          'VVE_TD_EXT' => 'Estensione',
+          'VVE_TD_EXT_DISPLAY' => 'Tipo estensione',
+          'VVE_TD_LAST_NAME' => 'Cognome',
+          'VVE_TD_NO_PHONES' => 'Non sono ancora state create estensioni virtuali per questo sistema.',
+          'VVE_TB_DELETE' => 'Elimina',
+          'VVE_TN_TABLE_TITLE' => 'Estensioni virtuali',
+          'VVE_TD_MOD_DEL' => 'Modifica / Elimina',
+          'VVE_TD_TEMPLATE_NAME' => 'Modello',
+          'VVE_TB_MODIFY' => 'Modifica',
+          'VVE_TD_ACCOUNT_ID' => 'ID',
+          'VVE_TD_DATE_CREATED' => 'Data creazione',
+          'VVE_TD_FIRST_NAME' => 'Nome'
+        };

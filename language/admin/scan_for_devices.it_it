@@ -1,0 +1,7 @@
+$VAR1 = {
+          'T_TITLE' => 'Schede telefoniche',
+          'T_SCANNING_FOR' => 'La ricerca di nuove schede può richiedere alcuni minuti, la preghiamo di attendere e di non aggiornare la pagina.',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ]
+        };

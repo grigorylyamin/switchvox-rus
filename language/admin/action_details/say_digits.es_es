@@ -1,0 +1,5 @@
+$VAR1 = {
+          'T_DIGITS_TO_SAY2' => 'Dígitos que se dirán',
+          'T_VARIABLE9' => '(Variable)',
+          'T_ACTION_TYPE19' => 'Tipo de acción'
+        };

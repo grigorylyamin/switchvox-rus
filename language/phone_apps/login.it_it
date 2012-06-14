@@ -1,0 +1,11 @@
+$VAR1 = {
+          'T_PHONE_APP_LOGIN' => 'Accedi ad applicazione tel.',
+          'T_SOFT_EXIT' => 'Esci',
+          'T_PASSWORD' => 'Password',
+          'T_SOFT_CLEAR' => 'Annulla',
+          'T_LOGIN' => 'Accedi',
+          'T_EXTENSION' => 'Estensione',
+          'T_SOFT_LOGIN' => 'Accedi',
+          'T_PHONE_APPLICATI' => 'Accedi ad applicazioni tel.',
+          'T_LOGIN_INCORRECT' => 'Accesso non corretto'
+        };

@@ -1,0 +1,13 @@
+$VAR1 = {
+          'T_CREATE_EXTENSIO3' => 'Create Extension',
+          'T_MORE_ABOUT_THE' => 'More about the voicemail feature code',
+          'T_2_DIGITS_IN_LEN3' => '2 digits in length',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_THIS_FEATURE_CO' => 'This feature code will directly dial another extension\'s voicemail box.',
+          'T_FEATURE_CODE_EX3' => 'Feature Code Extension',
+			'T_MODIFY_FC_GOTO_VOICEMAIL_EXTENSION' => 'Modify Feature Code Go To Voicemail Extension',
+			'T_CREATE_FC_GOTO_VOICEMAIL_EXTENSION' => 'Create Feature Code Go To Voicemail Extension',
+			'T_ENTER_FC_GOTO_VOICEMAIL_EXTENSION' => 'Enter Go To Voicemail Extension',
+        };

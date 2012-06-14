@@ -1,0 +1,26 @@
+$VAR1 = {
+          'T_MORE_ABOUT_MUS' => 'Ulteriori informazioni su Musica di attesa',
+          'T_MOVE_CHECKED_TO' => 'Sposta selezionati in',
+          'T_VIEW' => 'Visualizza',
+          'T_ALL_SONGS' => 'Tutte le canzoni',
+          'T_NO_GROUPS_TO_COPY' => 'Non ci sono altri gruppi nei quali copiare canzoni.',
+          'T_GROUP_LISTINGS' => 'Elenchi gruppi',
+          'T_ALL_CODECS' => 'Tutti i codec',
+          'T_COPY_TO' => 'Copia in',
+          'T_ADD_NEW' => 'Aggiungi nuovo',
+          'T_COPY_CHECKED_TO' => 'Copia selezionati in',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ],
+          'T_NO_GROUPS_TO_MOVE' => 'Non ci sono altri gruppi nei quali spostare canzoni.',
+          'T_GROUP' => 'gruppo',
+          'T_GO' => 'vai',
+          'T_DELETE' => 'Elimina',
+          'T_THE_MUSIC_ON_H' => 'Il Music on hold manager consente di creare gruppi di musica, caricare nuove canzoni, gestire l\'ordine di riproduzione e altro.',
+          'T_MUSIC_ON_H' => 'Musica di attesa',
+          'T_UPLOAD_SONG' => 'Carica canzone',
+          'T_DELETE_CHECKED' => 'Elimina selezionati',
+          'T_ALL_GROUPS' => 'Tutti i gruppi',
+          'T_MOVE_TO' => 'Sposta in',
+          'T_CODEC' => 'Codec'
+        };

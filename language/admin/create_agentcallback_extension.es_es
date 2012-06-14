@@ -1,0 +1,18 @@
+$VAR1 = {
+          'T_DO_NOT_REQUIRE2' => 'No exigir contraseña para conexión',
+          'T_AGENT_LOG_OUT' => 'Desconexión de agente',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_ALWAYS_PROMPT' => 'Indicar siempre a los agentes que introduzcan la extensión de su conexión',
+          'T_QUEUES_TO_AFFEC' => 'Colas a las que afectará la acción',
+          'T_LOGINLOGOUT_T' => 'Cambiar entre conexión/desconexión',
+          'T_AGENT_LOG_IN' => 'Conexión de agente',
+          'T_AFFECT_AL' => 'Afectar a todas las colas',
+          'T_DIGITS_IN_LENGT3' => 'dígitos de longitud',
+          'T_EXTENSION' => 'Extensión',
+          'T_AFFECT_VIRTUAL' => 'El estado de conexión/desconexión afecta a extensiones virtuales',
+          'T_CREATE_EXTENSIO5' => 'Crear extensión',
+          'T_MODIFY_EXTENSIO4' => 'Modificar extensión',
+          'T_DO_NOT_REQUIRE' => 'No exigir contraseña para desconexión'
+        };

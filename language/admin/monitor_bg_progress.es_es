@@ -1,0 +1,9 @@
+$VAR1 = {
+          'T__COMPLETE3' => '0% completado',
+          'T_PLEASE_BE_PATIE' => 'Por favor, espere y no actualice esta página.',
+          '__INCLUDES' => [
+                            '../common/incl_help_header',
+                            'incl_header',
+                            '../common/incl_help_footer',
+                          ]
+        };

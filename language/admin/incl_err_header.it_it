@@ -1,0 +1,13 @@
+$VAR1 = {
+          'T_ERROR6' => 'ERRORE',
+          'T_CONFLICTING_EXT' => 'Estensioni in conflitto',
+          'T_CONFLICTING_OUT' => 'Regole chiamata in uscita in conflitto.',
+          'T_LOGOUT' => 'Disconnetti',
+          'T_LOGOUT3' => 'disconnessione',
+          '__INCLUDES' => [
+                            '../common/incl_jscss',
+                            '../common/incl_nav'
+                          ],
+          'T_WARNING4' => 'ATTENZIONE',
+          'T_WELCOME' => 'Benvenuto'
+        };

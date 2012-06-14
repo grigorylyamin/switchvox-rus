@@ -1,0 +1,26 @@
+$VAR1 = {
+		  'PT_CONFERENCE_SETUP' => 'Conference Setup',
+          'T_SELECT_FROM_AVAIL' => 'You must select at least 1 account from the "All Available Accounts" selection box.',
+          'T_SELECT_FROM_GROUP' => 'You must select at least 1 account from the "Conference Admins" selection box.',
+          'T_MOVE_MEMBER_DOWN' => 'Move Member Down',
+          'T_MOVE_MEMBER_BOTTOM' => 'Move Member to Bottom',
+          'T_CONSTRAINT' => 'digits in length',
+          'T_MOVE_MEMBER_UP' => 'Move Member Up',
+          'T_MODIFY_EXTENSIO' => 'Modify Extension',
+          'T_ENTER_SOUND_TYPE' => 'Sound type',
+          'T_CONFERENCE_MEMB' => 'Conference members may press # and be sent to extension',
+          'T_MOVE_MEMBER_TOP' => 'Move Member to Top',
+          'T_CREATE_EXTENSIO' => 'Create Extension',
+          '__INCLUDES' => [
+                            'edition/incl_conference_setup'
+                          ],
+          'T_ONLY_ONE_MEMBER' => 'You may only choose one member to move at a time.',
+          'T_ALREADY_AT_BOTTOM' => 'Member is already at the bottom of the list.',
+          'T_PLAY_MUSIC_ON_H' => 'Play Music On Hold when only 1 member is in the conference',
+          'T_PLAY_SOUND_WHEN' => 'Play sound when people enter/leave',
+          'T_ADD_MEMBER' => 'Add Member',
+          'T_INTERCOM_EXTENS' => 'Intercom Extension',
+          'T_ALREADY_AT_TOP' => 'Member is already at the top of the list.',
+          'T_REMOVE_MEMBER' => 'Remove Member',
+          'T_NO_MEMBERS_SELECTED' => 'You haven\'t selected any members.'
+        };

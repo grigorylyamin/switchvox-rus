@@ -1,0 +1,9 @@
+$VAR1 = {
+          'T_VIEW_CONFIGURAT' => 'View Configuration of Span ',
+          'T_NBSPNBSPCON' => 'Configuration Span Options',
+          '__INCLUDES' => [
+                            'incl_header',
+							'../common/incl_table'
+                          ],
+          'T_NBSPNBSPSEL' => 'Select a Span to Configure'
+        };

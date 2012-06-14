@@ -1,0 +1,8 @@
+$VAR1 = {
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ],
+          'T_ERROR_CORRECTI2' => 'Error Correction Mode (ECM) for G711 faxes. 
+The default is to leave this feature enabled.'
+        };

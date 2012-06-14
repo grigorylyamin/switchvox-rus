@@ -1,0 +1,16 @@
+$VAR1 = {
+          'T_RULE_NAME' => 'Nombre de la regla',
+          'T__OR21' => '-O-',
+          '__INCLUDES' => [
+                            'new_actions/incl_button',
+                            'new_actions/incl_tabletitle',
+                            'new_actions/incl_missing_digit_variables'
+                          ],
+          'T_PHONE_NUMBER3' => 'Número de teléfono',
+          'T_SELECT_A_VARIAB11' => 'Seleccionar una variable',
+          'T_ALLOW3' => 'Permitir',
+          'T_EX_918555121' => 'ej. 918005551212',
+          'T_DENY3' => 'Rechazar',
+          'T_OUTGOING_CALL_R2' => 'Reglas de llamadas salientes para este número',
+          'T_NUMBER_TO_DIAL' => 'Número para marcar'
+        };

@@ -1,0 +1,26 @@
+$VAR1 = {
+          'T_SELECT_FROM_AVAIL' => 'È necessario selezionare almeno 1 account dalla casella di selezione ‘Tutti gli account disponibili\'.',
+          'T_SELECT_FROM_GROUP' => 'È necessario selezionare almeno 1 account dalla casella di selezione "Amministratori di conferenza".',
+          'T_MOVE_MEMBER_DOWN' => 'Sposta membro in basso',
+          'T_MOVE_MEMBER_BOTTOM' => 'Sposta membro in fondo',
+          'T_CONSTRAINT' => 'Cifre in lunghezza',
+          'T_MOVE_MEMBER_UP' => 'Sposta membro in alto',
+          'T_MODIFY_EXTENSIO' => 'Modifica estensione',
+          'T_ENTER_SOUND_TYPE' => 'Tipo audio',
+          'PT_CONFERENCE_SETUP' => 'Impostazione conferenza',
+          'T_CONFERENCE_MEMB' => 'I membri della conferenza possono premere # per essere inviati all\'estensione',
+          'T_MOVE_MEMBER_TOP' => 'Sposta membro in cima',
+          'T_CREATE_EXTENSIO' => 'Crea estensione',
+          '__INCLUDES' => [
+                            'edition/incl_conference_setup'
+                          ],
+          'T_ONLY_ONE_MEMBER' => 'È possibile scegliere solo un membro da spostare per volta.',
+          'T_ALREADY_AT_BOTTOM' => 'Il membro è già in fondo all\'elenco.',
+          'T_PLAY_MUSIC_ON_H' => 'Riproduci Musica di attesa quando solo 1 membro è nella sala conferenze',
+          'T_PLAY_SOUND_WHEN' => 'Riproduci audio quando le persone accedono/escono',
+          'T_ADD_MEMBER' => 'Aggiungi membro',
+          'T_INTERCOM_EXTENS' => 'Estensione Intercom',
+          'T_ALREADY_AT_TOP' => 'Il membro è già in cima all\'elenco.',
+          'T_REMOVE_MEMBER' => 'Rimuovi membro',
+          'T_NO_MEMBERS_SELECTED' => 'Non sono stati selezionati membri.'
+        };

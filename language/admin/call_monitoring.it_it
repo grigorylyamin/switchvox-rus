@@ -1,0 +1,11 @@
+$VAR1 = {
+          'T_HANGUP_CALL' => 'Termina',
+          'T_YES_HANGUP' => 'Sì, termina',
+          '__INCLUDES' => [
+                            'incl_header',
+                            '../common/incl_dhtml_window_popup'
+                          ],
+          'T_PAGE_HEAD_CURRENT_CALLS' => 'Monitoraggio chiamate attuali',
+          'T_CANCEL' => 'annulla',
+          'T_ARE_YOU_SURE' => 'Terminare questa chiamata?'
+        };

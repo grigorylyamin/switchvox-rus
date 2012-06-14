@@ -1,0 +1,21 @@
+$VAR1 = {
+          'T_WHICH_ACTION_SH' => 'Di quale azione avviare la riproduzione?',
+          'T_ALWAYS_CONTEXT' => 'Inizio Menu IVR',
+          'T_CONTEXT_NAME' => 'Nome Menu IVR',
+          'T_CHOOSE_CONTEXT' => 'È necessario scegliere un Menu IVR valido o crearne uno nuovo utilizzando l\'IVR Editor.',
+          'T_CREATE_IVR_TITLE' => 'Crea estensione IVR',
+          'T_WHICH_IVR_SHOUL' => 'Questa azione, quale IVR deve riprodurre?',
+          'T_WHAT_DOES_THIS' => 'Cosa significa?',
+          'T_DIGITS_IN_LENGT6' => 'Cifre in lunghezza',
+          'T_CAN_IVR_DIAL' => 'Questa estensione può essere composta da un IVR.',
+          'T_MODIFY_EXTENSIO' => 'Modifica estensione',
+          'T_CONTEXT_ENTRY_P' => 'Punto di ingresso Menu IVR',
+          'T_MODIFY_IVR_TITLE' => 'Modifica estensione IVR',
+          'PE_CHOOSE_ACTION' => 'È necessario sceglie un IVR valido per avviare l\'azione.',
+          'T_CREATE_EXTENSIO' => 'Crea estensione',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ],
+          'PE_CHOOSE_CONTEXT' => 'È necessario scegliere un Menu IVR valido.',
+          'T_IVR_EXTENSION' => 'Estensione IVR'
+        };

@@ -1,0 +1,11 @@
+$VAR1 = {
+          'T_IF_YOU_DO_NOT3' => 'If you do not wish for your login agents to be logged out no matter how many calls they miss, set this field to \\\'0\\\'.',
+          'T_THIS_SETTING_C' => 'This setting controls when agents will be automatically logged out of queues.',
+          'T_NOTE21' => 'Note',
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ],
+          'T_THIS_VALUE_HAS' => 'This value has no effect on permanent queue members, since they can never be logged out.',
+          'T_IF_A_LOGIN_AGEN' => 'If a login agent misses more calls in a row than the number listed here, the agent will be considered \\\'away\\\' and will be automatically logged out of all the queues they are logged into so that calls are no longer routed to them.'
+        };

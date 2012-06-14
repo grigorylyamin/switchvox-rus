@@ -1,0 +1,16 @@
+$VAR1 = {
+          'ST_T_TITLE_PREVIOUS' => 'Anterior',
+          'ST_T_TITLE_OF' => 'de',
+          'ST_T_MOD_ACCOUNT' => 'Mi cuenta',
+          'ST_T_TITLE_NEXT' => 'Siguiente',
+          'ST_T_HELP' => 'Ayuda',
+          'ST_T_WELCOME' => 'Bienvenido',
+          'ST_T_LOGOUT' => 'Desconexión',
+          'ST_T_PLEASE_WAIT_ALT' => 'Por favor, espere',
+          'ST_T_TITLE_TO' => 'a',
+          'ST_T_YES' => 'Sí',
+          'ST_T_ABOUT' => 'Sobre Switchvox',
+          'ST_T_NO' => 'No',
+          'ST_T_SHOWING'  => 'Mostrando',
+          'ST_T_TOTAL' => 'total'
+        };

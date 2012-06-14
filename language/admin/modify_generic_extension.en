@@ -1,0 +1,11 @@
+$VAR1 = {
+          'T_TO_CHANGE_TH' => 'To change the extension number, please delete this extension and create a new one.',
+          'T_BACK_TO_MANAGE' => 'Back to Manage Extensions',
+          'T_EXTENSION19' => 'Extension',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_THIS_FEATURE_CO5' => 'This feature code will directly dial another extension\'s voicemail box.',
+          'T_THIS_EXTENSI' => 'This extension does not have any attributes to modify.',
+          'T_MORE_ABOUT_THE5' => 'More about the voicemail feature code'
+        };

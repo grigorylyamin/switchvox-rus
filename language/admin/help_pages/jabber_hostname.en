@@ -1,0 +1,10 @@
+my $LANG =
+{
+
+T_JABBER_HOST_DESC => q( 
+It is probably safe to leave the Jabber Hostname setting unchanged. However, if
+you have a DNS name for the Jabber server on your PBX, you may want to set it
+here \(e.g., jabber.example.com\).
+),
+
+};

@@ -1,0 +1,7 @@
+$VAR1 = {
+          '__INCLUDES' => [
+                          ],
+          'T_INVALID_REQUEST' => 'Invalid Request',
+          'T_THE_SERVER_ENCOUNTER' => 'The server encountered a fatal error when processing your request.',
+          'T_PLEASE_HAVE_YOUR' => 'Please have your administrator contact customer support.',
+        };

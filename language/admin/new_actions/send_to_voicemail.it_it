@@ -1,0 +1,9 @@
+$VAR1 = {
+          'T_SEND_TO_VOICEMA6' => 'Invia a segreteria a estensione',
+          'T_SELECT_A_VARIAB12' => 'Seleziona una variabile',
+          '__INCLUDES' => [
+                            'new_actions/incl_button'
+                          ],
+          'T_EXTENSION_TO_DI2' => 'Estensione da comporre',
+          'T__OR22' => '-O-'
+        };

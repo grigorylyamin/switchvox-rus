@@ -1,0 +1,11 @@
+$VAR1 = {
+          'T_HANGUP_CALL' => 'Hangup',
+		  'T_PAGE_HEAD_CURRENT_CALLS'   => 'Current Calls Monitoring',
+          'T_YES_HANGUP' => 'Yes, Hangup',
+          '__INCLUDES' => [
+                            'incl_header',
+                            '../common/incl_dhtml_window_popup',
+                          ],
+          'T_CANCEL' => 'Cancel',
+          'T_ARE_YOU_SURE' => 'Are you sure you want to hangup this call?'
+        };

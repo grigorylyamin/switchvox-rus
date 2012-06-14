@@ -1,0 +1,15 @@
+$VAR1 = {
+          'T_ASK_YOUR_PROVI' => 'Ask your provider if they use multiple hosts to communicate with your
+pbx, and if they have a list of ip addresses that you can expect phone
+calls from.',
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ],
+          'T_SOME_SIP_PROVI' => 'Some SIP providers have multiple servers on the internet that
+communicate with your pbx.  For example, you may register against
+sip.example.com, but receive calls from ny.example.com,
+la.example.com, and mia.example.com.  These hosts (or ip addresses)
+need to be listed here so that the pbx knows how to route calls from
+them.'
+        };

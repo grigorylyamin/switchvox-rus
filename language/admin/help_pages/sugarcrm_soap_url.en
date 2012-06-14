@@ -1,0 +1,13 @@
+$VAR1 = {
+          'T_NOTE_THAT_THIS2' => 'Note that this URL must be accessible from the outside internet, so if
+your CRM application is running behind NAT, you may need to make it
+accessible by forwarding ports.  HTTPS urls and alternate ports are
+supported, for example',
+          'T_HTTPCRMEXAM' => 'http://crm.example.com/sugarcrm/soap.php',
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ],
+          'T_HTTPSPUBLIC' => 'https://public.example.com:8080/sugarcrm/soap.php',
+          'T_THIS_IS_THE_UR' => 'This is the URL to your SugarCRM application\\\'s SOAP API, for example'
+        };

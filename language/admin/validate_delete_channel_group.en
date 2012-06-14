@@ -1,0 +1,10 @@
+$VAR1 = {
+          'T_DELETING_THIS' => 'Deleting this channel group will restart to your phone system. Any current phone calls will be dropped, and any agents logged in will be logged out.',
+          'T_WARNING' => 'WARNING',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_YES_DELETE_CHA' => 'Yes, Delete Channel Group',
+          'T_DELETE_CHA' => 'Delete Channel Group',
+          'T_ARE_YOU_SURE_YO' => 'Are you sure you want to permanently delete the channel group'
+        };

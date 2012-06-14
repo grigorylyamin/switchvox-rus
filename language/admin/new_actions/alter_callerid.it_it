@@ -1,0 +1,16 @@
+$VAR1 = {
+          'T_U' => 'Utilizzare il testo per questa variabile',
+          'T_APPEND' => 'Postponi',
+          '__INCLUDES' => [
+                            'new_actions/incl_button',
+                            'new_actions/incl_missing_digit_variables'
+                          ],
+          'T_CALLER_ID_NUMBE3' => 'Numero ID chiamata',
+          'T_HOW_DO_YOU_WANT' => 'Come si desidera modificare l\'ID chiamante?',
+          'T_CALLER_ID_NAME4' => 'Nome ID chiamante',
+          'T_PREPEND' => 'Anteponi',
+          'T_REPLACE_WITH' => 'Sostituisci con',
+          'T_WHICH_PART_OF_T' => 'Quale parte dell\'ID chiamante modificare?',
+          'T_USE_THIS_T' => 'Utilizza questo testo per modificare l\'ID chiamante',
+          'T__OR6' => '-O-'
+        };

@@ -1,0 +1,12 @@
+$VAR1 = {
+          'T_PHONEBOOK' => 'Rubrica',
+          'T_PREV' => 'Pagina precedente',
+          'T_MORE' => 'altro',
+          'T_CALL' => 'Chiama',
+          '__INCLUDES' => [
+                            'incl_softkeys',
+                            'incl_error_header'
+                          ],
+          'T_NO_ENTRIES' => 'Non sono presenti voci in questa rubrica.',
+          'T_NEXT' => 'Pagina successiva'
+        };

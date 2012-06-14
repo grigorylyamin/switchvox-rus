@@ -1,0 +1,9 @@
+$VAR1 = {
+          'T_EXTENSION2' => 'Extension',
+          'T_HEAD_HELP' => 'help',
+          'T_WARNING3' => 'WARNING',
+          '__INCLUDES' => ['edition/incl_header_switchboard'],
+          'T_ERROR5' => 'ERROR',
+          'T_LOGOUT' => 'Logout',
+          'T_SERVER_IS_OFFLI2' => 'Server is offline - Contact Admin'
+        };

@@ -1,0 +1,12 @@
+$VAR1 = {
+          'T_YOU_MAY_CREATE' => 'Puede crear una copia de seguridad en cualquier momento haciendo clic en el botón "Crear una copia de seguridad". Si desea programar la creación automática y periódica de una copia de seguridad, haga clic en el botón "Configurar copias de seguridad automáticas".',
+          'T_IF_YOU_HAVE_SA' => 'Si ha guardado copias de seguridad de su sistema, aparecerán ordenadas cronológicamente más abajo. Para restaurar una versión más antigua de su sistema, puede hacer clic en el botón "Restaurar", situado junto al archivo de copia de seguridad correspondiente, o puede localizar el archivo que desee utilizar en su ordenador y hacer clic en el botón "Cargar un archivo de copia de seguridad".',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ],
+          'T_KEY_OF_OPTIONAL' => 'Clave de contenidos opcionales',
+          'T_SETUP_AUTOMATIC' => 'Configurar copias de seguridad de forma automática',
+          'T_CREATE_A_BACKUP' => 'Crear una copia de seguridad',
+          'PAGE_TITLE_RESTORE' => 'Copias de seguridad',
+          'T_UPLOAD_A_BACKUP' => 'Cargar un archivo de copia de seguridad'
+        };

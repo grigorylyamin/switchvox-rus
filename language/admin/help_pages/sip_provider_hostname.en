@@ -1,0 +1,10 @@
+$VAR1 = {
+          'T_THIS_IS_THE_SIP' => 'This is the SIP server given to you by your SIP provider.
+It may also be called registrar server.  Some examples are:
+sip.broadvoice.com, access1.voicepulse.com, or proxy01.sipphone.com',
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ],
+          'T_IF_UNSURE_CON' => 'If unsure, contact your SIP provider for this value.'
+        };

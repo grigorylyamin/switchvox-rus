@@ -1,0 +1,5 @@
+$VAR1 = {
+          'T_VOICEMAIL_EXTEN' => 'Voicemail Extension',
+          'T_RECORDED_SOUND5' => 'Recorded Sound to Send to Voicemail',
+          'T_ACTION_TYPE31' => 'Action Type'
+        };

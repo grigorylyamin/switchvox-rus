@@ -1,0 +1,24 @@
+$VAR1 = {
+          'T_CLICK_BUTTON_TO' => 'Click button to add the selected sound to your sound merge.',
+          'T_EXISTING_SOUNDS' => 'Existing Sounds',
+          'T_FOLDER5' => 'Folder',
+          '__INCLUDES' => [
+                            'new_actions/incl_missing_sound_variables',
+							'new_actions/incl_tabletitle',
+                            'new_actions/incl_button'
+                          ],
+          'T_CURRENT_LANGUAG' => 'Current Language',
+          'T_THE_BOXES_ABO' => 'The boxes above will represent the sounds and the order of the sounds you wish to merge. To add a sound, choose either a sound or variable
+	from the dropdown menus below and then click the appropriate Append To Merge button. You can merge up to 10 sounds into one sound variable.
+	You can erase your merge order and start over by clicking the Clear Merge Sounds button.',
+          'T_CLICK_BUTTON_TO2' => 'Click button to add the selected variable to your sound merge.',
+          'T_LANGUAGE5' => 'Language',
+          'T_CLEAR_MERGE_SOU' => 'Clear Merge Sounds',
+          'T_SOUND_VARIABLES' => 'Sound Variables',
+          'T_SOUND_DESCRIPTI4' => 'Sound Description',
+          'T_SOUND_TO_PLAY' => 'Sound to Play',
+          'T_SOUNDS_TO_MERGE' => 'Sounds To Merge',
+          'T_APPEND_TO_MERGE' => 'Append to Merge',
+          'T_APPEND_TO_MERGE2' => 'Append to Merge',
+          'T_VARIABLE_NAME_F3' => 'Variable Name for Merged Sound'
+        };

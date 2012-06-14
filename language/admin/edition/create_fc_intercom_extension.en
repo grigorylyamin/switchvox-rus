@@ -1,0 +1,28 @@
+$VAR1 = {
+          'T_CREATE_INTERCOM' => 'Create Intercom Group',
+          'T_CAN_THEY' => ' can they intercom',
+          'T_WHICH' => 'Which ',
+          'T_THAT_CAN_USE' => ' that can use the intercom',
+          'T_4_MINUTES' => '4 Minutes',
+          'T_7_MINUTES' => '7 Minutes',
+          'T_WHATS_THIS3' => 'What\'s this?',
+          'T_SORRY_THIS_FE2' => 'Sorry this feature is not available in this software version.',
+          'T_NEVER_TIMES_OUT' => 'Never Times Out',
+          'T_1_MINUTES' => '10 Minutes',
+          'T_SORRY_THIS_FE' => 'Sorry this feature is not available in this software version.',
+          'T_WHATS_THIS2' => 'What\'s this?',
+          'T_2_MINUTES' => '2 Minutes',
+          'T_THIS_FEATURE_A' => 'This feature allows an extension to directly dial another extension\'s intercom.',
+          'T_5_MINUTES' => '5 Minutes',
+          '__INCLUDES' => [
+                            'incl_header',
+							'../common/incl_permission_settings',
+                          ],
+          'T_3_MINUTES' => '3 Minutes',
+          'T_MORE_ABOUT_USI' => 'More about using the intercom',
+          'T_3_SECONDS' => '30 Seconds',
+          'T_1_MINUTE' => '1 Minute',
+          'T_INTERCOM_SETTIN' => 'Intercom Settings',
+          'T_INTERCOM_USERS' => 'Intercom Users and Admins',
+          'T_WHATS_THIS' => 'What\'s this?'
+        };

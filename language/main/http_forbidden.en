@@ -1,0 +1,8 @@
+$VAR1 = {
+          '__INCLUDES' => [
+                          ],
+          'T_ERROR' => 'Error',
+          'T_NETWORK_FORBIDDEN' => 'Your network is forbidden or you don\'t have the proper permissions to view this page.',
+          'T_THE_NETWORK_YOU' => 'The network you are trying to access this site from is not allowed.',
+          'T_IF_YOU_BELIEVE_YOU' => 'If you believe you should have access please contact your system administrator.',
+        };

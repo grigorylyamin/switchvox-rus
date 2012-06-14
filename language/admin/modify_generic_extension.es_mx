@@ -1,0 +1,11 @@
+$VAR1 = {
+          'T_TO_CHANGE_TH' => 'Para desea cambiar el número de la extensión, deberá eliminar esta extensión y crear una nueva.',
+          'T_EXTENSION19' => 'Extensión',
+          'T_BACK_TO_MANAGE' => 'Regresar a Gestionar extensiones',
+          'T_THIS_FEATURE_CO5' => 'Este código de función marcará directamente el buzón de voz de otra extensión.',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_THIS_EXTENSI' => 'Esta extensión no tiene ningún atributo para modificar.',
+          'T_MORE_ABOUT_THE5' => 'Más información acerca del código de función del buzón de voz'
+        };

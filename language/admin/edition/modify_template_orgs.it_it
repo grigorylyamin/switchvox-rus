@@ -1,0 +1,5 @@
+$VAR1 = {
+          'T_HOLD_DOWN_CTRL14' => 'Tenere premuto CRTL per evidenziare più gruppi',
+          'T_CREATE_NEW_GROU2' => 'Crea nuovo gruppo',
+          'T_NO_GROUPS_IN_TH' => 'Nessun gruppo nel sistema'
+        };

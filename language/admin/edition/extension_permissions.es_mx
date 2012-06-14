@@ -1,0 +1,12 @@
+$VAR1 = {
+          'T_WHICH' => 'Qué ',
+          'T_TELL_ME_MORE_A4' => 'Más información acerca de permisos de extensiones',
+          'T_WITH_EXTENDED' => ' con permisos ampliados',
+          'T_THEY_HAVE' => ' tienen permisos sobre',
+          '__INCLUDES' => [
+                            'incl_header',
+                            '../common/incl_permission_settings'
+                          ],
+          'T_CREATE_EXT_PER' => 'Crear grupo de permisos de extensiones',
+          'T_MANAGE_VARIOUS' => 'Gestione diferentes permisos para cada extensión de su sistema. Estos permisos permiten al administrador controlar mejor las funciones que pueden ser utilizadas por cada extensión.'
+        };

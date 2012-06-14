@@ -1,0 +1,13 @@
+$VAR1 = {
+		'__INCLUDES' => [
+			'incl_softkeys',
+			'incl_error_header',
+			],
+		'T_PLAY' => 'Play',
+		'T_LAST' => 'Last',
+		'T_VOICEMAILS' => 'voicemails',
+		'T_NO_VM' => 'You have no voicemail messages in your INBOX.',
+		'T_LISTEN' => 'Listen',
+		'T_VM' => 'Voicemail',
+		'T_DETAILS' => 'details',
+};

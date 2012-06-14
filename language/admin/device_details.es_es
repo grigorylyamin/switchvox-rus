@@ -1,0 +1,9 @@
+$VAR1 = {
+          'T_VIEW_CONFIGURAT' => 'Visualizar configuración de intervalo ',
+          'T_NBSPNBSPCON' => 'Opciones de intervalo de configuración',
+          'T_NBSPNBSPSEL' => 'Seleccione un intervalo para configurar',
+          '__INCLUDES' => [
+                            'incl_header',
+                            '../common/incl_table'
+                          ]
+        };

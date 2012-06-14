@@ -1,0 +1,7 @@
+$VAR1 = {
+          'T_TITLE' => 'Tarjetas de teléfono',
+          'T_SCANNING_FOR' => 'La exploración en busca de nuevas tarjetas puede durar unos segundos, espere unos instantes y no actualice esta página.',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ]
+        };

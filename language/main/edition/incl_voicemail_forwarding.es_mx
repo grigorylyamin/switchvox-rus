@@ -1,0 +1,19 @@
+$VAR1 = {
+          'T_INDIVIDUAL_EXTE' => 'Extensiones individuales',
+          'T_SEND_TO_ALL' => 'Enviar a todos',
+          'T_PREDEFINED_GROU' => 'Grupos predefinidos',
+          'T_ENABLE_VOICEMA' => 'Activar desvío de buzón de voz',
+          'T_OR' => '-O-',
+          'T_FORWARD_TO_MEMB' => 'Desviar a miembros',
+          'T_DELETE_ON_FORWA' => 'Eliminar al desviar',
+          'T_CONTACT_YOUR_AD' => 'Póngase en contacto con su administrador para activar esta opción.',
+          'T_FEATURE_DISABLE' => 'Función desactivada -',
+          'T_ROUND_ROBIN' => 'Round Robin',
+          'T_FORWARDING_TYPE' => 'Tipo de desvío',
+          'T_ALL_AVAILABLE_A' => 'Todas las cuentas disponibles',
+          'T_SAVE_FORWARD_SE' => 'Guardar configuración de desvíos',
+          'T_VOICEMAIL_FORWA' => 'Desvío de buzón de voz',
+          'T_ADD_MEMBER' => 'Añadir miembro',
+          'T_REMOVE_MEMBER' => 'Eliminar miembro',
+          'T_TELL_ME_MORE_A' => 'Más información sobre esto'
+        };

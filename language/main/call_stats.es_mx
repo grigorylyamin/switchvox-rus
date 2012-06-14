@@ -1,0 +1,19 @@
+$VAR1 = {
+          'T_USE_THIS_FORM' => 'Utilice este formulario para generar informes estadísticos personalizados acerca del historial de llamadas de esta extensión.',
+          'T' => 'Total acumulado',
+          'T_MMDDYYYY8' => 'dd/mm/aaaa',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_HOLD_DOWN_CTRL16' => 'Mantenga pulsada la tecla CTRL para seleccionar varios elementos',
+          'T_USER_EXTENSIONS' => 'Campos de extensiones de usuario',
+          'T3' => 'Por hora del día',
+          'T_CHART_REPORT' => 'Informe de diagrama',
+          'T_TO_DATE3' => 'Fecha hasta',
+          'T4' => 'Día de la semana',
+          'T_FROM_DATE3' => 'Fecha desde',
+          'T_VIEW_REPORT' => 'Visualizar informe',
+          'T_OUPUT_TO_XLS_F' => 'Salida como archivo .xls',
+          'T_BREAKDOWN' => 'Desglose',
+          'T2' => 'Por fecha'
+        };

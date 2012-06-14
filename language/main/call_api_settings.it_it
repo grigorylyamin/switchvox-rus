@@ -1,0 +1,13 @@
+$VAR1 = {
+          'T_DEFINE_HOW_THE' => 'Definire il modo in cui chiamata API funzionerà con il proprio account. I valori predefiniti sono quelli impostati dagli amministratori globalmente per il sistema.',
+          'T_PREPEND_A_1_IF3' => 'Anteporre un 1 se il numero ha una lunghezza di 10 cifre',
+          'T_USE_THE_DEFAULT2' => 'Utilizzare i predefiniti impostati dall\'amministratore',
+          'T_NONBSPNBSP2' => 'No',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_DIGITS_TO_PREPE' => 'Cifre da anteporre se il numero non è un\'estensione',
+          'T_YESNBSPNBSP2' => 'Sì',
+          'T_SAVE_SETTINGS3' => 'Salva impostazioni',
+          'T_MORE_ABOUT_THE4' => 'Ulteriori informazioni sulle impostazioni  chiamata API'
+        };

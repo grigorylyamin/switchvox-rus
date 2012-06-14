@@ -1,0 +1,7 @@
+$VAR1 = {
+          'T_ACCEPT' => 'I accept this agreement',
+          'T_PAGE_TITLE' => 'End User License Agreement',
+          '__INCLUDES' => [
+                            'incl_header_nonav',
+                          ],
+        };

@@ -1,0 +1,12 @@
+$VAR1 = {
+          'OND_DO_NOT_REMOVE' => 'Do not remove.',
+          'T_LOGIN' => 'Login',
+          'T_EXTENSION' => 'Extension',
+          'T_PHONE_APP_LOGIN' => 'Phone App Login',
+          'T_PHONE_APPLICATI' => 'Phone Applications Login',
+          'T_PASSWORD' => 'Password',
+          'T_LOGIN_INCORRECT' => 'Login Incorrect',
+          'T_SOFT_LOGIN' => 'Login',
+          'T_SOFT_EXIT' => 'Exit',
+          'T_SOFT_CLEAR' => 'Clear',
+        };

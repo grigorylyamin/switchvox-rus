@@ -1,0 +1,10 @@
+$VAR1 = {
+          'T_ERROR10' => 'ERRORE',
+          'T_WARNING29' => 'ATTENZIONE',
+          'T_SYSTEM_IS_NOT_R3' => 'Sistema non registrato',
+          'T_UPDATE_IS_IN_PR2' => 'Aggiornamento in corso',
+          'T_SYSTEM_IS_OFFLI3' => 'Sistema fuori linea',
+          'T_LOGOUT6' => 'disconnessione',
+          '__INCLUDES' => [],
+          'T_CONFLICTING_OUTGOING' => 'Regole chiamata in uscita in conflitto'
+        };

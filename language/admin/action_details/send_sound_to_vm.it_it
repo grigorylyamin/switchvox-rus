@@ -1,0 +1,6 @@
+$VAR1 = {
+          'T_EXTENSION15' => 'Estensione',
+          'T_ACTION_TYPE4' => 'Tipo azione',
+          'T_VARIABLE' => '(Variabile)',
+          'T_VARIABLE_OF_SOU2' => 'Variabile di audio da inviare'
+        };

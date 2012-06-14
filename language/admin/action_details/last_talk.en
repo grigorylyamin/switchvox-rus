@@ -1,0 +1,7 @@
+$VAR1 = {
+          'T_SECONDS_IN_THE' => 'seconds in the last',
+          'T_ACTION_TYPE6' => 'Action Type',
+          'T_STORE_RESULT_IN' => 'Store Result In',
+          'T_LAST_EXTENSION' => 'Last extension to talk to caller for at least',
+          'T_CHECK' => 'Check'
+        };

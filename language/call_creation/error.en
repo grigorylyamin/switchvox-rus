@@ -1,0 +1,7 @@
+$VAR1 = {
+          'T_THERE_WAS_AN_E' => 'There was an error creating this call.',
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ]
+        };

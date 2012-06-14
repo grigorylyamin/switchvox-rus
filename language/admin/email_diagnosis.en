@@ -1,0 +1,13 @@
+$VAR1 = {
+          'T_WARNING' => 'Warning',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_RERUN_THIS_D' => 'Rerun this diagnosis after you think you have fixed the problem.',
+          'T_RERUN_EMAIL_DIA' => 'Rerun Email Diagnosis',
+          'T_FAILED' => 'Failed',
+          'T_NOT_TESTED' => 'Not Tested',
+          'T_PASSED' => 'Passed',
+          'T_EMAIL_DIAGNOSTI' => 'Email Diagnostics',
+		  'T_BACK_TO_SMTP_NOTIFICATIONS' => 'Back to SMTP Notifications'
+        };

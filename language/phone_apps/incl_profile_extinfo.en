@@ -1,0 +1,7 @@
+$VAR1 = {
+		'__INCLUDES' => [ ],
+		'T_EXT' => 'Extension',
+		'T_EMAIL' => 'Email',
+		'T_TITLE' => 'Title',
+		'T_LOC' => 'Location',
+};

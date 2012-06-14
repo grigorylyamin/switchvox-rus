@@ -1,0 +1,7 @@
+$VAR1 = {
+          'T_YES_DELETE_TEM' => 'Yes, Delete Template',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_ARE_YOU_SURE_YO' => 'Are you sure you want to permanently delete template'
+        };

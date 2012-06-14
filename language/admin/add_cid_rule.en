@@ -1,0 +1,9 @@
+$VAR1 = {
+          	'T_CALL_RULE_1' => 'When extension',
+			'T_CALL_RULE_2' => 'is making an outgoing call through rule',
+			'T_CALL_RULE_3' => 'change their caller id name to',
+			'T_CALL_RULE_4'	=> 'and their caller id number to',
+			'T_MODIFY_CID_RULE' => 'Modify Caller ID Rule',
+			'T_ADD_CID_RULE' => 'Add Caller ID Rule',
+			'T_DESCRIPTION' => 'Description',
+        };

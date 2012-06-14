@@ -1,0 +1,7 @@
+$VAR1 = {
+          'T_ARE_YOU_SURE_YO13' => 'Are you sure you want to permanently delete this scheduled report',
+          'T_YES_DELETE_SCH' => 'Yes, Delete Scheduled Report',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ]
+        };

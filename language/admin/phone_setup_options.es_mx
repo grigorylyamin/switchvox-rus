@@ -1,0 +1,10 @@
+$VAR1 = {
+          'PSO_NTP_OPTS' => 'Opciones NTP',
+          'PSO_PHONE_SETUP_OPTIONS' => 'Opciones de configuración de teléfono',
+          'PSO_ALT_HOST_OPT' => 'Opción por omisión de host alternativo',
+          'PSO_DIGIT_MAP_OPTIONS_DESC' => 'Estos valores se utilizarán para generar el mapa de dígitos para sus teléfonos. La mayor parte de las configuraciones no requieren que cambie ninguno de estos valores. Por favor, consulte su manual o con su servicio técnico antes de cambiar cualquiera de estas opciones.',
+          'PSO_SEC_OPT' => 'Opción de seguridad',
+          'PSO_CUST_DM_DESC' => 'Si desea especificar un mapa de dígitos personalizado para utilizarlo con sus teléfonos, puede introducirlo a continuación. (Deje este campo en blanco si no está seguro.)',
+          'PSO_DIGIT_MAP_OPTS' => 'Opciones de mapas de dígitos',
+          'PSO_PHONE_DISCOVERY_OPTS' => 'Opciones para descubrir teléfonos'
+        };

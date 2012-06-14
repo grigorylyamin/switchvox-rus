@@ -1,0 +1,43 @@
+$VAR1 = {
+          'T__IF_YOU_ARE_S' => '- If you are setting up a regular phone (not VOIP/SIP) that is physically plugged into the PBX, choose this option.',
+          'T__CALLING_THIS' => '- Calling this extension type presents the caller with a dial tone.  This is useful for SIP phones that have an automatic dial feature.  Setting a phone to automatically dial the Dial Tone extension makes it easier to perform certain operations on the Switchboard interface.',
+          'T__AN_IVR_IS_T' => '- (An IVR is the menu that asks the caller to press 1 for directions, press 2 to hear the company directory, etc.) You will be able to customize your IVR\\\'s options, messages, and more in the IVR Editor.',
+          'T_DIAL_TONE2' => 'Dial Tone',
+          'T_NOTE24' => 'Note',
+          'T_ANALOG_PHONE' => 'Analog Phone',
+          'T__THIS_IS_NOT_A' => ': this is not an extension to leave a voicemail message, this is strictly for retrieving voicemail.  Please look in each user\\\'s Call Rules in their User Tools section for options for leaving voicemail.',
+          'T__USERS_CAN_CA' => '- Users can call this extension to check their voicemail.',
+          'T_VIRTUAL_EXTENSI' => 'Virtual Extension',
+          'T_SIP_PHONE_OR_SI' => 'SIP Phone or SIP Adapter for Analog Phone (ATA)',
+          'T__THIS_EXTENSI' => '- This extension type is used to make an announcement over the speakerphone on a group of phones. Targeted phones will not ring, but answer immediately into speaker-phone mode.  Note that the use of this extension type is dependent on a compatible and correctly configured handset.  This extension type allows you to define which phones participate in the paging group, as well as who is allowed to dial it.',
+          'T__SET_UP_A_SIP' => '- Set up a SIP phone or an analog phone plugged into a SIP Adapter (e.g. Sipura SPA-1001).',
+          'T_CALL_QUEUE2' => 'Call Queue',
+          'T_CALL_PARKING' => 'Call Parking',
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'edition/help_pages/incl_extension_types',
+                            'edition/help_pages/incl_extension_types_feature_codes',
+                            'edition/help_pages/incl_extension_types_agents',
+                            'common/incl_help_footer'
+                          ],
+          'T_INTERCOMPAGING2' => 'Intercom/Paging',
+          'T_VOICEMAIL_ACCES2' => 'Voicemail Access',
+          'T__A_SIMPLE_CON' => '- A simple conference room extension presents a single conference room for anyone who calls or is transferred to this extension.',
+          'T__VIRTUAL_EXTE' => '- Virtual Extensions are extensions for users without a phone.  They can be used for voicemail boxes, or can be set up with call rules that always cascade to the user\\\'s cell phone.  They behave exactly like SIP Phone extensions except they do not show the phone as "Unreachable" in the System Status screen.',
+          'T_EXTENSION_TYPES' => 'Extension types available on the PBX',
+          'T_SIMPLE_CONFEREN2' => 'Simple Conference Room',
+          'T__CALL_QUEUES' => '- Call Queues are extensions where callers are queued up in line to speak with a representative. Call queues are often used to dial into a particular department or group, e.g. The extension for accounting could ring each member in the accounting department. You will be able to customize your call queues in the extension setup process.',
+          'T_IVR_INTERACTIV' => 'IVR (Interactive Voice Response)',
+          'T_DIRECTORY3' => 'Directory',
+          'T__BY_TRANSFERR' => '- By transferring callers to this
+extension type, users will be able to park their current call.  Call
+Parking is a method of transferring calls by parking a call on one
+phone, and retrieving it on another phone.  For example, a user gets a
+call in their office, but needs to take that call to the store room to
+check on something.  To park the call, they hit transfer on their
+phone and dial the parking extension, say 700.  A lot number is read
+back to them: 725, and they then hit transfer again to park the
+caller.  The user can now hang up the phone, walk to the store room,
+pick up the phone there and dial 725 to retrieve their call.',
+          'T__THIS_EXTENSI2' => '- This extension type presents the caller with a directory of all extensions.  The caller is prompted to type in the first three letters of the party\\\'s first or last name and is presented with a list of matching extensions.'
+        };

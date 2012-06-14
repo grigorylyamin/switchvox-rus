@@ -1,0 +1,13 @@
+$VAR1 = {
+          'T_DEFINE_HOW_THE' => 'Define cómo la API de llamadas funcionará con su cuenta. Los valores predeterminados son los que el administrador configuró globalmente para el sistema.',
+          'T_PREPEND_A_1_IF3' => 'Anteponga un 1 si el número tiene 10 dígitos',
+          'T_USE_THE_DEFAULT2' => 'Utilice los valores predeterminados definidos por el administrador',
+          'T_NONBSPNBSP2' => 'No',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_DIGITS_TO_PREPE' => 'Dígitos para anteponer si el número no es una extensión',
+          'T_YESNBSPNBSP2' => 'Sí',
+          'T_SAVE_SETTINGS3' => 'Guardar configuración',
+          'T_MORE_ABOUT_THE4' => 'Más información acerca de la configuración de API de llamadas'
+        };

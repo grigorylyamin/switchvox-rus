@@ -1,0 +1,4 @@
+$VAR1 = {
+          'T_DENOTES_PERMANE' => 'Indica un miembro permanente',
+          'T_DENOTES_MEMBER' => 'Indica que el miembro debe conectarse'
+        };

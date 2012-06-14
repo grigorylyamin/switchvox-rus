@@ -1,0 +1,20 @@
+$VAR1 = {
+		  'PAGE_TITLE_RESTORE' => 'Backups',
+          'T_CREATE_A_BACKUP' => 'Create A Backup',
+          'T_CLOSE_WINDOW' => 'Close Window',
+          'T_YOU_MAY_CREATE' => 'You may create a backup at any time by clicking on the "Create A Backup" button. If you would like to schedule automatic recurring backup creation, click the "Setup Automatic Backups" button.',
+          'T_IF_YOU_HAVE_SA' => 'If you have saved backups of your system, they will be listed in chronological order below. To restore to an older version of your system, you may click the "Restore" button" next to the corresponding backup file, or you may locate the file you would like to use on your computer and click the "Upload a Backup File" button.',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_UPLOAD_A_BACKUP' => 'Upload a Backup File',
+          'T_KEY_OF_OPTIONAL' => 'Key of Optional Contents',
+          'T_SETUP_AUTOMATIC' => 'Setup Automatic Backups',
+          'T_YES_DELETE_BAC' => 'Yes, Delete Backup',
+          'T_ARE_YOU_SURE_YO26' => 'Are you sure you want to permanently delete the backup created on: ',
+          'T_CANCEL' => 'Cancel',
+          'T_RESTORING_THIS' => 'Restoring this backup will drop all current calls and restart your phone system. All data created since this backup was created will be lost, including extensions and voicemail.',
+          'T_YES_RESTORE_BA' => 'Yes, Restore Backup',
+          'T_ARE_YOU_SURE_YO' => 'Are you sure you want to restore this backup?',
+          'SM_RESTORE_BACKUPA' => 'Successfully restored backup.'
+        };

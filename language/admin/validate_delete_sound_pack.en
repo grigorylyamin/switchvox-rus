@@ -1,0 +1,10 @@
+$VAR1 = {
+          'T_WARNING8' => 'WARNING',
+          'T_YES_DELETE_SOU' => 'Yes, Delete Sound Pack',
+          'T_SOUNDS_THAT_WIL2' => 'Sounds that will be removed',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_ARE_YOU_SURE_YO8' => 'Are you sure you want to permanently delete this sound pack',
+          'T_DELETING_THIS2' => 'Deleting this sound pack will also permanently delete all of the sounds in it. If sounds from this sound pack are being used by your system, you will have to replace them in the appropriate section of this web administration tool.'
+        };

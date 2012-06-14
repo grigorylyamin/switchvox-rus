@@ -1,0 +1,8 @@
+$VAR1 = {
+          'T_YES_DELETE_TIM' => 'Sí, eliminar intervalo de tiempo',
+          'T_ARE_YOU_SURE_YO4' => '¿Está seguro de que desea eliminar permanentemente el',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T__TIME_FRAME' => 'intervalo de tiempo?'
+        };

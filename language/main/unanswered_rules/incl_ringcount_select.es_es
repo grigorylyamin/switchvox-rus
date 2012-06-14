@@ -1,0 +1,19 @@
+$VAR1 = {
+          'T_8_RINGS' => '8 tonos',
+          'T_15_RINGS' => '15 tonos',
+          'T_12_RINGS' => '12 tonos',
+          'T_IMMEDIATELY2' => 'Inmediatamente',
+          'T_6_RINGS' => '6 tonos',
+          'T_2_RINGS' => '2 tonos',
+          'T_3_RINGS' => '3 tonos',
+          'T_9_RINGS' => '9 tonos',
+          'T_11_RINGS' => '11 tonos',
+          'T_4_RINGS' => '4 tonos',
+          'T_7_RINGS' => '7 tonos',
+          'T_2_RINGS2' => '20 tonos',
+          'T_5_RINGS' => '5 tonos',
+          'T_13_RINGS' => '13 tonos',
+          'T_14_RINGS' => '14 tonos',
+          'T_1_RINGS2' => '10 tonos',
+          'T_1_RINGS' => '1 tono'
+        };

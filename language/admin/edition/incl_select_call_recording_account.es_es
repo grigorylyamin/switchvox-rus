@@ -1,0 +1,17 @@
+$VAR1 = {
+          'T_PHONE_ACC' => 'Cuentas de teléfonos',
+          'T_ALL_PHONE_EXTEN' => 'Todas las extensiones telefónicas',
+          'T_NO_GROUPS_IN_SY3' => 'Sin grupos en el sistema',
+          'T_CALL' => 'Colas de llamadas',
+          '__INCLUDES' => [],
+          'T_GROUP' => 'Nombre de grupo',
+          'T_WHOSE_CALLS_WO' => '¿De quién desea grabar sus llamadas?',
+          'T_CALL_QUEUES2' => 'Colas de llamadas',
+          'T_EXTENSION_GROUP' => 'Grupos de extensiones',
+          'T_ADD_MEMBER' => 'Añadir miembro',
+          'T_PHONE_EXTENSION' => 'Extensiones telefónicas',
+          'T_NO_QUEUES_IN_TH' => 'Sin colas en el sistema',
+          'T_REMOVE_MEMBER' => 'Eliminar miembro',
+          'T_SCHEDULE_A_RECO' => 'Programar un trabajo de grabación',
+          'T_CURRENT_M' => 'Miembros actuales'
+        };

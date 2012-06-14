@@ -1,0 +1,8 @@
+$VAR1 = {
+          'T_USER_TIP7' => 'User Tip',
+          '__INCLUDES' => [
+                            'incl_header',
+                            'incl_subnav_descriptions',
+                          ],
+          'T_THE_SYSTEM_N' => 'The system natively supports Ogg format for music and other sound files, but it can be upgraded to support mp3 format if you upload the right packages.'
+        };

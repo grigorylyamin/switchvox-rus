@@ -1,0 +1,6 @@
+$VAR1 = {
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_YOUR_BACKU' => 'Your backup is being restored. Please be patient and do not refresh this page.'
+        };

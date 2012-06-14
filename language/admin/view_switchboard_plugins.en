@@ -1,0 +1,37 @@
+$VAR1 = {
+          'T_SALESFORCEC' => 'Salesforce.com is a registered trademark of salesforce.com.
+  Google is a registered trademark of Google Inc.  SugarCRM is a
+  registered trademark of SugarCRM Inc.  The above Switchboard
+  panels are not endorsed, created by, or affiliated with these
+  trademark holders.',
+          'T_PANEL_NAME3' => 'Panel Name',
+          'T_DELETE14' => 'Delete',
+          'T_STANDARD_PANELS' => 'Standard Panels',
+          'T_SALESFORCECOM' => 'Salesforce.com&reg; Switchboard Panel',
+          'T_YES_DELETE13' => 'Yes, Delete',
+          'T_DESCRIPTION6' => 'Description',
+          'T_CREATE_A_NEW_CU' => 'Create a New Custom Switchboard Panel',
+          'T_EMPTY_WINDOW5' => 'Empty Window',
+          'T_ARE_YOU_SURE10' => 'Are you sure you want to delete this custom panel?',
+          'T_MODIFY4' => 'Modify',
+          'T_CANCEL27' => 'Cancel',
+          'T_USE_GOOGLER' => 'Use Google&reg; Maps to pinpoint the location of incoming
+  calls, based on their caller-id.',
+          'T_THIS_PANEL_W' => 'This panel will display information from your SugarCRM&reg;
+  database about the incoming caller.',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_SWITCHBOARD_PAN' => 'Switchboard Panel',
+          'T_GOOGLEREG_MAP' => 'Google&reg; Maps Switchboard Panel',
+          'T_CUSTOM_PANELS2' => 'Custom Panels',
+          'T_CREATE_PANEL' => 'Create Panel',
+          'T_NO_CUSTOM_PANEL' => 'No custom panels',
+          'T_WHENEVER_AN' => 'Whenever an incoming call is received, this panel will show
+  the caller\'s information from your Salesforce.com&reg;
+  database.',
+          'T_FREE_TRIAL' => 'free trial',
+          'T_PANEL_SETTINGS5' => 'Panel Settings',
+          'T_SUGARCRMREG_S' => 'SugarCRM&reg; Switchboard Panel',
+          'T_SETUP' => 'Setup'
+        };

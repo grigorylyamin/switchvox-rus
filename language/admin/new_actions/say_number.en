@@ -1,0 +1,9 @@
+$VAR1 = {
+          'T_SELECT_A_VARIAB2' => 'Select a Variable',
+          'T_ENTER_IN_NUMBER' => 'Enter in number manually',
+          'T__OR7' => '- OR -',
+          '__INCLUDES' => [
+                            'new_actions/incl_button'
+                          ],
+          'T_NUMBER_TO_SAY' => 'Number to Say'
+        };

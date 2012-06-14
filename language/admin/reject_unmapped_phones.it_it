@@ -1,0 +1,6 @@
+$VAR1 = {
+          'RPP_ERROR_MSG' => 'Si è verificato un problema con il rifiuto dell\'estensione proposta per il telefono utilizzato.',
+          'RPP_SUCCESS_MANY_MSG' => 'Rifiuto estensioni proposte per I telefono riuscito.',
+          'RPP_SUCCESS_MSG' => 'Rifiuto estensione proposta per il telefono utilizzato riuscito.',
+          'RPP_ERROR_MANY_MSG' => 'Si è verificato un problema con il rifiuto dell\'estensione proposta per almeno uno dei telefoni selezionati.'
+        };

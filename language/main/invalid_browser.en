@@ -1,0 +1,10 @@
+$VAR1 = {
+	'T_I_AM_SORRY_YOU' => 'Sorry, your Web browser is incompatible with this version of the Switchboard.',
+	'T_IN_ORDER_TO_EN' => 'To ensure that the Switchboard functions properly, it is required you use one of the following web browsers : Mozilla Firefox (version 3+), Microsoft Internet Explorer (version 7.0+), Apple Safari (version 4.0+), or Google Chrome (version 8.0+). Use the following links to get the latest version of these browers.',
+	'T_SWITCHBOARD4' => 'Switchboard',
+	'T_CLOSE_WINDOW3' => 'Close Window',
+	'T_GET_IE' => 'Get Microsoft Internet Explorer',
+	'T_GET_FIREFOX' => 'Get Mozilla Firefox',
+	'T_GET_SAFARI' => 'Get Google Chrome',
+	'T_GET_CHROME' => 'Get Apple Safari',
+};

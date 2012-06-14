@@ -1,0 +1,8 @@
+$VAR1 = {
+          'T_REMOVE_A_RINGTONE' => 'Rimuovi una suoneria caratteristica suggerita',
+          '__INCLUDES' => [
+                            'new_actions/incl_button',
+                            'new_actions/incl_missing_digit_variables'
+                          ],
+          'T_CLEAR_ALL_RINGTONE' => 'Annulla tutte le suonerie caratteristiche suggerite'
+        };

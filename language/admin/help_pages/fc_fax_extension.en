@@ -1,0 +1,28 @@
+##This file was auto generated##
+my $LANG =
+{
+
+	T_FC_FAX_DESC => q( 
+		This feature code lets you send a fax to an external number, and designate a phone-type extension as the owner of the fax.  The fax is sent using that extension's 
+		call rules, and a copy of the sent fax is stored in that extension's outbox.
+	),
+
+	T_EXAMPLE => 'Example',
+	T_FC_FAX_HELP => q(
+		You have a Feature Code extension of 33. You want to
+		send a fax as if it were from extension 200, which has a voicemail password of
+		111. Extension 200's call rules require you to dial a 9 for an outgoing line, and you are sending the fax to
+		1-888-555-1212. 
+		<br/><br/>
+		You would dial the following from your fax machine:
+		<br/><br/>
+		*33200*111*918885551212
+		<br/><br/>
+		If the password is not required, just leave it out:
+		<br/><br/>
+		*33200*918885551212
+		<br/><br/>
+		In both cases, the fax is sent to the number 1-888-555-1212 and is stored in the
+		Sent Faxes folder of extension 200.
+	),
+};

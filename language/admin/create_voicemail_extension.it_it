@@ -1,0 +1,17 @@
+$VAR1 = {
+          'T_WHAT_DOES_THIS7' => 'Cosa significa?',
+          'T_DIGITS_IN_LENGT5' => 'Cifre in lunghezza',
+          'T_SAVE_EXTENSION' => 'Salva estensione',
+          'T_MODIFY_EXTENSIO6' => 'Modifica estensione',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ],
+          'T_CREATE_VOICEMAIL_EXTENSION' => 'Crea estensione di segreteria',
+          'T_VOICEMAIL_ACC' => 'Estensione Accesso a segreteria',
+          'T_CREATE_EXTENSIO7' => 'Crea estensione',
+          'T_DO_NOT_REQUIRE3' => 'Non richiedere password quando il chiamante chiama dalla propria estensione.',
+          'T_THIS_EXTENSIO2' => 'Questa estensione può essere composta da un IVR.',
+          'T_EXTENSION' => 'Estensione',
+          'T_MODIFY_VOICEMAIL_EXTENSION' => 'Modifica estensione di segreteria',
+          'T_REQUIRE_PASSWORD' => 'Richiedi password'
+        };

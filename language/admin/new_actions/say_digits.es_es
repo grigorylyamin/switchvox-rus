@@ -1,0 +1,9 @@
+$VAR1 = {
+          'T_ENTER_IN_DIGITS' => 'Introduzca los dígitos manualmente',
+          '__INCLUDES' => [
+                            'new_actions/incl_button'
+                          ],
+          'T_DIGITS_TO_SAY' => 'Dígitos que se dirán',
+          'T_SELECT_A_VARIAB4' => 'Seleccionar una variable',
+          'T__OR11' => '-O-'
+        };

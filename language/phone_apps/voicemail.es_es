@@ -1,0 +1,13 @@
+$VAR1 = {
+          'T_PLAY' => 'Reproducir',
+          'T_VOICEMAILS' => 'buzones de voz',
+          'T_DETAILS' => 'detalles',
+          '__INCLUDES' => [
+                            'incl_softkeys',
+                            'incl_error_header'
+                          ],
+          'T_LISTEN' => 'Escuchar',
+          'T_VM' => 'Buzón de voz',
+          'T_NO_VM' => 'No tiene ningún mensaje de voz en su BANDEJA DE ENTRADA.',
+          'T_LAST' => 'Último'
+        };

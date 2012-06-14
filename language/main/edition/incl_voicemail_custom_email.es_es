@@ -1,0 +1,15 @@
+$VAR1 = {
+          'T_VIEW_DEFAULT_VO' => 'Visualizar las plantillas predeterminadas de correo electrónico para buzón de voz',
+          'T_VIEW_VOICEMAIL' => 'Visualizar plantillas de correo electrónico para el buzón de voz',
+          'T_CONTACT_YOUR_AD2' => 'Póngase en contacto con su administrador para activar esta opción.',
+          'T_CREATE_A_NEW_VO' => 'Crear una nueva plantilla de correo electrónico para el buzón de voz',
+          'T_VIEW' => 'Visualizar',
+          'T_EDIT' => 'Editar',
+          'T_FEATURE_DISABLE2' => 'Función desactivada -',
+          'T_TEMPLATE' => 'Nombre de plantilla:',
+          'T_DELETE' => 'Eliminar',
+          'T_CREATE_NEW' => 'Crear nuevo',
+          'T_TELL_ME_MORE_A2' => 'Más información sobre esto',
+          'T_VOICEMAIL_EMAIL' => 'Plantillas de correo electrónico para el buzón de voz',
+          'T_VIEW2' => 'Visualizar'
+        };

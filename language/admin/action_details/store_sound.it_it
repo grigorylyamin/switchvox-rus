@@ -1,0 +1,5 @@
+$VAR1 = {
+          'T_WHERE_TO_STORE' => 'Dove archiviare in Sound Manager',
+          'T_SOUND_VARIABLE' => 'Variabile audio da archiviare',
+          'T_ACTION_TYPE26' => 'Tipo azione'
+        };

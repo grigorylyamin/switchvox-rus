@@ -1,0 +1,8 @@
+$VAR1 = {
+          'T_IF_YOUR_SIP_PR' => 'If your sip provider requires you to use a different username specifically for authentication, enter it here.
+Do not edit this option unless explicitly instructed to do so.',
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ]
+        };

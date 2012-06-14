@@ -1,0 +1,13 @@
+$VAR1 = {
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ],
+          'T_VOICEMAILFAX' => 'Voicemail/Fax mailbox quota is the maximum amount of voicemail messages and faxes (in megabytes) an extension is allowed.
+If you would like to place a mailbox quota for this extension, enter a numeric value in the field provided.  
+If you enter a 0, this extension will not be able to accept any voicemails or faxes.  
+The PBX feature "voicemail" must be enabled for this option to be activated.  
+Leave this field blank if you would like this extension to have unlimited voicemail/fax.
+A mailbox quota can also be set for extension groups.  
+If a quota is set for both group and individual for an extension, the individual quota value will be used.'
+        };

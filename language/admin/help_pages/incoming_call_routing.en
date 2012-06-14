@@ -1,0 +1,29 @@
+$VAR1 = {
+          'T_ROUTE_VOICE' => 'Route voice calls on number 8005551111 from Any Provider to extension 500',
+          'T_SINGLE_DID_ROUT' => 'Single DID Routing',
+          'T_ALL_VOICE_CA' => 'All voice calls on numbers from Channel Group T1 lines ranging from 8005551200 through
+  8005551300 will route to an extension derived by trimming 7 digits
+  from the front and adding 200 to the result.',
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ],
+          'T_MULTIPLE_DID_RO' => 'Multiple DID Routing',
+          'T_SINGLE_DID_R' => 'Single DID Routing can be used to send a single phone number to a
+  specific extension.  Perhaps your website tells customers to call your
+  DID 800-555-1111 for sales, and you\\\'d like to send these calls to
+  extension 500.  Here\\\'s a rule that would do this',
+          'T_SOME_SIP_PRO' => 'Some SIP providers and most types of analog lines do not send the
+  number dialed to the PBX.  Ask your phone service provider if they
+  support multiple incoming numbers or DIDs.',
+          'T_INCOMING_CAL' => 'Incoming Call Routing allows you to send inbound calls to the
+  correct extension based on which number was dialed.  The number that
+  people dial to call into your PBX is called a DID.  A Call Route
+  can handle a range of DIDs or just one DID, and can apply to voice
+  or fax calls, or both.',
+          'T_MULTIPLE_DID2' => 'Multiple DID Routing is useful if each person has an outside number
+  for directly dialing their extension.  For example, say your T1
+  provider gives you a DID block from 800-555-1200 through 800-555-1300.
+  Here is how to send these DIDs to extensions 400 through 500',
+          'T_NOTE12' => 'Note'
+        };

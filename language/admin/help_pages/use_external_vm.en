@@ -1,0 +1,7 @@
+$VAR1 = {
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ],
+          'T_CHECK_THIS_BOX6' => 'Check this box if you would like to use the voicemail system of an external SIP provider rather than this PBX\\\'s voicemail system.'
+        };

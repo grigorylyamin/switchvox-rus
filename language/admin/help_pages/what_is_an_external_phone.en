@@ -1,0 +1,8 @@
+$VAR1 = {
+          'T_WHAT_MAKES_A_PH' => 'What makes a phone an "External Phone"',
+          'T_PHONES_ARE_CON' => 'Phones are considered "External" if they are not located on the same network as your PBX. This generally means that they have to connect to your PBX over the Internet or they are located on a separately partitioned network. External phones can NOT go through the full diagnostics because your PBX does not have direct access to these phones since they are (mostly) behind a natting router.',
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ]
+        };

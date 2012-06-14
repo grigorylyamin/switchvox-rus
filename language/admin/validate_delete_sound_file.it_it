@@ -1,0 +1,8 @@
+$VAR1 = {
+          'T_YES_DELETE_FIL' => 'Sì, elimina file',
+          'T_VERSION_OF_SND' => 'Versione audio',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_ARE_YOU_SURE_YO' => 'Eliminare definitivamente'
+        };

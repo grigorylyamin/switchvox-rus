@@ -1,0 +1,17 @@
+$VAR1 = {
+          'T_THIS_FEATURE2' => 'This feature code will allow an extension to silently listen in on another extension\'s current call.',
+          'T_2_DIGITS_IN_LEN2' => '2 digits in length',
+          'T_MODIFY_EXTENSIO2' => 'Modify Extension',
+          'T_CREATE_MONITOR' => 'Create Monitor Group',
+          'T_THEY_CAN' => ' they can monitor',
+          'T_WHICH' => 'Which ',
+          'T_THAT_CAN' => ' that can monitor',
+          '__INCLUDES' => [
+                            'incl_header',
+                            '../common/incl_permission_settings',
+							'js_list_movement'
+                          ],
+          'T_MORE_ABOUT_CAL' => 'More about call monitoring',
+          'T_FEATURE_CODE_EX2' => 'Feature Code Extension',
+          'T_CREATE_EXTENSIO2' => 'Create Extension'
+        };

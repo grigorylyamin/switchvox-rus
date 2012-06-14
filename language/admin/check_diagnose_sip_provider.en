@@ -1,0 +1,19 @@
+$VAR1 = {
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+		  'T_ATTEMPTING_TO' => 'Attempting to diagnose any problems with your SIP Provider, this may take a few seconds, please be patient and do not refresh this page.',
+		  'T_PLEASE_WAIT' => 'Please Wait',
+		  'T_SIP_PRO_DIAGNOSE_PAGE_TITLE' = > 'Diagnosing SIP VoIP Provider',
+        };
+~                                                                                                                                                                                                                                            
+~                                                                                                                                                                                                                                            
+~                                                                                                                                                                                                                                            
+~                                                                                                                                                                                                                                            
+~                                                                                                                                                                                                                                            
+~                                                                                                                                                                                                                                            
+~                                                                                                                                                                                                                                            
+~                                                                                                                                                                                                                                            
+~                                                                                                                                                                                                                                            
+~                                                                                                                                                                                                                                            
+~                                                   

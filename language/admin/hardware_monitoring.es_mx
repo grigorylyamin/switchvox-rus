@@ -1,0 +1,19 @@
+$VAR1 = {
+          'T_NBSPGOODNBSP' => 'Buena',
+          'T_SERVER_INFORMATION' => 'Información del servidor',
+          'T_CURRENT_STAT' => 'Estado actual',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ],
+          'T_AN_ALERT_HAS_NO' => 'NO se envió una alerta.',
+          'T_LOAD' => 'carga',
+          'T_AND_ALERT_HAS_B' => 'Se envió una alerta.',
+          'T_NBSPOVER_THRE' => '¡Por encima del umbral!',
+          'T_LAST_UPDATED' => 'Última actualización',
+          'T_HIDE_ADVANCED_H' => 'Ocultar información avanzada de hardware',
+          'T_SHOW_ADVANCED_H' => 'Mostrar información avanzada de hardware',
+          'T_MEMORY' => 'memoria',
+          'T_DISK' => 'disco',
+          'T_THRESHOLD' => 'Umbral',
+          'T_CURRENT_STAT2' => 'Valor de estado actual'
+        };

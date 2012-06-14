@@ -1,0 +1,40 @@
+$VAR1 = {
+          'T_A_PREVIOUS_IVR' => 'A previous IVR action like \\\'Record Sound\\\' sets the
+         IVR variable \\\'lucky_sound13\\\' to a recorded sound',
+          'T_WHEN_THIS_IVR2' => 'When this IVR action is reached, the sound stored in IVR variable \\\'lucky_sound13\\\'
+         is HTTP posted to \\\'http://www.mydomain.com/upload_script.cgi?name=jeff\\\' (where
+         \\\'jeff\\\' was the name contained in the system variable CALLER_ID_NAME).',
+          'T_A_PREVIOUS_IVR2' => 'A previous IVR action like \\\'Set Variable\\\' sets 
+         the IVR variable \\\'url\\\' to 
+         \\\'http://www.mydomain.com/upload_script.cgi?name=\\\'',
+          'T_YOU_CAN_ENTER' => 'You can enter a \\\'static\\\' URL that is always the same, 
+or you can create a \\\'dynamic\\\' URL by entering variables so
+that the system builds the appropriate URL.',
+          'T_A_PREVIOUS_IVR3' => 'A previous IVR action like \\\'Record Sound\\\' sets the
+         IVR variable \\\'lucky_sound13\\\' to a recorded sound',
+          'T_THIS_ACTION_UP' => 'This action uploads a sound to a remote webserver.',
+          'T_A_DYNAMIC_URL' => 'A dynamic URL can include IVR Action variables or system variables.
+When using a variable, make sure that a previous action has assigned a value to 
+that variable,
+otherwise nothing will be inserted into the URL. To add a variable to the URL,
+select it from the appropriate drop down menu, then click \\\'Append\\\'. The variable will appear
+in the URL field.',
+          'T_THE_URL_HTTP' => 'The URL \\\'http://www.mydomain.com/cgi-bin/upload.cgi\\\' is in the URL field',
+          'T_THE_SYSTEM_VAR' => 'The System variable CALLER_ID_NAME is selected and appended to the URL field',
+          'T_WHEN_THIS_IVR' => 'When this IVR action is reached, the sound stored in IVR variable
+         \\\'lucky_sound13\\\' is HTTP posted to
+         \\\'http://www.mydomain.com/cgi-bin/upload.cgi\\\'',
+          'T_EXAMPLE_2' => 'Example 2',
+          'T_EXAMPLE_12' => 'Example 1',
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ],
+          'T_THE_VARIABLE3' => 'The variable \\\'lucky_sound13\\\' is selected from the 
+         \\\'Sound to Send\\\' drop down menu',
+          'T_THE_IVR_VARIAB' => 'The IVR variable \\\'url\\\' is selected and appended to the URL field',
+          'T_THE_VARIABLE4' => 'The variable \\\'lucky_sound13\\\' is selected from the 
+         \\\'Sound to Send\\\' drop down menu',
+          'T_TWO_THINGS_ARE' => 'Two things are required: the URL of the remote upload
+processing script, and an existing IVR sound variable.'
+        };

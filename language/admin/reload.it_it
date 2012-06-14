@@ -1,0 +1,15 @@
+$VAR1 = {
+          'T_UNDER_CERTAIN_C' => 'In certe circostanze, viene richiesto all\'amministratore il reload, il riavvio o il reboot del software, altrimenti, si consiglia di non cliccare su questi pulsanti.',
+          'T_THIS_WILL_TURN4' => 'Il PBX verrà spento.',
+          'T_SERVER_REBOOT' => 'Reboot del server',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ],
+          'T_THIS_RELOADS_TH' => 'Verrà eseguito il reload della configurazione del software senza riavvio. Nessuna chiamata verrà interrotta.',
+          'T_SOFTWARE_RESTAR' => 'Riavvio software',
+          'T_THIS_RESTARTS' => 'Tutti i software sul PBX verranno riavviati. Tutte le chiamate attuali verranno interrotte.',
+          'T_THIS_WILL_TURN3' => 'Il PBX verrà disattivo e riattivato. Tutte le chiamate attuali verranno interrotte.',
+          'T_SERVER_SHUT_DOW' => 'Arresto del server',
+          'T_SOFTWARE_RELOAD' => 'Reload del software',
+          'T_SYSTEM_RELOAD' => 'Reload del sistema'
+        };

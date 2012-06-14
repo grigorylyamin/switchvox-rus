@@ -1,0 +1,9 @@
+$VAR1 = {
+          'T_VIEW6' => 'Visualizza',
+          'T_VIEW_AN_ADV' => 'Data registro errori avanzati',
+          'T_THE_ADVANCED_ER' => 'Il registro errori avanzato mostra notizie, informazioni di identificazione e errori che si stanno verificando a livelli inferiori. Molte delle voci contenute in questi registri sono benigne e non utili all\'identificazione e alla diagnosi di problemi.  Il registro di errori avanzati è rivolto solo a esperti di telefonia.',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ],
+          'T_ADVANCED_ERR_LOG' => 'Registri Errori Avanzati'
+        };

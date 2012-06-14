@@ -1,0 +1,11 @@
+$VAR1 = {
+          'T_THIS_IS_THE5' => 'This is the',
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ],
+          'T_PROVIDED_TO_YO' => 'provided to you by your IAX Provider.
+It is used to authenticate your PBX to the provider during IAX
+registration, and outbound calls.',
+          'T_USERNAME2' => 'username'
+        };

@@ -1,0 +1,9 @@
+$VAR1 = {
+          'T_THIS_OPTION_WI' => 'This option will require agents and queue members to press the \\\'1\\\' key
+in order to accept the call.  If they simply hang up the queue call
+will go to the next logged in queue member.',
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ]
+        };

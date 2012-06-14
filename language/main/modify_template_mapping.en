@@ -1,0 +1,13 @@
+$VAR1 = {
+          'T_A_WAV_FILE_WILL2' => 'A WAV file will be attached to your email if you choose "Yes".',
+          'T_SAVE4' => 'Save',
+          'T_MODIFY_VOICEMAI2' => 'Modify Voicemail Email Template Mapping',
+          'T_NO2' => 'No',
+          'T_TEMPLATE5' => 'Template',
+          'T_ATTACH_THE_VOIC2' => 'Attach the voicemail message to the notification?',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_YES2' => 'Yes',
+          'T_EMAIL7' => 'Email',
+        };

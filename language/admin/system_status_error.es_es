@@ -1,0 +1,7 @@
+$VAR1 = {
+          'T_YOUR_SYSTEM_IS' => 'Su sistema está teniendo problemas para recibir su estado. Lo más probable es que sea porque su PBX está desconectado. Tal vez deba reiniciar su sistema si el problema persiste.',
+          'T_WARNING5' => 'ADVERTENCIA',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ]
+        };

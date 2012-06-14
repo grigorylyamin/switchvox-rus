@@ -1,0 +1,10 @@
+$VAR1 = {
+          'T_DELETING_THIS' => 'L\'eliminazione di questo gruppo di canali causerà il riavvio del sistema di telefonia. Tutte le connessioni telefoniche attuali verranno interrotte e tutti gli agenti connessi verranno disconnessi.',
+          'T_WARNING' => 'ATTENZIONE',
+          'T_DELETE_CHA' => 'Elimina gruppo canali',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ],
+          'T_YES_DELETE_CHA' => 'Sì, elimina gruppo di canali',
+          'T_ARE_YOU_SURE_YO' => 'Eliminare definitivamente questo gruppo di canali'
+        };

@@ -1,0 +1,6 @@
+$VAR1 = {
+          'T_MY_ADM_INFO' => 'Información de Mi administrador',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ]
+        };

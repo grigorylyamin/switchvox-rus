@@ -1,0 +1,6 @@
+$VAR1 = {
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_PLEASE_CLICK_ON' => 'Cliccare su "Seleziona documento" per il documento da selezionare per l\'invio di fax automatico'
+        };

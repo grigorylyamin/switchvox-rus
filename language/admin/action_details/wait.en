@@ -1,0 +1,7 @@
+$VAR1 = {
+          'T_INTERRUPTIBLE' => 'Interruptible',
+          'T_SECONDS_TO_WAIT' => 'Seconds to Wait',
+          'T_ACTION_TYPE34' => 'Action Type',
+          'T_YES892' => 'Yes',
+          'T_NO892' => 'No',
+        };

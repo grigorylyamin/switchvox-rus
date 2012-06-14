@@ -1,0 +1,10 @@
+$VAR1 = {
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ],
+          'T_THIS_OPTION_AL' => 'This option allows the provider to send you calls without authenticating.
+Most SIP providers do not authenticate, therefore setting this to No will
+likely cause problems.
+Leave this option set to Yes unless instructed otherwise.'
+        };

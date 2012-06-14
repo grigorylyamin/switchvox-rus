@@ -1,0 +1,19 @@
+$VAR1 = {
+          'T_8_RINGS' => '8 rings',
+          'T_15_RINGS' => '15 rings',
+          'T_12_RINGS' => '12 rings',
+          'T_IMMEDIATELY2' => 'Immediately',
+          'T_6_RINGS' => '6 rings',
+          'T_2_RINGS' => '2 rings',
+          'T_3_RINGS' => '3 rings',
+          'T_9_RINGS' => '9 rings',
+          'T_11_RINGS' => '11 rings',
+          'T_4_RINGS' => '4 rings',
+          'T_7_RINGS' => '7 rings',
+          'T_2_RINGS2' => '20 rings',
+          'T_5_RINGS' => '5 rings',
+          'T_13_RINGS' => '13 rings',
+          'T_14_RINGS' => '14 rings',
+          'T_1_RINGS2' => '10 rings',
+          'T_1_RINGS' => '1 rings'
+        };

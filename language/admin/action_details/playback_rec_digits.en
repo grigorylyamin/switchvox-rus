@@ -1,0 +1,5 @@
+$VAR1 = {
+          'T_RECORDED_DIGITS' => 'Recorded Digits to Play',
+          'T_ACTION_TYPE23' => 'Action Type',
+          'T_VARIABLE11' => '(Variable)'
+        };

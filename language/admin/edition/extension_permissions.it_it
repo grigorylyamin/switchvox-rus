@@ -1,0 +1,12 @@
+$VAR1 = {
+          'T_WHICH' => 'che ',
+          'T_TELL_ME_MORE_A4' => 'Per saperne di più sui permessi di estensioni',
+          'T_WITH_EXTENDED' => ' con permessi estesi',
+          'T_THEY_HAVE' => ' dispongono di permessi',
+          '__INCLUDES' => [
+                            'incl_header',
+                            '../common/incl_permission_settings'
+                          ],
+          'T_CREATE_EXT_PER' => 'Crea gruppo estensione permessi',
+          'T_MANAGE_VARIOUS' => 'Gestisci diversi permessi per ogni estensione nel sistema. Tali permessi consentono all\'amministratore di controllare meglio quali funzioni possono essere utilizzate da quali estensioni.'
+        };

@@ -1,0 +1,13 @@
+$VAR1 = {
+          'T_INSTALL' => 'Installa',
+          'T_UPLOAD_CODEC_PA' => 'Carica pacchetto codec',
+          'T_HERE' => 'qui',
+          'T_OTHERWISE_ALLO' => 'Altrimenti per consentire la riproduzione di file MP3 nella propria posizione, è possibile scaricare il player adeguato cliccando',
+          'T_AFTER_THE_DOW' => '. Una volta completato il download, è possibile aggiungere il caricamento e installare il file utilizzando il modulo qui sotto. Una volta installato il player, i file MP3 possono essere caricati quali canzoni di Musica di attesa. Ci scusiamo per qualsiasi inconveniente causato.',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_UPLOAD_A_NEW_MU' => 'Carica nuovo codec Musica di attesa',
+          'T_THE_SYSTEM_SU' => 'A causa delle limitazioni della licenza, il player MP3 non può essere incluso in Switchvox. Se si dispone già di una licenza per l\'utilizzo del formato MP3 o sono',
+          'T_NOTE' => 'NOTA'
+        };

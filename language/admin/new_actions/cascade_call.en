@@ -1,0 +1,10 @@
+$VAR1 = {
+          'T__OR20' => '- OR -',
+          'T_ENTER_IN_E5' => 'Enter in extension manually:',
+          '__INCLUDES' => [
+                            'new_actions/incl_button'
+                          ],
+          'T_SELECT_A_VARIAB10' => 'Select a Variable:',
+          'T_EXTENSION_TO_RI3' => 'Extension To Ring',
+          'T_NUMBER_OF_SECON' => 'Number of Seconds to Ring:'
+        };

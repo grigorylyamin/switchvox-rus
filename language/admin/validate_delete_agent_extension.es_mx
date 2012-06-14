@@ -1,0 +1,7 @@
+$VAR1 = {
+          'T_ARE_YOU_SURE_YO33' => '¿Está seguro de que desea eliminar permanentemente esta extensión de agente de cola de llamadas?',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_YES_DELETE_EXT9' => 'Sí, eliminar extensión'
+        };

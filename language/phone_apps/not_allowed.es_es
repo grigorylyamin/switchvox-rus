@@ -1,0 +1,3 @@
+$VAR1 = {
+          'T_NOT_ALLOWED_MSG' => 'Su extensión no tiene permisos para acceder al paquete de Aplicaciones telefónicas. Póngase en contacto con su administrador de sistemas si cree que se trata de un error.'
+        };

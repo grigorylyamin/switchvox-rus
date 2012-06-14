@@ -1,0 +1,15 @@
+$VAR1 = {
+          'T_VIEW_DEFAULT_VO' => 'View Default Voicemail Email Templates',
+          'T_VIEW_VOICEMAIL' => 'View Voicemail Email Templates',
+          'T_CONTACT_YOUR_AD2' => 'Contact your adminstrator to enable this option.',
+          'T_CREATE_A_NEW_VO' => 'Create A New Voicemail Email Template',
+          'T_VIEW' => 'View',
+          'T_EDIT' => 'Edit',
+          'T_DELETE' => 'Delete',
+          'T_FEATURE_DISABLE2' => 'Feature Disabled -',
+          'T_TEMPLATE' => 'Template Name:',
+          'T_TELL_ME_MORE_A2' => 'Tell me more about this',
+          'T_CREATE_NEW' => 'Create New',
+          'T_VOICEMAIL_EMAIL' => 'Voicemail Email Templates',
+          'T_VIEW2' => 'View'
+        };

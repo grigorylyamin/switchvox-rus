@@ -1,0 +1,10 @@
+$VAR1 = {
+          'T_ANY_RULE2' => 'Cualquier regla de llamada saliente',
+          'T_TO_THEIR_EXTEN' => 'a su extensión',
+          'T_AND_IS_MAKING' => 'y realiza una llamada saliente a través de la regla',
+          'T_WHEN_AN_EXTENSI' => 'Cuando una extensión se encuentra en el intervalo entre',
+          'T_AND_PREPENDING' => 'y anteponiendo',
+          'T_TO2' => 'para',
+          'T_CHANGE_THEIR_CA2' => 'cambiar su ID de persona que llama a un número derivado añadiendo',
+          'T_ANY_OUTGOING_RU2' => 'Cualquier regla de llamadas salientes exceptuando vínculos'
+        };

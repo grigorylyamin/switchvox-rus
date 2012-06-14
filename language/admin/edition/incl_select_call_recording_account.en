@@ -1,0 +1,17 @@
+$VAR1 = {
+          'T_PHONE_ACC' => 'Phone Accounts',
+          'T_ALL_PHONE_EXTEN' => 'All Phone Extensions',
+          'T_NO_GROUPS_IN_SY3' => 'No Groups in System',
+          '__INCLUDES' => [],
+          'T_CALL' => 'Call Queues',
+          'T_GROUP' => 'Group Name',
+          'T_WHOSE_CALLS_WO' => 'Whose calls would you like to record?',
+          'T_CALL_QUEUES2' => 'Call Queues',
+          'T_EXTENSION_GROUP' => 'Extension Groups',
+          'T_PHONE_EXTENSION' => 'Phone Extensions',
+          'T_NO_QUEUES_IN_TH' => 'No Queues in the System',
+          'T_CURRENT_M' => 'Current Members',
+          'T_SCHEDULE_A_RECO' => 'Schedule a Recording Job',
+          'T_ADD_MEMBER' => 'Add Member',
+          'T_REMOVE_MEMBER' => 'Remove Member',
+        };

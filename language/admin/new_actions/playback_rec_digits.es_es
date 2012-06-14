@@ -1,0 +1,5 @@
+$VAR1 = {
+          'T_RECORDED_DIGITS' => 'Dígitos grabados',
+          'T_ADD_ACTION4' => 'Añadir acción',
+          'T_NBSPNBSPNEW4' => 'Nueva acción'
+        };

@@ -1,0 +1,5 @@
+$VAR1 = {
+          'T_GATE_KEEPER_VAR' => 'Gate Keeper Variable Name',
+          'T_ACTION_TYPE16' => 'Action Type',
+          'T_RECORD_A_SOUND' => 'Record A Sound'
+        };

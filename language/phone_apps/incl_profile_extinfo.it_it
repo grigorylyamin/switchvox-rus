@@ -1,0 +1,7 @@
+$VAR1 = {
+          'T_LOC' => 'Posizione',
+          'T_EMAIL' => 'E-mail',
+          'T_TITLE' => 'Titolo',
+          'T_EXT' => 'Estensione',
+          '__INCLUDES' => []
+        };

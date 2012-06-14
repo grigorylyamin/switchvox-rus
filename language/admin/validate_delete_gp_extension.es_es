@@ -1,0 +1,8 @@
+$VAR1 = {
+          'T_YES_DELETE_EXT10' => 'Sí, eliminar la extensión',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ],
+          'T_ARE_YOU_SURE_YO35' => '¿Está seguro de que desea eliminar permanentemente esta extensión de respuesta a grupo?',
+          'T_DEL_GP_EXT' => 'Eliminar extensión de respuesta a grupo'
+        };

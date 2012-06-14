@@ -1,0 +1,10 @@
+$VAR1 = {
+          'T_ABOUT_SET_RINGTONE' => 'Más información acerca de pistas para tonos distintivos',
+          'T_USE_VALUE_OF_VAR' => 'Usar valor de variable',
+          '__INCLUDES' => [
+                            'new_actions/incl_button',
+                            'new_actions/incl_missing_digit_variables'
+                          ],
+          'T_ENTER_A_RINGTONE' => 'Introducir manualmente una pista de tono distintivo',
+          'T_CREATE_A_NEW_RINGTONE' => 'Crear una nueva pista de tono distintivo'
+        };

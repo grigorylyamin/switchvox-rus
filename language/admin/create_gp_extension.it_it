@@ -1,0 +1,31 @@
+$VAR1 = {
+          'T_GROUP_PICKUP_ME' => 'Membri Ricezione Gruppo',
+          'T_GROUP_PICKUP_US' => 'Utenti e Amministratori Ricezione Gruppo',
+          'T_GROUP_THAT_IS_A' => 'Estensioni autorizzate a utilizzare questa ricezione gruppo intercom',
+          'T_CONSTRAINT' => 'Cifre in lunghezza',
+          'T_CREATE_GROUP2' => 'Crea nuovo gruppo',
+          'T_NO_GROUPS_IN_TH' => 'Nessun gruppo creato al momento',
+          'T_MODIFY_EXTENSIO' => 'Modifica estensione',
+          'T_CREATE_TITLE' => 'Crea estensione ricezione gruppo',
+          'T_WHAT_IS_A_GROU' => 'Cos\'è un\'estensione ricezione gruppo?',
+          'T_CREATE_EXTENSIO' => 'Crea estensione',
+          'T_GROUP_PICKUP_SE' => 'Impostazioni ricezione Gruppo',
+          '__INCLUDES' => [
+                            'incl_header',
+                            'js_list_movement',
+                            'edition/incl_intercom_javascript_show_groups',
+                            'edition/incl_intercom_auth_radio',
+                            'edition/incl_intercom_auth_groups',
+                            'edition/incl_intercom_user_radio',
+                            'edition/incl_intercom_user_groups',
+                            'edition/incl_intercom_javascript_show_groups'
+                          ],
+          'T_DGP' => 'Estensione Ricezione Gruppo',
+          'T_GROUP_THAT_WILL' => 'Estensioni che saranno ricevute',
+          'T_MODIFY_TITLE' => 'Modifica estensione ricezione gruppo',
+          'T_ADD_MEMBER' => 'Aggiungi membro',
+          'T_ALL_AVAILABLE_A9' => 'Tutti gli account disponibili',
+          'T_REMOVE_MEMBER' => 'Rimuovi membro',
+          'T_CREATE_GROUP1' => 'Crea nuovo gruppo',
+          'T_GROUP_PICKUP_AD' => 'amministratori Ricezione Gruppo'
+        };

@@ -1,0 +1,15 @@
+$VAR1 = {
+          'T_NO_MATCH' => 'Nessuna estensione corrispondente alla ricerca.',
+          'T_FIRST_10' => 'Vengono visualizzati i primi 10 risultati. Se l\'estensione desiderata non è visualizzata, raffinare la ricerca.',
+          'T_FIRST_5' => 'TVengono visualizzati i primi 5 risultati. Se l\'estensione desiderata non è visualizzata, raffinare la ricerca.',
+          'T_LENGTH_ERR' => 'Inserire almeno 3 caratteri per effettuare la ricerca nella directory.',
+          'T_DIRECTORY' => 'Directory',
+          '__INCLUDES' => [
+                            'incl_softkeys',
+                            'directory_listings',
+                            'incl_error_header'
+                          ],
+          'T_GO' => 'vai',
+          'T_S_TERM_ERR' => 'Cerca termine contenente solo lettere, numeri o trattini bassi',
+          'T_SEARCH' => 'Cerca'
+        };

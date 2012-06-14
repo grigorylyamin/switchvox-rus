@@ -1,0 +1,15 @@
+$VAR1 = {
+          'T_PAGE_HEAD' => 'Tonos distintivos',
+          'T_YES_DELETE' => 'Sí, Eliminar',
+          'T_RINGTONE_FILE_UPDATE' => 'Nuevo archivo de tono',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ],
+          'T_ADD_A_RINGTONE' => 'Añadir un tono',
+          'T_ADD_RT' => 'Añadir tono',
+          'T_NAME' => 'Nombre',
+          'T_UPDATE' => 'Actualizar',
+          'T_CANCEL' => 'Cancelar',
+          'T_HOW_DOES_THIS' => '¿Cómo funciona esto?',
+          'T_RINGTONE_FILE' => 'Archivo de tono (archivo WAV)'
+        };

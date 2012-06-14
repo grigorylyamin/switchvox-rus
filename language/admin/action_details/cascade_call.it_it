@@ -1,0 +1,6 @@
+$VAR1 = {
+          'T_ACTION_TYPE36' => 'Tipo azione',
+          'T_VARIABLE28' => '(Variabile)',
+          'T_EXTENSION_TO_RI4' => 'Estensione a cui telefonare',
+          'T_NUMBER_OF_SECON2' => 'Numeri di secondi squillo'
+        };

@@ -1,0 +1,4 @@
+$VAR1 = {
+          'T_EXTENSION' => 'Extension',
+          'T_CALL' => 'Call',
+        };

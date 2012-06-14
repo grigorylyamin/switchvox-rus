@@ -1,0 +1,15 @@
+$VAR1 = {
+          'T_NO_MATCH' => 'No hay ninguna extensión que coincida con su búsqueda.',
+          'T_FIRST_10' => 'Se muestran los primeros 10 resultados. Por favor, refine su búsqueda si no localiza la extensión deseada.',
+          'T_FIRST_5' => 'Se muestran los primeros 5 resultados. Por favor, refine su búsqueda si no localiza la extensión deseada.',
+          'T_LENGTH_ERR' => 'Por favor, introduzca un mínimo de 3 caracteres para buscar en el directorio.',
+          'T_DIRECTORY' => 'Directorio',
+          '__INCLUDES' => [
+                            'incl_softkeys',
+                            'directory_listings',
+                            'incl_error_header'
+                          ],
+          'T_GO' => 'Ir',
+          'T_S_TERM_ERR' => 'El término de búsqueda sólo puede incluir letras, números o guiones bajos',
+          'T_SEARCH' => 'Buscar'
+        };

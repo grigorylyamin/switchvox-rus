@@ -1,0 +1,24 @@
+$VAR1 = {
+          'EG_TD_DATE_CREATED' => 'Date Created',
+          'CEG_SM_CREATED_GROUP' => 'Successfully created an extension group.',
+          'EG_E_MISSING_GNAME' => 'No Group Name specified',
+          'EG_TD_EXT_GROUPS_ID' => 'Modify / Delete',
+          'EG_TD_GROUP_NAME' => 'Group Name',
+		  'EG_T_CANCEL' => 'Cancel',
+		  'EG_T_YES_DEL' => 'Yes, Delete Extension Group',
+          'EG_BT_CREATE_GROUP' => 'Create Extension Group',
+          'EG_ND_NO_GROUPS' => 'There are no extension groups in this system.',
+          'EG_TB_DELETE' => 'Delete',
+          '__INCLUDES' => [
+                            'edition/extension_groups',
+							'incl_header',
+                          ],
+          'EG_TN_TABLE_TITLE' => 'Extension Groups',
+          'MEG_E_WRONG_ACTION' => 'Invalid action passed to Modify Extension Group.',
+          'EG_TD_MEMBER_COUNT' => 'Members',
+          'EG_TB_MODIFY' => 'Modify',
+          'EG_TD_ORG_NAME' => 'Organization',
+          'EG_SM_DELETED_GROUP' => 'Successfully deleted an extension group.',
+			'T_CANCEL28' => 'Cancel',
+			 'T_YES_DELETE_EXT_GROUPS' => 'Yes, Delete Extension Group'
+        };

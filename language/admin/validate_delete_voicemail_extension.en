@@ -1,0 +1,8 @@
+$VAR1 = {
+          'T_WITHOUT_AT_LEAS' => 'Without at least one voicemail extension users will not be able to check their voicemail.',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_YES_DELETE_EXT' => 'Yes, Delete Extension',
+          'T_ARE_YOU_SURE_YO' => 'Are you sure you want to permanently delete the voicemail access extension '
+        };

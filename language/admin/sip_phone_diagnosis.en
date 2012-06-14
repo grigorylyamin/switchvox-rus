@@ -1,0 +1,19 @@
+$VAR1 = {
+		  'T_SIP_PH_DIAGNOSIS' => 'SIP Phone Diagnosis',
+          'T_FAILED4' => 'Failed',
+          'T_RERUN_PHONE_DIA' => 'Rerun Phone Diagnosis for Extension',
+          'T_YES34' => 'Yes',
+          'T_HOW_DO_I_FIND' => 'How do I find the IP address of my SIP phone?',
+          'T_PASSED4' => 'Passed',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_WHAT_DOES_THIS6' => 'What does this mean?',
+          'T_WARNING12' => 'Warning',
+          'T_RUN_DIAGNOSTIC2' => 'Run Diagnostic Tool Again',
+          'T_THIS_IS_A' => 'This is an External Phone:',
+          'T_NO6' => 'No',
+          'T_NOT_TESTED4' => 'Not Tested',
+          'T_INTERNAL_IP_ADD' => 'Internal IP Address of SIP Phone for Extension',
+		  'T_BACK_TO_CONNECTION_STATUS' => 'Back to Connection Status'
+        };

@@ -1,0 +1,6 @@
+$VAR1 = {
+          'T_DIGITS' => 'Digits to prepend if number is not an extension',
+          'T_MORE_ABOUT_THE3' => 'More about the Call API Settings',
+          'T_PREPEND_A_1_IF2' => 'Prepend a 1 if number is 10 digits in length',
+          'T_CALL_API_SETTIN2' => 'Call API Settings'
+        };

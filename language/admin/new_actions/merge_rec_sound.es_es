@@ -1,0 +1,7 @@
+$VAR1 = {
+          'T_NEW2' => 'Nueva acción',
+          'T_RECORDED_SOUNDS2' => 'Sonidos grabados de la persona que llama',
+          'T_SOUNDS_IN_SYSTE2' => 'Sonidos del sistema',
+          'T_HOLD_CTRL_KEY_T3' => 'Mantenga pulsada la tecla Control para seleccionar varios sonidos',
+          'T_ADD_ACTION2' => 'Añadir acción'
+        };

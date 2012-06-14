@@ -1,0 +1,6 @@
+$VAR1 = {
+          'T_DISTINCT_RINGS' => 'SQUILLI DISTINTI',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ]
+        };

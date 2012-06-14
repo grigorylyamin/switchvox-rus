@@ -1,0 +1,12 @@
+$VAR1 = {
+          'T_PHONEBOOK' => 'Agenda',
+          'T_PREV' => 'Página anterior',
+          'T_MORE' => 'más',
+          'T_CALL' => 'Llamada',
+          '__INCLUDES' => [
+                            'incl_softkeys',
+                            'incl_error_header'
+                          ],
+          'T_NO_ENTRIES' => 'No hay ninguna entrada en esta agenda.',
+          'T_NEXT' => 'Página siguiente'
+        };

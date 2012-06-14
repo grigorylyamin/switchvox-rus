@@ -1,0 +1,8 @@
+$VAR1 = {
+          'T__COMPLETE2' => '0% completo',
+          'T_YOUR_UPDAT' => 'L\'aggiornamento è in corso di elaborazione. Attendere e non aggiornare la pagina.',
+          'T_TITLE' => 'Seleziona aggiornamenti',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ]
+        };

@@ -1,0 +1,12 @@
+$VAR1 = {
+          'ZOU_FOR_THE_PAST_HOUR' => ' dell\'ultima ora',
+          'DGD_FOR_THE_PAST_YEAR' => ' dell\'ultimo anno',
+          'FPX_FOR_THE_PAST_SIX' => ' dell\'ultimi sei mesi',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'AOP_FOR_THE_PAST_WEEK' => ' dell\'ultima settimana',
+          'AXC_FOR_THE_PAST_DAY' => ' di ieri',
+          'UXH_COMBINED_CONCURRENT' => 'Chiamate parallele combinate di ieri',
+          'OAP_FOR_THE_PAST_MONTH' => ' dell\'ultimo mese'
+        };

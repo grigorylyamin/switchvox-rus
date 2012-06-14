@@ -1,0 +1,6 @@
+$VAR1 = {
+          'T_EMAIL_SUBJECT2' => 'Asunto del mensaje de correo electrónico',
+          'T_ACTION_TYPE33' => 'Tipo de acción',
+          'T_EMAIL_ADDRESS2' => 'Dirección de correo electrónico',
+          'T_VARIABLE25' => '(Variable)'
+        };

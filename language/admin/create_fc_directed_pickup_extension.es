@@ -1,0 +1,5 @@
+$VAR1 = {
+          '__INCLUDES' => [
+                            'edition/create_fc_directed_pickup_extension'
+                          ]
+        };

@@ -1,0 +1,6 @@
+$VAR1 = {
+		'T_APPS' => 'Apps',
+		'T_EXIT' => 'Exit',
+		'T_REFRESH' => 'Refresh',
+		'T_BACK' => 'Back',
+};

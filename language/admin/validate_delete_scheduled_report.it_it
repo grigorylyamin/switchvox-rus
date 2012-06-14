@@ -1,0 +1,7 @@
+$VAR1 = {
+          'T_ARE_YOU_SURE_YO13' => 'Eliminare definitivamente questo rapporto programmato',
+          'T_YES_DELETE_SCH' => 'Sì, elimina rapporto programmato',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ]
+        };

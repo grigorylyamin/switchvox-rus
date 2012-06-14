@@ -1,0 +1,10 @@
+$VAR1 = {
+          'T_EXTENSION' => 'Extensión',
+          'T_SAVE_EXTENSION' => 'Guardar extensión',
+          'T_NOMODIFY' => 'Esta extensión no tiene ninguna función que poder modificar.',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ],
+          'T_CREATE_DIALTONE_EXTENSION' => 'Crear extensión de señal de marcado',
+          'T_MODIFY_DIALTONE_EXTENSION' => 'Modificar extensión de señal de marcado'
+        };

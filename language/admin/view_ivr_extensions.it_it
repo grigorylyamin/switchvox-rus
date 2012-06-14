@@ -1,0 +1,11 @@
+$VAR1 = {
+          'VIE_TD_DATE_CREATED' => 'Data creazione',
+          'VIE_TD_ACCOUNT_ID' => 'ID',
+          'VIE_TB_DELETE' => 'Elimina',
+          'VIE_TD_EXT' => 'Estensione',
+          'VIE_TD_ACTION_NAME' => 'Punto di ingresso Menu IVR',
+          'VIE_TD_CONTEXT_NAME' => 'Avvio Menu IVR',
+          'VIE_TD_MOD_DEL' => 'Modifica / Elimina',
+          'VIE_TN_TABLE_TITLE' => 'Estensioni IVR',
+          'VIE_TB_MODIFY' => 'Modifica'
+        };

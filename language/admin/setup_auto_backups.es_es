@@ -1,0 +1,29 @@
+$VAR1 = {
+          'T_THURSDAY6' => 'Jueves',
+          'T_BACKUPS_SHOULD' => 'Las copias de seguridad deberían transferirse automáticamente a ',
+          'T_FRIDAY12' => 'Viernes',
+          'T_TEST_FTP_SETTIN2' => 'Comprobar configuración de FTP',
+          'T_AT5' => 'a la/las',
+          'T_FTP_USERNAME3' => 'Nombre de usuario FTP',
+          'PAGE_TITLE_SET_AUTO_BU' => 'Configurar copias de seguridad de forma automática',
+          'T_PM6' => 'PM',
+          'T_AUTOMATIC_BACK' => 'Las copias de seguridad automáticas se realizarán cada',
+          'T_SATURDAY6' => 'Sábado',
+          'T_FTP_PATH3' => 'Ruta FTP',
+          'T_HOW_DO_I_USE_T5' => '¿Cómo puedo utilizar esta página?',
+          'T_SUNDAY6' => 'Domingo',
+          'T_WHEN_THE_ABOVE' => 'Cuando se alcanza el umbral indicado, la copia de seguridad más antigua se elimina del host FTP.',
+          'T_TUESDAY6' => 'Martes',
+          'T_NUMBER_OF_BACK' => 'Número de copias de seguridad que se conservarán',
+          'T_MONDAY12' => 'Lunes',
+          'T_PATH_OF_DEN2' => 'La ruta de "/" indica el directorio de conexión raíz.',
+          '__INCLUDES' => [
+                            'incl_header',
+                            'incl_backup_table'
+                          ],
+          'T_WEDNESDAY10' => 'Miércoles',
+          'T_FTP_PASSWORD3' => 'Contraseña de FTP',
+          'T_DAY3' => 'Día',
+          'T_AM6' => 'AM',
+          'T_FTP_HOSTNAME3' => 'Nombre de host FTP'
+        };

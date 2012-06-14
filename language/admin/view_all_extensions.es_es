@@ -1,0 +1,11 @@
+$VAR1 = {
+          'VAE_TB_MODIFY' => 'Modificar',
+          'VAE_TB_DELETE' => 'Eliminar',
+          'VAE_TD_DATE_CREATED' => 'Fecha de creación',
+          'VAE_TD_ACCOUNT_ID' => 'ID',
+          'VAE_TD_EXTRA' => 'Nombre',
+          'VAE_TD_EXT' => 'Extensión',
+          'VAE_TN_TABLE_TITLE' => 'Todas las extensiones',
+          'VAE_TD_EXT_DISPLAY' => 'Tipo de extensión',
+          'VAE_TD_MOD_DEL' => 'Modificar / Eliminar'
+        };

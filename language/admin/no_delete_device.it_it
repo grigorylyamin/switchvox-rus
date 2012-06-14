@@ -1,0 +1,6 @@
+$VAR1 = {
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_REMOVING_CHANN' => 'La rimozione canali dal gruppo canali causerà il riavvio del sistema.'
+        };

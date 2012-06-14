@@ -1,0 +1,9 @@
+$VAR1 = {
+          'T_AFTER_DELETION' => 'Dopo l\'eliminazione, questi membri saranno parte dell\'organizzazione predefinita',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_YES_DELETE_EXT' => 'Sì, elimina estensione organizzazione',
+          'T_CURRENT_MEMBE' => 'Membri attuali di questa organizzazione',
+          'T_ARE_YOU_SURE_YO' => 'Eliminare definitivamente l\'organizzazione estensioni'
+        };

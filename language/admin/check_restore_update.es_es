@@ -1,0 +1,7 @@
+$VAR1 = {
+          'T_UPDATE_TITLE' => 'Registrar sistema',
+          'T_YOUR_UPDAT' => 'Su actualización se está procesando en estos momentos. Por favor, espere y no actualice esta página.',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ]
+        };

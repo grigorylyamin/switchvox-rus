@@ -1,0 +1,6 @@
+$VAR1 = {
+          'T_THE_SERVER_ENCOUNTER' => 'El servidor detectó un error fatal al procesar su solicitud.',
+          'T_INVALID_REQUEST' => 'Solicitud no válida',
+          '__INCLUDES' => [],
+          'T_PLEASE_HAVE_YOUR' => 'Por favor, pida a su administrador que se ponga en contacto con el servicio de atención al cliente.'
+        };

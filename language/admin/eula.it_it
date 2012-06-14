@@ -1,0 +1,7 @@
+$VAR1 = {
+          'T_ACCEPT' => 'Accetto questo contratto',
+          '__INCLUDES' => [
+                            'incl_header_nonav'
+                          ],
+          'T_PAGE_TITLE' => 'Cccordo di licenza per utente finale'
+        };

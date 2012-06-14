@@ -1,0 +1,11 @@
+$VAR1 = {
+          'T__OR14' => '- OR -',
+          'T_WAIT_THIS_MAN' => 'Wait this many milliseconds between digits:',
+          'T_PLAY_EACH_DIG' => 'Play each digit for this many milliseconds:',
+          '__INCLUDES' => [
+                            'new_actions/incl_button'
+                          ],
+          'T_DTMF_DIGITS' => 'DTMF Digits to Play',
+          'T_SELECT_A_VARIAB6' => 'Select a Variable:',
+          'T_ENTER_IN_DIGITS2' => 'Enter in digits manually'
+        };

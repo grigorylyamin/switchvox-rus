@@ -1,0 +1,14 @@
+$VAR1 = {
+          'T_SAVE_CHANNEL_GR' => 'Save Channel Group',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_ANY_MODIFICATI' => 'Any modifications to any channel groups settings will require a restart to your phone system. Any current phone connections will be dropped and any agents logged in will be logged out.',
+          'T_CREATING_A_NEW' => 'Creating a new Channel Group requires a restart to your phone system. Any current phone connections will be dropped and any agents logged in will be logged out.',
+          'T_NOTE7' => 'NOTE',
+          'T_CHANNEL_GROUP_C' => 'Channel Group Configuration',
+          'T_UNLESS_YOU_ARE' => 'Unless you are an advanced user, you should only set the following Channel Group Configuration fields: Group Name, Device Type, and Callback Extension (if applicable).',
+          'T_WARNING18' => 'WARNING',
+          'T_CREATE_CHANNEL' => 'Create Channel Group',
+          'T_MODIFY_CHANNEL' => 'Modify Channel Group'
+        };

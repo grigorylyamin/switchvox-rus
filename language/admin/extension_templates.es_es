@@ -1,0 +1,20 @@
+$VAR1 = {
+          'T_WHAT_ARE_EXTEN' => '¿Qué son las plantillas de extensiones?',
+          'TC_DATE_CREATED' => 'Fecha de creación',
+          'T_CREATE_A_NEW_EX' => 'Crear una nueva plantilla de extensiones',
+          'TC_DELETE' => 'Eliminar',
+          'SM_DELETE_TEMPLATE' => 'La plantilla de extensiones se ha eliminado correctamente.',
+          'TC_TEMPLATE_NAME' => 'Nombre de plantilla',
+          'T_CREATE_NEW' => 'Crear nuevo',
+          'ND_NO_TEMPLATES' => 'Usted no tiene ninguna plantilla en su sistema.',
+          'T_CREATE_MODIF' => 'Cree, modifique y elimine plantillas de extensiones para mejorar la administración de extensiones de su PBX.',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'SM_MODIFY_TEMPLATE' => 'La plantilla de extensiones se ha actualizado correctamente.',
+          'TC_TEMPLATE_ORG' => 'Organización de plantillas',
+          'TC_DELETE_DISABLED' => 'Ésta es una plantilla del sistema y no puede eliminarse',
+          'TT_MODIFY_TEMPLATES' => 'Modificar plantillas existentes',
+          'TC_MODIFY' => 'Modificar',
+          'SCT_PE_TEMPLATE_NAME' => 'Debe proporcionar un nombre de plantilla válido (entre 1 y 32 caracteres alfanuméricos)'
+        };

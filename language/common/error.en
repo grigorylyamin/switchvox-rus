@@ -1,0 +1,5 @@
+$VAR1 = {
+          'ONF_DO_NOT_REMOVE' => 'Do not remove.',
+          'T_MAJOR_ERROR_PA' => 'Major Error Page',
+          'T_ERROR2' => 'ERROR'
+        };

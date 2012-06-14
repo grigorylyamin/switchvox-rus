@@ -1,0 +1,5 @@
+$VAR1 = {
+          'T_ACTION_TYPE8' => 'Tipo azione',
+          'T_RECORDED_SOUND3' => 'Audio registrato da riprodurre',
+          'T_VARIABLE5' => 'Variabile'
+        };

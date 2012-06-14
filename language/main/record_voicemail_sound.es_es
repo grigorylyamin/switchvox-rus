@@ -1,0 +1,13 @@
+$VAR1 = {
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_SOUND_NAME' => 'Nombre de sonido',
+          'T_SOUND_SOURCE' => 'Origen de sonidos',
+          'T_THIS_WILL' => 'Esto hará sonar la extensión anterior para la grabación. Conteste al teléfono, siga las instrucciones de voz, cuelgue y haga clic en el botón "Finalizado" en la siguiente página. Su sonido se guardará correctamente.',
+          'T_RECORD_OVER_PHO' => 'Grabar en el teléfono',
+          'T_ONLY_WAV_OR_GSM' => 'Sólo se admiten los archivos wav o gsm',
+          'T_CREATE_NEW_SOUN' => 'Crear nuevo sonido',
+          'T_EXTENSION_TO_RI' => 'Extensión que debe sonar',
+          'T_UPLOAD_FILE' => 'Cargar archivo'
+        };

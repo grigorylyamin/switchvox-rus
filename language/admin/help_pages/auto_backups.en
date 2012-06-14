@@ -1,0 +1,48 @@
+$VAR1 = {
+          'T_THE_ADDRESS_OF' => 'The address of the host where your FTP server is running.',
+          'T_RSA_AUTHENTICA' => 'RSA authentication keys you may have stored for use in IAX authentication.',
+          'T_MUSIC_ON_HOLD_F' => 'Music On Hold Files',
+          'T_THIS_PAGE_IS_U' => 'This page is used to schedule automatic backups of your Switchvox PBX.',
+          'T_REQUIRED_ITEMS' => 'Required Items',
+          'T_SOUNDS_SOUND' => 'Sounds / Sound Packs',
+          'T_ALL_THE_SOUND' => 'All the sound files on your system.',
+          'T_FTP_USERNAME2' => 'FTP Username:',
+          'T_VOICEMAIL_AND_F' => 'Voicemail and Fax Files',
+          'T_ALL_THE_AUDIO' => 'All the audio files of recorded calls.',
+          'T_SECTION_OF_THE3' => 'section of the manual for more
+information about automatic backups.',
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ],
+          'T_CONFIGURATION2' => 'Configuration files for any telephony hardware cards that are used with your system.',
+          'T_YOU_MUST_SPECI' => 'You must specify the connection information for an FTP host where you would like your automatic backups to be
+transferred. Please specify the following information',
+          'T_THE_PASSWORD_T' => 'The password that you use to access your FTP server.',
+          'T_ONCE_THIS_INFO' => 'Once this information is entered, you can test the information you entered by clicking the "Test FTP Settings" button.',
+          'T_THE_PATH_TO_TH' => 'The path to the directory on your FTP server where you would like the backup files to be stored.',
+          'T_FTP_PASSWORD2' => 'FTP Password:',
+          'T_THE_SYSTEM_ERR' => 'The system error logs.',
+          'T_FIRST_CHOOSE' => 'First, choose the time and frequency
+ for when your backups should occur. Next, you specify how many backups you would like to keep before older
+backups are deleted.',
+          'T_CONFIGURATION' => 'Configuration files for the phone system.',
+          'T_ANY_AUDIO_CODE' => 'Any audio codecs you may have installed on your system for playing compressed audio.',
+          'T_ALL_VOICEMAIL' => 'All voicemail and faxes stored on your system.',
+          'T_DATABASE_CONFIG' => 'Database Configuration',
+          'T_A_BACKUP_OF_YO' => 'A backup of your database with all your Extension, Call Queue, IVR Information, etc.',
+          'T_AUDIO_CODECS' => 'Audio Codecs',
+          'T_PBX_ERROR_LOGS' => 'PBX Error Logs',
+          'T_OPTIONAL_ITEMS' => 'Optional Items',
+          'T_FTP_PATH2' => 'FTP Path:',
+          'T_HARDWARE_CONFIG' => 'Hardware Configuration',
+          'T_CONSULT_THE2' => 'Consult the',
+          'T_A_BACKUP_OF_AL' => 'A backup of all the music on hold sound files on your system.',
+          'T_FTP_HOSTNAME2' => 'FTP Hostname:',
+          'T_IAX_RSA_KEYS' => 'IAX RSA Keys',
+          'T_THE_LOGIN_THAT' => 'The login that you use to access your FTP server.',
+          'T_MACHINE_ADMIN2' => 'Machine Admin --&gt; Backups',
+          'T_PBX_CONFIGURATI' => 'PBX Configuration',
+          'T_RECORDED_CALLS3' => 'Recorded Calls',
+          'T_BELOW_THE_FTP' => 'Below the FTP settings you will see a table that shows all the items that will be backed up and the amount of disk space each item will take up. Some of these items are optional, while others are required. Below is a breakdown of what the items are'
+        };

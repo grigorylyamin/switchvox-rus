@@ -1,0 +1,16 @@
+$VAR1 = {
+          'GUP_TD_REJECT' => 'rifiuta',
+          'GUP_TD_PHONE_BRAND' => 'Marca telefono',
+          'GUP_TD_NOTES' => 'Note',
+          'GUP_TD_IP_ADDRESS' => 'Indirizzo IP',
+          'GUP_TD_PHONE_CONFIG_ID' => 'ID',
+          'GUP_TD_CONF_REG' => 'Conferma / Rifiuta',
+          'GUP_TD_LAST_SEEN' => 'Ultimo visto',
+          'GUP_TD_CONFIRM' => 'Conferma',
+          'GUP_NO_PHONES' => 'Non sono presenti telefoni sconosciuti sulla rete.',
+          'GUP_TD_TABLE_TITLE' => 'Telefoni sconosciuti',
+          'GUP_TD_MAC_ADDRESS' => 'Indirizzo MAC',
+          'GUKP_TN_TABLE_TITLE' => 'Telefoni sconosciuti',
+          'GUP_TN_TABLE_TITLE' => 'Telefoni sconosciuti',
+          'GUP_TD_PHONE_MODEL' => 'Modello telefono'
+        };

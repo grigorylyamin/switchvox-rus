@@ -1,0 +1,8 @@
+$VAR1 = {
+          'T__SIGNIFIES_TH' => 'Indica l\'azione attuale che si sta tentando di eliminare.',
+          'T_PLEASE_SEE' => 'Vedi l\'elenco qui sotto sull\'uso di questa azione e rimuovere l\'azione. Una volta completata per tutti i componenti sarà possibile rimuovere questa azione in sicurezza.',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_YOU_CANNOT_DELE' => 'Non è possibile eliminare questa azione IVR perchè è già in uso nel sistema.'
+        };

@@ -1,0 +1,11 @@
+$VAR1 = {
+          'T_LEAVE_THIS_SET' => 'Leave this set to',
+          'T_UNLESS_YOUR_PR' => 'unless your provider explicitly 
+tells you to use a different setting. The vast majority of providers 
+require caller ID to be supplied in the From header.',
+          'T_FROM_HEADER' => 'From Header',
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ]
+        };

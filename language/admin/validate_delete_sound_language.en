@@ -1,0 +1,10 @@
+$VAR1 = {
+          'T_DELETING_THIS5' => 'Deleting this language will also permanently delete all of the sounds in it and cause any IVR actions that use this language to stop working.',
+          'T_WARNING28' => 'WARNING',
+          'T_DELETE_SL' => 'Delete Language',
+          'T_YES_DELETE_LAN' => 'Yes, Delete Language',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_ARE_YOU_SURE_YO34' => 'Are you sure you want to permanently delete this language'
+        };

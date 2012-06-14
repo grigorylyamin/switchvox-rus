@@ -1,0 +1,7 @@
+$VAR1 = {
+          'T_YOUR_SYSTEM_IS' => 'Si stanno verificando problemi durante la ricezione dello stato del sistema. Ciò è probabilmente causato dal fatto che il PBX non è in linea. Provare a riavviare il sistema se il problema persiste.',
+          'T_WARNING5' => 'ATTENZIONE',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ]
+        };

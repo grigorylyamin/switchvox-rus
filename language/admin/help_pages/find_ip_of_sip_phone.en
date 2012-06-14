@@ -1,0 +1,18 @@
+$VAR1 = {
+          'T_EACH_PHONE_IS' => 'Each phone is set up to obtain its ip address via DHCP. You can find the ip
+address of a Polycom phone my pressing the "Menu" button on your phone. Then on
+the LCD screen of your phone highlight "Status..." and press select and then
+highlight "Network..." and press select again, then highlight "TCP/IP
+Parameters..." and press select. Now find the line that starts with "IP:" and
+write down the IP Address.',
+          'T_CONNECT_A_PHON' => 'Connect a phone to the jack labeled "Phone 1" on the front of your ATA. 
+Then on the phone dial "****" you will then hear a voice say "Configuration Menu". 
+Then dial "110#" and it will read back the ip address of your ATA.',
+          'T_HOW_TO_FIND_THE' => 'How to find the IP Address of your SIP Phone?',
+          'T_SIPURA_ATA' => 'Sipura ATA',
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ],
+          'T_POLYCOM_SOUNDPO' => 'Polycom Soundpoint IP 300/301/500/501/600/601'
+        };

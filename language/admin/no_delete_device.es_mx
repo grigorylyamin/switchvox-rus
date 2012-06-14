@@ -1,0 +1,6 @@
+$VAR1 = {
+          'T_REMOVING_CHANN' => 'Eliminar canales del grupo de canales provocará un reinicio del sistema.',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ]
+        };

@@ -1,0 +1,10 @@
+$VAR1 = {
+          'T__OR20' => '-O-',
+          'T_ENTER_IN_E5' => 'Inserire estensione manualmente:',
+          '__INCLUDES' => [
+                            'new_actions/incl_button'
+                          ],
+          'T_SELECT_A_VARIAB10' => 'Seleziona una variabile:',
+          'T_EXTENSION_TO_RI3' => 'Estensione a cui telefonare',
+          'T_NUMBER_OF_SECON' => 'Numeri di secondi squillo:'
+        };

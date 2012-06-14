@@ -1,0 +1,38 @@
+$VAR1 = {
+          'T_AND_ANOTHER_T2' => 'And another template for work email accounts that may look like this:',
+          'T_VOICEMAIL_EMA2' => 'Voicemail Email Templates let you customize voicemail notification emails. 
+You can create multiple templates and tailor them to different types of email accounts. 
+These templates are available to users in their \\\'Voicemail Notification Options\\\' (along with any templates the user creates for himself).',
+          'T_FOR_EXAMPLE' => 'For example, you can set up a template for mobile email accounts that may look like this:',
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ],
+          'T_DEAR_VM_NAME2' => 'Dear %VM_NAME%:
+
+You just received a %VM_DUR% long message (number 
+%VM_MSGNUM%) in mailbox %VM_MAILBOX% from %VM_CALLERID%, 
+on %VM_DATE%.
+
+You can get this message via the phone, or use the links 
+below to download the message.
+
+Download the message and mark it as read.
+%DOWNLOAD_LINK%
+Note: This will mark it as read in the system.
+
+Download the message and delete it.
+Important: This will completely remove the message from 
+the system and this link will no longer work.
+%DOWNLOAD_LINK_AND_MARK_DELETED%
+
+Thank you!
+
+--Switchvox',
+          'T_YOU_JUST_RECEI2' => 'You just received a %VM_DUR% long message in mailbox 
+%VM_MAILBOX% from %VM_CALLERID%, on %VM_DATE%.',
+          'T_VOICEMAIL_EMAIL4' => 'Voicemail Email Templates',
+          'T_YOU_CAN_USE_V2' => 'You can use variables in your template that are substituted with real values when the email gets sent. 
+For example, %VM_NAME% in a template will print as the extension user\\\'s first and last name. 
+There is a full list of these variables on the pages where you create or edit a template.'
+        };

@@ -1,0 +1,8 @@
+$VAR1 = {
+          'T_DEL_IVR_EXT' => 'Eliminar extensión del IVR',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ],
+          'T_YES_DELETE_EXT' => 'Sí, eliminar extensión',
+          'T_ARE_YOU_SURE_YO' => '¿Está seguro de que desea eliminar permanentemente la extensión de IVR?'
+        };

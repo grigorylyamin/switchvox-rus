@@ -1,0 +1,7 @@
+$VAR1 = {
+          'T_SET_UP_YOUR_PH' => 'Configure su agente para facilitar la llamada a aquellas personas a las que más llama. Además, podrá ver quién se encuentra en su lista del teléfono cuando utilice el panel de control, lo que resulta útil cuando no desee interrumpirlos.',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_USER_TIP4' => 'Consejo para usuario'
+        };

@@ -1,0 +1,36 @@
+##This file was auto generated##
+my $LANG =
+{
+T_OVERVIEW => 'Overview',
+T_EXT_WARNING_DESC=> q( 
+There are warning icons next to some or all of your extensions because the passwords chosen 
+for these extensions are weak. Weak passwords can make your PBX System vulnerable to intrusion.
+ If your PBX System is behind a firewall or not accessible from the Internet, you may wish to
+ignore these warnings, but we still recommend you choose stronger, more secure passwords where recommended. 
+),
+
+T_WARNING_LEVELS => 'Warning Level Detail',
+T_LEVEL_1_WARN => 'Level 1 Warning',
+T_LEVEL_2_WARN => 'Level 2 Warning',
+
+T_LEVEL_2_WARN_DESC => q(
+The password that a SIP phone uses to register with the PBX System is the same as 
+the extension. \(e.g., Extension: 101, Phone Password: 101\) Please note that extensions 
+designated with a Level 2 warning could also meet the conditions of a Level 1 warning.
+<br/><br/>
+<b>Recommended action:</b> Choose a longer, alphanumeric password by clicking the Modify button next 
+to that extension and clicking the Show Advanced Options link in section 2 \(Phone Settings Section\). 
+Locate the Phone Password field, type your longer, more secure password, and then be sure to retype 
+it to confirm. Click the Save Extension Settings at the bottom of the page.
+),
+
+T_LEVEL_1_WARN_DESC => q(
+The password to log in to the User Portal or to check voicemail is the same as the 
+extension. \(e.g., Extension: 101, Voicemail Password: 101\)
+<br/><br/>
+<b>Recommended action:</b> Choose a longer numeric password by clicking the Modify button 
+next to that extension and then locate the Numeric Password field. Type your longer, 
+more secure password, and then be sure to retype it to confirm. Click the Save Extension 
+Settings at the bottom of the page.
+),
+};

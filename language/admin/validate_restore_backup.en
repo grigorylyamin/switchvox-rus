@@ -1,0 +1,9 @@
+$VAR1 = {
+          'T_RESTORING_THIS' => 'Restoring this backup will drop all current calls and restart your phone system. All data created since this backup was created will be lost, including extensions and voicemail.',
+          'T_WARNING' => 'WARNING',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_YES_RESTORE_BA' => 'Yes, Restore Backup',
+          'T_ARE_YOU_SURE_YO' => 'Are you sure you want to restore this backup?'
+        };

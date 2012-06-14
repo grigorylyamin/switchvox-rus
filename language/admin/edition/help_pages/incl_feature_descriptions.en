@@ -1,0 +1,5 @@
+$VAR1 = {
+          'T_VOICEMAIL_FORWA3' => 'Voicemail Forwarding - This option will allow the user of this extension to forward voicemails to other extensions on the PBX.',
+          'T_SWITCHBOARD_CHA' => 'Switchboard Chat - This option will allow the user of this extension to open and use the Switchboard Chat Panel.',
+          'T_CUSTOM_VOICEMAI3' => 'Custom Voicemail Email - This option will allow the user of this extension to create a custom template for the email that is sent when a voicemail is received.'
+        };

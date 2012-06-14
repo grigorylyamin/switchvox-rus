@@ -1,0 +1,5 @@
+$VAR1 = {
+          'T_VOICEMAIL_EXTEN2' => 'Voicemail Extension',
+          'T_ACTION_TYPE41' => 'Action Type',
+          'T_VARIABLE32' => '(Variable)'
+        };

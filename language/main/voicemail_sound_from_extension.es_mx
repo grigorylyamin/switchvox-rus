@@ -1,0 +1,10 @@
+$VAR1 = {
+          'T_PLEASE_ANSWER' => 'Por favor, conteste al teléfono y siga las instrucciones mencionadas. Cuando haya finalizado la grabación de su mensaje, haga clic en el botón "Finalizado" situado debajo y su sonido se grabará correctamente.',
+          'T__SHOULD_NOW_BE' => ' debería estar sonando ahora.',
+          'T_THE_PHONE_AT_E' => 'El teléfono de la extensión ',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_DONE' => 'Finalizado',
+          'T_REC' => 'Grabar sonido desde la extensión'
+        };

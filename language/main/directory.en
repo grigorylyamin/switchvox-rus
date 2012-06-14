@@ -1,0 +1,8 @@
+$VAR1 = {
+          'T_CHOOSE_AN_EXTE' => 'Choose an Extension',
+          '__INCLUDES' => [
+                            '../common/incl_help_header',
+                            '../common/incl_help_footer'
+                          ],
+          'T_CHOOSE_EXTENSIO' => 'Choose Extension'
+        };

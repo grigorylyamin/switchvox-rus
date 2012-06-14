@@ -1,0 +1,6 @@
+$VAR1 = {
+          'T_ALL_CALLS4' => 'todas las llamadas',
+          'T_DIRECT_CALLS3' => 'llamadas directas',
+          'T_FORWARD2' => 'Desviar',
+          'T_QUEUE_CALLS3' => 'llamadas en cola'
+        };

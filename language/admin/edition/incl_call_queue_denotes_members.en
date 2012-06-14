@@ -1,0 +1,4 @@
+$VAR1 = {
+          'T_DENOTES_PERMANE' => 'Denotes Permanent Member',
+          'T_DENOTES_MEMBER' => 'Denotes Member Must Login'
+        };

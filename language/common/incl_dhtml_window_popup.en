@@ -1,0 +1,7 @@
+$VAR1 = {
+          'T_EMPTY_WINDOW2' => 'Empty Window',
+          'T_CANCEL2' => 'Cancel',
+          'T_SEND_FAX' => 'Send Fax',
+          'T_YES_RESTORE' => 'Yes, Restore',
+          'T_YES_DELETE2' => 'Yes, Delete',
+        };

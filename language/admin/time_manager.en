@@ -1,0 +1,18 @@
+$VAR1 = {
+          'T_CREATE_A_NEW_TI' => 'Create Time Frame',
+          'SM_CREATE_TIME_GROUP' => 'Successfully created Time Frame.',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_ALT_HELP' => 'help',
+          'SM_DELETE_TIME_GROUP' => 'Successfully deleted Time Frame.',
+          'T_TIME_GROUP_NAME' => 'Time Frame Name',
+          'T_EDIT' => 'Modify',
+          'SCTG_PE_GROUP_NAME' => 'Time Frame Name is required and must be 1-32 characters in length and may only contain letters, numbers, spaces, and the following characters "&\'():-_.,@#+',
+          'TSG_E_ALREADY_NAME' => 'A Time Frame with this name already exists. Please try a different name.',
+          'T_DELETE' => 'Delete',
+          'VDTG_PE_GROUP_ID' => 'Time Frame ID is missing',
+          'T_WHAT_IS_THIS_F' => 'What are Time Frames for?',
+          'T_CREATE_NEW' => 'Create',
+          'T_MODIFY_EXISTING' => 'Time Frames'
+        };

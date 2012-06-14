@@ -1,0 +1,15 @@
+$VAR1 = {
+          'T_RECEIVED' => 'Ricevute',
+          'T_PLAY' => 'Riproduci',
+          'T_NUM' => 'Numero',
+          '__INCLUDES' => [
+                            'incl_softkeys',
+                            'incl_error_header'
+                          ],
+          'T_VM_DETAILS' => 'Dettagli segreteria',
+          'T_DURATION' => 'Durata',
+          'T_DELETE' => 'Elimina',
+          'T_TIME' => 'Ora',
+          'T_NAME' => 'Nome',
+          'T_DATE' => 'Data'
+        };

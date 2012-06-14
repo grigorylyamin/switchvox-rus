@@ -1,0 +1,6 @@
+$VAR1 = {
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_YOUR_BACKU' => 'Su copia de seguridad está siendo restaurada. Por favor, espere y no actualice esta página.'
+        };

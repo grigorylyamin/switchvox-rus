@@ -1,0 +1,6 @@
+$VAR1 = {
+          'T_MISSING_MAPPING' => 'Nome mappatura mancante per questa tabella',
+          '__INCLUDES' => [
+                            'incl_options_object_style'
+                          ]
+        };

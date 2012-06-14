@@ -1,0 +1,13 @@
+$VAR1 = {
+          'T_CREATE_EXTENSIO3' => 'Crea estensione',
+          'T_MORE_ABOUT_THE' => 'Per saperne di più sul codice funzione segreteria',
+          'T_CREATE_FC_GOTO_VOICEMAIL_EXTENSION' => 'Crea codice funzione di Vai all\'Estensione della Segreteria',
+          'T_2_DIGITS_IN_LEN3' => '2 cifre in lunghezza',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ],
+          'T_MODIFY_FC_GOTO_VOICEMAIL_EXTENSION' => 'Modifica codice funzione di Vai all\'Estensione della Segreteria',
+          'T_THIS_FEATURE_CO' => 'Questo codice funzione consentirà la composizione della casella della segreteria di un\'altra estensione.',
+          'T_ENTER_FC_GOTO_VOICEMAIL_EXTENSION' => 'Inserisci Vai all\'Estensione della Segreteria',
+          'T_FEATURE_CODE_EX3' => 'Estensioni Codice funzione'
+        };

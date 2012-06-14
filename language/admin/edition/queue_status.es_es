@@ -1,0 +1,15 @@
+$VAR1 = {
+          'T_VIEW_STATISTICS5' => 'Visualizar estadísticas del año pasado',
+          'T_VIEW_STATISTICS4' => 'Visualizar estadísticas de los últimos 30 días',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_THE_QUEUE_STATU' => 'La página Estado de cola le permite visualizar el estado de sus colas de llamadas en tiempo real y también muestra estadísticas de sus colas y miembros de colas.',
+          'T_VIEW_STATISTICS3' => 'Visualizar estadísticas de los últimos 7 días',
+          'T_VIEW_STATISTICS' => 'Visualizar estadísticas de ayer',
+          'T_ABOUT_QUEUE_ST' => 'Acerca de las estadísticas de colas',
+          'T_THERE_ARE_NO_CA' => 'No hay ninguna cola de llamadas para visualizar. Para crear una cola de llamadas,',
+          'T_VIEW_STATISTICS2' => 'Visualizar estadísticas de los últimos 2 días',
+          'T_PAST_QUEUE_STAT' => 'Estadísticas de colas anteriores',
+          'T_CLICK_HERE2' => 'haga clic aquí'
+        };

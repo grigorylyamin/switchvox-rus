@@ -1,0 +1,12 @@
+$VAR1 = {
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'UXH_COMBINED_CONCURRENT' => 'Combined Concurrent Calls for the past day',
+          'AXC_FOR_THE_PAST_DAY' => ' for the past day',
+          'ZOU_FOR_THE_PAST_HOUR' => ' for the past hour',
+          'FPX_FOR_THE_PAST_SIX' => ' for the past 6 hours',
+          'AOP_FOR_THE_PAST_WEEK' => ' for the past week',
+          'OAP_FOR_THE_PAST_MONTH' => ' for the past month',
+          'DGD_FOR_THE_PAST_YEAR' => ' for the past year',
+        };

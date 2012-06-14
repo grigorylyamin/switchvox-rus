@@ -1,0 +1,10 @@
+$VAR1 = {
+          'T_ADDITIONAL_NUMS' => 'Additional Numbers',
+          '__INCLUDES' => [
+                            'incl_header',
+                            '../common/incl_dhtml_window_popup',
+                          ],
+          'T_CANCEL13' => 'Cancel',
+          'T_ARE_YOU_SURE5' => 'Are you sure you want to delete this number?',
+          'T_YES_DELETE7' => 'Yes, Delete'
+        };

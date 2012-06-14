@@ -1,0 +1,24 @@
+$VAR1 = {
+          'OG_TFD_DELETE_DISABLED' => 'Questa è un\'organizzazione di sistema e non può essere eliminata',
+          'OG_E_MISSING_GNAME' => 'Valore nome organizzazione mancante in funzione: create_extension_organization',
+          'OG_TD_DATE_CREATED' => 'Data creazione',
+          'OG_SM_DELETED_ORG' => 'Eliminazione organizzazione estensione riuscita.',
+          'OG_BT_CREATE_ORG' => 'Crea organizzazione di estensione',
+          'OG_TB_MODIFY' => 'Modifica',
+          'COG_SM_CREATED_ORG' => 'creazione organizzazione estensione riuscita.',
+          'MOG_E_WRONG_ACTION' => 'Azione non valida per passare a Modifica organizzazione di estensione.',
+          'OG_ND_NO_ORGS' => 'Non sono presenti organizzazioni nel sistema.',
+          'OG_TD_EXT_DELETE' => 'Elimina',
+          'OG_TD_EXT_ORGS_ID' => 'ID',
+          'OG_TD_EXT_MODIFY' => 'Modifica',
+          'OG_T_PAGE_DESC' => 'Creare, modificare ed eliminare le organizzazioni di estensione per ottimizzare la gestione  dell\'amministrazione delle estensioni sul proprio PBX.',
+          'OG_TD_ORG_NAME' => 'Nome organizzazione',
+          '__INCLUDES' => [
+                            'incl_header',
+                            '../common/incl_table'
+                          ],
+          'OG_TD_MEMBER_COUNT' => 'Membri',
+          'OG_TB_DELETE' => 'Elimina',
+          'OG_T_HELP_LINK' => 'Per cosa sono utilizzate le organizzazioni delle estensioni?',
+          'OG_TN_TABLE_TITLE' => 'Organizzazioni estensione'
+        };

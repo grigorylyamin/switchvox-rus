@@ -1,0 +1,6 @@
+$VAR1 = {
+          'T_ADD_NEW_CALLER3' => 'Aggiungi nuova regola ID chiamante',
+          'T_ADD_NEW_CALLER' => 'Aggiungi nuova regola ID chiamante',
+          'T_ADD_NEW_RANGED' => 'Aggiungi nuova regola ID chiamante attestata',
+          'T_ADD_NEW_CALLER2' => 'Aggiungi nuova regola ID chiamante'
+        };

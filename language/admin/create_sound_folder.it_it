@@ -1,0 +1,8 @@
+$VAR1 = {
+          'T_FOLDER_NAME' => 'Nome cartella',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_CREATE_SOUND_FO' => 'Crea cartella audio',
+          'T_FOLDER_DESCRIPT' => 'Descrizione cartella'
+        };

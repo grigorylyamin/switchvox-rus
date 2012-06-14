@@ -1,0 +1,8 @@
+$VAR1 = {
+          'T_CUSTOM_PANELS' => 'Custom panels allow web developers to create panels in the Switchboard
+that refresh an external webpage every time a call is received.',
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ]
+        };

@@ -1,0 +1,8 @@
+$VAR1 = {
+          'T_THE_ECHO_CANC' => 'Lo strumento di riduzione dell\'eco è già in esecuzione. Si prega di essere paziente e di non aggiornare la pagina.',
+          'T_TITLE' => 'Strumento di riduzione dell\'eco',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ],
+          'T__COMPLETE' => '0% completo'
+        };

@@ -1,0 +1,5 @@
+$VAR1 = {
+          'T_CANCEL9' => 'Cancel',
+          'T_ARE_YOU_SURE4' => 'Are you sure you want to delete this call rule?',
+          'T_YES_DELETE6' => 'Yes, Delete',
+        };

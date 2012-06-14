@@ -1,0 +1,11 @@
+$VAR1 = {
+          'T_ADDITIONAL_NUMS' => 'Números adicionales',
+          'T_ARE_YOU_SURE5' => '¿Está seguro de que desea eliminar este número?',
+          'T_CANCEL13' => 'Cancelar',
+          'T_PROFILE_ADDITIONAL_NUMS_DESC' => 'Los números adicionales se utilizan para ayudar a otras personas de su organización a localizarle cuando no está en su escritorio. Por ejemplo, puede añadir su número de teléfono móvil, o el número del teléfono fijo de su casa, o incluso otra extensión que utilice frecuentemente. Los números aparecerán aquí para el resto de usuarios del sistema que lo añadieron a sus agendas. Asegúrese de introducir el número de la forma que lo marcaría desde su teléfono. Por ejemplo, comience con un 9 si es lo que haría normalmente.',
+          '__INCLUDES' => [
+                            'incl_header',
+                            '../common/incl_dhtml_window_popup',
+                          ],
+          'T_YES_DELETE7' => 'Sí, eliminar'
+        };

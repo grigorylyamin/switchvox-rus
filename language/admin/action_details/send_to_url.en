@@ -1,0 +1,5 @@
+$VAR1 = {
+          'T_URL5' => 'URL',
+          'T_ACTION_TYPE11' => 'Action Type',
+          'T_VARIABLES_PASSE' => 'Variables Passed Back'
+        };

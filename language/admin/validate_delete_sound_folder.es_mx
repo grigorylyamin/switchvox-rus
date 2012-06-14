@@ -1,0 +1,11 @@
+$VAR1 = {
+          'T_DELETING_THIS' => 'Al eliminar esta carpeta también se eliminarán todos los sonidos que contenga.',
+          'T_YES_DELETE_FOL' => 'Sí, eliminar carpeta',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ],
+          'T_WARNING7' => 'ADVERTENCIA',
+          'T_SOUNDS_THAT_WIL' => 'Los sonidos que se eliminarán',
+          'T_ARE_YOU_SURE_YO7' => '¿Está seguro de que desea eliminar permanentemente esta carpeta de sonidos?',
+          'T_DELETE_FOL' => 'Eliminar carpeta'
+        };

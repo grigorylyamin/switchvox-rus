@@ -1,0 +1,4 @@
+$VAR1 = {
+          'UP_ERROR_MANY_MSG' => 'Si è verificato un problema durante la deconfigurazione dei telefoni selezionati.',
+          'UP_SUCCESS_MANY_MSG' => 'Deconfigurazione Telefono riuscita.'
+        };

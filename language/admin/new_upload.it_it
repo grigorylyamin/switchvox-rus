@@ -1,0 +1,11 @@
+$VAR1 = {
+          'T_SOUND' => ' Audio.',
+          'T_UPLOAD_NEW' => 'Carica nuovo audio',
+          'T_VERSION_OF' => ' Versione di',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_UPLOA' => 'Carica file',
+          'T_PLEASE_CHOOSE_T' => 'Scegliere il file da caricare per',
+          'T_UPLOAD_NEW_SOUN' => 'Carica nuovo audio'
+        };

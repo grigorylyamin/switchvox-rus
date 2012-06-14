@@ -1,0 +1,7 @@
+$VAR1 = {
+          'T_ARE_YOU_SURE_YO15' => 'Eliminare definitivamente questa estensione',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_YES_DELETE_EXT5' => 'Sì, elimina estensione'
+        };

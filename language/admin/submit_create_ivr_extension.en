@@ -1,0 +1,5 @@
+##This file was auto generated##
+my $LANG =
+{
+	E_EXTENSION	=> 'Extension must at least %1 digits in length.',
+};

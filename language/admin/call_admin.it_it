@@ -1,0 +1,8 @@
+$VAR1 = {
+          'T_USER_TIP7' => 'Suggerimento utente',
+          '__INCLUDES' => [
+                            'incl_header',
+                            'incl_subnav_descriptions'
+                          ],
+          'T_THE_SYSTEM_N' => 'Originariamente il sistema supporta solo il formato Ogg per la musica e altri file audio, ma può essere aggiornato per il supporto del formato mp3 se si caricano i pacchetti adeguati.'
+        };

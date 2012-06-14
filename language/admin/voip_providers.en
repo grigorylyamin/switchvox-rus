@@ -1,0 +1,22 @@
+$VAR1 = {
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_VOIP_PROVIDE' => 'VOIP Providers',
+          'T_WERE_SORRY_B' => 'We\'re sorry, but this page has been disabled for legal, regulatory, or business reasons. We apologize for any inconvenience.',
+          'T_NOTE2' => 'NOTE',
+          'T_A_NEW_VOIP_PRO' => 'A new VOIP provider has just been added to the system, but in order to make any outgoing calls using this provider, outgoing call rules must first be configured in the',
+          'T_THE_FIRST_VOIP' => 'The first VOIP provider has just been added to the system. Outgoing call rules have automatically been generated using this VOIP provider. You can view more information on these newly created outgoing call rules in the',
+          'T_OUTGOING_CALLS2' => '"Outgoing Calls"',
+          'T_SECTION_OF_THE' => 'section of the adminstration suite.',
+          'T_MANAGE_VOIP_PRO' => 'Manage VOIP Providers',
+          'T_ADD_NEW' => 'Add New',
+          'T_RSA_KEY' => 'RSA Key',
+          'T_DOWNLOAD_CUR' => 'Download Current RSA key ',
+          'T_OR7' => '-OR-',
+          'T_RENAME_RSA_K' => 'Rename RSA key',
+          'T_GENERATE' => 'Generate and Download New RSA key',
+          'T_RTP_PORT_RANGE' => 'RTP Port Range',
+          'T_FROM' => 'From',
+          'T_TO' => 'to',
+        };

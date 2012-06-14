@@ -1,0 +1,8 @@
+$VAR1 = {
+          'T_IF_YOU_ARE_SET' => 'If you are setting up your phone system for the first time, refer to the Quick Start Guide that came with your system to guide you through the fastest way to get you up and running.',
+          'T_USER_TIP' => 'User Tip',
+          '__INCLUDES' => [
+                            'incl_header',
+							'incl_subnav_descriptions'
+                          ]
+        };

@@ -1,0 +1,19 @@
+$VAR1 = {
+          'T_INDIVIDUAL_EXTE' => 'Estensioni individuali',
+          'T_SEND_TO_ALL' => 'Invia a tutti',
+          'T_PREDEFINED_GROU' => 'Gruppo predefinito',
+          'T_ENABLE_VOICEMA' => 'Abilita inoltro segreteria',
+          'T_OR' => '-O-',
+          'T_FORWARD_TO_MEMB' => 'Inoltra a membri',
+          'T_DELETE_ON_FORWA' => 'Elimina dopo inoltro',
+          'T_CONTACT_YOUR_AD' => 'Contattare l\'amministratore per abilitare questa opzione.',
+          'T_FEATURE_DISABLE' => 'Funzione disabilitata -',
+          'T_ROUND_ROBIN' => 'Round Robin.',
+          'T_FORWARDING_TYPE' => 'Tipo inoltro',
+          'T_ALL_AVAILABLE_A' => 'Tutti gli account disponibili',
+          'T_SAVE_FORWARD_SE' => 'Salva impostazioni inoltro',
+          'T_VOICEMAIL_FORWA' => 'Inoltro segreteria',
+          'T_ADD_MEMBER' => 'Aggiungi membro',
+          'T_REMOVE_MEMBER' => 'Rimuovi membro',
+          'T_TELL_ME_MORE_A' => 'Per saperne di più'
+        };

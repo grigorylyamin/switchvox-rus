@@ -1,0 +1,6 @@
+$VAR1 = {
+          'T_EXTENSION15' => 'Extension',
+          'T_ACTION_TYPE4' => 'Action Type',
+          'T_VARIABLE' => '(Variable)',
+          'T_VARIABLE_OF_SOU2' => 'Variable of Sound to Send'
+        };

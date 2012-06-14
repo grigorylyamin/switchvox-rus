@@ -1,0 +1,8 @@
+$VAR1 = {
+          '__INCLUDES' => [
+                            'incl_header'
+                          ],
+          'T_YES_DELETE_EXT' => 'Sì, elimina estensione',
+          'T_DEL_MMC_EXT' => 'Elimina estensione',
+          'T_ARE_YOU_SURE_YO' => 'Eliminare definitivamente questa estensione conferenza Meet Me'
+        };

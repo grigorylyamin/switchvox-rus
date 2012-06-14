@@ -1,0 +1,10 @@
+$VAR1 = {
+          'T_CLICK_THE_LINK2' => 'Cliccare sul collegamento qui sotto per accedere alla suite utente on line',
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ],
+          'T_WITH_NUMBER2' => 'Con numero',
+          'T_CURRENTLY_RINGI2' => 'Estensione che stanno attualmente squillando',
+          'T_LOGIN2' => 'Accesso'
+        };

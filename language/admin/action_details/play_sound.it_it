@@ -1,0 +1,11 @@
+$VAR1 = {
+          'T_VARIABLE29' => 'Variabile',
+          'T_SOUND_DESCRIPTI5' => 'Descrizione audio',
+          'T_YES891' => 'Sì',
+          'T_INTERRUPTIBLE2' => 'Interrompibile',
+          'T_LANGUAGE_TO_PLA' => 'Lingua da riprodurre',
+          'T_SOUND_NAME4' => 'Nome audio',
+          'T_ACTION_TYPE37' => 'Tipo azione',
+          'T_SOUND_VARIABLE2' => 'Variabile audio',
+          'T_NO891' => 'No'
+        };

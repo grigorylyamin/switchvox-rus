@@ -1,0 +1,16 @@
+$VAR1 = {
+          'T_YOU_ARE_CURR' => 'You are currently using an external voicemail server. Because of this, most of the settings on this page are disabled.',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_VOICEMAIL_TEMPLATES' => 'Notification Templates',
+          'T_VIEW3' => 'View',
+          'T_CHOOSE_TE' => 'Choose Template:',
+          'T_VOICEMAIL_EMAIL2' => 'Voicemail Email Template',
+          'T_TEMPLATE2' => 'Template Name:',
+          'T_CREATE_NEW2' => 'Create',
+          'T_CREATE_A_NEW_VO2' => 'Create Notification Template',
+          'T_DELETE2' => 'Delete',
+          'T_EDIT2' => 'Modify',
+          'T_MODIFY_EXISTING' => 'Modify Existing Templates'
+        };

@@ -1,0 +1,22 @@
+$VAR1 = {
+          'T_ADVANCED_DEBUGGING_DESC' => '
+Advanced debugging sessions can be useful in identifying the source of a problem. 
+However, these sessions place an additional load on the PBX system resources.
+We recommend that you do not use this tool unless you are being directed by
+a technical support representative.
+',
+          'T_ADVANCED_ERROR' => 'View Advanced Error Logs',
+          'T_ERRLOG' => 'Error Logs',
+          'T_HERE2' => 'here',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_ADV_DEBUG' => 'Advanced Debugging',
+          'T_VIEW_AN_ERR' => 'Error Log Date',
+          'T_VIEW10' => 'View',
+          'T_VISIT_ADV_DEBUG' => 'Go To Advanced Debugging',
+          'T_TO_VIEW_THE' => 'to view the',
+          'T_IN_THE_ERROR' => 'In the error logs, all server errors from the phone system are recorded and stored by date. They are returned as sortable columns to make finding the information you are looking for fast and easy. Please click',
+          'T_NEW_IN_THE_ERROR' => 'In the error logs, all server errors from the phone system are recorded and stored by date. They are returned as sortable columns to make finding the information you are looking for fast and easy.'
+
+        };

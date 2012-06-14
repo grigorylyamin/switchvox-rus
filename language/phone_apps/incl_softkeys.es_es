@@ -1,0 +1,6 @@
+$VAR1 = {
+          'T_BACK' => 'Atrás',
+          'T_HOME' => 'Inicio',
+          'T_REFRESH' => 'Actualizar',
+          'T_EXIT' => 'Salir'
+        };

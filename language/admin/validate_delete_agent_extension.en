@@ -1,0 +1,7 @@
+$VAR1 = {
+          'T_ARE_YOU_SURE_YO33' => 'Are you sure you want to permanently delete this call queue agent extension',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_YES_DELETE_EXT9' => 'Yes, Delete Extension'
+        };

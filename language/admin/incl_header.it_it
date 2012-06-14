@@ -1,0 +1,14 @@
+$VAR1 = {
+          'T_WARNING22' => 'ATTENZIONE',
+          'T_LOGOUT' => 'Disconnetti',
+          '__INCLUDES' => [],
+          'T_CONFLICTING_OUTGOING' => 'Regole chiamata in uscita in conflitto',
+          'T_HEAD_HELP' => 'guida',
+          'T_LOGOUT5' => 'disconnessione',
+          'W_EXTENSION_RULE_CONFL' => 'Creazione del numero di estensione riuscita, ma in conflitto con le regole di chiamata in uscita elencate di seguito. Per eliminare il conflitto accedere a <a href="/admin?cmd=outgoing_rules">Regole di chiamata in uscita</a> per modificare queste regole o creare una nuova estensione con un numero che non sia in conflitto.',
+          'T_SYSTEM_IS_NOT_R2' => 'PBX non registrato. Cliccare su visualizza.',
+          'SM_CREATE_CALL_QUEUE' => 'Creazione coda di chiamata riuscita.',
+          'T_SYSTEM_IS_OFFLI2' => 'Il PBX non è attualmente in linea. Cliccare su visualizza.',
+          'T_WEAK_PASSWORD_A' => 'Avviso password debole',
+          'T_ERROR9' => 'ERRORE'
+        };

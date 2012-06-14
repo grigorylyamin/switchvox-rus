@@ -1,0 +1,21 @@
+$VAR1 = {
+          'T_TOTAL_CUMULATIV2' => 'Total acumulado',
+          'T_MMDDYYYY14' => 'dd/mm/aaaa',
+          'T_TO_DATE6' => 'Fecha hasta',
+          'T_FROM_DATE6' => 'Fecha desde',
+          'T_BY_DAY_OF_WEEK2' => 'Según el día de la semana',
+          'T_BY_HOUR_OF_DAY2' => 'Por hora del día',
+          'T_MMDDYYYY15' => 'dd/mm/aaaa',
+          '__INCLUDES' => [
+                            'incl_header',
+                            '../common/incl_calendar_header'
+                          ],
+          'T_OUPUT_TO_XLS_F4' => 'Salida como archivo .xls',
+          'T_HOLD_DOWN_CTRL17' => 'Mantenga pulsada la tecla CTRL para seleccionar varios elementos',
+          'T_CHART_REPORT2' => 'Informe de diagrama',
+          'T_BY_DATE2' => 'Por fecha',
+          'T_VIEW_REPORT4' => 'Visualizar informe',
+          'T_REPORT_FIELDS7' => 'Campos del informe',
+          'T_REPORT_BREAKDOW3' => 'Desglose del informe',
+          'T_USE_THIS_FORM2' => 'Utilice este formulario para generar informes estadísticos personalizados acerca del historial de llamadas de esta extensión.'
+        };

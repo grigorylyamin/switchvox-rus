@@ -1,0 +1,30 @@
+$VAR1 = {
+          'T_UPDATE_A_SOUND' => 'Update a Sound',
+          'T_RECORD_OVER_PHO4' => 'Record Over Phone',
+          'T_UPLOAD_FILE8' => 'Upload File',
+          'T_CLOSE3' => 'Close',
+          '__INCLUDES' => [
+                            'incl_header',
+                            '../common/incl_dhtml_window_popup',
+                          ],
+
+
+
+          'T_NO_SND_CE_LANG_JACK666' => 'There isn\'t a sound for this language.',
+          'T__DEFAULT_LANGU2' => '* default language',
+          'T_YOUR_PHONE' => 'Your phone should now be ringing.',
+          'T_PLEASE_ANSW2' => 'Please answer your phone to hear the sound.',
+          'T_CANCEL25' => 'Cancel',
+          'T_GO8' => 'Go',
+          'T_EXTENSION8' => 'Extension to Call',
+          'T_LANGUAGE3' => 'Language',
+          'T_STATUS' => 'Status',
+          'T_SOUND_INFORMATI' => 'Sound Information',
+          'T_SOUND_PACK2' => 'Sound Pack',
+          'T_DESCRIPTION3' => 'Description',
+          'T_NAME10' => 'Name',
+          'T_ACTIVE' => 'Active',
+          'T_ACTIONS' => 'Actions',
+          'T_INACTIVE' => 'Inactive',
+          'T_EMPTY12' => 'Empty',
+        };

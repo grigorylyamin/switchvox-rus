@@ -1,0 +1,12 @@
+$VAR1 = {
+          'T_AND_IS_SET_TO' => 'y se ajusta como',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ],
+          'T_ARE_YOU_SURE_YO3' => '¿Está seguro de que desea eliminar permanentemente el direccionamiento de la plantilla de correo electrónico del buzón de voz?',
+          'T_THE_TEMPLATE' => 'La plantilla',
+          'T_RECEIVE_WAV_ATT' => 'recibir adjuntos wav.',
+          'T_NOT' => 'no',
+          'T_IS_MAPPED_TO_T' => 'se direcciona a la dirección de correo electrónico',
+          'T_YES_DELETE_VOI2' => 'Eliminar asignación de la plantilla de correo electrónico del buzón de voz'
+        };

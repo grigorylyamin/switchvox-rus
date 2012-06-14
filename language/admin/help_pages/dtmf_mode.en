@@ -1,0 +1,13 @@
+$VAR1 = {
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ],
+          'T_CHECK_YOUR_PHO' => 'Check your phone\\\'s user manual for information on which DTMF mode it
+uses.  rfc2833 is the most common DTMF mode and is a good guess if you
+are unsure about your phone.',
+          'T_DTMF_MODE_REFE' => 'DTMF Mode refers to how your phone communicates keypresses to the PBX
+during a call.  If it is set incorrectly, the PBX system will not be
+able to detect digits from your handset when checking your voicemail,
+or dialing IVRs.'
+        };

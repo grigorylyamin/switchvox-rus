@@ -1,0 +1,12 @@
+$VAR1 = {
+          'T_NOW_THAT_YOU' => 'Now that your PBX is registered, you can create as many new extensions as your Subscriptions allow.',
+          'T_YOU_MAY_NEED_TO' => 'You may need to supply this Registration Code for tech support.',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_ALSO_BE_SURE' => 'Be sure to keep your installation media and Registration Code in a safe place, so that you can easily reinstall if necessary.',
+          'T_THANK_YOU_FOR_R' => 'Thank you for registering your PBX.',
+          'T_THIS_INSTALLATI' => 'This installation is already registered. Thank you!',
+          'T_FIRST_SIX_CH' => 'First six characters of your Registration Code',
+          'T_UPGRADE' => 'If you have purchased the Upgrade from 60-Day Trial to SMB, click <a href="/admin?cmd=register&upgrade=1">here</a> to enter the new SMB Registration Code.',
+        };

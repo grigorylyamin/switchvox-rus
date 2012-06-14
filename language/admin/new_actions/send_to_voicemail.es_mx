@@ -1,0 +1,9 @@
+$VAR1 = {
+          'T_SEND_TO_VOICEMA6' => 'Enviar al buzón de voz de la extensión',
+          'T_SELECT_A_VARIAB12' => 'Seleccionar una variable',
+          '__INCLUDES' => [
+                            'new_actions/incl_button'
+                          ],
+          'T__OR22' => '-O-',
+          'T_EXTENSION_TO_DI2' => 'Extensión para marcar'
+        };

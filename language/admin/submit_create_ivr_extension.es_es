@@ -1,0 +1,3 @@
+$VAR1 = {
+          'E_EXTENSION' => 'La extensión debe tener, como mínimo, %1 dígitos.'
+        };

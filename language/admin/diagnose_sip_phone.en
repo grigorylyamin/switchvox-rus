@@ -1,0 +1,11 @@
+$VAR1 = {
+          'T_THIS_IS_AN_EX' => 'This is an External Phone',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_NO' => 'No',
+          'T_WHAT_DOES_THIS' => 'What does this mean?',
+          'T_DIAGNOSE_SIP_PH' => 'Diagnose SIP Phone',
+          'T_YES' => 'Yes',
+          'T_INTERNAL_IP_ADD' => 'Internal IP Address of SIP Phone for Extension'
+        };

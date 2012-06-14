@@ -1,0 +1,8 @@
+$VAR1 = {
+          '__INCLUDES' => [
+                            'incl_header',
+                            'incl_subnav_descriptions'
+                          ],
+          'T_YOU_CAN_MANAGE' => 'È possibile gestire le segreterie come e-mail utilizzando l\'interfaccia Casella di posta, con cartelle per organizzare i messaggi e la possibilità di inoltrare segreterie ad altre estensioni.',
+          'T_USER_TIP5' => 'Suggerimento utente'
+        };

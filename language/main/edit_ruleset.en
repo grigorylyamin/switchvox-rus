@@ -1,0 +1,60 @@
+##This file was auto generated##
+my $LANG =
+{
+T_UNANSWERED_CALL	=> 'Unanswered Call Rule Sets',
+T_ADD_NEW_RULE		=> 'Add New Rule Set',
+T_MANAGE_UNANSWER	=> 'Manage Unanswered Call Rules',
+T_MODIFYDELETE		=> 'Modify / Delete',
+T_MOVE				=> 'Move',
+T_RULE				=> 'Rule',
+T_ACTION			=> 'Action',
+T_DELETE			=> 'Delete',
+T_SAVE				=> 'Save',
+T_CANT_UNANSWERED	=> 'You are not allowed to add any unanswered call rules.',
+T_CONTACT_YOUR_AD	=> 'Contact your administrator if you think this feature should be enabled.',
+
+T_BUSY_CALL_RULES	=> 'Busy Call Rules',
+T_ADD_NEW_RULE		=> 'Add New Rule',
+T_MANAGE_BUSY_CAL	=> 'Manage Busy Call Rules',
+
+T_CALL_BLOCKING		=> 'Call Blocking',
+T_ADD_CALL_BLOCK	=> 'Add Call Block',
+T_MANAGE_BLOCKED	=> 'Manage Blocked Calls',
+
+T_CANT_BLOCK		=> 'You are not allowed to block any numbers.',
+T_CONTACT_YOUR_AD	=> 'Contact your administrator if you think this feature should be enabled.',
+
+T_MESSAGESPROMPT	=> 'Messages/Prompts',
+T_NEW				=> 'New',
+T_PLAY				=> 'Play',
+T_USE_DEFAULT		=> 'Use Default',
+T_CHECK_UNRULES		=> "Uncheck the \\'Use Unanswered Call Rules\\' box above to create busy rules.",
+T_MUST_DELETE_BUSY	=> 'You must delete all your Busy Rules to enable this feature.',
+T_USE_MY_UNANSWERED	=> 'Use my unanswered call rules',
+T_SAVE_UNTOBUSY		=> 'Save',
+
+# unanswered_rules/voicemail
+T_VM_SEND			=> 'Send',
+T_VM_DIRECT_CALLS	=> 'direct calls',
+T_VM_QUEUE_CALLS	=> 'queue calls',
+T_VM_ALL_CALLS		=> 'all calls',
+T_VM_TO_VOICEMAI	=> 'to voicemail',
+T_VM_AFTER			=> 'after',
+T_VM_RINGS_WHEN		=> 'rings when time is',
+T_VM_ANYTIME		=> 'Anytime',
+
+# unanswered_rules/voicemail
+T_CC_CASCADE		=> 'Cascade',
+T_CC_DIRECT_CALLS	=> 'direct calls',
+T_CC_QUEUE_CALLS	=> 'queue calls',
+T_CC_ALL_CALLS		=> 'all calls',
+T_CC_TO				=> 'to',
+T_CC_AFTER			=> 'after',
+T_CC_RINGS			=> 'rings',
+T_CC_WHEN_TIME_I	=> 'when time is',
+T_CC_ANYTIME		=> 'Anytime',
+T_CC_MAKE_SURE		=> 'Make sure you prepend the number required to make outgoing calls.',
+T_CC_EXAMPLE		=> 'Example',
+
+
+};

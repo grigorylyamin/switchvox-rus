@@ -1,0 +1,5 @@
+$VAR1 = {
+          'T_ACTION_TYPE39' => 'Tipo de acción',
+          'T_CONCATENATION' => 'Concatenación',
+          'T_STORE_RESULT_IN5' => 'Almacenar resultado en'
+        };

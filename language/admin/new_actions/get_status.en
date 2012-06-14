@@ -1,0 +1,11 @@
+$VAR1 = {
+          'T_VARIABLE_NAME_F2' => 'Variable Name for Status Result',
+          'T_MORE_ABOUT_GE' => 'More About Get Extension Status',
+          '__INCLUDES' => [
+                            'new_actions/incl_button'
+                          ],
+          'T__OR10' => '- OR -',
+          'T_EXTENSION_TO_CH' => 'Extension To Check Status On',
+          'T_SELECT_A_VARIAB3' => 'Select a Variable',
+          'T_ENTER_IN_E2' => 'Enter in extension manually'
+        };

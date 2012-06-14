@@ -1,0 +1,7 @@
+$VAR1 = {
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_YES_DELETE_EXT10' => 'Yes, Delete Feature Code',
+          'T_ARE_YOU_SURE_YO35' => 'Are you sure you want to permanently delete this Directed Pickup Feature Code'
+        };

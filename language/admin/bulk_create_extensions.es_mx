@@ -1,0 +1,26 @@
+$VAR1 = {
+          'T_CREATE_EXTS' => 'Evaluar importación',
+          'E_HANDLE_DUPE' => 'No es un método válido para gestionar entradas duplicadas.',
+          'T_HANDLE_DUPE' => 'Con extensión duplicada',
+          'T_VIRTUAL' => 'Virtual',
+          'T_EXT_TYPE' => 'Tipo de extensión',
+          'T_EXT_TEMPLATE' => 'Plantilla de extensiones',
+          'T_SKIP' => 'Omitir',
+          'E_CSV_FILENAME' => 'Falta el nombre del archivo CSV o contiene caracteres ilegales.',
+          'T_UPDATE' => 'Actualizar información',
+          'E_NO_EXT_FILE' => 'No se pudo encontrar su archivo de datos de extensión.',
+          'T_BULK_CREATE_EXT' => 'Importar extensiones en masa',
+          'T_SUBMIT2' => 'enviar',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_DETERMINE_TIME' => 'Determinando el tiempo restante…',
+          'T_EXT_FILE' => 'Archivo de extensiones',
+          'T_UPLOADING_FILE' => 'Cargando archivo',
+          'E_EXT_TYPE' => 'No es un tipo de extensión válido.',
+          'T_DEL_RECREATE' => 'Eliminar y recrear',
+          'T_NO_REPORT_FILE' => 'No pudo encontrarse el archivo de informe',
+          'T_SIP' => 'SIP',
+          'E_TEMPLATE' => 'No es una plantilla válida',
+          'T_HOW_DO_I_USE_T' => '¿Cómo puedo utilizar esta página?'
+        };

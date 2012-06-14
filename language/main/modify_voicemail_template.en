@@ -1,0 +1,17 @@
+$VAR1 = {
+          'T__A_URL_TO_THE2' => '- A URL to the web admin to download the message and delete it from the recipient\'s mailbox.',
+          'T_SAVE_TEMPLATE' => 'Save Template',
+          'T__THE_DURATION' => '- The duration of the voicemail message',
+          'T__A_URL_TO_THE' => '- A URL to the web admin to download the message',
+          'T_MODIFY_VOICEMAI' => 'Modify Voicemail Email Template ',
+          'T__THE_RECIPIEN' => '- The recipient\'s extension',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_SUBJECT' => 'Subject',
+          'T_YOU_CAN_USE' => 'You can use variables in your template that will be substituted with the real values when the email gets sent. Below is a list of the variables and a description of their substituted value.',
+          'T__THE_DATE_AND' => '- The date and time the message was left',
+          'T__THE_CALLER_I' => '- The caller id of the person who left the message',
+          'T__RECIPIENTS' => '- Recipient\'s firstname and lastname',
+          'T_BELOW_YOU_CAN_T' => 'Below you can customize the email template that gets sent to the user when they recieve a voicemail email.'
+        };

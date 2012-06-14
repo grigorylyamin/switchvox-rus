@@ -1,0 +1,9 @@
+$VAR1 = {
+		'__INCLUDES' => [
+                            'current_call_listings',
+							'incl_error_header',
+                          ],
+		'T_NO_CURRENT_CALLS' => 'You are not currently on any calls.',
+		'T_CURRENT_CALLS' => 'Current Calls',
+		'T_NO_RECORD_PERM' => 'Your extension does not have permission to record calls. Please contact your systems administrator for more details.',
+};

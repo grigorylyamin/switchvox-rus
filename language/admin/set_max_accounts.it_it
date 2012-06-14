@@ -1,0 +1,7 @@
+$VAR1 = {
+          'LOUR_THANK_YOU' => 'Grazie.',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'SM_SET_MAX_ACCOUNTS' => 'Aggiornamento max account riuscito.'
+        };

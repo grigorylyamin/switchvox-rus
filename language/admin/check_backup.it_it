@@ -1,0 +1,7 @@
+$VAR1 = {
+          'T_PLEASE_WAIT' => 'attendere',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_YOUR_BACKUP_I' => 'Il backup è in corso di elaborazione. Attendere e non aggiornare la pagina.'
+        };

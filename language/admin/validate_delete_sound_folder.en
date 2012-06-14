@@ -1,0 +1,11 @@
+$VAR1 = {
+          'T_DELETING_THIS' => 'Deleting this folder will also permanently delete all of the sounds in it.',
+          'T_YES_DELETE_FOL' => 'Yes, Delete Folder',
+          'T_DELETE_FOL' => 'Delete Folder',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_WARNING7' => 'WARNING',
+          'T_SOUNDS_THAT_WIL' => 'Sounds that will be removed',
+          'T_ARE_YOU_SURE_YO7' => 'Are you sure you want to permanently delete this sound folder'
+        };

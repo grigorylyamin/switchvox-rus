@@ -1,0 +1,22 @@
+$VAR1 = {
+          'T_SUBJECT2' => 'Asunto',
+          'T_TEMPLATE_NAME' => 'Nombre de plantilla',
+          'T__RECIPIENTS2' => '- Nombre y apellidos del destinatario',
+          'T_RESTORE_TO_ORIG' => 'Restablecer a la plantilla original',
+          'T_MODIFY_VOICEMAI3' => 'Guardar plantilla',
+          'T__A_URL_TO_THE4' => '- Una URL para descargar el mensaje y eliminarlo desde el buzón del destinatario.',
+          'T_YOU_CAN_USE2' => 'Cuando se envía el correo electrónico, cada variable es sustituida por su valor real.',
+          'T__THE_DATE_AND2' => 'La fecha y la hora en la que se dejó el mensaje',
+          'T__THE_DURATION2' => 'La duración del mensaje de voz',
+          'T_MODIFY_VM_TEMPLATE' => 'Modificar plantilla de notificación',
+          'T__A_URL_TO_THE3' => '- Una URL al administrador web para descargar el mensaje',
+          'T__THE_RECIPIEN2' => '- La extensión del destinatario',
+          'T_CREATE_VM_TEMPLATE' => 'Crear plantilla de notificación',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ],
+          'T_BELOW_YOU_CAN_T2' => 'A continuación puede personalizar la plantilla que se envía al titular de la extensión cuando recibe una notificación.',
+          'T__THE_CALLER_I2' => '- El id de la persona que llama que dejó el mensaje',
+          'T_SAVE_TEMPLATE2' => 'Guardar plantilla de notificación',
+          'T_RESTORE_TEMPLATE' => '¿Está seguro de que desea restablecer la plantilla?'
+        };

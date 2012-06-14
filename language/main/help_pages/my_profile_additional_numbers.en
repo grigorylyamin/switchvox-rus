@@ -1,0 +1,27 @@
+$VAR1 = {
+          'T_ICM_DESC' => '
+The In Call Menu is a set of actions you can use during your current call. You can include your Additional Numbers in the Menu so that you can transfer calls to those numbers. To access the In Call Menu during a call, press **, and a voice-prompt lists your possible actions.  
+<br /><br />
+To include an Additional Number in your In Call Menu, edit your Additional Number (or create a new one), and select an In Call Menu number and a Menu Label. Then, when you access your In Call Menu and press that Menu number, you are transferred to that Additional Number. 
+',
+          'T_ICM' => 'In Call Menu',
+          'T_EXAMPLE' => 'Example',
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ],
+          'T_PHONEBOOKS' => 'Phonebooks',
+          'T_ICM_EXAMPLE' => '
+The Additional Number 916195551212 is designated as In Call Menu Number 3 and Menu Label "Mobile". 
+During a call you press **. You are presented with an In Call Menu, and one of the prompts you hear 
+is "To transfer this call to Mobile, press 3". If you press 3, your caller is transferred to 916195551212. Or, if you know your In Call Menu well and you do not want to wait for the voice to prompt you, just press **3 and the caller is transferred immediately.
+',
+          'T_PAGE_DESC' => '
+Additional Numbers can be used in two ways: In your In Call Menu, and in your coworker\'s Phonebooks.
+<br /<br />
+Additional Numbers should be entered exactly as you would dial them on your phone. For example, if you need to dial 9 for an outside extension, and 1 + area code for a long-distance call, then include all of those numbers in the Additional Number entry.
+',
+          'T_PHONEBOOKS_DESC' => '
+Additional Numbers that are not checked Private are available to your coworkers when they add you to their Phonebook. 
+'
+        };

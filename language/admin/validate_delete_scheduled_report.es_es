@@ -1,0 +1,7 @@
+$VAR1 = {
+          'T_ARE_YOU_SURE_YO13' => '¿Está seguro de que desea eliminar permanentemente este informe programado?',
+          'T_YES_DELETE_SCH' => 'Sí, eliminar informe programado',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ]
+        };

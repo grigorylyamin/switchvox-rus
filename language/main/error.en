@@ -1,0 +1,8 @@
+$VAR1 = {
+          'T_REPORT_THIS_ERR' => 'Report this Error',
+          'T_YOU_HAVE_ENCOU' => 'You have encountered an internal error with the administration suite.  Please click the "Report this Error" button below to send this error and information to assist in fixing this in the future or click the "Ignore this Error" to return to the main menu without reporting this error.',
+          'T_IGNORE_THIS_ERR' => 'Ignore this Error',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ]
+        };

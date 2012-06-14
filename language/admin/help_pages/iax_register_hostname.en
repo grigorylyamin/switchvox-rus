@@ -1,0 +1,14 @@
+$VAR1 = {
+          'T_IF_YOUR_PROVID2' => 'If your provider has multiple servers for their IAX service, you can
+use the Primary, Secondary, and Tertiary Outbound Host settings to
+list them.  Otherwise, the Hostname/IP Address field will be used for
+placing outbound calls as well as inbound calls and registration
+requests.',
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ],
+          'T_THIS_IS_THE_PRI' => 'This is the primary hostname or ip address of your provider\\\'s IAX
+server.  This hostname will be used to send registration requests.  It
+will also be the host that will send any inbound calls to your PBX.'
+        };

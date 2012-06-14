@@ -1,0 +1,15 @@
+$VAR1 = {
+          'T_THIS_IS_THE_UR2' => 'This is the URL to your SugarCRM application\\\'s Web interface, for example',
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ],
+          'T_HTTPCRMEXAM2' => 'http://crm.example.com/sugarcrm/',
+          'T_HTTPSPUBLIC2' => 'https://public.example.com:8080/sugarcrm/',
+          'T_THIS_URL_IS_WH' => 'This URL is what users of the Switchboard will access when 
+modifying records returned in the SugarCRM panel. If you plan on external
+users having access to your SugarCRM system then this URL must be accessible 
+from the outside internet, so if your CRM application is running behind NAT, 
+you may need to make it accessible by forwarding ports.  HTTPS urls and 
+alternate ports are supported, for example'
+        };

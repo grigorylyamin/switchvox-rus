@@ -1,0 +1,26 @@
+$VAR1 = {
+          'T_ALL_CALLS' => 'Tutte le chiamate',
+          'T_TYPE_12311' => 'Tipo',
+          'T_SEE_WHAT_CALLS' => 'Vedi quali chiamate sono state effettuate sul sistema di telefonia. Utilizza il modulo qui sotto per limitare le informazioni visualizzate ai registri per ottenere un rapporto di chiamata significativo e specifico.',
+          'T_CALL_QUEUES' => 'Code chiamata',
+          'T_IVRS' => 'IVR',
+          'T_VIEW_REPORT' => 'Visualizza rapporto',
+          'T_TO_DATE' => 'A data',
+          'T_EXTENSION' => 'Estensione',
+          'T_INCOMING_CALLS' => ' Chiamate in arrivo',
+          'T_AGENTS' => 'Agenti',
+          'T_HOLD_DOWN_CTRL' => 'Tenere premuto CRTL per selezionare più componenti',
+          'T_OUTGOING_CALLS' => 'Chiamate in uscita',
+          'T_MMDDYYYY' => '(gg/mm/aaaa)',
+          'T_ALL_EXTENSIONS' => 'Tutte le estensioni',
+          'T_USER_EXTEN' => 'Estensioni utente',
+          '__INCLUDES' => [
+                            'incl_header',
+                            '../common/incl_calendar_header',
+                            '../common/incl_table'
+                          ],
+          'T_OUPUT_TO_XLS_F' => 'Risultato sotto forma di file .xls',
+          'T_FROM_DATE' => 'Da data',
+          'T_MULTIPLE_ITEMS' => 'Componenti multipli',
+          'T_VIEW_TYPE' => 'Visualizza tipo'
+        };

@@ -1,0 +1,10 @@
+$VAR1 = {
+          'T_ABOUT_SET_RINGTONE' => 'Ulteriori informazioni sulle suonerie caratteristiche suggerite',
+          'T_USE_VALUE_OF_VAR' => 'Utilizza valore di variabile',
+          '__INCLUDES' => [
+                            'new_actions/incl_button',
+                            'new_actions/incl_missing_digit_variables'
+                          ],
+          'T_ENTER_A_RINGTONE' => 'Inserisci una suoneria caratteristica suggerita manualmente',
+          'T_CREATE_A_NEW_RINGTONE' => 'Crea una nuova suoneria caratteristica suggerita'
+        };

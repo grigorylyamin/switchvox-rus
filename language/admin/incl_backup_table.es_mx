@@ -1,0 +1,13 @@
+$VAR1 = {
+          'T_NAME6' => 'Nombre',
+          'T_APPROXIMATE_SI' => 'Tamaño aproximado antes de la compresión',
+          'T_DETERMINING_SI' => 'Determinando el tamaño',
+          'T_REQUIRED' => 'Necesario',
+          'T_SIZE' => 'Tamaño',
+          'T_2GB_LIMIT_SOHO' => 'Los archivos de copia de seguridad deben ocupar menos de 2 gigabytes.',
+          'T_OPTIONAL' => 'Opcional',
+          'T_CREATE_BACKUP' => 'Crear copia de seguridad',
+          'T_SAVE_SETTINGS5' => 'Guardar configuración',
+          'T_TOTAL_SIZE_OF_B' => 'Tamaño total de la copia de seguridad',
+          'T_INCLUDE' => 'Incluir'
+        };

@@ -1,0 +1,6 @@
+$VAR1 = {
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_YOUR_BACKU' => 'È IN CORSO IL RIPRISTINO DEL BACKUP. ATTENDERE E NON AGGIORNARE LA PAGINA.'
+        };

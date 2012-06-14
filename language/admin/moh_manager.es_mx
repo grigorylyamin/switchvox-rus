@@ -1,0 +1,26 @@
+$VAR1 = {
+          'T_MOVE_CHECKED_TO' => 'Mover seleccionados a',
+          'T_MORE_ABOUT_MUS' => 'Más información acerca de la Música en espera',
+          'T_VIEW' => 'Visualizar',
+          'T_ALL_SONGS' => 'Todas las canciones',
+          'T_NO_GROUPS_TO_COPY' => 'No hay otros grupos en los que copiar canciones.',
+          'T_GROUP_LISTINGS' => 'Listados de grupos',
+          'T_ALL_CODECS' => 'Todos los códecs',
+          'T_ADD_NEW' => 'Añadir nuevo',
+          'T_COPY_TO' => 'Copiar en',
+          'T_COPY_CHECKED_TO' => 'Copiar seleccionados a',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ],
+          'T_NO_GROUPS_TO_MOVE' => 'No hay otros grupos a los que exportar canciones.',
+          'T_GROUP' => 'Grupo',
+          'T_GO' => 'Ir',
+          'T_THE_MUSIC_ON_H' => 'El administrador de música en espera le permite crear grupos de música, cargar nuevas canciones, gestionar el orden de reproducción y otras opciones.',
+          'T_DELETE' => 'Eliminar',
+          'T_UPLOAD_SONG' => 'Cargar canción',
+          'T_MUSIC_ON_H' => 'Música en espera',
+          'T_DELETE_CHECKED' => 'Eliminar seleccionados',
+          'T_ALL_GROUPS' => 'Todos los grupos',
+          'T_MOVE_TO' => 'Mover a ',
+          'T_CODEC' => 'Códec'
+        };

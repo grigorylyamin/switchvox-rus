@@ -1,0 +1,25 @@
+$VAR1 = {
+          'T_HOW_DO_I_USE_T2' => 'Come utilizzo questa pagina?',
+          'T_ENTER_ANY_VARIA' => 'Inserire tutti i nomi variabile che verranno ripassati',
+          'T_YOUR_CGI_URL_A' => 'L\'URL CGI sopra dovrebbe restituire un XML valido che contenga le variabili e i loro valori corrispondenti.',
+          'T_IN_THE_URL_FIE' => 'Tuttavia, per utilizzare tali variabili in seguito in altre azioni IVR è necessario predefinirli sotto. Nel campo URL sopra, inserire il percorso URL completo al programma CGI a cui passare i dati dall\'IVR. È possibile aggiungere valori da passare all\'URL cliccando sul pulsante "Anteponi" sotto. In questo modo il nome variabile selezionato alla fine dell\'URL compreso di %\'s, quando questo URL viene inviato, %\'s e i nomi variabili sono sostituiti con i valori corrispondenti.',
+          'T_HTTPWWWMYD' => 'http://www.mydomain.com/cgi-bin/app.cgi?account=%ACCOUNT%&amp;digits=%PIN%',
+          'T_INCOMING_DID4' => 'INCOMING_DID',
+          'T_APPEND3' => 'Postponi',
+          'T_CLICK_APPEND_TO' => 'Clicca su Postponi per aggiungere la variabile selezionata comprensiva di %\'s all\'URL',
+          'T_POSSIBLE_SYSTEM' => 'Possibili variabili di sistema a cui inviare:',
+          'T_EXAMPLE6' => 'Esempio',
+          'T_EXTENSION9' => 'ESTENSIONE',
+          'T_CLICK_APPEND_TO2' => 'Clicca su Postponi per aggiungere la variabile selezionata comprensiva di %\'s all\'URL',
+          'T_JOB_ID2' => 'JOB_ID',
+          '__INCLUDES' => [
+                            'new_actions/lwp_timeout',
+                            'new_actions/incl_button'
+                          ],
+          'T_URL2' => 'URL',
+          'T_APPEND2' => 'Postponi',
+          'T_CALLER_ID_NAME5' => 'CALLER_ID_NAME',
+          'T_POSSIBLE_IVR_VA' => 'Possibili variabili IVR a cui inviare:',
+          'T_CALLER_ID_NUMBE4' => 'CALLER_ID_NUMBER',
+          'T_DIALED_NUMBER' => 'DIALED_NUMBER'
+        };

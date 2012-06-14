@@ -1,0 +1,8 @@
+$VAR1 = {
+          'T_YES_DELETE_EXT3' => 'Sì, elimina estensione',
+          'T_ARE_YOU_SURE_YO11' => 'Eliminare definitivamente questa estensione conferenza semplice',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ],
+          'T_DEL_SCR_EXT' => 'Elimina estensione di conferenza semplice'
+        };

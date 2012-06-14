@@ -1,0 +1,9 @@
+$VAR1 = {
+          'PAGE_TITLE_CREATE_BU' => 'Crear un archivo de copia de seguridad',
+          '__INCLUDES' => [
+                            'incl_header',
+                            'incl_backup_table'
+                          ],
+          'T_BACKUP_CREATIO' => 'La creación de la copia de seguridad puede durar varios minutos y no debería afectar a ninguna de las llamadas actuales en su sistema. Después de hacer clic en el botón "Crear copia de seguridad", se le dirigirá a una pantalla de espera mientras se crea el archivo de copia de seguridad.',
+          'T_HOW_DO_I_USE_T' => '¿Cómo puedo utilizar esta página?'
+        };

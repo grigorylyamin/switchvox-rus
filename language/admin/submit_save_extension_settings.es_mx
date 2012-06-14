@@ -1,0 +1,3 @@
+$VAR1 = {
+          'SSES_PE_EXT_LENGTH' => 'La extensión sólo puede tener entre 3 y 6 dígitos.'
+        };

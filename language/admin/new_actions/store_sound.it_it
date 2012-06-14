@@ -1,0 +1,11 @@
+$VAR1 = {
+          'T_IMMEDIATELY3' => 'immediatamente',
+          'T_WHEN_THE_IVR_R' => 'Quando l\'IVR raggiunge questa azione,',
+          'T_STORES_THE_CHO' => 'L\'audio selezionato viene archiviato nello slot di Sound Manager scelto sopra, sovrascrivendo l\'audio esistente. Assicurarsi di implementare la protezione per limitare questa azione a parti attendibili (ad es. è richiesto un codice)',
+          'T_RECORDED_SOUND2' => 'Audio registrato da archiviare',
+          '__INCLUDES' => [
+                            'new_actions/incl_missing_sound_variables'
+                          ],
+          'T_SOUND_TO_STORE_AS' => 'Audio da archiviare come',
+          'T_CAUTION' => 'Attenzione'
+        };

@@ -1,0 +1,15 @@
+$VAR1 = {
+          '__INCLUDES' => [
+				'edition/create_fc_fax_extension'
+			],
+          'T_HELP_LINK_TEXT' => 'More about the fax feature code',
+          'T_MODIFY_EXT' => 'Modify Extension',
+          'T_CREATE_EXT' => 'Create Extension',
+          'T_FC_FAX_DESCRIPTION' => 'This feature code is used to set a system extension, and then send a fax. The fax is stored in the Sent Faxes of the designated extension.',
+          'T_REQUIRE_EXT_PASS' => 'Required extension password',
+          'T_FC_EXT' => 'Feature Code Extension',
+          'T_TWO_DIGITS' => '2 digits in length',
+			'T_EXTENSION' => 'Feature Code Extension',
+			'T_MODIFY_FC_FAX_EXTENSION' => 'Modify Feature Code Fax Extension',
+			'T_CREATE_FC_FAX_EXTENSION' => 'Create Feature Code Fax Extension',
+        };

@@ -1,0 +1,8 @@
+$VAR1 = {
+          'T_SAVE' => 'Save',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_MODIFY_FAX_EMAI' => 'Modify Notification',
+          'T_EMAIL2' => 'Email'
+        };

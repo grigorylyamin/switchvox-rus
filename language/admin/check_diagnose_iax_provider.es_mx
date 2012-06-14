@@ -1,0 +1,8 @@
+$VAR1 = {
+          'T_IAX_DIAGNOSE_PAGE_TITLE' => 'Determinando el proveedor de VoIP en IAX',
+          'T_BACK_TO_CONNECTION_STATUS' => 'Volver a estado de conexión',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ],
+          'T_ATTEMPTING_TO2' => 'Intentar diagnosticar cualquier problema con su proveedor IAX puede tardar varios segundos. Por favor, espere y no actualice esta página.'
+        };

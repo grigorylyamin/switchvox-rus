@@ -1,0 +1,31 @@
+$VAR1 = {
+          'T_NUMBER_OF_MAXIM' => 'Number of maximum expected T38 packet delay',
+          'T_DISABLE_ERROR_C2' => 'Disable error correction mode (ECM). The default is to leave this feature enabled.',
+          'T_ADVANCED_OPTION' => 'Advanced Options',
+          'T_MAXIMUM_TRANSFE' => 'Maximum transfer rate for fax transmission',
+          'T_TEXT_STRING' => 'Text string that identifies the sender identification to the remote side of the fax transmission. Default is to leave blank.',
+          'T_T38_ERROR_C2' => 'T38 Error Correction Code (ECC) Data Redundancy.  This option specifies the number of redundant image packets contained in a T38 image frame.  The default value is 1.',
+          'T_TREAT_ALL_OUTGO' => 'Treat each outgoing call from this extension as a fax.
+Only select this option if this extension is a fax machine and doesn\'t make any voice calls.',
+          'T_MINIMUM_TRANSFE' => 'Minimum transfer rate for fax transmission',
+          'T_THIS_EXTENSION' => 'Treat all outgoing calls as faxes',
+          'T_FAX_HEADER' => 'Fax Header',
+          'T_T38_ERROR_C' => 'T38 Error Correction Code (ECC) Signal Redundancy.  This option specifies the number of redundant signal packets contained in a T38 signal frame.  
+		The default value is 3.',
+          'T_MAXIMUM_EXP' => 'Maximum expected T38 packet delay in milliseconds.  
+		The result of this specification is all T38 packets are padded to prepare the fax stack for the specified delay.  
+		As long as the packet delay is less than or equal to the specified value, the fax stack will not realize that there is an actual packet delay because of the packet padding.  
+		The default value of 800 milliseconds should cover most use cases.',
+          'T_MINIMUM_TRA' => 'Minimum transfer rate used during fax rate negotiation. The default minimum transfer rate is 2400.',
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ],
+          'T_THE_DEFAULT_VA' => 'The default values here should cover most use cases and should not need to be changed.',
+          'T_NUMBER_OF_REDUN2' => 'Number of redundant image packets for T38 fax sessions',
+          'T_DISABLE_ERROR_C' => 'Disable Error Correction Mode (ECM) for G711 fax sessions',
+          'T_MAXIMUM_TRA' => 'Maximum transfer rate used during fax rate negotiation.  The default maximum transfer rate is 14400.',
+          'T_TEXT_STRING_THA' => 'Text string that becomes the fax header that is sent on each page. Example : "Digum, Inc - T:877.546.8963, F:858.555.1212"',
+          'T_LOCAL_STATION_I' => 'Local Station ID',
+          'T_NUMBER_OF_REDUN' => 'Number of redundant signal packets for T38 fax sessions'
+        };

@@ -1,0 +1,7 @@
+$VAR1 = {
+          'T_DURING_THIS_TIM' => 'Durante este tiempo, su sistema PBX seguirá aceptando nuevos mensajes de buzón de voz, pero el buzón de voz existente no estará disponible hasta que el sistema haya finalizado el proceso de migración.',
+          'T_YOUR_VOICEMAIL' => 'La migración de su buzón de voz se realizó correctamente.',
+          'T_DETERMINING_TIM' => 'Determinando el tiempo restante…',
+          'T_THE_SYSTEM_IS_C' => 'En estos momento, el sistema está migrando su buzón de voz existente a un nuevo formato de buzón de voz.',
+          'T_VOICEMAIL_MIGRA' => 'Progreso de la migración del buzón de voz'
+        };

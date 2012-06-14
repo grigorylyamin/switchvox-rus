@@ -1,0 +1,11 @@
+$VAR1 = {
+          'T_ADDITIONAL_NUMS' => 'Numeri ulteriori',
+          'T_ARE_YOU_SURE5' => 'Eliminare questo numero?',
+          'T_CANCEL13' => 'annulla',
+          'T_PROFILE_ADDITIONAL_NUMS_DESC' => 'I numeri aggiuntivi sono utilizzati per aiutare gli altri membri dell\'organizzazione a trovare l\'utente quando si allontana dal suo ufficio. Ad esempio, è possibile aggiungere il proprio numero di cellulare o di casa o persino un\'altra estensione utilizzata di frequente. I numeri qui appaiono agli altri utenti nel sistema che hanno aggiunto l\'utente alla propria rubrica. Assicurarsi di inserire il numero come lo si comporrebbe dal proprio telefono. Ad esempio, iniziare con 9 se cos inizia la composizione normale.',
+          '__INCLUDES' => [
+                            'incl_header',
+                            '../common/incl_dhtml_window_popup',
+                          ],
+          'T_YES_DELETE7' => 'Sì, elimina'
+        };

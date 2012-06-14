@@ -1,0 +1,10 @@
+my $LANG = {
+    T_MNR_TITLE => 'Why is my Phone Model showing "Not Reported"?',
+    
+    T_MNR_EXPLAIN => q(
+        This PBX is not able to determine the phone model for some phones.
+        Despite that, these phones can still be configured. During the
+        configuration process, the PBX will update the firmware on the phone if
+        necessary, and it will be able to determine the model afterward.
+    ),
+}

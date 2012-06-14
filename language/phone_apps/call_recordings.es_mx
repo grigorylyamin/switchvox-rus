@@ -1,0 +1,9 @@
+$VAR1 = {
+          'T_NO_RECORD_PERM' => 'Su extensión no tiene permiso para grabar llamadas. Por favor, póngase en contacto con el administrador de su sistema para obtener más información.',
+          '__INCLUDES' => [
+                            'current_call_listings',
+                            'incl_error_header'
+                          ],
+          'T_CURRENT_CALLS' => 'Llamadas actuales',
+          'T_NO_CURRENT_CALLS' => 'En estos momentos, usted no se encuentra en ninguna llamada.'
+        };

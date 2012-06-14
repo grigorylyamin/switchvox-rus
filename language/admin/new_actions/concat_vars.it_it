@@ -1,0 +1,23 @@
+$VAR1 = {
+          'T_JOB_ID6' => 'JOB_ID',
+          'T_VARIABLE_CONCAT' => 'Concatenazione di variabili',
+          'T_CLICK_BUTTON_TO4' => 'Cliccare sul pulsante per aggiungere la variabile selezionata comprensiva di %\'s alla concatenazione di variabili.',
+          'T_CLICK_BUTTON_TO3' => 'Cliccare sul pulsante per aggiungere la variabile selezionata comprensiva di %\'s alla concatenazione di variabili.',
+          'T_IN_THE_INPUT' => 'Nella casella di immissione, inserire una rappresentazione della concatenazione da creare. È possibile aggiungere variabili alla concatenazione cliccando sui pulsanti Anteponi a concatenazione sotto. È inoltre possibile concatenare stringhe alle variabili. Le variabili devono comprendere %\'s. Ad esempio, per concatenare le variabili VAR1 e VAR2, e la stringa "test", la casella di immissione deve contenere quanto segue',
+          'T_VAR1VAR2TE' => '%VAR1%%VAR2%test',
+          'T_APPEND_TO_CONCA' => 'Postponi a concatenazione',
+          'T_POSSIBLE_IVR_VA4' => 'Possibili variabili IVR da concatenare',
+          'T_APPEND_TO_CONCA2' => 'Postponi a concatenazione',
+          '__INCLUDES' => [
+                            'new_actions/incl_back_button',
+                            'new_actions/incl_button'
+                          ],
+          'T_CALLER_ID_NUMBE8' => 'CALLER_ID_NUMBER',
+          'T_CALLER_ID_NAME9' => 'CALLER_ID_NAME',
+          'T_INCOMING_DID8' => 'INCOMING_DID',
+          'T_POSSIBLE_SYSTEM4' => 'Possibili variabili di sistema da concatenare',
+          'T_VARIABLE_NAME_F7' => 'Nome variabile per concatenazione:',
+          'T_EXAMPLE8' => 'Esempio',
+          'T_EXTENSION13' => 'ESTENSIONE',
+          'T_DIALED_NUMBER' => 'DIALED_NUMBER'
+        };

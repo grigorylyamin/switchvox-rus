@@ -1,0 +1,8 @@
+$VAR1 = {
+          'T_IF_YOU_ARE_SET' => 'Se si sta impostando il sistema di telefonia per la prima volta, fare riferimento alla Guida rapida allegata al sistema come guida per il modo più veloce per l\'attivazione e l\'esecuzione.',
+          'T_USER_TIP' => 'Suggerimento utente',
+          '__INCLUDES' => [
+                            'incl_header',
+                            'incl_subnav_descriptions'
+                          ]
+        };

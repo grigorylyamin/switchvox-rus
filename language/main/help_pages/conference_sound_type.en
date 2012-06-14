@@ -1,0 +1,17 @@
+$VAR1 = {
+          'T_THE_CALLER_I' => 'The caller is prompted to record his name. The recorded name is then played 
+along with a sound.',
+          'T_SOUND_WITH_CALL5' => 'Sound with Caller Name',
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ],
+          'T_THERE_ARE_THRE' => 'There are three options for the sound that is played when a caller enters and exits your 
+conference room',
+          'T_ONLY_A_SOUND' => 'Only a sound is played, no information about the caller.',
+          'T_ONLY_SOUND3' => 'Only Sound',
+          'T_SOUND_WITH_CALL6' => 'Sound with Caller Name (user review option)',
+          'T_THIS_IS_THE' => 'This is the same as "Sound with Caller Name", but it gives the caller
+an opportunity to listen to his recorded name, then accept or re-record it 
+before joining the conference room.'
+        };

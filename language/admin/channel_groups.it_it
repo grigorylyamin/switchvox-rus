@@ -1,0 +1,14 @@
+$VAR1 = {
+          'T_YOU_HAVE_JUST2' => 'È stato appena creato il primo gruppo di canali nel sistema con il corretto metodo di segnalazione per effettuare chiamate in uscita. Trattandosi del primo gruppo di canali alcune regole di chiamata in uscita sono state generate automaticamente utilizzando questo gruppo di canali. È possibile visualizzare ulteriori informazioni sulle regole di chiamata in uscita appena create in',
+          'T_YOU_HAVE_JUST' => 'È appena stato aggiunto un nuovo gruppo di canali al sistema con il metodo di segnale adatto per effettuare chiamate in uscita ma per far in modo che tutte le chiamate in uscita usino questo gruppo di canali, è necessario configurare le chiamate in uscita all\'utilizzo di questo gruppo di canali. È possibile creare, visualizzare e modificare regole di chiamata in uscita esistenti nel',
+          'T_OUTGOING_CALL' => 'Regole chiamata in uscita',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ],
+          'T_CHANNEL_GROUPS2' => 'Gruppo canali',
+          'T_NOTE25' => 'NOTA',
+          'T_VIEW8' => 'Visualizza',
+          'T_SECTION_OF_THE5' => 'sezione di questa suite di amministrazione.',
+          'T_INDIVIDUAL_CHAN2' => 'Canali individuali',
+          'T_CREATE_NEW_CHAN2' => 'Creare gruppo canali'
+        };

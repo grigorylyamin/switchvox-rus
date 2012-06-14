@@ -1,0 +1,7 @@
+$VAR1 = {
+          'T_ARE_YOU_SURE_YO31' => '¿Está seguro de que desea eliminar permanentemente este dispositivo? ',
+          'T_YES_DELETE_DEV' => 'Sí, eliminar dispositivo',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ]
+        };

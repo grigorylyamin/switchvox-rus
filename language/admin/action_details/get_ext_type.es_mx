@@ -1,0 +1,6 @@
+$VAR1 = {
+          'T_VARIABLE24' => 'Variable',
+          'T_VARIABLE_TO_STO2' => 'Variable para almacenar - Escribir',
+          'T_ACTION_TYPE30' => 'Tipo de acción',
+          'T_EXTENSION18' => 'Extensión'
+        };

@@ -1,0 +1,11 @@
+$VAR1 = {
+          'T_PLEASE_LOG_IN_T' => 'Please Log In To Use the Tool Suite',
+          'T_USER_LOGIN' => 'User Login',
+          'T_EXTENSION' => 'Extension',
+          'T_PASSWORD' => 'Password',
+          'T_INVALID_USERNAME_PASSWORD' => 'Invalid Extension number or Password',
+          'T_USERNAME_PASSWORD_INCORRECT' => 'Extension number or Password incorrect',
+          'UJX_EXTENSIONS_MAY' => 'Extension must be only valid digits',
+          'OAK_YOU_ARE_NOT_ALLOWED' => 'You are not allowed to access the web administration.',
+          'SHI_DUE_TO_FAILED_LOGIN' => 'Because of failed log-in attempts, you can no longer use this page. Please contact your Switchvox administrator to restore full access.',
+        };

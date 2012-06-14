@@ -1,0 +1,16 @@
+$VAR1 = {
+          '__INCLUDES' => [],
+          'T_DELETE4' => 'Delete',
+          'T_ACTIVATED_UNTIL' => 'Activated Until',
+          'T_NO_RULES_HAVE_B' => 'No rules have been added to this Rule Set',
+          'T_DISABLE' => 'Disable',
+          'T_RULE_SET' => 'Rule Set Information',
+          'T_ACTIVATE2' => 'Activate...',
+          'T_YOU_CURRENTLY' => 'You currently do not have any rule sets defined in this section.',
+          'T_MOVE' => 'Move',
+          'T_NAME' => 'Name',
+          'T_RELOADING_PAG' => 'Reloading page to fetch new rows. Please be patient.',
+          'T_DEACTIVATE' => 'Deactivate',
+          'T_EDIT4' => 'Edit',
+          'T_TIME_FRAME' => 'Time Frame',
+        };

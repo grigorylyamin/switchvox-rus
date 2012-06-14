@@ -1,0 +1,9 @@
+$VAR1 = {
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ],
+          'T_TIME_FRAMES_ARE2' => 'Time Frames are defined ranges of time that will be used by call routing features of the PBX.',
+          'T_THIS_IS_WHERE2' => 'This is where you will define business hours, weekends, holidays, etc. so that you will be able to set up call rules based on these times.',
+          'T_EG_SEND_A2' => '(E.g.; Send all calls that come in after 7pm directly to voicemail.)'
+        };

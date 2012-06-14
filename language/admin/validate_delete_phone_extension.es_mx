@@ -1,0 +1,12 @@
+$VAR1 = {
+          'T_YES_DELETE_EXT7' => 'Sí, eliminar extensión',
+          'T_TO_ARCHIVE_THE' => 'Para archivar los archivos de mensajes de voz/fax, haga clic en el botón "Descargar archivo de mensajes de voz/fax" antes de eliminar esta extensión.',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ],
+          'T_DOWNLOAD_VOICEM' => 'Descargar archivo de mensajes de voz/fax',
+          'T_ARE_YOU_SURE_YO25' => '¿Está seguro de que desea eliminar permanentemente esta extensión?',
+          'T_WARNING25' => 'ADVERTENCIA',
+          'T_TO_MOVE_A_US' => 'Si está cambiando un número de extensión de una persona, recomendamos que cree en primer lugar su nueva extension y desvíe todos los mensajes del buzón de voz y faxes de esta extension a la nueva. A continuación puede eliminar esta extensión.',
+          'T_DELETING_THIS4' => 'Al eliminar esta extensión se eliminarán todos los mensajes del buzón de voz y faxes del buzón de esta extensión.'
+        };

@@ -1,0 +1,17 @@
+$VAR1 = {
+          'T_MODIFY_EXTENSIO2' => 'Modificar extensión',
+          'T_2_DIGITS_IN_LEN2' => '2 dígitos de longitud',
+          '__INCLUDES' => [
+                            'incl_header',
+                            '../common/incl_permission_settings',
+                            'js_list_movement'
+                          ],
+          'T_FEATURE_CODE_EX2' => 'Extensión de código de función',
+          'T_MORE_ABOUT_CAL' => 'Más información acerca de la supervisión',
+          'T_CREATE_MONITOR' => 'Crear grupo de control',
+          'T_CREATE_EXTENSIO2' => 'Crear extensión',
+          'T_WHICH' => 'Qué ',
+          'T_THIS_FEATURE2' => 'Este código de función permitirá que una extensión escuche en silencio la llamda actual de otra extensión.',
+          'T_THEY_CAN' => ' pueden controlar',
+          'T_THAT_CAN' => ' que pueden controlar'
+        };

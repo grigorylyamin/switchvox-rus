@@ -1,0 +1,11 @@
+$VAR1 = {
+          'T_GO11' => 'vai',
+          '__INCLUDES' => [
+                            'incl_header',
+                            '../common/incl_table'
+                          ],
+          'T_FOR3' => 'Per',
+          'T_FROM2' => 'Da',
+          'T_TO3' => 'A',
+          'T_ALL_ACCOUNTS' => 'Tutti gli account'
+        };

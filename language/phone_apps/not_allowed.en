@@ -1,0 +1,3 @@
+$VAR1 = {
+		'T_NOT_ALLOWED_MSG' => 'Your extension does not have permissions to access the Phone Applications suite. Please contact your systems administrator if you feel this is an error.',
+};

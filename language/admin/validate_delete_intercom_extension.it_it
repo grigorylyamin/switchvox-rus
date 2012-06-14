@@ -1,0 +1,10 @@
+$VAR1 = {
+          'T_YES_DELETE_EXT4' => 'Sì, elimina estensione',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ],
+          'T_INTERCOM_EXTENS' => 'Estensione Intercom',
+          'T_ARE_YOU_SURE_YO14' => 'Eliminare definitivamente questo',
+          'T_PERSONAL' => 'Personale',
+          'T_DEL_INTERCOM_EXT' => 'Cancella estensione intercom'
+        };

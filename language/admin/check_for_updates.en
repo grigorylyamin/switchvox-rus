@@ -1,0 +1,15 @@
+$VAR1 = {
+          'T_UPLOAD' => 'Upload',
+          'T_WARNING' => 'WARNING',
+          'T_APPLY_THIS_UPDA' => 'Apply This Update',
+          'T_MORE_INFO' => 'more info...',
+          'T_CHECK_ERR' => 'An error occurred while checking for updates.  Make sure your PBX is connected to the Internet.',
+          'T_UPDATING_YOUR' => 'Updating your system will result in an automatic software restart of your phone system. Any current phone connections will be dropped and any agents logged in will be logged out of their respective queues.',
+          'T_OBSOLETE_UPDATE' => 'Obsolete Updates',
+          'T_APPLY' => 'Apply',
+          'T_ERROR11' => 'ERROR',
+          'T_UPDATE' => 'Update',
+          'T_UPLOAD_UPDATE_F'      => 'Upload Update File',
+          'T_DESCRIPTION7'         => 'Description',
+          'T_NO_UPDATES_JACK_666'  => 'No updates are available for your system.',
+        };

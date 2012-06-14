@@ -1,0 +1,8 @@
+$VAR1 = {
+          '__INCLUDES' => [
+                            'incl_softkeys',
+                            'incl_error_header'
+                          ],
+          'T_NO_PHONEBOOKS' => 'Usted no tiene ninguna agenda.',
+          'T_PHONEBOOKS' => 'Agendas'
+        };

@@ -1,0 +1,16 @@
+$VAR1 = {
+          'T_WARNING' => 'Attenzione',
+          'T_EMAIL_WITH' => 'e-mail con',
+          'T_REREUN_DIAGNOSE' => 'Riesegui e-mail di diagnostica',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ],
+          'T_RERUN_THIS_D' => 'Rieseguire questa diagnostica se si ritiene di aver risolto il permesso.',
+          'T_RERUN_EMAIL_DIA' => 'Rieseguire diagnostica e-mail',
+          'T_E' => 'Inserire un indirizzo e-mail per test  in uscita',
+          'T_BACK_TO_SMTP_NOTIFICATIONS' => 'Torna alle notifiche SMTP',
+          'T_FAILED' => 'Non riuscito',
+          'T_EMAIL_DIAGNOSTI' => 'Diagnostica e-mail',
+          'T_NOT_TESTED' => 'Non testato',
+          'T_PASSED' => 'Passato'
+        };

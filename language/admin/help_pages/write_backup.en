@@ -1,0 +1,41 @@
+$VAR1 = {
+          'T_BUTTON_ON_THE' => 'button on the main Backups
+page.',
+          'T_ALL_VOICEMAIL2' => 'All voicemail and faxes stored on your system.',
+          'T_ALL_THE_AUDIO2' => 'All the audio files of recorded calls.',
+          'T_ON_THIS_PAGE' => 'On this page, you can set up a one-time backup. 
+You are given a breakdown of what will be backed up and how much space each backed up item will take. You have the option of whether 
+or not to back up some of the optional items. Make sure the checkbox is checked for any optional items you want backed up. When you are 
+satisfied with your selections, click the "Create Backup" button to begin the backup process.',
+          'T_PBX_CONFIGURATI2' => 'PBX Configuration',
+          'T_THE_BEST_PRAC' => 'The \\\'best practice\\\' for backups is to schedule a daily automatic 
+backup that stores the backup file on an FTP server. To do this, 
+use the',
+          'T_CONFIGURATION3' => 'Configuration files for the phone system.',
+          'T_RSA_AUTHENTICA2' => 'RSA authentication keys you may have stored for use in IAX authentication.',
+          'T_DATABASE_CONFIG2' => 'Database Configuration',
+          'T_SOUNDS_SOUND2' => 'Sounds / Sound Packs',
+          'T_REQUIRED_ITEMS2' => 'Required Items',
+          'T_AUDIO_CODECS2' => 'Audio Codecs',
+          'T_ANY_AUDIO_CODE2' => 'Any audio codecs you may have installed on your system for playing compressed audio.',
+          'T_OPTIONAL_ITEMS2' => 'Optional Items',
+          'T_VOICEMAIL_AND_F2' => 'Voicemail and Fax Files',
+          'T_SETUP_AUTOMATIC2' => 'Setup Automatic Backups',
+          'T_RECORDED_CALLS4' => 'Recorded Calls',
+          'T_CONFIGURATION4' => 'Configuration files for any telephony hardware cards that are used with your system.',
+          'T_A_BACKUP_OF_YO2' => 'A backup of your database with all your Extension, Call Queue, IVR Information, etc.',
+          'T_MUSIC_ON_HOLD_F2' => 'Music On Hold Files',
+          'T_THE_SYSTEM_ERR2' => 'The system error logs.',
+          'T_A_BACKUP_OF_AL2' => 'A backup of all the music on hold sound files on your system.',
+          'T_HARDWARE_CONFIG2' => 'Hardware Configuration',
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ],
+          'T_PBX_ERROR_LOGS2' => 'PBX Error Logs',
+          'T_ALL_THE_SOUND2' => 'All the sound files on your system.',
+          'T_THIS_PAGE_LETS' => 'This page lets you create a backup of your Switchvox PBX.',
+          'T_IAX_RSA_KEYS2' => 'IAX RSA Keys',
+          'T_IMPORTANT' => 'Important',
+          'T_BELOW_IS_A_BRE' => 'Below is a breakdown of what the items are'
+        };

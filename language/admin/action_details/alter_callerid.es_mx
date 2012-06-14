@@ -1,0 +1,11 @@
+$VAR1 = {
+          'T_TEXT_TO_ADD' => 'Texto para añadir',
+          'T_APPEND' => 'Añadir',
+          'T_VARIABLE3' => '(Variable)',
+          'T_ALTER_METHOD' => 'Después del método',
+          'T_PREPEND' => 'Anteponer',
+          'T_REPLACE_WITH' => 'Sustituir por',
+          'T_CALLER_ID_NUMBER' => 'Número de ID de la persona que llama',
+          'T_CALLER_ID_NAME' => 'Nombre de ID de la persona que llama',
+          'T_PART_OF_THE_CAL' => 'Parte del ID de la persona que llama altera'
+        };

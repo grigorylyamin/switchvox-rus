@@ -1,0 +1,10 @@
+$VAR1 = {
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_FETCHING_YOUR3' => 'Fetching your license info.',
+          'T_THERE_WAS_AN_ER3' => 'There was an error.',
+          'T_EXTENSIONS_WITH4' => 'Extensions with',
+          'T_EXTENSIONS5' => 'extensions',
+          'T_LICENSE3' => 'License Count',
+        };

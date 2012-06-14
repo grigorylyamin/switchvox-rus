@@ -1,0 +1,10 @@
+$VAR1 = {
+          'DQD_ERROR_CREATING_MODUL' => 'Errore durante la creazione della directory module_rpm.',
+          'OPN_SUCCESSFULLY_INSTALL' => 'Modulo rpm installato correttamente.',
+          'T_RPM_FILE' => 'Carica file RPM modulo',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'BTE_ERROR_INSTALLING_THE' => 'Errore durante l\'installazione dell\'RPM caricato.',
+          'FRO_MISSING_PATH_PARAMET' => 'Parametro percorso mancante.'
+        };

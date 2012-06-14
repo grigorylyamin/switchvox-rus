@@ -1,0 +1,14 @@
+$VAR1 = {
+          'T_APPROXIMATE_SI' => 'Dimensioni approssimative prima della compressione',
+          'T_NAME6' => 'Nome',
+          'T_DETERMINING_SI' => 'Determinazione dimensioni',
+          'T_SIZE' => 'Dimensioni',
+          'T_REQUIRED' => 'Richiesto',
+          'T_2GB_LIMIT' => 'I file di backup devono avere dimensioni inferiori ai 2 gigabyte. Se le registrazioni delle chiamate rendono i backup più grandi del necessario, si consiglia di eseguire il back di tutte le registrazioni di chiamate sul loro server FTP <a href="/admin?submit=Enter+Call+Recording+Settings&cmd=create_call_recording_auto_backup">(PBX Features > Call Recording)</a>.',
+          'T_2GB_LIMIT_SOHO' => 'I file di backup devono avere dimensioni inferiori ai 2 gigabyte.',
+          'T_OPTIONAL' => 'Opzionale',
+          'T_CREATE_BACKUP' => 'Crea backup',
+          'T_SAVE_SETTINGS5' => 'Salva impostazioni',
+          'T_TOTAL_SIZE_OF_B' => 'Dimensioni totali backup',
+          'T_INCLUDE' => 'Includi'
+        };

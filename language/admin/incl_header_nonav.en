@@ -1,0 +1,11 @@
+$VAR1 = {
+          'T_ERROR10' => 'ERROR',
+          'T_WARNING29' => 'WARNING',
+          'T_UPDATE_IS_IN_PR2' => 'Update is in progress',
+          'T_SYSTEM_IS_NOT_R3' => 'System is not registered',
+          '__INCLUDES' => [],
+          'T_LOGOUT6' => 'logout',
+          'T_SYSTEM_IS_OFFLI3' => 'System is offline',
+          'T_CONFLICTING_OUTGOING' => 'Conflicting Outgoing Call Rules',
+          'T_RC_AUTO_BACKUP_WARNING' => 'Auto Backup Warning',
+        };

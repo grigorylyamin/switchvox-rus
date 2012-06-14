@@ -1,0 +1,19 @@
+$VAR1 = {
+          'T_WORK' => 'Operazione',
+          'T_FRIENDS' => 'Amici',
+          '__INCLUDES' => [
+                            'incl_missing_sound_variables',
+                            'incl_back_button',
+                            'incl_button',
+                            'incl_tabletitle',
+                            'incl_missing_digit_variables'
+                          ],
+          'T_EXTENSION_TO_SE' => 'Estensione a cui inviare audio',
+          'T_RECORDINGS' => 'Registrazioni',
+          'T_FAMILY' => 'Famiglia',
+          'T__OR5' => '-O-',
+          'T_VOICEMAIL_FOLDE' => 'Cartella Segreteria in cui mettere l\'audio',
+          'T_ENTER_IN_E' => 'Inserire estensione manualmente',
+          'T_VARIABLE_OF_SOU' => 'Variabile di audio da inviare',
+          'T_SELECT_A_VARIAB' => 'Seleziona una variabile'
+        };

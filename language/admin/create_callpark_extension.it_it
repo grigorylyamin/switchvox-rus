@@ -1,0 +1,22 @@
+$VAR1 = {
+          'T_CREATE_EXTENSIO6' => 'Crea estensione',
+          'T_SECONDS4' => 'Secondi.',
+          'T_EXTENSION_RANGE_2' => 'e',
+          'CCE_CALLPARK_CONFLICT' => 'L\'intervallo estensioni inserito è in conflitto con le estensioni elencate qui sotto. Inserire un intervallo differente di estensioni o accedere a <a href="/admin?cmd=view_extensions">Gestione estensioni</a> per modificare queste estensioni.',
+          'T_RETURN_PARKED' => 'Rimanda le chiamate parcheggiate all\'estensione che ha parcheggiato la chiamata dopo',
+          'T_EXTENSION_SECONDS_1' => 'Rimanda le chiamate parcheggiate all\'estensione che ha parcheggiato la chiamata dopo',
+          'T_EXTENSION' => 'Estensione',
+          'T_DIGITS_IN_LENGT4' => 'Cifre in lunghezza',
+          'T_EXTENSION_SECONDS_2' => 'secondi',
+          'T_EXTENSION_RANGE_1' => 'L\'area di parcheggio riserverà tutte le estensioni tra ',
+          'T_PARKING_LOT_W' => 'L\'Area di parcheggio riserverà tutte le estensioni tra',
+          'T_CALL_PARKING_EX' => 'Estensione Parcheggio chiamata',
+          'T_MODIFY_CALLPARK_EXTENSION' => 'Modifica estensioni di parcheggio chiamata',
+          'T_CREATE_CALLPARK_EXTENSION' => 'Crea estensione di parcheggio chiamata',
+          'T_MODIFY_EXTENSIO5' => 'Modifica estensione',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ],
+          'CBI_CONFLICTING_EXTENSI' => 'Estensioni in conflitto:',
+          'T_THROUGH' => 'attraverso'
+        };

@@ -1,0 +1,11 @@
+$VAR1 = {
+          'T_NBSPNBSPREC2' => 'Registra audio da estensione',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_THE_PHONE' => 'Il telefono all\'estensione',
+          'T__SHOULD_NOW_BE2' => 'non dovrebbe squillare.',
+          'T_PLEASE_ANSW' => 'Rispondere al telefono e seguire le istruzioni pronunciate. Una volta completata la registrazione del messaggio, cliccare sul pulsante "Fatto" qui sotto',
+          'T_DONE2' => 'fatto',
+          'T_EXAMPLE_SOU' => 'Contenuto audio esemplificativo'
+        };

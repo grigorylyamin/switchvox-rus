@@ -1,0 +1,38 @@
+##This file was auto generated##
+my $LANG =
+{
+T_OVERVIEW => 'Overview',
+T_OVERVIEW_DESC => q(
+<p>
+This action records a sound to a sound variable.  
+The sound variable can be used later on in the call 
+for actions such as playing or uploading.
+</p>
+<p>
+When a caller reaches a Record Sound action, Switchvox plays a beep
+and then begins recording. Recording stops when the caller presses
+the "#" key, hangs up, has recorded too much silence, or has
+reached the total minutes of recording time.
+</p>
+
+<br/>
+<br/>
+
+<table align=center>
+  <tr>
+    <td><b>Seconds of Silence</b> &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;
+    </td>
+    <td>The number of seconds of silence allowed before recording stops. 
+   </td>
+  </tr>
+  <tr>
+    <td><b>Total Minutes</b>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+    </td>
+
+    <td>The maximum number of minutes to record. 
+    </td>
+  </tr>
+</table>
+),
+
+};

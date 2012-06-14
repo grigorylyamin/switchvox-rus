@@ -1,0 +1,5 @@
+$VAR1 = {
+          'T_OPERATION' => 'Operación',
+          'T_STORE_RESULT_IN3' => 'Almacenar resultado en',
+          'T_ACTION_TYPE28' => 'Tipo de acción'
+        };

@@ -1,0 +1,11 @@
+$VAR1 = {
+          'T_NBSPFINAL' => 'Final rule',
+          '__INCLUDES' => [
+                            'incl_header',
+							'../common/incl_table'
+                          ],
+          'T_ADD_NEW_ACTION' => 'Create IVR Action',
+          'T_LISTEN_FOR_OPTI' => 'Listen for Options',
+          'T_BACK_TO_THE_IV' => 'Back to the IVR Editor',
+		  'T_MODIFY_ACTIONS' => 'Modify IVR Actions'
+        };

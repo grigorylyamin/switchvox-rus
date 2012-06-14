@@ -1,0 +1,12 @@
+$VAR1 = {
+          'T_CHOOSE_TE' => 'Seleccione una plantilla:',
+          'T_VIEW3' => 'Visualizar',
+          'T_VOICEMAIL_EMAIL2' => 'Plantilla de correo electrónico para el buzón de voz',
+          'T_TELL_ME_MORE_A3' => 'Más información sobre esto',
+          'T_TEMPLATE2' => 'Nombre de plantilla:',
+          'T_CREATE_NEW2' => 'Crear nuevo',
+          'T_CREATE_A_NEW_VO2' => 'Crear una nueva plantilla de correo electrónico para el buzón de voz',
+          'T_DELETE2' => 'Eliminar',
+          'T_MODIFY_EXISTING' => 'Modificar plantillas existentes',
+          'T_EDIT2' => 'Editar'
+        };

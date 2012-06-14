@@ -1,0 +1,22 @@
+$VAR1 = {
+          'T__USED_BY_THIS' => ', utilizada por esta acción, no se hace referencia a ella en ningún otro contexto. Si cambia el nombre de la variable de la acción a un nuevo nombre de variable, la variable antigua se eliminará del sistema y se creará una nueva variable con el nuevo nombre. Si cambia el nombre de la variable de esta acción a un nombre que ya exista en el sistema, la variable existente se utilizará en esta acción.',
+          'T__USED_BY_THIS3' => ', utilizada por esta acción, se hace referencia a ella en otros contextos. Si cambia el nombre de la variable, la variable antigua seguirá siendo utilizada por otras acciones y seguirá existiendo en el sistema. Cambiar este nombre de variable por un nombre de variable existente dará como resultado que la variable existente sea utilizada en esta acción.',
+          'T_WARNING16' => 'ADVERTENCIA',
+          'T_NOTE5' => 'NOTA',
+          'T_WHAT_DOES_THIS' => '¿Qué significa esto?',
+          'T_VARIABLE_NAME3' => 'Nombre de la variable',
+          'T_ORDER' => 'Orden',
+          'T__USED_BY_THIS4' => ', utilizadas por esta acción, se hace referencia a ellas en otros contextos. Si cambia los nombres de las variables, las variables antiguas seguirán siendo utilizadas por otras acciones y seguirán existiendo en el sistema. Cambiar estos nombres de variables por nombres de variables existentes dará como resultado que las variables existentes sean utilizadas en esta acción.',
+          'T_CLICK_TO_HIDE' => 'Haga clic para ocultar las opciones avanzadas',
+          'T_PLAY_VARIABLE' => 'Reproducir sonidos a partir de esta variable',
+          'T_CLICK_TO_SHOW' => 'Haga clic para mostrar las opciones avanzadas',
+          'T_THE_VARIABLES' => 'Las variables',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ],
+          'T_MODIFY' => 'Modificar',
+          'T_THE_VARIABLE' => 'La variable',
+          'T__USED_BY_THIS2' => ', utilizadas por esta acción, no se hace referencia a ellas en ningún otro contexto. Si cambia los nombres de las variables de la acción a nuevos nombres de variables, las variables antiguas se eliminarán del sistema y se crearán nuevas variables con los nuevos nombres. Si cambia los nombres de las variables de estas acciones por nombres que ya existen en el sistema, las variables existentes se utilizarán en esta acción.',
+          'T_ACTION3' => 'Acción',
+          'T_IVR_MENU' => 'Menú IVR'
+        };

@@ -1,0 +1,7 @@
+$VAR1 = {
+          'T_HANG_UP2' => 'Termina',
+          'T_PLAY_CONGESTION2' => 'Riproduci congestione',
+          'T_PLAY_BUSY_SIGNA2' => 'Emetti Segnale di occupato',
+          'T_SCREEN_CALL' => 'Filtra chiamata e se rifiutata',
+          'T_SEND_TO_VOICEMA4' => 'Invia a segreteria'
+        };

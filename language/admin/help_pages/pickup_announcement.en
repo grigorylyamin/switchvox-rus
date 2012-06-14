@@ -1,0 +1,12 @@
+$VAR1 = {
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ],
+          'T_PICKUP_ANNOUNCE' => 'Pickup Announcement',
+          'T_TO_USE_THE_LAN' => 'To use the language that has been set for this current call, select',
+          'T_USE_CALL_LANGUA' => 'Use call language',
+          'T_SELECT_A_LANGUA' => 'Select a language and a sound file to play when a queue member answers a queue call. After this sound is played, the queue member is connected to the caller. This sound lets the queue member know that the call is from a queue, and which queue. This is especially useful for people who answer for multiple queues.',
+          'T__IF_YOU_ARE_ON' => '. If you are only using one language in Switchvox, use this setting. To use a specific language for the pickup announcement for this queue, select that language.',
+          'T_THE_SOUNDFILE' => 'The sound-file dropdown automatically lists all of the sound files in the Sound Manager\\\'s Call Queue folder.'
+        };

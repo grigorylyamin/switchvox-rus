@@ -1,0 +1,16 @@
+$VAR1 = {
+          'T_ADVANCED_DEBUGGING_DESC' => 'Las sesiones de depuración avanzada de errores pueden resultar útiles para identificar el origen de un problema. No obstante, estas sesiones suponen una carga adicional para los recursos del sistema PBX. Le recomendamos que no utilice esta herramienta a menos que así se lo haya indicado un representante del servicio t‚cnico.',
+          'T_ADVANCED_ERROR' => 'Registros de errores avanzados',
+          'T_HERE2' => 'aquí',
+          'T_ERRLOG' => 'Registro de errores',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ],
+          'T_ADV_DEBUG' => 'Depuración de errores avanzada',
+          'T_NEW_IN_THE_ERROR' => 'En los registros de errores se graban y almacenan todos los errores de servidor del sistema telefónico por fecha. Los datos se clasifican en columnas de orden ajustable para facilitar la búsqueda de la información.',
+          'T_VIEW_AN_ERR' => 'Fecha de registro de errores avanzados',
+          'T_VIEW10' => 'Visualizar',
+          'T_TO_VIEW_THE' => 'para visualizar el',
+          'T_VISIT_ADV_DEBUG' => 'Ir a Depuración avanzada',
+          'T_IN_THE_ERROR' => 'En los registros de errores, todos los errores de servidor del sistema telefónico se graban y almacenan por fecha. Se devuelven como columnas ordenables para facilitar la búsqueda de la información. Por favor, haga clic'
+        };

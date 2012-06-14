@@ -1,0 +1,13 @@
+$VAR1 = {
+          'T_IN_ORDER_RING' => 'In Order - Ring each member in order, always starting with the first member in the list.',
+          'T_ROUND_ROBIN_T' => 'Round Robin - Take turns ringing each queue member.',
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ],
+          'T_RANDOM_RANDOM' => 'Random - Randomly ring one of the queue members.',
+          'T_FEWEST_CALLS' => 'Fewest Calls - Ring queue member with the fewest completed calls from this queue.',
+          'T_LEAST_RECENTLY' => 'Least Recently Called - Ring queue member which was least recently called by this queue',
+          'T_RING_ALL_RING' => 'Ring All - Ring all queue members simultaneously until one answers.',
+          'T_THE_DIFFERENT_R' => 'The different ringing strategies that you may choose from are as follows'
+        };

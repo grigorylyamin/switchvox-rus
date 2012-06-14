@@ -1,0 +1,11 @@
+$VAR1 = {
+          'T_NBSPNBSPREC2' => 'Record Sound From Extension',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_THE_PHONE' => 'The phone at extension',
+          'T__SHOULD_NOW_BE2' => 'should now be ringing.',
+          'T_PLEASE_ANSW' => 'Please answer the phone and follow the said instructions. When completed recording your message please click the "Done" button below',
+          'T_DONE2' => 'Done',
+          'T_EXAMPLE_SOU' => 'Example Sound Content'
+        };

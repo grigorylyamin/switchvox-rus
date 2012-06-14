@@ -1,0 +1,5 @@
+$VAR1 = {
+          'ONE_DO_NOT_REMOVE' => 'Do not remove.',
+          'T_HERE_ARE_THE_P' => 'Here are the params that were entered',
+          'T_TESTING' => 'TESTING'
+        };

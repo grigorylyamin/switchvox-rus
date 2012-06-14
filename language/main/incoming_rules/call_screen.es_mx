@@ -1,0 +1,7 @@
+$VAR1 = {
+          'T_PLAY_CONGESTION2' => 'Reproducir congestión',
+          'T_HANG_UP2' => 'Colgar',
+          'T_PLAY_BUSY_SIGNA2' => 'Reproducir señal de ocupado',
+          'T_SCREEN_CALL' => 'Filtrar llamada y, en caso de ser rechazada, ',
+          'T_SEND_TO_VOICEMA4' => 'Enviar al buzón de voz'
+        };

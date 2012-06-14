@@ -1,0 +1,12 @@
+$VAR1 = {
+          	'__INCLUDES' => [
+                            'incl_header',
+                          ],
+		  	'T_SAVE_EXTENSION' => 'Save Extension',
+		  	'T_MODIFY_DIRECTORY_EXTENSION' => 'Modify Directory Extension',
+		  	'T_CREATE_DIRECTORY_EXTENSION' => 'Create Directory Extension',
+		  	'T_EXTENSION' => 'Extension',
+			'T_FORWARD' => 'If a caller presses the "0" digit they will exit the directory and be forwarded to extension',
+			'T_SEARCH_BY' => 'Let callers search the directory by member\'s',
+			'T_DIRECTORY_MEMBERS_HEADER' => 'Directory Members',
+       };

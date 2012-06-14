@@ -1,0 +1,1 @@
+Object.extend(switchvox.lang._LANG.keys,{T_AUTO_BACKUP:["Impostazioni di backup automatico di registrazioni chiamata"],T_SAVE_SETTINGS:["Avvertimento di disconnessione"],TEST:["I have %s test.","I have %s tests."]});

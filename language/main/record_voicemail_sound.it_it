@@ -1,0 +1,13 @@
+$VAR1 = {
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_SOUND_NAME' => 'Nome audio',
+          'T_SOUND_SOURCE' => 'Sorgente audio',
+          'T_THIS_WILL' => 'L\'estensione riceverà la telefonata per la registrazione. Rispondere al telefono, seguire le istruzioni vocali, riagganciare, quindi cliccare sul pulsante "Fatto" nella pagina successiva. L\'audio verrà salvato.',
+          'T_RECORD_OVER_PHO' => 'Registra mediante telefono',
+          'T_ONLY_WAV_OR_GSM' => 'Sono supportati solo file wav o gsm',
+          'T_CREATE_NEW_SOUN' => 'Crea nuovo audio',
+          'T_EXTENSION_TO_RI' => 'Estensione a cui telefonare',
+          'T_UPLOAD_FILE' => 'Carica file'
+        };

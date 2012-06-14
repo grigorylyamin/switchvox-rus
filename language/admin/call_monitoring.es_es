@@ -1,0 +1,11 @@
+$VAR1 = {
+          'T_HANGUP_CALL' => 'Colgar',
+          'T_YES_HANGUP' => 'Sí, colgar',
+          'T_PAGE_HEAD_CURRENT_CALLS' => 'Control de llamadas actuales',
+          '__INCLUDES' => [
+                            'incl_header',
+                            '../common/incl_dhtml_window_popup'
+                          ],
+          'T_CANCEL' => 'Cancelar',
+          'T_ARE_YOU_SURE' => '¿Está seguro de que desea colgar esta llamada?'
+        };

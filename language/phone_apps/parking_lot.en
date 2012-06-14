@@ -1,0 +1,9 @@
+$VAR1 = {
+		'__INCLUDES' => [
+                            'incl_softkeys',
+                            'parkinglot_listings',
+							'incl_error_header',
+                          ],
+		'T_P_LOT' => 'Parking Lot',
+		'T_NO_PARKED' => 'There are no calls parked on the system.',
+};

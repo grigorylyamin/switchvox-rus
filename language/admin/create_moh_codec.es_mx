@@ -1,0 +1,13 @@
+$VAR1 = {
+          'T_INSTALL' => 'Instalar',
+          'T_UPLOAD_CODEC_PA' => 'Cargar paquete de códecs',
+          'T_AFTER_THE_DOW' => '. Una vez finalizada la descarga, puede añadir, cargar e instalar el archivo utilizando el formulario que aparece más abajo. Una vez instalado el reproductor, podrán cargarse archivos MP3 como canciones de Música en espera. Lamentamos los inconvenientes que esto pueda causarle.',
+          'T_OTHERWISE_ALLO' => 'permiso de algún tipo para la reproducción de archivos MP3 en su ubicación, puede descarar el reproductor adecuado haciendo clic',
+          'T_HERE' => 'aquí',
+          'T_UPLOAD_A_NEW_MU' => 'Cargar un nuevo códec de música en espera',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_THE_SYSTEM_SU' => 'Debido a restricciones en las licencias, el reproductor MP3 no puede incluirse en el Switchvox. Si ya cuenta con una licencia para usar el formato MP3 o tiene',
+          'T_NOTE' => 'NOTA'
+        };

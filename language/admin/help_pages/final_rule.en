@@ -1,0 +1,16 @@
+$VAR1 = {
+          'T_GENERALLY_YOU' => 'Generally you want to make all your rules final unless you have two
+outgoing rules that match the exact same pattern.  For Example, say
+you have two rules for Long Distance calls and you wanted to try the
+first, and if it failed, try the second.  In this case, the first rule
+would not be marked final.',
+          'T_RULES_THAT_ARE' => 'Rules that are not final may continue on, trying multiple pathways.',
+          'T_IE_IF_AN_ERRO' => 'IE: if an error occurs at a non-final rule, try another matching rule.',
+          'T_IE_IF_A_ERROR' => 'IE: if a error occurs at a final rule, the call fails.',
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ],
+          'T_WHEN_A_CALL_MAT' => 'When a call matches a final rule, the system will not attempt to match
+any other rules.'
+        };

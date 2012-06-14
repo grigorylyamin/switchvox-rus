@@ -1,0 +1,11 @@
+$VAR1 = {
+          'T_IT_MAY_BE_POSS' => 'Tal vez sea posible encontrar la nueva IP buscando la dirección MAC de este PBX en los registros de los servidores DHCP',
+          'T_THE_IP_ADDRESS' => 'La dirección IP de su PBX cambió.  La nueva ubicación es',
+          'T_ADMIN2' => '/admin',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_THE_PBX_WILL_OB' => 'El PBX obtendrá una nueva dirección IP del DHCP.',
+          'T_HTTPS' => 'https://',
+          'T_PLEASE_WAIT_A_M' => 'Por favor, espere unos instantes para que la red de reinicie antes de acceder a su PBX en su nueva ubicación'
+        };

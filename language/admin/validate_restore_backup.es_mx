@@ -1,0 +1,9 @@
+$VAR1 = {
+          'T_RESTORING_THIS' => 'Al restaurar esta copia de seguridad se perderán todas las llamadas actuales y se reiniciará su sistema telefónico. Todos los datos creados desde esta copia de seguridad se perderán, incluyendo las extensiones y el buzón de voz.',
+          'T_WARNING' => 'ADVERTENCIA',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_YES_RESTORE_BA' => 'Sí, restaurar copia de seguridad',
+          'T_ARE_YOU_SURE_YO' => '¿Está seguro de que desea restaurar esta copia de seguridad?'
+        };

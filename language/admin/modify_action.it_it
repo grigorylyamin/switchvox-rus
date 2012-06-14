@@ -1,0 +1,22 @@
+$VAR1 = {
+          'T_CLICK_TO_HIDE' => 'Clicca per nascondere opzioni avanzate',
+          'T_THE_VARIABLES' => 'Le variabili',
+          'T_CLICK_TO_SHOW' => 'Clicca per mostrare opzioni avanzate',
+          'T_PLAY_VARIABLE' => 'Riproduci audio da questa variabile',
+          'T__USED_BY_THIS' => ', utilizzate da questa azione non sono referenziate in nessun altro contesto. Se si modifica il nome della variabile di questa azione con un nuovo nome variabile, la vecchia variabile verrà rimossa dal sistema e una nuova variabile con il nuovo nome verrà creata. Se si modifica il nome della variabile di questa azione in un altro già esistente nel sistema, la variabile esistente verrà utilizzata in questa azione.',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ],
+          'T__USED_BY_THIS3' => ', utilizzate da questa azione non sono referenziate in altri contesti. Se si modifica il nome della variabile, la vecchia variabile continuerà ad essere utilizzata da altre azioni e ad esistere nel sistema. La modifica del nome della variabile in un nome variabile esistente comporterà l\'utilizzo di tale variabile esistente in questa azione.',
+          'T_WARNING16' => 'ATTENZIONE',
+          'T_NOTE5' => 'NOTA',
+          'T_MODIFY' => 'Modifica',
+          'T_THE_VARIABLE' => 'Le variabili',
+          'T__USED_BY_THIS2' => ', utilizzata da questa azione non sono referenziate in nessun altro contesto. Se si modificano i nomi della variabile di questa azione con nuovi nomi variabile, le vecchie variabili verrà rimosse dal sistema e le nuove variabili con nuovi nomi verranno create. Se si modificano i nomi della variabile di questa azione in nomi variabili già esistenti nel sistema, tali variabili esistenti verranno utilizzate in questa azione.',
+          'T_ACTION3' => 'Azione',
+          'T_WHAT_DOES_THIS' => 'Cosa significa?',
+          'T_VARIABLE_NAME3' => 'I nomi variabile',
+          'T_ORDER' => 'ordine',
+          'T__USED_BY_THIS4' => ', utilizzati da questa azione sono referenziati in altri contesti. Se si modificano i nomi delle variabili, le vecchie variabili continueranno ad essere utilizzate da altre azioni e ad esistere nel sistema. La modifica dei nomi delle variabili in nomi variabili esistenti comporterà l\'utilizzo di tali variabili esistenti in questa azione.',
+          'T_IVR_MENU' => 'Menu IVR'
+        };

@@ -1,0 +1,25 @@
+$VAR1 = {
+          'T_FETCHING_YOUR' => 'Recuperando su información de licencia.',
+          'T_LICENSE' => 'Recuento de licencias',
+          'T_TEST_YOUR_SETTI' => 'Comprobar su configuración',
+          'T_SUGARCRM_PROXY' => 'Proxy de SugarCRM',
+          'T_EXTENSIONS_WITH' => 'Extensiones con SugarCRM',
+          'T_THERE_WAS_AN_ER' => 'Se produjo un error.',
+          'T_EXTENSIONS_ALLO' => 'Extensiones que pueden utilizar SugarCRM',
+          'T_SAVE_SETTINGS4' => 'Guardar configuración',
+          'T_TEST_SETTINGS' => 'Comprobar configuración',
+          'T_USERNAME' => 'Nombre de usuario',
+          'T_PASSWORD3' => 'Contraseña',
+          'T_SUGARCRM' => 'Soporte para el plugin de SugarCRM',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_ALL_AVAILABLE_A3' => 'Todas las cuentas disponibles',
+          'T_SUGARCRM_SETTIN' => 'Configuración de SugarCRM',
+          'T_MISSING' => 'Ausentes',
+          'T_PHONE_NUMBE' => 'Número de teléfono que se consultará en la prueba',
+          'T_ADD_MEMBER' => 'Añadir miembro',
+          'T_REMOVE_MEMBER' => 'Eliminar miembro',
+          'T_SUGARCRM_URI' => 'URI de SugarCRM',
+          'T_EXTENSIONS' => 'extensiones'
+        };

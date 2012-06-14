@@ -1,0 +1,15 @@
+##This file was auto generated##
+my $LANG =
+{
+#view_agent_extensions
+VAGE_TD_ACCOUNT_ID       => "ID",
+VAGE_TD_EXT              => "Extension",
+VAGE_TD_EXT_TYPE         => "Extension Type",
+VAGE_TD_FIRST_NAME       => "First Name",
+VAGE_TD_LAST_NAME        => "Last Name",
+VAGE_TD_DATE_CREATED     => "Date Created",
+VAGE_TD_MOD_DEL			 => "Modify / Delete",
+VAGE_TB_MODIFY           => "Modify",
+VAGE_TB_DELETE           => "Delete",
+VAGE_TN_TABLE_TITLE      => "Agent Extensions",
+};

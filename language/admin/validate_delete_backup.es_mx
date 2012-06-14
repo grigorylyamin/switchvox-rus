@@ -1,0 +1,7 @@
+$VAR1 = {
+          'T_YES_DELETE_BAC' => 'Sí, eliminar copia de seguridad',
+          'T_ARE_YOU_SURE_YO26' => '¿Está seguro de que desea eliminar permanentemente la copia de seguridad creada el día',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ]
+        };

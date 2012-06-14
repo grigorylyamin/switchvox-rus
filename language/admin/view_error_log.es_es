@@ -1,0 +1,9 @@
+$VAR1 = {
+          'T_VIEW6' => 'Visualizar',
+          'T_VIEW_AN_ADV' => 'Fecha de registro de errores avanzados',
+          'T_THE_ADVANCED_ER' => 'Los registros avanzados de errores muestras notificaciones, información sobre depuración y errores que se producen en el sistema en el nivel inferior. La mayor parte de las entradas almacenadas en estos registros son benignas y no resultan útiles para identificar o diagnosticar problemas."  "El registro avanzado de errores está pensado únicamente para expertos en telefonía.',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ],
+          'T_ADVANCED_ERR_LOG' => 'Registros de errores avanzados'
+        };

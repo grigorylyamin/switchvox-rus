@@ -1,0 +1,6 @@
+$VAR1 = {
+          'T_ACTION_TYPE40' => 'Action Type',
+          'T_VARIABLE31' => '(Variable)',
+          'T_INTERRUPTIBLE3' => 'Interruptible',
+          'T_URL_OF_SOUND_TO' => 'URL of Sound To Play'
+        };

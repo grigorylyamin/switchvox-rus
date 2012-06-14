@@ -1,0 +1,15 @@
+$VAR1 = {
+          'T_VIEW_STATISTICS5' => 'Visualizza statistiche per l\'anno scorso',
+          'T_VIEW_STATISTICS4' => 'Visualizza statistiche per gli ultimi 30 giorni',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_THE_QUEUE_STATU' => 'La pagina stato della coda consente di visualizzare lo stato in tempo reale delle code di chiamata e visualizza le statistiche sia per le code che i membri della coda.',
+          'T_VIEW_STATISTICS3' => 'Visualizza statistiche per gli ultimi 7 giorni',
+          'T_VIEW_STATISTICS' => 'Visualizza statistiche di ieri',
+          'T_ABOUT_QUEUE_ST' => 'Informazioni su statistiche coda',
+          'T_THERE_ARE_NO_CA' => 'Non sono presenti code di chiamata da visualizzare. Per creare una coda di chiamata,',
+          'T_PAST_QUEUE_STAT' => 'Statistiche coda passate',
+          'T_VIEW_STATISTICS2' => 'Visualizza statistiche per gli ultimi 2 giorni',
+          'T_CLICK_HERE2' => 'Clicca qui'
+        };

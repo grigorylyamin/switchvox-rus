@@ -1,0 +1,14 @@
+$VAR1 = {
+          'T_LOGOUT' => 'Desconexión',
+          'T_WARNING22' => 'ADVERTENCIA',
+          '__INCLUDES' => [],
+          'T_HEAD_HELP' => 'ayuda',
+          'T_CONFLICTING_OUTGOING' => 'Reglas de llamadas salientes en conflicto',
+          'T_LOGOUT5' => 'desconexión',
+          'W_EXTENSION_RULE_CONFL' => 'Este número de extensión se ha creado correctamente, pero existe un conflicto con las Reglas de llamadas salientes indicadas a continuación. Si desea eliminar el conflicto, diríjase a <a href="/admin?cmd=outgoing_rules">Reglas de llamadas salientes</a> para cambiar estas reglas, o cree una nueva extensión con un número que no suponga un conflicto.',
+          'T_SYSTEM_IS_NOT_R2' => 'El PBX no está registrado. Haga clic en el botón para visualizar.',
+          'SM_CREATE_CALL_QUEUE' => 'Cola de llamadas creada correctamente.',
+          'T_SYSTEM_IS_OFFLI2' => 'El PBX está desconectado actualmente. Haga clic en el botón para visualizar.',
+          'T_WEAK_PASSWORD_A' => 'Alerta de contraseña débil',
+          'T_ERROR9' => 'ERROR'
+        };

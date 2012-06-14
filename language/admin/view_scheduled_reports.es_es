@@ -1,0 +1,12 @@
+$VAR1 = {
+          'SM_DELETED_SCHEDULED_REPORT' => 'El informe programado ha sido eliminado correctamente.',
+          'GET_DETAILED_REPORTS_EMAILED' => 'Obtenga informes detallados a través del correo electrónico de forma periódica para ayudarle a supervisar las estadísticas de llamadas de su empresa.',
+          'TELL_ME_MORE_ABOUT_SCHEDULING_REPORTS' => 'Más información acerca de cómo programar informes',
+          'SM_MODIFIED_SCHEDULED_REPORT' => 'El informe programado ha sido modificado correctamente.',
+          '__INCLUDES' => [
+                            'incl_header',
+                            '../common/incl_table',
+                          ],
+          'SM_CREATED_SCHEDULED_REPORT' => 'El informe programado ha sido creado correctamente.',
+          'CREATE_A_NEW_SCHEDULED_REPORT' => 'Crear un nuevo informe programado'
+        };

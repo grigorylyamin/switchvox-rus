@@ -1,0 +1,18 @@
+$VAR1 = {
+          'T_UPLOAD_FILE6' => 'Carica file',
+          'T_FOR_RECORDING' => 'per registrazione',
+          'T_CREATE_A_NEW_SO2' => 'Crea nuovanuovo audio estensione',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_WHAT_ARE_THE_EX2' => 'Quali sono le parole esatte',
+          'T_LANGUAGE' => 'Lingua',
+          'T_SOUND_DESCRIPTI' => 'Descrizione/Script audio',
+          'T_EXTENSION_TO_RI2' => 'Estensione a cui telefonare',
+          'T_OF_THIS_RECORDI2' => 'di questa registrazione?',
+          'T_SOUND_SOURCE3' => 'Sorgente audio',
+          'T_FOLDER' => 'Cartella',
+          'T_SOUND_NAME3' => 'Nome audio',
+          'T_RECORD_OVER_PHO3' => 'Registra mediante telefono',
+          'T_CREATE_SOUND' => 'Crea audio'
+        };

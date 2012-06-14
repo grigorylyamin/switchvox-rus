@@ -1,0 +1,8 @@
+$VAR1 = {
+          'T_YES_DELETE_FIL' => 'Yes, Delete Files',
+          'T_DEL_MOH_FILES' => 'Delete Music On Hold Files',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_ARE_YOU_SURE_YO19' => 'Are you sure you want to permanently delete the following music on hold files?'
+        };

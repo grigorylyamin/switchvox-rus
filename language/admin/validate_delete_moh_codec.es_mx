@@ -1,0 +1,9 @@
+$VAR1 = {
+          'T_YES_DELETE_COD' => 'Sí, eliminar códec',
+          'T_DELETING_THIS3' => 'Al eliminar este códec también se eliminarán todos los archivos admitidos por este códec.',
+          'T_ARE_YOU_SURE_YO18' => '¿Está seguro de que desea eliminar permanentemente este códec?',
+          'T_WARNING14' => 'ADVERTENCIA',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ]
+        };

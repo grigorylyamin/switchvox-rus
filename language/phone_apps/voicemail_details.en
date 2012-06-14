@@ -1,0 +1,15 @@
+$VAR1 = {
+		'T_NAME' => 'Name',
+		'T_VM_DETAILS' => 'Voicemail Details',
+		'T_NUM' => 'Number',
+		'T_DURATION' => 'Duration',
+		'T_DATE' => 'Date',
+		'T_TIME' => 'Time',
+		'T_PLAY' => 'Play',
+		'T_DELETE' => 'Delete',
+		'T_RECEIVED' => 'Received',
+		'__INCLUDES' => [
+                            'incl_softkeys',
+							'incl_error_header',
+                          ],
+};

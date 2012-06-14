@@ -1,0 +1,3 @@
+$VAR1 = {
+          'T_NOT_ALLOWED_MSG' => 'Questa estensione non dispone dei permessi per accere alla suite di applicazioni telefoniche. Contattare l\'amministratore di sistema se si ritiene che si tratti di un errore.'
+        };

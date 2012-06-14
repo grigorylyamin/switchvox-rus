@@ -1,0 +1,21 @@
+$VAR1 = {
+          'T_VIEW_SCHEDULES' => 'Visualizar programaciones',
+          'T_2008_11_10' => '11/10/2008',
+          'T_EACH_THURS' => 'Cada jueves',
+          'T_END_EVENT2' => 'Evento final',
+          'T_DELETE12' => 'Eliminar',
+          'T_MODIFY2' => 'Modificar',
+          'T_CINDYS' => 'Programación mensual de Cindy',
+          'T_NEVER_END' => 'No finalizar nunca',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_START_DATE14' => 'Fecha de inicio',
+          'T_END_AFTER10' => 'Finalizar después de 10 veces',
+          'T_REOCCUR_WK' => 'Repetición semanal y ejecutar cada jueves, a las 6:00 pm.',
+          'T_MODIFY_DEL' => 'Modiificar / Eliminar',
+          'T_RECURRENCE_PATT' => 'Patrón de repetición',
+          'T_SCHEDULE_NAME' => 'Nombre de la programación',
+          'T_REOCCU2' => 'Repetición mensual y ejecutar el último día de la semana del mes a las 10:00 pm.',
+          'T_CREATE_NEW_SCHE' => 'Crear nueva programación'
+        };

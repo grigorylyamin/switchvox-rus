@@ -1,0 +1,8 @@
+$VAR1 = {
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_YES_DELETE_VOI' => 'Sì, elimina modello e-mail segreteria',
+          'T_ARE_YOU_SURE_YO2' => 'Eliminare definitivamente questo modello di e-mail segreteria',
+          'T_NOTE_ANY_EMA' => 'Nota: Tutti gli indirizzi e-mail che utilizzano questo modello verranno riportati al modello di sistema \'Esterno\''
+        };

@@ -1,0 +1,27 @@
+$VAR1 = {
+          'T_ALL_AVAILABLE_A11' => 'Todas las cuentas disponibles',
+          'T_CREATE_DIRECTORY_EXTENSION' => 'Crear extensión de directorio',
+          'T_FORWARD' => 'Si un interlocutor pulsa el dígito "0", saldrá del directorio y será transferido a la extensión',
+          'T_DIGITS_IN_LENGT7' => 'dígitos de longitud',
+          'T_LET_CALLERS_SE' => 'Permitir a las personas que llaman que busquen en el directorio por miembro',
+          'T_DIRECTORY_MEMBE' => 'Miembros de directorio',
+          'T_DIRECTORY_EXT' => 'Extensión de directorio',
+          'T_EXTENSION' => 'Extensión',
+          'T_CREATE_EXTENSIO8' => 'Crear extensión',
+          'T_MODIFY_DIRECTORY_EXTENSION' => 'Modificar extensión de directorio',
+          'T_WHAT_DOES_THIS12' => '¿Qué significa esto?',
+          'T_THIS_EXTENSIO4' => 'Esta extensión puede marcarse desde un IVR.',
+          'T_SAVE_EXTENSION' => 'Guardar extensión',
+          'T_LAST_NAME4' => 'Apellido',
+          '__INCLUDES' => [
+                            'incl_header',
+                            'edition/incl_directory_javascript_show_groups',
+                            'edition/incl_directory_user_radio',
+                            'edition/incl_directory_user_groups'
+                          ],
+          'T_FIRST_NAME4' => 'Nombre',
+          'T_MODIFY_EXTENSIO8' => 'Modificar extensión',
+          'T_IF_A_CALLER' => 'Si un interlocutor pulsa el dígito "0", saldrá del directorio y será transferido a la extensión',
+          'T_SEARCH_BY' => 'Permitir a las personas que llaman buscar en el directorio por miembro',
+          'T_DIRECTORY_MEMBERS_HEADER' => 'Miembros de directorio'
+        };

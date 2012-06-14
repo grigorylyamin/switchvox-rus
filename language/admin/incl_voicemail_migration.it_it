@@ -1,0 +1,7 @@
+$VAR1 = {
+          'T_DURING_THIS_TIM' => 'Durante questo periodo, il PBX continuerà ad accettare nuove segreterie ma la segreteria esistente non sarà disponibile finché non sarà terminato il processo di migrazione nel sistema.',
+          'T_YOUR_VOICEMAIL' => 'Migrazione segreteria completata.',
+          'T_DETERMINING_TIM' => 'Determinazione tempo rimanente…',
+          'T_THE_SYSTEM_IS_C' => 'È ATTUALMENTE IN CORSO NEL SISTEMA LA MIGRAZIONE DELLA SEGRETERIA ESISTENTE A UN NUMERO FORMATO DI SEGRETERIA.',
+          'T_VOICEMAIL_MIGRA' => 'Progresso migrazione segreteria'
+        };

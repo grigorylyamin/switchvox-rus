@@ -1,0 +1,20 @@
+$VAR1 = {
+          'T_SEND_TO_VOICEMA' => 'Send to Voicemail- This rule will send unanswered calls to your voicemail box.',
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ],
+          'T_BE_VERY_CAREFU' => 'Be very careful with Queue Calls or All Calls.  Sending a queue call to voicemail will stop all phones from ringing and immediately send the caller to voicemail.  Similar behavior may occur with forwarding queue calls to IVRs or external numbers.',
+          'T_CALL_CASCADE_T' => 'Call Cascade- This rule allows you to send an unanswered call out to another extension or external phone (like your mobile phone). Be sure to add a "9", or any other necessary digits that you need to dial "out", to the beginning of the phone number if you are cascading to an external phone.  Call cascade allows that call to return to the next rule in the list, if that phone also remains unanswered. This means you can stack call cascade rules on top of each other in order to have your calls "follow you" to different phones, but collect all your voicemail in your extension\'s mailbox if you don\'t pick up any of the phones.',
+          'T_DIRECT_CALLS_A' => 'Direct Calls applies to calls that dial your extension directly, you should almost always select this option.',
+          'T_RULE_ORDERING' => 'Rule Ordering',
+          'T_QUEUE_CALLS_AP' => 'Queue Calls applies to calls that ring you through a queue, and All Calls applies to both direct and queue calls.',
+          'T_CALL_RULES_CON' => 'Call rules control what happens when this rule set is used.  Be sure to test your rules by calling your extension from another phone.',
+          'T_RING_ALL_THIS' => 'Ring All- This rule allows you to specify up to 3 additional extensions to ring at the same time.',
+          'T_CALL_FORWARD_T' => 'Call Forward- This rule will send unanswered calls to another extension, keep in mind that the extension that you forward callers to can be another phone, a call queue, or any other type of extension on the system. Once a call is forwarded to another extension, the unanswered call rules for that new extension will be obeyed.',
+          'T_DIRECT_QUEUE' => 'Direct, Queue, and All Calls',
+          'T_DRAG_AND_DROP' => 'Drag and drop rules to prioritize them appropriately.  Rules are executed from top to bottom.',
+          'T_NOTE' => 'Note',
+          'T_SECRET_CODE_TH' => 'Secret Code- This rule will not let any calls through unless the caller keys in a secret code.',
+          'T_TYPES_OF_RULES' => 'Types of Rules'
+        };

@@ -1,0 +1,6 @@
+$VAR1 = {
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_RUNNING_DIAGN' => 'Running diagnostics. This may take a few seconds, so please be patient and do not refresh this page.'
+        };

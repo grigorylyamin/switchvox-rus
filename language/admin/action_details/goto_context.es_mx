@@ -1,0 +1,5 @@
+$VAR1 = {
+          'T_ACTION_TYPE10' => 'Tipo de acción',
+          'T_GO_TO_IVR_MENU2' => 'Ir al menú IVR',
+          'T_IVR_MENU_ENTRY2' => 'Punto de entrada al menú IVR'
+        };

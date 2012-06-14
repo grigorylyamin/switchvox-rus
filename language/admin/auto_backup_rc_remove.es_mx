@@ -1,0 +1,9 @@
+$VAR1 = {
+          'T_GOTO_CALL_RECORD' => 'Ir a la página de configuración de grabación de llamadas.',
+          'T_ABW_DESC' => 'Este sistema cuenta con copias de seguridad automáticas programadas que previamente incluían las llamadas grabadas, pero que ya no están incluidas en el proceso de creación de copias de seguridad automáticas. Para continuar guardando copias de seguridad de las grabaciones de llamadas programadas, debe usar la Configuración de grabación de llamadas.',
+          'T_DISMISS_WARNING' => 'Dismiss Warning',
+          '__INCLUDES' => [
+                            'incl_header_nonav'
+                          ],
+          'T_AUTO_BACKUP_WARNING' => 'Automatic Backup Warning'
+        };

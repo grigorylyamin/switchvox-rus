@@ -1,0 +1,11 @@
+$VAR1 = {
+	'T_UNSUPPORTED_BROWSER' => 'Unsupported Browser',
+	'T_NOT_TESTED' => 'Your web browser is not officially supported by the PBX\'s web suite.',
+	'T_FOR_OPTIMAL' => 'For the best experience, we recommend using one of the following web browsers',
+	'T_CHROME' => 'Chrome version 8.0 or later on Windows.',
+	'T_SAFARI' => 'Safari version 5.0 or later on Windows or Mac.',
+	'T_FF' => 'Firefox version 3.5.X or later on Windows, Mac, or Linux.',
+	'T_IE' => 'Internet Explorer version 8.X on Windows.',
+	'T_GET_BROWSER' => 'Get Browser',
+	'T_PROCEED' => 'Proceed with this Browser'
+};

@@ -1,0 +1,6 @@
+$VAR1 = {
+          'T_CONTACTS_MATC' => 'Contacts matched for',
+          'T_EMAIL8' => 'Email',
+          'T_NAME7' => 'Name',
+          'T_PHONE2' => 'Phone'
+        };

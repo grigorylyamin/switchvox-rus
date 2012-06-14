@@ -1,0 +1,7 @@
+$VAR1 = {
+          'T_PAGE_INTRO' => 'If the owner of this external number has a chat account on a Jabber server, and you know his Jabber ID, you can enter it here. If there is a Jabber ID for the entry, the Jabber status is displayed in your Switchboard Phonebook entry.',
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ]
+        };

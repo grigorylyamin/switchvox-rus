@@ -1,0 +1,3 @@
+my $LANG = {
+SSES_PE_EXT_LENGTH		=> "Extension length may only be 3-6 digits in length.",
+};

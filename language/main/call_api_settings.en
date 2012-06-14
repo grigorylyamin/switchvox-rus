@@ -1,0 +1,13 @@
+$VAR1 = {
+          'T_DEFINE_HOW_THE' => 'Define how the call API will work with your account. Default values are ones the admin has setup globally for the system.',
+          'T_PREPEND_A_1_IF3' => 'Prepend a 1 if number is 10 digits in length',
+          'T_USE_THE_DEFAULT2' => 'Use the defaults defined by the Admin',
+          'T_NONBSPNBSP2' => 'No',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_DIGITS_TO_PREPE' => 'Digits to prepend if number is not an extension',
+          'T_YESNBSPNBSP2' => 'Yes',
+          'T_SAVE_SETTINGS3' => 'Save Settings',
+          'T_MORE_ABOUT_THE4' => 'More about the Call API Settings'
+        };

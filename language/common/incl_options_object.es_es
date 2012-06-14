@@ -1,0 +1,6 @@
+$VAR1 = {
+          'T_MISSING_MAPPING' => 'Falta el nombre del direccionamiento para esta tabla',
+          '__INCLUDES' => [
+                            'incl_options_object_style'
+                          ]
+        };

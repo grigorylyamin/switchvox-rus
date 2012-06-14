@@ -1,0 +1,13 @@
+$VAR1 = {
+          'T_VARIABLE_NAME4' => 'Nome variabile',
+          'T_ACTIONS_THAT_RE' => 'Azioni che fanno riferimento a questa variabile',
+          'T_IS_NOT_REFEREN' => 'Non è referenziato da nessun\'altra parte nel sistema. Quando questa azione viene rimossa anche questa variabile verrà rimossa dal sistema.',
+          'T_NOTE31' => 'NOTA',
+          'T_ORDER2' => 'ordine',
+          'T_IVR_MENU2' => 'Menu IVR',
+          'T_WARNING30' => 'ATTENZIONE',
+          'T_THE_VARIABLE5' => 'La variabile',
+          'T_THIS_ACTION_US' => 'Questa azione utilizza una variabile che viene referenziata da altre azioni. Di seguito viene fornito un elenco di altre azioni che fanno riferimento a questa variabile.',
+          'T_ACTION4' => 'Azione',
+          'T_ARGUMENTS' => 'Argomenti'
+        };

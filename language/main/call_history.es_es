@@ -1,0 +1,7 @@
+$VAR1 = {
+          'T_USER_TIP' => 'Consejo para usuario',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_THE_CALL_STATI' => 'La herramienta Estadísticas de llamada genera informes de uso de su actividad telefónica de tres modos diferentes: un informe básico para su visualización en línea, un informe que pueda importarse en Excel y un diagrama para analizarlo de un vistazo.'
+        };

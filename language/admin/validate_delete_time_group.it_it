@@ -1,0 +1,9 @@
+$VAR1 = {
+          'T_YES_DELETE_TIM2' => 'Sì, elimina intervallo di tempo',
+          'T_ARE_YOU_SURE_YO32' => 'Eliminare definitivamente questo intervallo di tempo',
+          'PAGE_TITLE_VAL_D_TF' => 'Elimina intervallo di tempo',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ],
+          'VDTG_PE_D' => 'ID gruppo mancante'
+        };

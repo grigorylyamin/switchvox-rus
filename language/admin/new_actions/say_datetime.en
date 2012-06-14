@@ -1,0 +1,21 @@
+$VAR1 = {
+          'T__OR8' => '- OR -',
+          'T_SAY_DATE_FROM_A' => 'Say date from a variable',
+          'T_YES14' => 'Yes',
+          'T_SAY_A_PREDEFINE' => 'Say a predefined date',
+          'T_YOU_MAY_LEAVE_T' => 'You may leave time blank to only say the date.',
+          '__INCLUDES' => [
+                            'new_actions/incl_button',
+							'../common/incl_calendar_header',
+							'new_actions/incl_tabletitle',
+							'new_actions/incl_missing_digit_variables'
+                          ],
+          'T_SAY_THE_CURRENT' => 'Say the current date and time when the call enters this action',
+          'T_VARIABLE_MUST_B' => 'Variable must be in epoch time.',
+          'T_PM3' => 'PM',
+          'T_AM3' => 'AM',
+          'T_AND_TIME' => 'and time',
+          'T_EXAMPLE5' => 'Example',
+          'T10' => 'If the date is "01/21/2003 7:40 P.M." using the selected date format it will be said like this',
+          'T_FORMAT_TO' => 'Format to Say the Date in'
+        };

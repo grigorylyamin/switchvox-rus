@@ -1,0 +1,1 @@
+Object.extend(switchvox.lang._LANG.keys,{T_SAVE_LANGUAGE:["Salva lingua"],T_MODIFY_LANGUAGE:["Modifica lingua"],T_CREATE_LANGUAGE:["Crea lingua"],T_LANGUAGE_INFO:["Informazioni lingua"],T_LANGUAGE_NAME:["Nome lingua"],TEST:["I have %s test.","I have %s tests."]});

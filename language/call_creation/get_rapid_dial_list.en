@@ -1,0 +1,10 @@
+$VAR1 = {
+          'T_CLICK_THE_LINK2' => 'Click the link below to log into the online user suite',
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ],
+          'T_WITH_NUMBER2' => 'with number',
+          'T_CURRENTLY_RINGI2' => 'Currently ringing extension',
+          'T_LOGIN2' => 'Login'
+        };

@@ -1,0 +1,7 @@
+$VAR1 = {
+          'T_ACTION_TYPE6' => 'Tipo de acción',
+          'T_SECONDS_IN_THE' => 'segundos en el último',
+          'T_LAST_EXTENSION' => 'Última extensión para hablar con la persona que llama durante al menos',
+          'T_STORE_RESULT_IN' => 'Almacenar resultado en',
+          'T_CHECK' => 'Comprobar'
+        };

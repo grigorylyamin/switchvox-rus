@@ -1,0 +1,11 @@
+$VAR1 = {
+          'T_OUPUT_TO_XLS_F3' => 'Risultato sottoforma di file .xls',
+          'T_MMDDYYYY12' => 'gg/mm/aaaa',
+          'T_TO_DATE5' => 'A data',
+          'T_USE_THIS_FORM_T2' => 'Utilizzare questo modulo per visualizzare lo storico chiamate di questa estensione in un intervallo di date.',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_VIEW_REPORT3' => 'Visualizza rapporto',
+          'T_FROM_DATE5' => 'Da data'
+        };

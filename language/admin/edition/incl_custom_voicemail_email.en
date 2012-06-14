@@ -1,0 +1,12 @@
+$VAR1 = {
+          'T_VIEW3' => 'View',
+          'T_CHOOSE_TE' => 'Choose Template:',
+          'T_VOICEMAIL_EMAIL2' => 'Voicemail Email Template',
+          'T_TELL_ME_MORE_A3' => 'Tell me more about this',
+          'T_TEMPLATE2' => 'Template Name:',
+          'T_CREATE_NEW2' => 'Create New',
+          'T_CREATE_A_NEW_VO2' => 'Create A New Voicemail Email Template',
+          'T_DELETE2' => 'Delete',
+          'T_EDIT2' => 'Edit',
+          'T_MODIFY_EXISTING' => 'Modify Existing Templates'
+        };

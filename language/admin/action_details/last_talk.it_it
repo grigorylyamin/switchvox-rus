@@ -1,0 +1,7 @@
+$VAR1 = {
+          'T_SECONDS_IN_THE' => 'Secondi nell\'ultimo',
+          'T_ACTION_TYPE6' => 'Tipo azione',
+          'T_STORE_RESULT_IN' => 'Archivia risultato in',
+          'T_LAST_EXTENSION' => 'Ultima estensione a parlare al chiamante per almeno',
+          'T_CHECK' => 'Verifica'
+        };

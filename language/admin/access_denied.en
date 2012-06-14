@@ -1,0 +1,7 @@
+$VAR1 = {
+          'T_YOU_DO_NOT_HAV2' => 'You do not have sufficient admin privileges to access the requested page or command ',
+          '__INCLUDES' => [
+                            'incl_err_header',
+                          ],
+          'T__PLEASE_CONTA' => '. Please contact your system administrator or Switchvox Support if you feel this is an error.'
+        };

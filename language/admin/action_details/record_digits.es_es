@@ -1,0 +1,5 @@
+$VAR1 = {
+          'T_ACTION_TYPE42' => 'Tipo de acción',
+          'T_BEEP' => 'Pitido',
+          'T_RECORDED_DIGITS2' => 'Nombre de variable de dígitos grabados'
+        };

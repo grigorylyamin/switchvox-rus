@@ -1,0 +1,10 @@
+$VAR1 = {
+          'T_YES_DELETE_EXT4' => 'Sí, eliminar extensión',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ],
+          'T_INTERCOM_EXTENS' => 'Extensión de intercomunicador',
+          'T_ARE_YOU_SURE_YO14' => '¿Está seguro de que desea eliminar permanentemente este',
+          'T_PERSONAL' => 'Personal',
+          'T_DEL_INTERCOM_EXT' => 'Eliminar extensión de intercomunicador'
+        };

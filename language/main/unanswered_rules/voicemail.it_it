@@ -1,0 +1,13 @@
+$VAR1 = {
+          'T_VM_AFTER' => 'dopo',
+          'T_VM_SEND' => 'Invia',
+          '__INCLUDES' => [
+                            'incl_ringcount_select'
+                          ],
+          'T_VM_DIRECT_CALLS' => 'Chiamate dirette',
+          'T_VM_RINGS_WHEN' => 'Squilla quando l\'ora è',
+          'T_VM_IMMED' => 'immediatamente',
+          'T_VM_TO_VOICEMAI' => 'A segreteria',
+          'T_VM_QUEUE_CALLS' => 'Chiamate in coda',
+          'T_VM_ALL_CALLS' => 'Tutte le chiamate'
+        };

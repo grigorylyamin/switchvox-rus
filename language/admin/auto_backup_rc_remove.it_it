@@ -1,0 +1,9 @@
+$VAR1 = {
+          'T_GOTO_CALL_RECORD' => 'Vai alla pagina Impostazioni registrazione chiamata.',
+          '__INCLUDES' => [
+                            'incl_header_nonav'
+                          ],
+          'T_DISMISS_WARNING' => 'Dismiss Warning',
+          'T_ABW_DESC' => 'Questo sistema ha programmati dei Backup Automatici che prima includevano le chiamate registrate, ma questi file non sono più inclusi nel processo di Backup Automatici.  Per continuare a salvare i backup delle registrazioni delle chiamate programmate, usare le Impostazioni di Registrazione Chiamata.',
+          'T_AUTO_BACKUP_WARNING' => 'Automatic Backup Warning'
+        };

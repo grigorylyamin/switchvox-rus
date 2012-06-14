@@ -1,0 +1,13 @@
+$VAR1 = {
+          'T_SYSTEM_REGISTRA' => 'Pagina registrazione sistema',
+          'T_UPLOAD_AND_REST' => 'Carica e ripristina backup',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_YOUR_CURRENT_P' => 'L\'attuale configurazione del PBX sarà sovrascritta con I contenuti del file di backup caricato. L\'applicazione del backup comporterà la messa fuori linea del PBX per qualche minuto mentre è in corso il caricamento e l\'elaborazione del backup. Tutte le chiamate nel sistema verranno  interrotte e tutti gli agenti verranno disconnessi dalle loro code.',
+          'T_YOUR_PHONE_SYST' => 'Il sistema di telefonia non è ancora staro registrato e non è possibile applicare backup a un sistema non registrato.',
+          'T_WARNING27' => 'ATTENZIONE',
+          'T__THANK_YOU' => '. Grazie.',
+          'T_TO_REGISTER_YOU' => 'Per registrare il PBX visitare',
+          'T_BACKUP_FILE' => 'File di backup'
+        };

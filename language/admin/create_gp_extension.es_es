@@ -1,0 +1,31 @@
+$VAR1 = {
+          'T_GROUP_PICKUP_ME' => 'Miembros de respuesta a grupo',
+          'T_GROUP_PICKUP_US' => 'Usuarios y administradores de respuesta a grupos',
+          'T_GROUP_THAT_IS_A' => 'Extensiones autorizadas para utilizar esta extensión de respuesta a grupo',
+          'T_CONSTRAINT' => 'dígitos de longitud',
+          'T_CREATE_GROUP2' => 'Crear nuevo grupo',
+          'T_NO_GROUPS_IN_TH' => 'Aún no se ha creado ningún grupo',
+          'T_CREATE_TITLE' => 'Crear extensión de respuesta a grupo',
+          'T_WHAT_IS_A_GROU' => '¿Qué es una extensión de respuesta a grupos?',
+          'T_MODIFY_EXTENSIO' => 'Modificar extensión',
+          'T_CREATE_EXTENSIO' => 'Crear extensión',
+          'T_GROUP_PICKUP_SE' => 'Configuración de respuesta a grupos',
+          '__INCLUDES' => [
+                            'incl_header',
+                            'js_list_movement',
+                            'edition/incl_intercom_javascript_show_groups',
+                            'edition/incl_intercom_auth_radio',
+                            'edition/incl_intercom_auth_groups',
+                            'edition/incl_intercom_user_radio',
+                            'edition/incl_intercom_user_groups',
+                            'edition/incl_intercom_javascript_show_groups'
+                          ],
+          'T_DGP' => 'Extensión de respuesta a grupo',
+          'T_GROUP_THAT_WILL' => 'Extensiones de las que se atenderán llamadas',
+          'T_MODIFY_TITLE' => 'Modificar extensión de respuesta a grupo',
+          'T_ADD_MEMBER' => 'Añadir miembro',
+          'T_ALL_AVAILABLE_A9' => 'Todas las cuentas disponibles',
+          'T_REMOVE_MEMBER' => 'Eliminar miembro',
+          'T_GROUP_PICKUP_AD' => 'Administradores de respuesta a grupo',
+          'T_CREATE_GROUP1' => 'Crear nuevo grupo'
+        };

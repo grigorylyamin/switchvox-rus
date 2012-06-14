@@ -1,0 +1,7 @@
+$VAR1 = {
+          'T_IF_CURRENT_TIM' => 'Si la hora actual está en el intervalo de tiempo',
+          'T_GO_TO_IVR_MENU4' => 'Ir al menú IVR',
+          'T_IVR_MENU_ENTRY4' => 'Punto de entrada al menú IVR',
+          'T_CONDITIONAL_CLA2' => 'Cláusula condicional',
+          'T_ACTION_TYPE20' => 'Tipo de acción'
+        };

@@ -1,0 +1,10 @@
+$VAR1 = {
+          'T_YOU_HAVE_BEEN_L' => 'Connessione alla suite web scaduta.',
+          'T_PLEASE_RELOGIN' => 'Si prega di effetturare l\'accesso alla suite web',
+          'T_USER_NAME' => 'Nome utente',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ],
+          'T_SIGN_IN' => 'Accedi',
+          'T_PASSWORD' => 'Password'
+        };

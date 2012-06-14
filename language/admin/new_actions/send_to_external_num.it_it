@@ -1,0 +1,16 @@
+$VAR1 = {
+          'T_RULE_NAME' => 'Nome regola',
+          'T__OR21' => '-O-',
+          '__INCLUDES' => [
+                            'new_actions/incl_button',
+                            'new_actions/incl_tabletitle',
+                            'new_actions/incl_missing_digit_variables'
+                          ],
+          'T_SELECT_A_VARIAB11' => 'Seleziona una variabile',
+          'T_PHONE_NUMBER3' => 'Numero di telefono',
+          'T_ALLOW3' => 'Consenti',
+          'T_EX_918555121' => 'es. 918005551212',
+          'T_DENY3' => 'Nega',
+          'T_OUTGOING_CALL_R2' => 'Regole di chiamanta in uscita per questo numero',
+          'T_NUMBER_TO_DIAL' => 'Numero da comporre'
+        };

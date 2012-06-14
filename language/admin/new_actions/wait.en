@@ -1,0 +1,8 @@
+$VAR1 = {
+          'T_WHAT_IS_AN_INT' => 'What is an interruptible wait?',
+          '__INCLUDES' => [
+                            'new_actions/incl_button'
+                          ],
+          'T_THIS_WAIT_IS_IN' => 'This wait is interruptible',
+          'T_WAIT_TIME_IN_S' => 'Wait time in seconds'
+        };

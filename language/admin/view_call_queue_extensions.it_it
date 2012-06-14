@@ -1,0 +1,13 @@
+$VAR1 = {
+          'VCQE_TD_MAX_QUEUE_LENGTH' => 'Lunghezza massima coda',
+          'VCQE_TD_DATE_CREATED' => 'Data creazione',
+          'VCQE_TD_MOD_DEL' => 'Modifica / Elimina',
+          'VCQE_TD_RING_STRATEGY' => 'Ringing Strategy',
+          'VCQE_TB_MODIFY' => 'Modifica',
+          'VCQE_TD_NAME' => 'Nome coda',
+          'VCQE_TD_EXT' => 'Estensione',
+          'VCQE_TB_DELETE' => 'Elimina',
+          'VCQE_TD_MEMBER_COUNT' => '# di membri',
+          'VCQE_TN_TABLE_TITLE' => 'Estensioni Coda di chiamata',
+          'VCQE_TD_ACCOUNT_ID' => 'ID'
+        };

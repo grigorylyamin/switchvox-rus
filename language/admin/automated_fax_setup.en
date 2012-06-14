@@ -1,0 +1,7 @@
+$VAR1 = {
+          'T_PLEASE_CLICK_ON2' => 'Please click on "Select Document" for the document you want to select for Automated Faxing',
+          '__INCLUDES' => [
+                            'incl_header',
+							'../common/incl_table'
+                          ]
+        };

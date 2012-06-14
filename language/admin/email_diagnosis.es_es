@@ -1,0 +1,16 @@
+$VAR1 = {
+          'T_WARNING' => 'Advertencia',
+          'T_EMAIL_WITH' => 'correo electrónico con',
+          'T_REREUN_DIAGNOSE' => 'Volver a ejecutar diagnóstico de correo electrónico',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ],
+          'T_RERUN_THIS_D' => 'Vuelva a ejecutar este diagnóstico después de haber solucionado el problema.',
+          'T_RERUN_EMAIL_DIA' => 'Volver a ejecutar diagnóstico de correo electrónico',
+          'T_E' => 'Introduzca una dirección de correo electrónico para realizar la comprobación',
+          'T_BACK_TO_SMTP_NOTIFICATIONS' => 'Volver a notificaciones SMTP',
+          'T_FAILED' => 'Fallo',
+          'T_NOT_TESTED' => 'No comprobado',
+          'T_EMAIL_DIAGNOSTI' => 'Diagnósticos de correo electrónico',
+          'T_PASSED' => 'Autorizado'
+        };

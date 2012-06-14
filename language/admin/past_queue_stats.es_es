@@ -1,0 +1,33 @@
+$VAR1 = {
+          'QS_TC_CURRENT_CALLS' => 'Llamadas actuales en espera',
+          'QS_TC_LARGEST_SIZE' => 'Longitud máxima de cola',
+          'QS_WAIT_TIME' => 'Tiempo de espera',
+          'QS_TC_TALKING_TO' => 'Hablando en estos momentos con',
+          'T_DATE_RANGE' => 'Intervalo de fechas',
+          'QS_TC_DUMPED_CALLS' => 'Llamadas volcadas',
+          'QS_ND_QUEUE_ENTRIES' => 'No hay ninguna llamada en espera en esta cola',
+          'QS_TC_EXT' => 'Extensión',
+          'PQS_TT_QUEUE_STATS' => 'Estadísticas de colas',
+          'QS_TC_CALLER_ID' => 'ID de la persona que llama',
+          'QS_TC_COMPLETED_CALLS' => 'Llamadas completadas',
+          'PQS_TT_QUEUE_MEMBERS' => 'Estadísticas de miembros',
+          'QS_TC_LOGGED_IN' => 'Hora de la última conexión',
+          'QS_TC_CURRENT_POS' => 'Posición actual en la cola',
+          'QS_TC_LONGEST_HOLD' => 'Tiempo de espera más largo',
+          'QS_TXT_QUEUE_NAME' => 'Nombre de la cola',
+          'QS_TC_LAST_CALL' => 'Hora de la última llamada',
+          'QS_TC_ABANDONDED_CALLS' => 'Llamadas abandonadas',
+          'T_THRU' => 'hasta',
+          'QS_TC_REDIRECTED_CALLS' => 'Llamadas redirigidas',
+          'QS_TT_QUEUE_ENTRIES' => 'Llamadas en espera actuales en %1',
+          'QS_ND_QUEUE_MEMBERS' => 'No hay ningún miembro en esta cola.',
+          '__INCLUDES' => [
+                            '../common/incl_help_header',
+                            '../common/incl_help_footer'
+                          ],
+          'T_QUEUE' => 'Cola',
+          'QS_TC_STATUS' => 'Estado de los miembros',
+          'QS_TC_TOTAL_CALLS' => 'Llamadas atendidas',
+          'QS_ND_QUEUE_STATS' => 'No hay ningún miembro en esta cola.',
+          'QS_TC_NAME' => 'Nombre'
+        };

@@ -1,0 +1,7 @@
+$VAR1 = {
+          '__INCLUDES' => [
+                            'incl_header'
+                          ],
+          'T_ARE_YOU_SURE_YO17' => 'Eliminare definitivamente questo codice funzione monitoraggio chiamata',
+          'T_YES_DELETE_EXT6' => 'Sì, elimina codice funzione'
+        };

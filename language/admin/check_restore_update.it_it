@@ -1,0 +1,7 @@
+$VAR1 = {
+          'T_UPDATE_TITLE' => 'Sistema di registrazione',
+          'T_YOUR_UPDAT' => 'L\'aggiornamento è in corso di elaborazione. Attendere e non aggiornare la pagina.',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ]
+        };

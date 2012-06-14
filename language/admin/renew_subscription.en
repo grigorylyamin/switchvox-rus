@@ -1,0 +1,6 @@
+$VAR1 = {
+		'T_RENEW_SUBS' => 'Subscription Renewal',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ]
+        };

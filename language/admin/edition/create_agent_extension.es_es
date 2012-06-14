@@ -1,0 +1,6 @@
+$VAR1 = {
+          'T_DIGITS_IN_LENGT' => 'dígitos de longitud',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ]
+        };

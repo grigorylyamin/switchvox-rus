@@ -1,0 +1,10 @@
+$VAR1 = {
+          'T_DELETING_THIS5' => 'Eliminar este idioma también eliminará de forma permanente todos los sonidos contenidos en él y hará que cualquier acción de IVR que utilice este idioma deje de trabajar.',
+          'T_WARNING28' => 'ADVERTENCIA',
+          'T_YES_DELETE_LAN' => 'Sí, eliminar idioma',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ],
+          'T_DELETE_SL' => 'Eliminar idioma',
+          'T_ARE_YOU_SURE_YO34' => '¿Está seguro de que desea eliminar permanentemente este idioma?'
+        };

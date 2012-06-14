@@ -1,0 +1,6 @@
+$VAR1 = {
+          'T_MORE_ABOUT_THE3' => 'Más información acerca de la configuración de API de llamadas',
+          'T_DIGITS' => 'Dígitos para anteponer si el número no es una extensión',
+          'T_PREPEND_A_1_IF2' => 'Anteponga un 1 si el número tiene 10 dígitos',
+          'T_CALL_API_SETTIN2' => 'Configuración de la API de llamadas'
+        };

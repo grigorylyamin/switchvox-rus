@@ -1,0 +1,14 @@
+$VAR1 = {
+          'T_PAGE_INTRO' => '
+When you make changes to your Phonebook, those changes are not automatically
+made on your phone. To sync your Phonebook with your phone, click the Reboot
+Phone button. 
+<br/><br/>
+Rebooting your phone takes a few minutes, and you will not be able to make or
+receive calls while it is rebooting. 
+',
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ]
+        };

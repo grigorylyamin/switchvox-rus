@@ -1,0 +1,13 @@
+$VAR1 = {
+          'T_SAVE4' => 'Guardar',
+          'T_A_WAV_FILE_WILL2' => 'Se adjuntará un archivo WAV a su mensaje de correo electrónico si selecciona "Sí".',
+          'T_NO2' => 'No',
+          'T_MODIFY_VOICEMAI2' => 'Modificar direccionamiento de plantilla de correo electrónico de buzón de voz',
+          'T_ATTACH_THE_VOIC2' => '¿Adjuntar el mensaje de buzón de voz a la notificación?',
+          'T_TEMPLATE5' => 'Plantilla',
+          'T_YES2' => 'Sí',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_EMAIL7' => 'Correo electrónico'
+        };

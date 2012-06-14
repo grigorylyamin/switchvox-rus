@@ -1,0 +1,21 @@
+$VAR1 = {
+          'T_REOCCU2' => 'Reoccur monthly and run on the last weekday of the month at 10:00 pm.',
+          'T_VIEW_SCHEDULES' => 'View Schedules',
+          'T_MODIFY_DEL' => 'Modify / Delete',
+          'T_END_EVENT2' => 'End Event',
+          'T_END_AFTER10' => 'End After 10 Occurences',
+          'T_DELETE12' => 'Delete',
+          'T_REOCCUR_WK' => 'Reoccur weekly and run every Thursday at 6:00 pm.',
+          'T_NEVER_END' => 'Never End',
+          'T_MODIFY2' => 'Modify',
+          'T_EACH_THURS' => 'Each Thursday',
+          'T_CINDYS' => 'Cindy\'s Monthly Schedule',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_START_DATE14' => 'Start Date',
+          'T_RECURRENCE_PATT' => 'Recurrence Pattern',
+          'T_SCHEDULE_NAME' => 'Schedule Name',
+          'T_2008_11_10' => '11/10/2008',
+          'T_CREATE_NEW_SCHE' => 'Create New Schedule'
+        };

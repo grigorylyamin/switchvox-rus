@@ -1,0 +1,8 @@
+$VAR1 = {
+          'T_WITHOUT_AT_LEAS' => 'Sin al menos una extensión de buzón de voz, los usuarios no podrán comprobar su buzón de voz.',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_YES_DELETE_EXT' => 'Sí, eliminar extensión',
+          'T_ARE_YOU_SURE_YO' => '¿Está seguro de que desea eliminar permanentemente la extensión de acceso al buzón de voz? '
+        };

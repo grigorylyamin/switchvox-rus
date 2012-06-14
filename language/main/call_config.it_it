@@ -1,0 +1,7 @@
+$VAR1 = {
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_SET_UP_YOUR_PH' => 'Impostare la rubrica per rendere più semplice chiamare le persone che si ha più necessità di contattare. Inoltre, si potrà vedere chi dell\'elenco è al telefono quando si utilizza Switchboard- opzione comoda quando non si vuole interromperli.',
+          'T_USER_TIP4' => 'Suggerimento utente'
+        };

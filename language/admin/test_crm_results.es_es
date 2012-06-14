@@ -1,0 +1,10 @@
+$VAR1 = {
+          'T_NOT_TESTED2' => 'No comprobado',
+          'T_WARNING10' => 'Advertencia',
+          '__INCLUDES' => [
+                            '../common/incl_help_header',
+                            '../common/incl_help_footer'
+                          ],
+          'T_FAILED2' => 'Fallo',
+          'T_PASSED2' => 'Autorizado'
+        };

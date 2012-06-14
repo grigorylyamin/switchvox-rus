@@ -1,0 +1,12 @@
+$VAR1 = {
+          'TELL_ME_MORE_ABOUT_SCHEDULING_REPORTS' => 'Tell me more about Scheduling Reports',
+          'GET_DETAILED_REPORTS_EMAILED' => 'Get detailed reports emailed to you on a recurring basis to help monitor your company\'s call statistics.',
+          'SM_DELETED_SCHEDULED_REPORT' => 'Successfully deleted scheduled report.',
+          '__INCLUDES' => [
+                            'incl_header',
+							'../common/incl_table',
+                          ],
+          'SM_MODIFIED_SCHEDULED_REPORT' => 'Successfully modified scheduled report.',
+          'CREATE_A_NEW_SCHEDULED_REPORT' => 'Create a new Scheduled Report',
+          'SM_CREATED_SCHEDULED_REPORT' => 'Successfully created scheduled report.'
+        };

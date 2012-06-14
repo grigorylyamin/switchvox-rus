@@ -1,0 +1,15 @@
+$VAR1 = {
+          'T_SIGN_IN' => 'Suscripción',
+          '__INCLUDES' => [],
+          'UJX_EXTENSIONS_MAY' => 'La extensión sólo debe contener dígitos válidos',
+          'T_LOG_IN' => 'Conexión',
+          'T_PASSWORD' => 'Contraseña',
+          'OAK_YOU_ARE_NOT_ALLOWED' => 'No tiene permiso para acceder a la administración web.',
+          'T_PLEASE_LOG_IN_T' => 'Por favor, conéctese para utilizar el paquete de herramientas',
+          'T_USER_LOGIN' => 'Acceso del usuario',
+          'T_EXTENSION' => 'Extensión',
+          'T_INVALID_USERNAME_PASSWORD' => 'Contraseña o número de extensión no válido',
+          'SHI_DUE_TO_FAILED_LOGIN' => 'No puede acceder más a esta página, debido a que se han registrado demasiados intentos de conexión sin éxito. Para restablecer plenamente el acceso, póngase en contacto con su administrador de Switchvox.',
+          'T_USERNAME_PASSWORD_INCORRECT' => 'Número de extensión o contraseña incorrectos',
+          'T_EXTENSION_LOGIN' => 'Acceso del usurario'
+        };

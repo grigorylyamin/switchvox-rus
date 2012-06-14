@@ -1,0 +1,8 @@
+$VAR1 = {
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_ARE_YOU_SURE_YO2' => 'Are you sure you want to permanently delete the voicemail email template',
+          'T_YES_DELETE_VOI' => 'Yes, Delete Voicemail Email Template',
+          'T_NOTE_ANY_EMA' => 'Note: Any email addresses using this template will be reverted back to the \'External\' system template.'
+        };

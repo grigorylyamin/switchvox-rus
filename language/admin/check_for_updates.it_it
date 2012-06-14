@@ -1,0 +1,15 @@
+$VAR1 = {
+          'T_UPLOAD' => 'carica',
+          'T_WARNING' => 'ATTENZIONE',
+          'T_APPLY_THIS_UPDA' => 'Applica l\'aggiornamento',
+          'T_MORE_INFO' => 'Ulteriori informazioni…',
+          'T_CHECK_ERR' => 'Si è verificato un errore durante la ricerca di aggiornamenti.  Assicurarsi che il PBX sia connesso a Internet.',
+          'T_UPDATING_YOUR' => 'L\'aggiornamento del sistema comporterà il riavvio del software automatico del sistema di telefonia. Tutte le connessioni telefoniche attuali verranno interrotte e tutti gli agenti connessi verranno disconnessi dalle rispettive code.',
+          'T_NO_UPDATES_JACK_666' => 'Nessun aggiornamento disponibile per il sistema.',
+          'T_OBSOLETE_UPDATE' => 'Aggiornamenti obsoleti',
+          'T_APPLY' => 'Applica',
+          'T_ERROR11' => 'ERRORE',
+          'T_UPDATE' => 'Aggiorna',
+          'T_UPLOAD_UPDATE_F' => 'Carica file aggiornamento',
+          'T_DESCRIPTION7' => 'Descrizione'
+        };

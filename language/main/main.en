@@ -1,0 +1,7 @@
+$VAR1 = {
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_USER_TIP3' => 'Tip',
+          'T_USE_THESE_TOOL2' => 'This web suite lets you customize the features of your extension. If you need help, click on one of the help icons available throughout these pages.'
+        };

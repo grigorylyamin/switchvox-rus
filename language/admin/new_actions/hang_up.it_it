@@ -1,0 +1,6 @@
+$VAR1 = {
+          'T_THIS_ACTION_DOE' => 'Questa azionne non ha opzioni da modificare. Per continuare, clicca sul pulsante qui sotto.',
+          '__INCLUDES' => [
+                            'new_actions/incl_button'
+                          ]
+        };

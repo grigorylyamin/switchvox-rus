@@ -1,0 +1,27 @@
+$VAR1 = {
+          'T_ALL_AVAILABLE_A11' => 'Tutti gli account disponibili',
+          'T_DIGITS_IN_LENGT7' => 'Cifre in lunghezza',
+          'T_LET_CALLERS_SE' => 'Consenti ai chiamanti di eseguire ricerche nella directory per membro',
+          'T_DIRECTORY_MEMBE' => 'Membri Directory',
+          'T_FORWARD' => 'Se un chiamante digita la cifra "0", uscirà dalla directory e verrà inoltrato all\'estensione',
+          'T_CREATE_DIRECTORY_EXTENSION' => 'Crea estensione directory',
+          'T_DIRECTORY_EXT' => 'Estensione Directory',
+          'T_EXTENSION' => 'Estensione',
+          'T_CREATE_EXTENSIO8' => 'Crea estensione',
+          'T_MODIFY_DIRECTORY_EXTENSION' => 'Modifica estensione directory',
+          'T_WHAT_DOES_THIS12' => 'Cosa significa?',
+          'T_THIS_EXTENSIO4' => 'Questa estensione può essere composta da un IVR.',
+          'T_SAVE_EXTENSION' => 'Salva estensione',
+          '__INCLUDES' => [
+                            'incl_header',
+                            'edition/incl_directory_javascript_show_groups',
+                            'edition/incl_directory_user_radio',
+                            'edition/incl_directory_user_groups'
+                          ],
+          'T_LAST_NAME4' => 'Cognome',
+          'T_FIRST_NAME4' => 'Nome',
+          'T_MODIFY_EXTENSIO8' => 'Modifica estensione',
+          'T_IF_A_CALLER' => 'Se un chiamante preme la cifra "0", uscirà dalla directory e verrà inoltrato all\'estensione.',
+          'T_SEARCH_BY' => 'Consenti ai chiamanti di eseguire ricerche nella directory per membro',
+          'T_DIRECTORY_MEMBERS_HEADER' => 'Membri directory'
+        };

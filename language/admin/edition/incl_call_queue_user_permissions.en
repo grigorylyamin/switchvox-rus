@@ -1,0 +1,9 @@
+$VAR1 = {
+          'T_CLICK_TO_SHOW_U' => 'Click to Show User Permission Settings',
+          '__INCLUDES' => [
+                            '../common/incl_options_object'
+                          ],
+          'T_PERMISSIONS' => 'Permissions Levels for Queue Users',
+          'T_WHAT_IS_THIS_U' => 'What is this used for?',
+          'T_CLICK_TO_HIDE_U' => 'Click to Hide User Permission Settings'
+        };

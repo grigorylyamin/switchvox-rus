@@ -1,0 +1,13 @@
+$VAR1 = {
+          'T_BACK_TO_MANAGE' => 'Back to Manage Extensions',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_TO_CHECK_FOR_A' => 'To check for a registered SIP phone, click on the button below to go to the "System Status"',
+          'T_YOUR_NEW_EXTEN' => 'Your new extension will not work until there is a SIP phone or ATA registered for that extension.',
+		  'SM_CREATE_PHONE_EXT' => 'Successfully created phone extension.',
+          'T_GO_TO_SYSTEM_ST' => 'Go to System Status',
+          'T_TOOL' => 'tool.',
+          'T_DONT_REMIND_ME' => 'Don\'t remind me about this again.',
+          'T_NOTE' => 'NOTE'
+        };

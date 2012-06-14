@@ -1,0 +1,13 @@
+$VAR1 = {
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ],
+          'T_POLYCOM_PHONES' => 'Polycom phones with SIP Applications prior to 2.2.2 do not support
+DHCP INFORM. In order to configure these older phones, the PBX must be
+more aggresive, usurping your network\\\'s DHCP server.  Once the phone
+is upgraded, the PBX returns to normal behavior.  It\\\'s probably safe
+to leave this option enabled, but if your DHCP server reacts poorly
+when older phones are configured, disabling this option might help.',
+          'T_DHCP_SNIPING' => 'DHCP Sniping'
+        };

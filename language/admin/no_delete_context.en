@@ -1,0 +1,10 @@
+$VAR1 = {
+		  'PT_DELETE_IVR_MENU_PROHIBITED' => 'Delete IVR Menu Prohibited',
+          'T_YOU_CANNOT_DELE2' => 'You cannot delete this IVR Menu yet because it is still in use somewhere in your system.',
+          'T__SIGNIFIES_TH6' => ' Signifies the current IVR Menu you are deleting',
+          '__INCLUDES' => [
+                            'incl_header',
+							'../common/incl_table'
+                          ],
+          'T_PLEASE_SEE2' => 'Please see the list below of where this IVR Menu is still in use and remove them. Once removed, you will be allowed to remove this IVR Menu.'
+        };

@@ -1,0 +1,8 @@
+$VAR1 = {
+          '__INCLUDES' => [
+                            'incl_header',
+                            'edition/incl_select_call_recording_account',
+                          ],
+          'T_CLICK_TO_SHOW_F' => 'Click to show filter options',
+          'T_CLICK_TO_HIDE_F' => 'Click to hide filter options',
+        };

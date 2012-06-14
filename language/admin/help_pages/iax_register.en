@@ -1,0 +1,15 @@
+$VAR1 = {
+          'T_IN_THIS_OPTION' => 'In this option, neither hosts register.  If you use this setting,
+make sure that both hosts are on static ip addresses.',
+          'T_THIS_IS_THE_DE3' => 'This is the default setting where this PBX sends registration to the remote host',
+          'T_THIS_SETTING_CO' => 'This setting controls registration between your PBX and the remote
+host. There are three options for this',
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ],
+          'T_PEER2' => 'Peer',
+          'T_PROVIDER2' => 'Provider',
+          'T_CLIENT' => 'Client',
+          'T_IF_THE_REMOTE' => 'If the remote host is a client, it will send registration requests to this PBX'
+        };

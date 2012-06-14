@@ -1,0 +1,8 @@
+$VAR1 = {
+          'T__OR15' => '-O-',
+          '__INCLUDES' => [
+                            'incl_button',
+                            'incl_missing_digit_variables'
+                          ],
+          'T_DIALED_NUMBER' => 'DIALED_NUMBER'
+        };

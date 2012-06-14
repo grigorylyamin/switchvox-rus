@@ -1,0 +1,8 @@
+$VAR1 = {
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_YES_DELETE_EXT' => 'Sì, elimina gruppo estensione',
+          'T_CURRENT_MEMBE' => 'Membri attuali di questo gruppo',
+          'T_ARE_YOU_SURE_YO' => 'Eliminare definitivamente questo gruppo di estensioni'
+        };

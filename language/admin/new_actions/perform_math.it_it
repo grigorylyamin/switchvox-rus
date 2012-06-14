@@ -1,0 +1,10 @@
+$VAR1 = {
+          'T_CHOOSE_THE_V' => 'Scegli le variabili per i propri operandi e l\'operazione desiderata',
+          '__INCLUDES' => [
+                            'incl_back_button',
+                            'incl_button',
+                            'incl_tabletitle',
+                            'incl_missing_digit_variables'
+                          ],
+          'T_VARIABLE_NAME_F4' => 'Nome variabile per risultato'
+        };

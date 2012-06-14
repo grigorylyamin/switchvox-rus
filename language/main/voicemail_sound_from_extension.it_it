@@ -1,0 +1,10 @@
+$VAR1 = {
+          'T_PLEASE_ANSWER' => 'Rispondere al telefono e seguire le istruzioni pronunciate. Una volta completata la registrazione del messaggio cliccare sul pulsante "fatto" button sotto, l\'audio verrà salvato correttamente.',
+          'T_THE_PHONE_AT_E' => 'Il telefono all\'estensione',
+          'T__SHOULD_NOW_BE' => ' non dovrebbe squillare.',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_DONE' => 'fatto',
+          'T_REC' => 'Registra audio da estensione'
+        };

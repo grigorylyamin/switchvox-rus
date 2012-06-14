@@ -1,0 +1,7 @@
+$VAR1 = {
+          '__INCLUDES' => [
+                            'incl_header'
+                          ],
+          'T_USER_TIP3' => 'Consejo',
+          'T_USE_THESE_TOOL2' => 'Este paquete web permite personalizar las funciones de su extensión. Si necesita ayuda, haga clic en uno de los iconos de ayuda disponibles a lo largo de estas páginas.'
+        };

@@ -1,0 +1,7 @@
+$VAR1 = {
+          'T_ALL_OF_THE_ADM' => 'This web suite lets you administer all of the functionality of your PBX. If you need help, click on one of the help icons available throughout these pages.',
+          'T_USER_TIP' => 'Tip',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ]
+        };

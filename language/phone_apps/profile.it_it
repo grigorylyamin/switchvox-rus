@@ -1,0 +1,8 @@
+$VAR1 = {
+          'T_PROFILE_TITLE' => 'Profilo chiamata',
+          '__INCLUDES' => [
+                            'incl_profile_softkeys',
+                            'incl_profile_extinfo',
+                            'incl_error_header'
+                          ]
+        };

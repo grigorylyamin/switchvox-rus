@@ -1,0 +1,10 @@
+$VAR1 = {
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ],
+          'T_PLAY_SOUND_FROM' => 'Play sound from this variable',
+	  'T_THIS_LETS_YOU_S' => 'This lets you select variables that have been previously created using the \'Set Variable\' action.
+Make sure that the value in the variable is a sound ID from the Sound Manager, or this
+action will not be able to play the sound.'
+        };

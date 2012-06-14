@@ -1,0 +1,17 @@
+$VAR1 = {
+          'T_CURRENTLY_RINGI' => 'En estos momentos, está sonando la extensión',
+          'T_WITH_NUMBER' => 'con el número',
+          '__INCLUDES' => [
+                            '../common/incl_help_header',
+                            '../common/incl_help_footer'
+                          ],
+          'T_LOGIN' => 'Conexión',
+          'T_VARIABLE_NAME2' => 'Nombre de la variable',
+          'T__VALUE2' => ', Valor',
+          'T__STATUS_NOT_D' => ', Estado: no definido en su sistema',
+          'T_VARIABLES_ENTER' => 'Variables introducidas en la creación de la llamada',
+          'T__VALUE' => ', Valor',
+          'T_VARIABLE_NAME' => 'Nombre de la variable',
+          'T_CLICK_THE_LINK' => 'Haga clic en el enlace siguiente para conectarse al paquete de usuario:',
+          'T__STATUS_SUCCE' => ', Estado: Coincide correctamente en su sistema.'
+        };

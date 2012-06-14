@@ -1,0 +1,8 @@
+$VAR1 = {
+          'T_T38_ERROR_COR' => 'T38 Error Correction Code (ECC) Signal Redundancy.  This option specifies the number of redundant signal packets contained in a T38 signal frame.
+	The default value is 3.',
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ]
+        };

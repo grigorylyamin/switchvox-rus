@@ -1,0 +1,19 @@
+$VAR1 = {
+          'T_USE_THIS_FORM_T' => 'Use this form to view the call history of this extension for a range of dates.',
+          'T_ALL_CALLS' => 'All Calls',
+          'T_VIEW_REPORT2' => 'View Report',
+          'T_OUTGOING_CALLS' => 'Outgoing Calls',
+          'T_MMDDYYYY10' => 'dd/mm/yyyy',
+          '__INCLUDES' => [
+                            'incl_header',
+                            '../common/incl_table',
+                            '../common/incl_calendar_header',
+                          ],
+          'T_MMDDYYYY11' => 'dd/mm/yyyy',
+          'T_OUPUT_TO_XLS_F2' => 'Output to .xls file',
+          #'T_VIEW5' => 'View:',
+          'T_VIEW5' => 'View',
+          'T_INCOMING_CALLS' => 'Incoming Calls',
+          'T_TO_DATE4' => 'To Date',
+          'T_FROM_DATE4' => 'From Date'
+        };

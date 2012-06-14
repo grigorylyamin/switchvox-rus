@@ -1,0 +1,7 @@
+$VAR1 = {
+          'RP_REBOOT_ERROR' => 'Si è verificato un errore durante il reboot del telefono. Eseguire il reboot del telefono manualmente.',
+          'RP_REBOOT_SUCCESS' => 'Reboot telefono riuscito.',
+          'RP_NOT_YOUR_PHONE' => 'Il telefono che si sta tentando di riavviare non è registrato nell\'account.',
+          'RP_BRAND_NOT_SUPPORTED' => 'Su questa marca di telefono PBX non può esegure il reboot. Eseguire il reboot del telefono manualmente.',
+          'RP_REBOOT_EXTERNAL' => 'Il telefono è su una rete che non è locale nel PBX. Tentativo di reboot da parte di PBX, ma l\'esito non è noto. Potrebbe essere necessario eseguire il reboot manualmente.'
+        };

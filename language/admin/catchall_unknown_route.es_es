@@ -1,0 +1,10 @@
+$VAR1 = {
+          'T_FROM_ANY' => 'desde cualquier',
+          'T_CONGESTION' => 'Congestión',
+          'T_TO' => 'para',
+          'T_ROUTE_ALL_VOIP' => 'Enrutar todas las llamadas VOIP',
+          'T_EXTENSION' => 'Extensión',
+          'T_UNKNOWN_HOST' => 'host desconocido',
+          'T_BUSY_SIGNAL' => 'Señal de Ocupado',
+          'T_HANG_UP' => 'Colgar'
+        };

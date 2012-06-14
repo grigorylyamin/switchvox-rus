@@ -1,0 +1,17 @@
+$VAR1 = {
+          'T_SYSTEM_OUTGOI' => 'sistema. Las normas de llamadas salientes se generaron automáticamente utilizando este proveedor VOIP. Puede visualizar más información sobre estas reglas de llamadas salientes recién creadas en la',
+          'T_OUTGOING_CALLS' => 'Llamadas salientes',
+          'T_PAGE' => ' página.',
+          'T_SECTION_OF_THE' => 'sección del paquete de administración.',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ],
+          'T_GO_TO_SYSTEM_ST' => 'Ir a Estado del sistema',
+          'T_DONT_REMIND_ME' => 'No volver a recordarme esto.',
+          'T_REMIND_STATUS' => 'Se añadió un nuevo proveedor VOIP al sistema. Verifique que el sistema está correctamente conectado al proveedor visitando la ',
+          'T_SYSTEM_STATUS' => 'Estado de la conexión',
+          'T_A_NEW_VOIP_PRO' => 'Se acaba de añadir un nuevo proveedor VOIP al sistema, pero para realizar llamadas salientes utilizando este proveedor, las reglas de llamadas salientes deben configurarse primero en ',
+          'T_BACK_TO_VOIP_PR' => 'Volver a Proveedores VOIP',
+          'T_NOTE' => 'NOTA',
+          'T_THE_FIRST_VOIP' => 'El primer proveedor VOIP acaba de añadirse al'
+        };

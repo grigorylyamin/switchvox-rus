@@ -1,0 +1,12 @@
+$VAR1 = {
+          'TELL_ME_MORE_ABOUT_SCHEDULING_REPORTS' => 'Per saperne di più dei rapporti programmati',
+          'GET_DETAILED_REPORTS_EMAILED' => 'Ottieni rapporti dettagliati inviati via e-mail su base ricorrente per contribuire al monitoraggio delle statisitche di chiamata dell\'azienda.',
+          'SM_DELETED_SCHEDULED_REPORT' => 'Eliminazione rapporto programmato riuscita.',
+          '__INCLUDES' => [
+                            'incl_header',
+                            '../common/incl_table',
+                          ],
+          'SM_MODIFIED_SCHEDULED_REPORT' => 'Modifica rapporto programmato riuscita.',
+          'CREATE_A_NEW_SCHEDULED_REPORT' => 'Crea un nuovo rapporto programmato',
+          'SM_CREATED_SCHEDULED_REPORT' => 'Creazione rapporto programmato riuscita.'
+        };

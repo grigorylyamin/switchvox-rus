@@ -1,0 +1,6 @@
+$VAR1 = {
+          'T_THE_SERVER_ENCOUNTER' => 'Si è verificato un errore irreversibile durante l\'elaborazione della richiesta da parte del server.',
+          'T_INVALID_REQUEST' => 'Richiesta non valida',
+          '__INCLUDES' => [],
+          'T_PLEASE_HAVE_YOUR' => 'Chiedere all\'amministratore di contattare l\'assistenza clienti.'
+        };

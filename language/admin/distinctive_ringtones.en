@@ -1,0 +1,15 @@
+$VAR1 = {
+          'T_HOW_DOES_THIS' => 'How does this work?',
+          'T_ADD_A_RINGTONE' => 'Add a Ringtone',
+		  'T_PAGE_HEAD'     => 'Distinctive Ringtones',
+          'T_ADD_RT' => 'Add Ringtone',
+          'T_YES_DELETE' => 'Yes, Delete',
+          'T_CANCEL' => 'Cancel',
+          'T_UPDATE' => 'Update',
+          'T_RINGTONE_FILE' => 'Ringtone File (.WAV file)',
+          'T_RINGTONE_FILE_UPDATE' => 'New Ringtone File',
+          'T_NAME' => 'Name',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+        };

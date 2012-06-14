@@ -1,0 +1,8 @@
+$VAR1 = {
+          'T_ARE_YOU_SURE_YO28' => 'Eliminare definitivamente questa coda di chiamate',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ],
+          'T_DEL_QUEUE' => 'Eliminare coda di chiamata',
+          'T_YES_DELETE_CAL' => 'Sì, elimina coda chiamate'
+        };

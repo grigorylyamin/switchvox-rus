@@ -1,0 +1,15 @@
+$VAR1 = {
+		'__INCLUDES' => [
+                            'incl_softkeys',
+                            'directory_listings',
+							'incl_error_header',
+                          ],
+		'T_LENGTH_ERR' => 'Please enter at least 3 characters to search directory.',
+		'T_S_TERM_ERR' => 'Search term can only contain letters, numbers, or underscores',
+		'T_NO_MATCH' => 'No extensions matched your search.',
+		'T_DIRECTORY' => 'Directory',
+		'T_SEARCH' => 'Search',
+		'T_GO' => 'Go',
+		'T_FIRST_10' => 'The first 10 results are shown. Please refine your search if desired extension is not shown.',
+		'T_FIRST_5' => 'The first 5 results are shown. Please refine your search if desired extension is not shown.',
+};

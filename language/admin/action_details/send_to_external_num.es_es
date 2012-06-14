@@ -1,0 +1,9 @@
+$VAR1 = {
+          'T_DENY5' => 'Rechazar',
+          'T_ACTION_TYPE38' => 'Tipo de acción',
+          'T_OUTGOING_CALL_R3' => 'Reglas de llamadas salientes para este número',
+          'T_RULE_NAME4' => 'Nombre de la regla',
+          'T_ALLOW5' => 'Permitir',
+          'T_EXTERNAL_NUMBER' => 'Número externo',
+          'T_VARIABLE30' => '(Variable)'
+        };

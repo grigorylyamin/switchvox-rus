@@ -1,0 +1,16 @@
+$VAR1 = {
+          '__INCLUDES' => [],
+          'T_DELETE4' => 'Elimina',
+          'T_ACTIVATED_UNTIL' => 'Attivato fino a',
+          'T_NO_RULES_HAVE_B' => 'Nessuna regola aggiunta a questo gruppo di regole',
+          'T_DISABLE' => 'Disabilita',
+          'T_ACTIVATE2' => 'Attiva…',
+          'T_YOU_CURRENTLY' => 'Attualmente non sono presenti gruppi di regole definiti in questa sezione.',
+          'T_MOVE' => 'Sposta',
+          'T_RULE_SET' => 'Informazione gruppo di regole',
+          'T_NAME' => 'Nome',
+          'T_RELOADING_PAG' => 'Riavvio della pagina per recupero di nuove righe. Attentere.',
+          'T_DEACTIVATE' => 'Disattiva',
+          'T_EDIT4' => 'Modifica',
+          'T_TIME_FRAME' => 'Intervallo di tempo'
+        };

@@ -1,0 +1,6 @@
+$VAR1 = {
+          'T_ADD_NEW_CALLER3' => 'Añadir nueva regla de ID de persona que llama',
+          'T_ADD_NEW_CALLER' => 'Añadir nueva regla de ID de persona que llama',
+          'T_ADD_NEW_RANGED' => 'Añadir nueva regla de ID de persona que llama con intervalo',
+          'T_ADD_NEW_CALLER2' => 'Añadir nueva regla de ID de persona que llama'
+        };

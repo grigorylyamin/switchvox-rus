@@ -1,0 +1,7 @@
+$VAR1 = {
+          'T_A_CALL_QUEUE_A' => 'A Call Queue Agent is a user that cannot make or receive calls directly, but handles calls in the context of a call queue. A technical support associate might be an agent in the Customer Service queue, unable to call out, but instead answers calls that come into the queue and are routed to him.',
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ]
+        };

@@ -1,0 +1,10 @@
+$VAR1 = {
+		'T_RPM_FILE' => 'Upload Module RPM File',
+		'FRO_MISSING_PATH_PARAMET' => 'Missing path parameter.',
+		'DQD_ERROR_CREATING_MODUL' => 'Error creating module_rpm directory.',
+		'BTE_ERROR_INSTALLING_THE' => 'Error installing the uploaded RPM.',
+		'OPN_SUCCESSFULLY_INSTALL' => 'Successfully installed module rpm.',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+        };

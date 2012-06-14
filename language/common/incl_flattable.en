@@ -1,0 +1,5 @@
+$VAR1 = {
+          '__INCLUDES' => ['incl_mouseover', 'incl_popup' ],
+          'T__UPDATED_EVERY' => '. Updated every half hour',
+          'T_DATA_CACHED_AT' => 'Data Cached at'
+        };

@@ -1,0 +1,20 @@
+my $LANG =
+{
+	ST_T_TITLE_TO           => 'to', # ( 1 "to" 50 ) of 54
+	ST_T_TITLE_OF           => 'of', # ( 1 to 50 ) "of" 54
+	ST_T_TITLE_NEXT         => 'Next',
+	ST_T_TITLE_PREVIOUS     => 'Previous', 
+	ST_T_PLEASE_WAIT_ALT	=> 'Please Wait',
+	ST_T_NO					=> 'No',
+	ST_T_YES				=> 'Yes',
+#- header for maina and admin
+	ST_T_WELCOME			=> 'Welcome',
+	ST_T_LOGOUT				=> 'Logout',
+	ST_T_HELP				=> 'Help',
+	ST_T_ABOUT				=> 'About Switchvox',
+	ST_T_MOD_ACCOUNT		=> 'My Account',
+
+	ST_T_SHOWING			=> 'Showing',
+	ST_T_TOTAL				=> 'total'
+};
+

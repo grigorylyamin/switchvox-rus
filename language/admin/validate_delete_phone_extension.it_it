@@ -1,0 +1,12 @@
+$VAR1 = {
+          'T_YES_DELETE_EXT7' => 'Sì, elimina estensione',
+          'T_TO_ARCHIVE_THE' => 'Per archiviare i messaggi di segreteria e i fax di questa estensione, cliccare su "Scarica Archivio Segreteria/Fax" prima di cliccare su "Sì, Elimina estensione".',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ],
+          'T_DOWNLOAD_VOICEM' => 'Scarica archivio segreteria/fax',
+          'T_ARE_YOU_SURE_YO25' => 'Eliminare definitivamente questa estensione?',
+          'T_WARNING25' => 'ATTENZIONE',
+          'T_TO_MOVE_A_US' => 'Durante il cambio del numero estensione di una persona, raccomandiamo di creare prima la sua nuova estensione e di inoltrare tutti i messaggi di segreteria e i fax da questa estensione alla nuova. Poi è possibile eliminare questa estensione.',
+          'T_DELETING_THIS4' => 'L\'eliminazione di questa estensione, causerà l\'eliminazione di tutti i messaggi di segreteria e dei fax nella casella di posta di questa estensione.'
+        };

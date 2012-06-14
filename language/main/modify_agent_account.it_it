@@ -1,0 +1,15 @@
+$VAR1 = {
+          'T_LEAVE_BLANK_TO' => 'Lascia vuoto per mantenere la password attuale.',
+          'T_PASSWORD2' => 'Password',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_UPDATE_ACCOUNT' => 'Aggiorna impostazioni account per agente',
+          'T_FOR_LOGGING_IN' => 'Per accesso.',
+          'T_LEAVE_BLANK_TO2' => 'Lascia vuoto per mantenere la password attuale.',
+          'T_FIRST_NAME2' => 'Nome',
+          'T_YOU_ARE_NOT_ALL' => 'Non è consentito modificare la password.',
+          'T_RETYPE_PASSWORD' => 'Ridigita password',
+          'T_MODIFY_EXTENSIO3' => 'Modifica estensione',
+          'T_LAST_NAME2' => 'Cognome'
+        };

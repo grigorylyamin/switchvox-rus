@@ -1,0 +1,8 @@
+$VAR1 = {
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ],
+          'T_USE_THIS_OPTIO' => 'Use this option to define the host to place outbound calls through, if it is different from your registration host. 
+It is usually safe to leave this option unchanged.'
+        };

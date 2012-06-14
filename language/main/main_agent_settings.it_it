@@ -1,0 +1,7 @@
+$VAR1 = {
+          'T_USER_TIP2' => 'Suggerimento utente',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_USE_THESE_TOOL' => 'Utilizzare questi strumenti per personalizzare l\'estensione per rispondere meglio alle proprie esigenze. Se si ha bisogno di assistenza o di ulteriori spiegazioni per l\'uso di questi strumenti, cliccare sull\'icona guida per l\'apertura di une breve guida.'
+        };

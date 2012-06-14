@@ -1,0 +1,17 @@
+$VAR1 = {
+          'T_MODIFY_VOICEMAI' => 'Modifica modello e-mail segreteria',
+          'T__THE_RECIPIEN' => '- Estensione destinatario',
+          'T__A_URL_TO_THE2' => '- Un URL all\'amministratore web per scaricare il messaggio ed eliminarlo dalla casella di posta del destinatario.',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ],
+          'T_SUBJECT' => 'Argomento',
+          'T_YOU_CAN_USE' => 'È possibile utilizzare delle variabili nel proprio modello che saranno sostituite con i valori reali quando l\'e-mail viene inviata. Qui sotto una lista con le variabili e una descrizione dei loro valori sostitutivi.',
+          'T__THE_DATE_AND' => '- La data e l\'ora in cui è stato lasciato il messaggio',
+          'T_SAVE_TEMPLATE' => 'Salva modello',
+          'T__THE_CALLER_I' => '- L\'id chiamante della persona che ha lasciato il messaggio',
+          'T__THE_DURATION' => '- La durata del messaggio nella segreteria',
+          'T__RECIPIENTS' => '- Nome e cognome del destinatario',
+          'T_BELOW_YOU_CAN_T' => 'Sotto è possibile personalizzare il modello e-mail che si invia all\'utente quando riceve una e-mail dalla segreteria.',
+          'T__A_URL_TO_THE' => '- Un URL all\'amministratore web per scaricare il messaggio'
+        };

@@ -1,0 +1,5 @@
+$VAR1 = {
+          'T_VOICEMAIL_EXTEN' => 'Estensione segreteria',
+          'T_RECORDED_SOUND5' => 'Invia audio registrato da inviare a segreteria',
+          'T_ACTION_TYPE31' => 'Tipo azione'
+        };

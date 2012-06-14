@@ -1,0 +1,13 @@
+$VAR1 = {
+          'VPE_TB_MODIFY' => 'Modificar',
+          'VPE_TD_LAST_NAME' => 'Apellido',
+          'VPE_TD_TEMPLATE_NAME' => 'Plantilla',
+          'VPE_TD_EXT_DISPLAY' => 'Tipo de extensión',
+          'VPE_TD_ACCOUNT_ID' => 'ID',
+          'VPE_TN_TABLE_TITLE' => 'Extensiones telefónicas',
+          'VPE_TD_EXT' => 'Extensión',
+          'VPE_TB_DELETE' => 'Eliminar',
+          'VPE_TD_FIRST_NAME' => 'Nombre',
+          'VPE_TD_DATE_CREATED' => 'Fecha de creación',
+          'VPE_TD_MOD_DEL' => 'Modificar / Eliminar'
+        };

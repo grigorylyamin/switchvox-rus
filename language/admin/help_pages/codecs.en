@@ -1,0 +1,43 @@
+$VAR1 = {
+          'T_G726' => 'G726',
+          'T_ALAW' => 'ALAW',
+          'T_HIGH6' => 'High',
+          'T_NONE2' => 'None',
+          'T_LPC1' => 'LPC10',
+          'T_CPU_USAGE' => 'CPU Usage',
+          'T_HIGH5' => 'High',
+          'T_LOW4' => 'Low',
+          'T_LOW' => 'Low',
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'edition/help_pages/incl_g729_codec',
+                            'common/incl_help_footer'
+                          ],
+          'T_GREAT2' => 'Great',
+          'T_SOUND_QUALITY' => 'Sound Quality',
+          'T_ULAW' => 'ULAW',
+          'T_LOW2' => 'Low',
+          'T_CODEC' => 'Codec',
+          'T_ULAW_AND_ALAW' => 'ULAW and ALAW generally work with every phone and provide the best
+sound quality.  If you are unsure, select ULAW and ALAW.',
+          'T_EXCELLENT' => 'Excellent',
+          'T_GOOD4' => 'Good',
+          'T_CHECK_YOUR_PHON' => 'Check your phone\\\'s user manual to find which codecs it supports.',
+          'T_ILBC' => 'ILBC',
+          'T_GOOD2' => 'Good',
+          'T_NONE3' => 'None',
+          'T_GSM' => 'GSM',
+          'T_BANDWIDTH_USAGE' => 'Bandwidth Usage (kbits/s)',
+          'T_GREAT' => 'Great',
+          'T_IF_FOR_SOME_R' => 'If, for some reason, you would like to use another codec, the
+following table may help your decision',
+          'T_GREAT3' => 'Great',
+          'T_MEDIUM2' => 'Medium',
+          'T_GOOD3' => 'Good',
+          'T_G722' => 'G722',
+          'T_GOOD5' => 'Good',
+          'T_SPEEX' => 'SPEEX',
+          'T_LOW3' => 'Low',
+          'T_ADPCM' => 'ADPCM',
+          'T_POOR' => 'Poor'
+        };

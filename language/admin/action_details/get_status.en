@@ -1,0 +1,6 @@
+$VAR1 = {
+          'T_VARIABLE8' => '(Variable)',
+          'T_EXTENSION16' => 'Extension',
+          'T_VARIABLE_TO_STO' => 'Variable To Store Status In',
+          'T_ACTION_TYPE17' => 'Action Type'
+        };

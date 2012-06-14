@@ -1,0 +1,21 @@
+$VAR1 = {
+          'T_TOTAL_CUMULATIV2' => 'Total Cumulative',
+          'T_FROM_DATE6' => 'From Date',
+          'T_OUPUT_TO_XLS_F4' => 'Output to .xls file',
+          'T_HOLD_DOWN_CTRL17' => 'Hold down CTRL to select multiple items',
+          'T_VIEW_REPORT4' => 'View Report',
+          'T_REPORT_BREAKDOW3' => 'Report Breakdown',
+          'T_USE_THIS_FORM2' => 'Use this form to generate custom statistical reports about this extension\'s call history.',
+          'T_MMDDYYYY14' => 'dd/mm/yyyy',
+          'T_TO_DATE6' => 'To Date',
+          'T_BY_DAY_OF_WEEK2' => 'By Day of Week',
+          'T_BY_HOUR_OF_DAY2' => 'By Hour of Day',
+          'T_MMDDYYYY15' => 'dd/mm/yyyy',
+          '__INCLUDES' => [
+                            'incl_header',
+                            '../common/incl_calendar_header',
+                          ],
+          'T_CHART_REPORT2' => 'Chart Report',
+          'T_BY_DATE2' => 'By Date',
+          'T_REPORT_FIELDS7' => 'Report Fields'
+        };

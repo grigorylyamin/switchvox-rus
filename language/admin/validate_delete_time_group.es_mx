@@ -1,0 +1,9 @@
+$VAR1 = {
+          'T_YES_DELETE_TIM2' => 'Sí, eliminar intervalo de tiempo',
+          'T_ARE_YOU_SURE_YO32' => '¿Está seguro de que desea eliminar permanentemente este Intervalo de tiempo?',
+          'PAGE_TITLE_VAL_D_TF' => 'Eliminar intervalo de tiempo',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ],
+          'VDTG_PE_D' => 'Falta el ID del grupo'
+        };

@@ -1,0 +1,5 @@
+$VAR1 = {
+          'T_GATE_KEEPER_VAR' => 'Nombre de variable de puerta de enlace',
+          'T_ACTION_TYPE16' => 'Tipo de acción',
+          'T_RECORD_A_SOUND' => 'Grabar un sonido'
+        };

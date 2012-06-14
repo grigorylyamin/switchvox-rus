@@ -1,0 +1,16 @@
+$VAR1 = {
+          'T_FEATURE_CODE_EX' => 'Extensión de código de función',
+          'T_MORE_ABOUT_DIR' => 'Más información acerca de respuestas dirigidas',
+          'T_CREATE_EXTENSIO' => 'Crear extensión',
+          'T_CALLS_CAN_THEY' => ' llamadas pueden ser respondidas',
+          '__INCLUDES' => [
+                            'incl_header',
+                            '../common/incl_permission_settings',
+                          ],
+          'T_2_DIGITS_IN_LEN' => '2 dígitos de longitud',
+          'T_CREATE_DIRECTED' => 'Crear grupo de respuesta dirigida',
+          'T_WHICH' => 'Qué ',
+          'T_THAT_CAN_USE' => ' que pueden utilizar la respuesta dirigida',
+          'T_MODIFY_EXTENSIO' => 'Modificar extensión',
+          'T_THIS_FEATURE' => 'Este código de función permite que una extensión conteste a una llamada que está sonando en una extensión diferente.'
+        };

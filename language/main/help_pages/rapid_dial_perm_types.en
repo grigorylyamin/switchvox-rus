@@ -1,0 +1,23 @@
+$VAR1 = {
+          'T_NORMAL' => 'Normal',
+          'T_PAGE_INTRO' => '
+A System Extension Phonebook entry has a Permission Type of either Normal or
+Extended. Extended entries display additional information in your Switchboard
+Phonebook panel.
+',
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ],
+          'T_EXTENDED_DESC' => '
+Shows the Normal permission features, plus the caller ID name and number of 
+the user\'s active calls. It also includes buttons to monitor, record, intercom,
+and answer the user\'s calls. <br/><br/> 
+Only phone extensions can be added as Extended Permission entries. If you try to 
+add any other type of extension (e.g., a Call Queue), it will add the entry as 
+Normal permissions. <br/><br/> If you cannot set a Phonebook entry to Extended 
+permissions, your system administrator has not given you permission to do so. 
+',
+          'T_NORMAL_DESC' => 'Shows the user\'s availability, and whether or not he is on the phone.',
+          'T_EXTENDED' => 'Extended'
+        };

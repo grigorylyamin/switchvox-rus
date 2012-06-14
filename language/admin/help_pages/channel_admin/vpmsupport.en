@@ -1,0 +1,9 @@
+##This file was auto generated##
+my $LANG =
+{
+
+T_DESC => q( 
+This option enables the hardware echo cancellation module on BRI cards. 
+),
+
+};

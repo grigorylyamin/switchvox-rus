@@ -1,0 +1,8 @@
+$VAR1 = {
+          'T_RUNNING_DIAGN2' => 'Ejecutando diagnóstico. Esta operación puede durar unos segundos, espere unos instantes y no actualice esta página.',
+          'T_EMAIL_DIAGNOST' => 'Diagnósticos de correo electrónico',
+          'T_BACK_TO_SMTP_NOTIFICATIONS' => 'Volver a notificaciones SMTP',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ]
+        };

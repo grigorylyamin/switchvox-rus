@@ -1,0 +1,15 @@
+$VAR1 = {
+          'T_LAST_NAME3' => 'Apellido',
+          'T_PASSWORD8' => 'Contraseña',
+          'T_FIRST_NAME3' => 'Nombre',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_MODIFY_EXTENSIO7' => 'Modificar extensión',
+          'T_MUST_MATCH_THE' => 'Debe coincidir con la contraseña anterior',
+          'T_FOR_WEB_TOOL_AC' => 'Para el acceso a las herramientas web y la conexión a las colas',
+          'T_RETYPE_PASSWORD2' => 'Volver a escribir la contraseña',
+          'T_CALL_QUEUE_AGEN' => 'Exensión de agente de colas de llamadas',
+          'T_USER_CAN_EDIT' => 'El usuario puede editar',
+          'T_WEB_TOOL_ACCESS2' => 'Acceso a las herramientas web'
+        };

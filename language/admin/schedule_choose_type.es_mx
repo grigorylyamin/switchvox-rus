@@ -1,0 +1,11 @@
+$VAR1 = {
+          'T_CALL_LOG2' => 'Registro de llamadas',
+          'T_QUEUE_REPORT' => 'Informe de colas',
+          'T_CALL_REPORT' => 'Informes de llamadas',
+          'T_REPORT_TYPE' => 'Tipo de informe',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_CREATE_A_SCHEDU' => 'Crear un informe programado',
+          'T_WHAT_DO_THESE_T' => '¿Qué significan estos tipos?'
+        };

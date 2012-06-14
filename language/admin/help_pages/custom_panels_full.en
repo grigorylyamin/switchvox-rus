@@ -1,0 +1,50 @@
+$VAR1 = {
+          'T_A_BOOLEAN' => 'A boolean integer value indicating if this is the first time the
+    panel is requesting the page.  On startup, the panel will request
+    the url without any associated call information with FIRST_LOAD
+    set to 1. After subsequent calls, FIRST_LOAD will be set to 0.',
+          'T_THE_LAST_F' => 'The last four digits of your PBX\\\'s registration code.',
+          'T_A_HEXIDECI' => 'A hexidecimal md5 hash of the PBX\\\'s registration code.',
+          'T_SETTINGS' => 'Settings',
+          'T_CALLER_ID_NUMBE' => 'CALLER_ID_NUMBER',
+          'T_THE_TEXT_C' => 'The text component of Caller-ID for the current call. Example: BOB JONES',
+          'T_PANEL_DESCRIPTI2' => 'Panel Description',
+          'T_CALLER_ID_NAME' => 'CALLER_ID_NAME',
+          'T_CUSTOM_PANEL' => 'Custom panels allow third-party web developers to create panels in the
+  Switchboard that display an external web page.  This web page is
+  refreshed every time a call is received, allowing the web developer to
+  customize the content to display information about the current caller.',
+          'T_PANEL_NAME2' => 'Panel Name',
+          'T_THE_FOLLOWING' => 'The following settings must be provided',
+          'T_THE_PANEL_NAME' => 'The panel name will appear as the title of your panel window',
+          'T_HTTPWWWEXAM' => 'http://www.example.com/mywebservice?caller_id=%CALLER_ID_NUMBER%',
+          'T_A_STRING_O' => 'A string of numbers and underscores representing the current user\\\'s switchboard session.
+    There are no guarantees that this session_id is unique across logins or machines.',
+          'T_URL_VARIABLES' => 'URL Variables',
+          'T_FULL_REG_CODE_D' => 'FULL_REG_CODE_DIGEST',
+          'T_OVERVIEW' => 'Overview',
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ],
+          'T_EXTENSIONS2' => 'Extensions added to the list on the right will be allowed to use
+    the panel.  Note that the panel does not automatically show up in
+    their Switchboard until they select it in the panels menu inside
+    the Switchboard.',
+          'T_PANEL_URL2' => 'Panel URL',
+          'T_THE_URL_CA' => 'The url can contain variables between percent signs such as which
+    will be substituted during each request.  See below for a list of
+    variables that are supported',
+          'T_THERE_ARE_A_NU' => 'There are a number of variables that will be subsituted in the url with each request',
+          'T_SESSION_ID' => 'SESSION_ID',
+          'T_FIRST_LOAD' => 'FIRST_LOAD',
+          'T_EXTENSIONS_ALLO3' => 'Extensions allowed to use this panel',
+          'T_THE_PHONE2' => 'The phone number of the current call.  Example: 8585551212',
+          'T_PARTIAL_REG_COD' => 'PARTIAL_REG_CODE',
+          'T_EXTENSION5' => 'EXTENSION',
+          'T_THE_DESCRIPTION' => 'The description is only displayed in the admin, and is not shown to the user',
+          'T_THE_EXTENS' => 'The extension of the current Switchboard user.  This does not
+    apply to who is calling, but is instead the extension who has
+    launched this Switchboard panel.',
+          'T_THIS_IS_TH' => 'This is the web page to be loaded in the panel, for example:'
+        };

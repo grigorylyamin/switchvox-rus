@@ -1,0 +1,10 @@
+$VAR1 = {
+          'T_YOU_HAVE_BEEN_L' => 'Su conexión al paquete web ha caducado.',
+          'T_PLEASE_RELOGIN' => 'Conéctese para utilizar el paquete web',
+          'T_USER_NAME' => 'Nombre de usuario',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ],
+          'T_SIGN_IN' => 'Conexión',
+          'T_PASSWORD' => 'Contraseña'
+        };

@@ -1,0 +1,18 @@
+$VAR1 = {
+          'T_VIEW_REPORT2' => 'Visualizza rapporto',
+          'T_ALL_CALLS' => 'Tutte le chiamate',
+          'T_USE_THIS_FORM_T' => 'Utilizzare questo modulo per visualizzare lo storico chiamate di questa estensione in un intervallo di date.',
+          'T_MMDDYYYY10' => 'gg/mm/aaaa',
+          'T_OUTGOING_CALLS' => 'Chiamate in uscita',
+          '__INCLUDES' => [
+                            'incl_header',
+                            '../common/incl_table',
+                            '../common/incl_calendar_header'
+                          ],
+          'T_MMDDYYYY11' => 'gg/mm/aaaa',
+          'T_VIEW5' => 'Visualizza',
+          'T_OUPUT_TO_XLS_F2' => 'Risultato sottoforma di file .xls',
+          'T_INCOMING_CALLS' => ' Chiamate in arrivo',
+          'T_FROM_DATE4' => 'Da data',
+          'T_TO_DATE4' => 'A data'
+        };

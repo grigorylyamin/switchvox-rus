@@ -1,0 +1,9 @@
+$VAR1 = {
+          'T_RECORDED_SOUND' => 'Audio registrato da riprodurre',
+          '__INCLUDES' => [
+                            'new_actions/incl_missing_sound_variables',
+                            'new_actions/incl_back_button',
+                            'new_actions/incl_button',
+                            'new_actions/incl_tabletitle'
+                          ]
+        };

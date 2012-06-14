@@ -1,0 +1,7 @@
+$VAR1 = {
+          'T_WHAT_DOES_THIS2' => 'What does this mean?',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_THIS_EXTENSIO' => 'This extension can be dialed from an IVR.'
+        };

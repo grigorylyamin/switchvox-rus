@@ -1,0 +1,10 @@
+$VAR1 = {
+          'T_YOU_HAVE_BEEN_L' => 'You are no longer logged into the web suite.',
+          'T_PLEASE_RELOGIN' => 'Please log in to use the web suite',
+          'T_USER_NAME' => 'User Name',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_SIGN_IN' => 'Log In',
+          'T_PASSWORD' => 'Password'
+        };

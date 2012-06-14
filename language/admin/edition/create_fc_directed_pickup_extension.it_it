@@ -1,0 +1,16 @@
+$VAR1 = {
+          'T_FEATURE_CODE_EX' => 'Estensioni Codice funzione',
+          'T_MORE_ABOUT_DIR' => 'Ulteriori informazioni su ricezione diretta',
+          'T_CREATE_EXTENSIO' => 'Crea estensione',
+          'T_CALLS_CAN_THEY' => ' chiamate la cui ricezione sia consentita',
+          '__INCLUDES' => [
+                            'incl_header',
+                            '../common/incl_permission_settings',
+                          ],
+          'T_2_DIGITS_IN_LEN' => '2 cifre in lunghezza',
+          'T_CREATE_DIRECTED' => 'Crea gruppo ricezione diretta',
+          'T_WHICH' => 'Quale ',
+          'T_THAT_CAN_USE' => ' a cui sia consentito l\'utilizzo di ricezione diretta',
+          'T_MODIFY_EXTENSIO' => 'Modifica estensione',
+          'T_THIS_FEATURE' => 'Questo codice funzione consentirà a un\'estensione di rispondere a una chiamata che sta telefonando a un\'estensione diversa.'
+        };

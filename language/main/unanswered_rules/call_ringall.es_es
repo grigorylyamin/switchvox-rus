@@ -1,0 +1,18 @@
+$VAR1 = {
+          'T_SIMULTANEOUSLY' => 'de forma simultánea',
+          'T_AND_DO_NOT_PRES' => 'y no conservar el ID de la persona que llama.',
+          'T_RINGS' => 'tonos',
+          'T_DIRECT_CALLS' => 'llamadas directas',
+          'T_ALL_CALLS2' => 'todas las llamadas',
+          '__INCLUDES' => [
+                            'incl_ringcount_select'
+                          ],
+          'T_AND_ATTEMPT_TO' => 'e intentar conservar el ID de la persona que llama.',
+          'T_QUEUE_CALLS' => 'llamadas en cola',
+          'T_AFTER2' => 'después de',
+          'T_RING_ALL' => 'hacer sonar todos',
+          'T_FOR' => 'Para',
+          'T_ATTEMPT_TO_PRES' => 'Intentar conservar el ID de la persona que llama.',
+          'T_AND3' => 'y',
+          'T_IMMEDIATELY' => 'inmediatamente'
+        };

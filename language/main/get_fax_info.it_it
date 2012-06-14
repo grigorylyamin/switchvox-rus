@@ -1,0 +1,12 @@
+$VAR1 = {
+          'T_LOW' => 'Basso',
+          'T_SEND_FAX2' => 'Invia fax',
+          'T_THUMB' => 'Thumb',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_FAX_INFO' => 'Info fax',
+          'T_FAX_NUMBER' => 'Numero di fax',
+          'T_HIGH' => 'Alto',
+          'T_RESOLUTION' => 'Risoluzione'
+        };

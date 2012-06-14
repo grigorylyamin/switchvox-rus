@@ -1,0 +1,11 @@
+$VAR1 = {
+          'T_NBSPFINAL' => 'Regola definitiva',
+          'T_MODIFY_ACTIONS' => 'Modifica azioni IVR',
+          '__INCLUDES' => [
+                            'incl_header',
+                            '../common/incl_table'
+                          ],
+          'T_ADD_NEW_ACTION' => 'Crea azione IVR',
+          'T_LISTEN_FOR_OPTI' => 'Ascolta opzioni',
+          'T_BACK_TO_THE_IV' => 'Torna a IVR Editor'
+        };

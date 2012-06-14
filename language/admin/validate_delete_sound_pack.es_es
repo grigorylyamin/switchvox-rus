@@ -1,0 +1,10 @@
+$VAR1 = {
+          'T_YES_DELETE_SOU' => 'Sí, eliminar el paquete de sonidos',
+          'T_WARNING8' => 'ADVERTENCIA',
+          'T_SOUNDS_THAT_WIL2' => 'Los sonidos que se eliminarán',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_DELETING_THIS2' => 'Al eliminar este paquete de sonidos también se eliminarán todos los sonidos que contenga. Si los sonidos de este paquete de sonidos están siendo utilizados por su sistema, deberá sustituirlos en la sección adecuada de esta herramienta de administración web.',
+          'T_ARE_YOU_SURE_YO8' => '¿Está seguro de que desea eliminar permanentemente este paquete de sonidos?'
+        };

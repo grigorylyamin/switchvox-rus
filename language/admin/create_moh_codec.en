@@ -1,0 +1,13 @@
+$VAR1 = {
+          'T_INSTALL' => 'Install',
+          'T_UPLOAD_CODEC_PA' => 'Upload Codec Package',
+          'T_HERE' => 'here',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_UPLOAD_A_NEW_MU' => 'Upload a New Music On Hold Codec',
+          'T_OTHERWISE_ALLO' => 'otherwise allowed to playback MP3 files at your location, you may download the proper player by clicking',
+          'T_AFTER_THE_DOW' => '. When the download is complete, you can add upload and install the file using the form below. Once the player is installed, MP3 files may be uploaded as Music On Hold songs. Sorry for any inconvenience this may have caused.',
+          'T_THE_SYSTEM_SU' => 'Because of licensing restrictions, the MP3 player cannot be included with Switchvox. If you are already licensed to use the MP3 format or are',
+          'T_NOTE' => 'NOTE'
+        };

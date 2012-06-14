@@ -1,0 +1,8 @@
+$VAR1 = {
+          '__INCLUDES' => [
+                            'incl_header',
+							'incl_subnav_descriptions'
+                          ],
+          'T_YOU_CAN_MANAGE' => 'You can manage your voicemails just like email using the Mailbox interface, with folders to organize messages and the ability to forward voicemails to other extensions.',
+          'T_USER_TIP5' => 'User Tip'
+        };

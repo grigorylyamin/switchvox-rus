@@ -1,0 +1,6 @@
+$VAR1 = {
+          'SMAS_PE_MOH_GROUP' => 'Debe seleccionar un grupo de música en espera',
+          'SMAS_PE_AUTO_LOG' => 'El número de segundos hasta la desconexión automática debe estar entre 0 y 999 segundos.',
+          'SMAS_PE_WRAPUP' => 'El tiempo entre llamadas debe estar entre 0 y 99 segundos',
+          'SMAS_PE_ACK_CALL' => 'El reconocimiento de llamadas deben configurarse como sí o no'
+        };

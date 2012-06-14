@@ -1,0 +1,7 @@
+$VAR1 = {
+          'T_USER_TIP' => 'Suggerimento utente',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_THE_CALL_STATI' => 'L\'utilizzo dei risultati dello strumento Statistiche chiamate fornisce informazioni sull\'attività telefonica in tre modi diversi: un rapporto base da visualizzare in linea, un rapporto per Excel importabile e un grafico per una rapida analisi.'
+        };

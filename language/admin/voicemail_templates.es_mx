@@ -1,0 +1,16 @@
+$VAR1 = {
+          'T_CHOOSE_TE' => 'Seleccione una plantilla:',
+          'T_VIEW3' => 'Visualizar',
+          'T_VOICEMAIL_EMAIL2' => 'Plantilla de correo electrónico para el buzón de voz',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ],
+          'T_YOU_ARE_CURR' => 'En estos momentos, está utilizando un servidor de buzón de voz externo. Por esta razón, la mayoría de los ajustes de esta página están desactivados.',
+          'T_TEMPLATE2' => 'Nombre de plantilla',
+          'T_CREATE_NEW2' => 'Crear',
+          'T_CREATE_A_NEW_VO2' => 'Crear plantilla de notificación',
+          'T_VOICEMAIL_TEMPLATES' => 'Plantillas de notificación',
+          'T_DELETE2' => 'Eliminar',
+          'T_MODIFY_EXISTING' => 'Modificar plantillas existentes',
+          'T_EDIT2' => 'Modificar'
+        };

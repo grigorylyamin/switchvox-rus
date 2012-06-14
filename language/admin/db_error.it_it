@@ -1,0 +1,7 @@
+$VAR1 = {
+          'T_THIS_MAY_JUST' => 'Potrebbe trattarsi di un problema temporaneo. Eseguire il reload della pagina nel browser web per vedere se il problema viene risolto. Se dopo il reload viene visualizzata la stessa pagina attendere perché potrebbe essere in corso il riavvio del database.  Se il database non viene visualizzato dopo 5 minuti, eseguire il reboot del PBX.',
+          'T_YOUR_DATABASE_I' => 'Il database è attualmente fuori linea.',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ]
+        };

@@ -1,0 +1,14 @@
+$VAR1 = {
+          'T_TEST_FTP_SETTIN' => 'Comprobar configuración de FTP',
+          'T_FTP_USERNAME' => 'Nombre de usuario FTP',
+          'T_FTP_PASSWORD' => 'Contraseña de FTP',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_SAVE_SETTINGS' => 'Guardar configuración',
+          'T_EXTERNAL_FTP_S' => 'Configuración de servidor FTP externo',
+          'T_WHEN_SCHEDULI' => 'Al programar una regla de grabación de llamadas, puede optar por que sus llamadas grabadas se guarden en una copia de seguridad en un servidor FTP externo antes de ser eliminadas de su PBX. Introduzca aquí su configuración de servidor FTP y, al programar una nueva grabación de llamada, podrá seleccionar este servidor FTP para la realización de copias de seguridad.',
+          'T_FTP_HOSTNAME' => 'Nombre de host FTP',
+          'T_PATH_OF_DEN' => 'La ruta de "/" indica el directorio de conexión raíz.',
+          'T_FTP_PATH' => 'Ruta FTP'
+        };

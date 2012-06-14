@@ -1,0 +1,6 @@
+$VAR1 = {
+          'T_GOOD498' => 'Sì! Registrazione riuscita.',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ]
+        };

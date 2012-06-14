@@ -1,0 +1,6 @@
+$VAR1 = {
+          'T_CREATE_NEW_GROU' => 'Create New Group',
+          'T_NO_GROUPS_IN_SY' => 'No Groups in System',
+          'T_OR2' => '-OR-',
+          'T_USE_A_PREDEFINE' => 'Use a Predefined Group'
+        };

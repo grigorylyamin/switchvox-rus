@@ -1,0 +1,7 @@
+$VAR1 = {
+          'T_PLEASE_WAIT' => 'Por favor, espere',
+          'T_YOUR_BACKUP_I' => 'Su copia de seguridad se está procesando en estos momentos. Por favor, espere y no actualice esta página.',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ]
+        };

@@ -1,0 +1,15 @@
+##This file was auto generated##
+my $LANG =
+{
+#view_all_extensions
+VAE_TD_ACCOUNT_ID       => "ID",
+VAE_TD_EXT              => "Extension",
+VAE_TD_EXT_DISPLAY      => "Extension Type",
+VAE_TD_EXTRA            => "Name",
+VAE_TD_DATE_CREATED     => "Date Created",
+VAE_TD_MOD_DEL			=> "Modify / Delete",
+VAE_TB_MODIFY           => "Modify",
+VAE_TB_DELETE           => "Delete",
+VAE_TN_TABLE_TITLE      => "All Extensions",
+
+};

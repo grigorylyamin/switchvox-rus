@@ -1,0 +1,14 @@
+$VAR1 = {
+          'T_CC_CASCADE' => 'Cascada',
+          'T_CC_AFTER' => 'después de',
+          'T_CC_EXAMPLE' => 'Ejemplo: 918585551212',
+          'T_CC_QUEUE_CALLS' => 'llamadas en cola',
+          'T_CC_RINGS' => 'tonos',
+          'T_ATTEMPT_TO_PRES2' => 'Intentar conservar el ID de la persona que llama.',
+          'T_CC_ALL_CALLS' => 'todas las llamadas',
+          'T_CC_ANYTIME' => 'En cualquier momento',
+          'T_CC_DIRECT_CALLS' => 'llamadas directas',
+          'T_CC_MAKE_SURE' => 'Asegúrese de anteponer el número necesario para realizar llamadas salientes.',
+          'T_CC_TO' => 'para',
+          'T_CC_WHEN_TIME_I' => 'cuando el tiempo es'
+        };

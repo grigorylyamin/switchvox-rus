@@ -1,0 +1,9 @@
+$VAR1 = {
+          'T_SELECT_A_VARIAB5' => 'Seleccione una variable:',
+          'T_ENTER_IN_E3' => 'Introduzca la extensión manualmente:',
+          'T_OR13' => '-O-',
+          'T_EXTENSION_TO_DI' => 'Extensión para marcar',
+          '__INCLUDES' => [
+                            'new_actions/incl_button'
+                          ]
+        };

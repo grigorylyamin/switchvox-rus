@@ -1,0 +1,6 @@
+$VAR1 = {
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_REMOVING_CHANN' => 'Removing channels from the channel group will result in a system restart.'
+        };

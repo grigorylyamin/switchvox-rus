@@ -1,0 +1,1 @@
+Object.extend(switchvox.lang._LANG.keys,{T_CREATED_BY_USER:["Usuario"],T_CREATED_BY_ADMIN:["Admin"],PT_TIME_FRAMES:["Intervalos de tiempo"],TBL_NO_TF_DISPLAY:["No hay ningún intervalo de tiempo para visualizar."],L_TF_NAME:["Nombre del intervalo de tiempo"],SH_CREATE_TF:["Crear intervalo de tiempo"],TEST:["I have %s test.","I have %s tests."]});

@@ -1,0 +1,12 @@
+$VAR1 = {
+          'T_YOU_MAY_CREATE' => 'È possibile creare un backup in qualsiasi momento cliccando sul pulsante "Crea un backup". Per impostare la creazione di backup programmati, cliccare sul pulsante "Imposta backup automatici".',
+          'T_IF_YOU_HAVE_SA' => 'Se sono stati salvati dei backup del sistema, verranno elencati in ordine cronologico qui sotto. Per ripristinare una vecchia versione del sistema, è possibile cliccare sul pulsante "Ripristina" vicino al file di backup corrispondente o individuare il file da utilizzare sul computer e cliccare sul pulsante "Carica un file di backup".',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ],
+          'T_KEY_OF_OPTIONAL' => 'Chiave dei contenuti opzionali',
+          'T_SETUP_AUTOMATIC' => 'Impostazione backup automatici',
+          'T_CREATE_A_BACKUP' => 'Crea un backup',
+          'PAGE_TITLE_RESTORE' => 'Backup',
+          'T_UPLOAD_A_BACKUP' => 'Caricamento file di backup'
+        };

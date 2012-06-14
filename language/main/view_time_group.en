@@ -1,0 +1,20 @@
+$VAR1 = {
+          'T_START_DATE8' => 'Start Date',
+          'T_START_DAY7' => 'Start Day',
+          'T_END_DAY7' => 'End Day',
+          'T_START_TIME7' => 'Start Time',
+          'T_ANY2' => 'any',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_NOON_12_P2' => 'Noon = 12:00 PM',
+          'T_OF_THESE_RULES' => 'of these rules.',
+          'T_A_TIME_SEGMENT' => 'A time segment is considered valid when it matches',
+          'T_TIME_SEGMENT_DE' => 'Time Segment Definition',
+          'T_END_TIME7' => 'End Time',
+          'T_END_DATE7' => 'End Date',
+          'T_BACK_TO_TIME_M' => 'Back to Time Manager',
+          'T_MIDNIGHT_122' => 'Midnight = 12:00 AM',
+          'T_ALL2' => 'all',
+          'T_OF_THE_RULES' => 'of the rules. It does not have to match'
+        };

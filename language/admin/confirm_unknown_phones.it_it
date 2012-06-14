@@ -1,0 +1,8 @@
+$VAR1 = {
+          'CUP_SUCCESS_MSG' => 'Invio configurazione iniziale al telefono riuscita.',
+          'CUP_ERROR_MSG' => 'Si è verificato un problema durante la configurazione iniziale al telefono.',
+          'CUP_ERR_NO_TOKENS' => 'Non si dispone di configurazioni telefono acquistate sufficienti per configurare il numero di telefoni selezionato. Il numero di configurazione telefono disponibile attualmente è',
+          'CUP_ERROR_MANY_MSG' => 'Si è verificato un problema durante la designazione dei telefoni selezionati per la configurazione iniziale.',
+          'CUP_ERR_CHECK_TOKENS' => 'Si è verificato un problema durante la determinazione del numero di configurazioni telefoniche disponibili sul sistema.',
+          'CUP_SUCCESS_MANY_MSG' => 'Richiamata dei telefoni selezionati per la configurazione iniziale.'
+        };

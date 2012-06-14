@@ -1,0 +1,14 @@
+$VAR1 = {
+          'T_WHEN_POSITIONS' => 'When positions are announced to callers in the queue, you can also
+announce an estimated hold time to the user. Estimated hold time
+is derived from how many other calls are in the queue and the average
+time it took to answer those previous calls.',
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ],
+          'T_NOTE20' => 'Note',
+          'T_ESTIMATED_HOLD' => 'Estimated Hold Time will only be played if the Announce Position
+in Queue is also set to "yes".  If Announce Position in Queue is set
+to "no", this option has no effect.'
+        };

@@ -1,0 +1,7 @@
+$VAR1 = {
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ],
+          'T_AN_INTERRUPTIB2' => 'An interruptible wait means that a caller can press keys during the wait. If the key corresponds to an option in your IVR, the wait will end and those actions will be triggered. If a wait is not interruptible, when a caller presses keys during the wait, the system ignores them and the wait will continue.'
+        };

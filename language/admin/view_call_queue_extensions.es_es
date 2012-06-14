@@ -1,0 +1,13 @@
+$VAR1 = {
+          'VCQE_TD_DATE_CREATED' => 'Fecha de creación',
+          'VCQE_TD_MAX_QUEUE_LENGTH' => 'Longitud máxima de cola',
+          'VCQE_TD_MOD_DEL' => 'Modificar / Eliminar',
+          'VCQE_TD_RING_STRATEGY' => 'Estrategia de tonos',
+          'VCQE_TB_MODIFY' => 'Modificar',
+          'VCQE_TD_NAME' => 'Nombre de la cola',
+          'VCQE_TD_EXT' => 'Extensión',
+          'VCQE_TB_DELETE' => 'Eliminar',
+          'VCQE_TN_TABLE_TITLE' => 'Extensiones de colas de llamadas',
+          'VCQE_TD_MEMBER_COUNT' => '# de miembros',
+          'VCQE_TD_ACCOUNT_ID' => 'ID'
+        };

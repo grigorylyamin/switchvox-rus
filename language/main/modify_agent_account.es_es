@@ -1,0 +1,15 @@
+$VAR1 = {
+          'T_LEAVE_BLANK_TO' => 'Deje en blanco este campo para mantener la contraseña actual.',
+          'T_PASSWORD2' => 'Contraseña',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_UPDATE_ACCOUNT' => 'Actualizar la configuración de cuenta para el agente',
+          'T_FOR_LOGGING_IN' => 'Para conexión.',
+          'T_LEAVE_BLANK_TO2' => 'Deje en blanco este campo para mantener la contraseña actual.',
+          'T_FIRST_NAME2' => 'Nombre',
+          'T_YOU_ARE_NOT_ALL' => 'No tiene permiso para cambiar su contraseña.',
+          'T_RETYPE_PASSWORD' => 'Volver a escribir la contraseña',
+          'T_LAST_NAME2' => 'Apellido',
+          'T_MODIFY_EXTENSIO3' => 'Modificar extensión'
+        };

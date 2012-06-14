@@ -1,0 +1,18 @@
+$VAR1 = {
+          'T_UPLOAD_FILE6' => 'Upload File',
+          'T_FOR_RECORDING' => 'for Recording',
+          'T_CREATE_A_NEW_SO2' => 'Create A New Sound',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_WHAT_ARE_THE_EX2' => 'What are the exact words',
+          'T_LANGUAGE' => 'Language',
+          'T_SOUND_DESCRIPTI' => 'Sound Description / Script',
+          'T_EXTENSION_TO_RI2' => 'Extension to Ring',
+          'T_OF_THIS_RECORDI2' => 'of this recording?',
+          'T_SOUND_SOURCE3' => 'Sound Source',
+          'T_FOLDER' => 'Folder',
+          'T_SOUND_NAME3' => 'Sound Name',
+          'T_RECORD_OVER_PHO3' => 'Record Over Phone',
+          'T_CREATE_SOUND' => 'Create Sound'
+        };

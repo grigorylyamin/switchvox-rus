@@ -1,0 +1,24 @@
+$VAR1 = {
+          'T_PAGE_INTRO' => '
+Each Phonebook entry is based on one main extension or phone number, but it can
+have also have additional numbers associated with it. This way, you can have one
+Phonebook entry for a person, and have all of their contact numbers included in
+that entry. The Additional Numbers are available via a drop down menu in the
+Switchboard Phonebook panel.
+<br/><br/>
+Additional Numbers can be entered by an extension owner, or you can enter them
+in your Phonebook entry. 
+<br/><br/>
+Additional Numbers entered by an extension owner are available when you add the
+extension to your Phonebook. These numbers appear as locked (<img src="/images/common/lock_small.gif"/>) and cannot be
+edited, however you can choose to hide them.
+<br/><br/>
+Additional numbers that you add to your Phonebook entry can be edited and
+deleted. You can also copy any Additional Numbers (including the owner\'s
+numbers), and then edit and delete the copy.
+',
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ]
+        };

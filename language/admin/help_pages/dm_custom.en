@@ -1,0 +1,9 @@
+my $LANG = {
+    T_DM_HEAD => 'Custom Digit Map:',
+    
+    T_DM_EXPLAIN => q(
+You can specify your own custom digit map in this box. If you specify a custom 
+digit map, all other rules for generating a digit map are ignored and your
+custom digit map is used when configuring your phones.
+    ),
+};

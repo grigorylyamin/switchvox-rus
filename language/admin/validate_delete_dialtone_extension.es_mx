@@ -1,0 +1,7 @@
+$VAR1 = {
+          '__INCLUDES' => [
+                            'incl_header'
+                          ],
+          'T_YES_DELETE_EXT' => 'Sí, eliminar la extensión',
+          'T_ARE_YOU_SURE_YO' => '¿Está seguro de que desea eliminar permanentemente la extensión del tono de llamada?'
+        };

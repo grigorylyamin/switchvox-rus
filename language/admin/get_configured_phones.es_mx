@@ -1,0 +1,20 @@
+$VAR1 = {
+          'GCP_TD_PHONE_EXT' => 'Extensión',
+          'GCP_TD_PCAUTH_PWD' => 'Contraseña',
+          'GCP_TD_EMAIL' => 'Correo electrónico',
+          'GCP_TD_MAC_ADDRESS' => 'Dirección MAC',
+          'GCP_TD_IP_ADDRESS' => 'Dirección IP',
+          'GCP_TD_ADDITIONAL_LINES' => 'Mostrar líneas adicionales',
+          'GCP_TD_TABLE_TITLE' => 'Teléfonos totalmente configurados',
+          'GCP_TD_PHONE_CONFIG_ID' => 'ID',
+          'GCP_TD_PHONE_MODEL' => 'Modelo de teléfono',
+          'GCP_TN_TABLE_TITLE' => 'Teléfonos configurados',
+          'GCP_TD_EXT_INFO' => 'Inform. ext.',
+          'GCP_TD_PHONE_INFO' => 'Información del teléfono',
+          'GCP_TD_FIRST_NAME' => 'Nombre',
+          'GCP_TD_PHONE_BRAND' => 'Marca del teléfono',
+          'GCP_NO_PHONES' => 'No hay ningún teléfono configurado en su red.',
+          'GCP_TD_PCAUTH_INFO' => 'Autentificación de configuración',
+          'GCP_TD_LAST_NAME' => 'Apellido',
+          'GCP_TD_PCAUTH_LOGIN' => 'Conexión'
+        };

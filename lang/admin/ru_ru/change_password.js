@@ -1,0 +1,10 @@
+Object.extend(switchvox.lang._LANG.keys,{T_LANG_LOCALE:["Select Language / Locale"],
+T_SAVE_LANG_LOCALE:["Modify Locale Settings"],
+T_PASSWORD:["Password"],
+T_RETYPE_PASSWORD:["Retype Password"],
+T_SAVE_PASSWORD:["Modify Password"],
+T_TEXT_LANG:["Choose Language and Locale"],
+T_TEXT_PASS:["Change Your Admin Password"],
+T_LOCALE_PASSWORD:["Modify Language / Locale & Admin Password"],
+T_ADMIN_REDIRECT:["You were redirected to this page because you are required to change your password before continuing."],
+});

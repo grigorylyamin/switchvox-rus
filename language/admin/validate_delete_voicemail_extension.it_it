@@ -1,0 +1,8 @@
+$VAR1 = {
+          'T_WITHOUT_AT_LEAS' => 'Senza almeno un\'estensione di segreteria gli utenti non saranno in grado di controllare la segreteria.',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_YES_DELETE_EXT' => 'Sì, elimina estensione',
+          'T_ARE_YOU_SURE_YO' => 'Eliminare definitivamente questa estensione di accesso alla segreteria'
+        };

@@ -1,0 +1,32 @@
+$VAR1 = {
+          'T_ALL_CALLS' => 'All Calls',
+          #'T_' => '...',
+          #'T_ALL_EXTENS' => 'All Extensions',
+          'T_SEE_WHAT_CALLS' => 'See what calls have been made on the phone system. Use the form below to narrow down the information that you view in the logs in order to derive a more meaningful and specific call report.',
+          'T_CALL_QUEUES' => 'Call Queues',
+          #'T_USER_EXTENSIONS' => 'User Extensions',
+          'T_IVRS' => 'IVRs',
+          'T_VIEW_REPORT' => 'View Report',
+          #'T_TO_DATE' => 'To Date:',
+          'T_TO_DATE' => 'To Date',
+          #'T_EXTENSION' => 'Extension&nbsp;Type:',
+          'T_EXTENSION'  => 'Extension',
+          'T_TYPE_12311' => 'Type',
+          'T_INCOMING_CALLS' => 'Incoming Calls',
+          'T_AGENTS' => 'Agents',
+          'T_HOLD_DOWN_CTRL' => 'Hold down CTRL to select multiple items',
+          'T_OUTGOING_CALLS' => 'Outgoing Calls',
+          'T_MMDDYYYY' => '(dd/mm/yyyy)',
+          'T_ALL_EXTENSIONS' => 'All Extensions',
+          'T_USER_EXTEN' => 'User Extensions',
+          '__INCLUDES' => [
+                            'incl_header',
+                            '../common/incl_calendar_header',
+                            '../common/incl_table',
+                          ],
+          'T_OUPUT_TO_XLS_F' => 'Output to .xls file',
+          'T_FROM_DATE' => 'From Date',
+          'T_MULTIPLE_ITEMS' => 'multiple items',
+          #'T_VIEW_TYPE' => 'View Type:'
+          'T_VIEW_TYPE' => 'View Type'
+        };

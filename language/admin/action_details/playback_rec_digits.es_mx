@@ -1,0 +1,5 @@
+$VAR1 = {
+          'T_RECORDED_DIGITS' => 'Dígitos grabados que se reproducirán',
+          'T_ACTION_TYPE23' => 'Tipo de acción',
+          'T_VARIABLE11' => '(Variable)'
+        };

@@ -1,0 +1,12 @@
+$VAR1 = {
+          'T_SOME_NOTES_ON_E' => 'Some notes on enabling extension dialing',
+          'T_IVR_EXTENSIONS' => 'IVR Extensions can only be dialed if they have the "This extension can be dialed from the IVR" set on the extension. You can check if this is set by modifying the extension from the "Manage Extensions" section.',
+          'T_OPTIONS_AND_EXT' => 'Options and extension dialing can coexist in the same IVR Menu. However, if you have an option in the same IVR Menu (i.e.; 1) that starts with the same number as an extension (i.e.; 105) then there will be a slight delay on accepting the 1 option because the system will be unsure whether the caller will continue to dial the rest of the extension or if they wanted to select the option.',
+          'T_ENABLING_THIS2' => 'Enabling this feature is necessary when you have an IVR that says, "If you know your party\\\'s extension, please dial it now".',
+          'T_ONLY_CALL_QUEUE' => 'Only Call Queues, Phone Extensions, Directory Extensions, Voicemail Access extensions, Virtual Extensions, and other IVR extensions can be dialed. Callers will not be able to dial any other of your extensions.',
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ],
+          'T_NORMALLY_IVR_ME' => 'Normally IVR Menus only allow single digit options to be entered by the user. However, if "Enable extension dialing" is checked this will then allow IVR callers (in this IVR Menu only) to dial extensions in the system. If the IVR caller enters a valid extension in the system they will be connected, but if the extension is incorrect it will be treated as an invalid option.  See the "Invalid Options Settings" section on the same page to learn more about what this setting does.'
+        };

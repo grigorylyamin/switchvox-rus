@@ -1,0 +1,11 @@
+$VAR1 = {
+          'T_DIGITS' => 'cifre',
+          'T_SAVE_EXTENSION' => 'Salva impostazioni estensione',
+          'T_WHAT_IS_THIS_U8' => 'Per cosa viene utilizzato?',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'SM_SAVED_SETTINGS' => 'Salvataggio impostazioni estensione riuscito.',
+          'T_BEEP_AFTER_AN' => 'Invia segnale acustico dopo un trasferimento assistito',
+          'T_EXTENSION_LENGT' => 'Lunghezza Estensione'
+        };

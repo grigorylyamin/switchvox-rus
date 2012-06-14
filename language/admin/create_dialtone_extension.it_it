@@ -1,0 +1,10 @@
+$VAR1 = {
+          'T_SAVE_EXTENSION' => 'Salva estensione',
+          'T_EXTENSION' => 'Estensione',
+          'T_NOMODIFY' => 'Qusta estensione non ha funzioni da modificare.',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ],
+          'T_CREATE_DIALTONE_EXTENSION' => 'Crea estensione segnale di libero',
+          'T_MODIFY_DIALTONE_EXTENSION' => 'Modifica estensione segnale di libero'
+        };

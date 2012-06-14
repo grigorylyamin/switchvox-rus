@@ -1,0 +1,29 @@
+$VAR1 = {
+          'T_MUST_CHANGE_LANG' => 'Debe confirmar su idioma preferido antes de continuar.',
+          'T_MUST_CHANGE_PASS' => 'Debe cambiar su contraseña antes de continuar.',
+          'T_UPDATE_ACCOUNT' => 'Actualizar la configuración de cuenta para la extensión',
+          'T_SYS_DEFAULT' => 'Sistema Predeterminada',
+          'T_TO_RETRIEVE_VOI' => 'Para recuperar el buzón de voz',
+          'T_TITLE' => 'Título',
+          'T_YOU_ARE_NOT_ALL' => 'No tiene permiso para cambiar su contraseña.',
+          'T_FIRST_NAME' => 'Nombre',
+          'T_PROFILE_PREV' => 'Vista previa del perfil',
+          'T_MODIFY_EXTENSIO' => 'Modificar extensión',
+          'T_RETYPE_PASSWORD' => 'Volver a escribir la contraseña',
+          'T_LEAVE_BLANK_TO' => 'Deje en blanco este campo para mantener la contraseña actual.',
+          'T_MUST_CHANGE_PASS_STRONG' => 'Debe cambiar su contraseña y crear una contraseña segura antes de continuar.',
+          'T_VOICEMAIL_MAY_B' => 'El mensaje del buzón de voz puede enviarse aquí',
+          'T_LAST_NAME' => 'Apellido',
+          'T_LOCATION' => 'Ubicación',
+          'PT_MOD_ACCOUNT' => 'Modificar cuenta',
+          'T_SOUND_PROMPT_LANG' => 'Idioma de indicaciones de sonidos',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ],
+          'T_LANGUAGE' => 'Idioma',
+          'T_PASSWORD' => 'Contraseña',
+          'T_LOCALE' => 'Local',
+          'T_EMAIL_ADDRESS' => 'Dirección de correo electrónico',
+          'T_MUST_CHANGE_PASS_LANG' => 'Debe cambiar su contraseña y confirmar su idioma preferido antes de continuar.',
+          'T_PICTURE' => 'Imagen'
+        };

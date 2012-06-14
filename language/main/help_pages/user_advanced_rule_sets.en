@@ -1,0 +1,81 @@
+$VAR1 = {
+          'T_THE_ACTIVATE_B' => 'The Activate button can be used to enable a rule set for a set
+duration.  If a rule set is activated, it is used regardless of its
+time frame or positioning, and all other rule sets are ignored.',
+          'T_NAME5' => 'Name',
+          'T_ANYTIME' => 'Anytime',
+          'T_CALLS_ARE_FO' => 'Calls are forwarded to the user\'s cell phone after briefly
+		ringing the desk phone.
+		If the cell doesn\'t answer, the call is sent to the local
+		voicemail in order to avoid the user\'s personal cell voicemail
+		box.',
+          'T_FORWARD' => 'Forward',
+          'T_TIME_FRAME5' => 'Time Frame',
+          'T_BRINGING_IT_ALL' => 'Bringing it All Together in an Example',
+          'T_NBSPNB5' => '&nbsp;&nbsp;1.Send direct calls',
+          'T_TO_VOICEMAIL2' => 'to voicemail',
+          'T_NAME2' => 'Name',
+          'T_NAME4' => 'Name',
+          'T_NBSPNB2' => '&nbsp;&nbsp;1.',
+          'T_ACTIVATE3' => 'Activate...',
+          'T_DURING_BUSINESS' => 'During Business Hours',
+          'T_HERES_AN_EXAM' => 'Here\'s an example set of rules',
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ],
+          'T_DESK_PHONE_R' => 'Desk phone rings 5 times and then goes to voicemail.',
+          'T_LUNCH_HOURS' => 'Lunch Hours',
+          'T_DURING_BUSINES' => 'During Business Hours',
+          'T_VACATION_NBS' => 'Vacation  &nbsp;&nbsp;',
+          'T_CHECK_THE_DISA' => 'Check the Disable box to disable a rule set.  For example: you could
+create a "Vacation" rule set that cascaded to your cell phone, or
+forwarded calls to another extension.  This rule set would remain disabled
+until you left for vacation.  When you returned, instead of having to
+delete the rule set, you would just disable it until your next
+vacation.',
+          'T_TO_VOICEMAIL' => 'to voicemail',
+          'T_AFTER5_RINGS' => 'after	5 rings',
+          'T_DIRECT_CALLS_T2' => 'direct calls to 918005551212 after 2 rings',
+          'T_NBSPRULE_SET2' => '&nbsp;Rule Set Information',
+          'T_AFTER8_RINGS' => 'after	8 rings',
+          'T_TIME_FRAME2' => 'Time Frame',
+          'T_CASCADE' => 'Cascade',
+          'T_NBSPNB3' => '&nbsp;&nbsp;2.Send direct calls',
+          'T_THE_CALL_NEVER' => 'The call never came, I\'m going home',
+          'T_MOST_ADVANCED' => 'Most advanced call routing is done by creating multiple call rule
+sets.  After multiple rule sets are added, a number of additional
+capabilities are enabled.',
+          'T_NAME3' => 'Name',
+          'T_OFF_DUTY_NBS' => 'Off Duty  &nbsp;&nbsp;',
+          'T_OUTSIDE_BUSINES' => 'Outside Business Hours',
+          'T_THESE_RULE_SET' => 'These rule sets are configured so that the user does not ever have to add/move/delete them.
+Consider the following events',
+          'T_DISABLED_RULE_S' => 'Disabled Rule Sets',
+          'T_DURING_LUNCH' => 'During Lunch',
+          'T_DIRECT_CALLS_T' => 'direct calls to 800 after 0 rings',
+          'T_ON_VACATION' => 'On Vacation',
+          'T_NBSPNB4' => '&nbsp;&nbsp;1.Send direct calls',
+          'T_TIME_FRAME3' => 'Time Frame',
+          'T_IN_THE_OFFICE' => 'In the Office  &nbsp;&nbsp;',
+          'T_PUTTING_IN_A_LA' => 'Putting in a late night and expecting a call',
+          'T_TIME_FRAME4' => 'Time Frame',
+          'T_DISABLE2' => 'Disable',
+          'T_AFTER_RINGS' => 'after	0 rings',
+          'T_WHEN_A_CALL_IS' => 'When a call is received, the topmost rule set to match is used.  A
+rule set is matched if it is not disabled, and if the current time
+matches the time frame associated with the rule set.  Drag and drop
+each rule set via the green icon to arrange them correctly.',
+          'T_OUTSIDE_BUSINE' => 'Outside Business Hours',
+          'T_RULE_SET_ORDERI' => 'Rule Set Ordering',
+          'T_UNCHECK_OR' => 'Uncheck (or activate) the Vacation rule set and all calls are sent to the
+		main receptionist.  This prevents voicemail from building up over a
+		long period of time.',
+          'T_NBSPNB' => '&nbsp;&nbsp;1.',
+          'T_TO_VOICEMAIL3' => 'to voicemail',
+          'T_ACTIVATE_THE' => 'Activate the In the Office rule set for the next 3 hours, and calls will still ring through.',
+          'T_LUNCH_NBSPN' => 'Lunch &nbsp;&nbsp;',
+          'T_MOVE2' => 'Move',
+          'T_CALLS_ARE_SE' => 'Calls are sent straight to voicemail to keep the caller from waiting.',
+          'T_ACTIVATE_THE2' => 'Activate the Lunch rule set and calls will ring through to your cell while you drive home.'
+        };

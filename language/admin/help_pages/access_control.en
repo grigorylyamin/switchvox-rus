@@ -1,0 +1,90 @@
+##This file was auto generated##
+my $LANG =
+{
+T_ACCESS_CONTROL_DESC => q( 
+<b>Access Control</b>
+<p>
+This lets you allow network access to PBX services based on IP address and Netmask. 
+</p>
+
+<p>
+The default is to deny access, so if you don't allow a service for a network, then the network is denied access to that service.
+</p>
+
+<p>
+The <i>Local Network</i> rule for your network allows all services by default. The <i>All Networks</i> rule allows traffic for various services depending on your PBX configuration. 
+You can modify the services allowed for the Local Network and All Networks rules, but you cannot change the name or the network.
+</p>
+
+<p>
+To add a rule, click <b>Add an Access Control Rule</b>. Enter a unique Rule Name, and the Network that the rule applies to (the IP address and Netmask). For each service that you want to allow this Network to access, check the box.
+</p>
+
+<dl>
+<dt><strong>Services</strong></dt>
+<dd>
+<strong>Web Admin Portal</strong>
+<br />
+The PBX Admin Tool Suite.
+<br />
+
+<strong>Web User Portal</strong>
+<br />
+The PBX User Tool Suite (for extension owners).
+<br />
+
+<strong>Admin API</strong>
+<br />
+API calls to Admin tools.
+<br />
+
+<strong>User API</strong>
+<br />
+API calls to User tools.
+<br />
+
+<strong>Printing</strong>
+<br />
+Printing to the PBX, including printing files to be faxed.
+<br />
+
+<strong>IMAP</strong>
+<br />
+The PBX IMAP server for voicemail and faxes.
+<br />
+
+<strong>XMPP Server (Jabber)</strong>
+<br />
+XMPP chat server traffic.
+<br />
+
+<strong>XMPP Client (Jabber)</strong>
+<br />
+XMPP chat client traffic.
+<br />
+
+<strong>SIP</strong>
+<br />
+SIP traffic.
+<br />
+
+<strong>IAX</strong>
+<br />
+IAX traffic.
+<br />
+
+<strong>NTP</strong>
+<br />
+NTP traffic (Network Time Protocol).
+
+</dd>
+
+<p>
+To modify a rule, click the <b>Pencil</b> icon, make your changes, then click the green <b>Checkmark</b> icon.
+</p>
+
+<p>
+To delete a rule, click the <b>X</b> icon.
+</p>
+),
+};

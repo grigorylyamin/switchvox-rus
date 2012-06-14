@@ -1,0 +1,9 @@
+$VAR1 = {
+          '__INCLUDES' => [
+                            'incl_header_nonav',
+                          ],
+          'T_AUTO_BACKUP_WARNING' => 'Automatic Backup Warning',
+          'T_DISMISS_WARNING' => 'Dismiss Warning',
+          'T_GOTO_CALL_RECORD' => 'Go to Call Recording Settings page.',
+          'T_ABW_DESC' => 'This system has Automatic Backups scheduled that previously included Recorded Calls, but those files are no longer included in the Automatic Backups process. To continue saving backups of Scheduled Call Recordings, you must use the Call Recording Settings.'
+        };

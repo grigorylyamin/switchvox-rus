@@ -1,0 +1,11 @@
+##This file was auto generated##
+my $LANG =
+{
+T_REC_SOUND			=> 'Record Sound From Extension',
+T_THE_PHONE			=> 'The phone at extension',
+T_SHOULD_NOW_BE		=> 'should now be ringing.',
+T_PLEASE_ANSW		=> 'Please answer the phone and follow the said instructions.',
+T_WHEN_COMPLETED	=> 'When you have completed recording your message make sure you click the "Save Sound" button below.',
+T_SOUND_DESCRIPTI	=> 'Sound Description',
+T_SAVE_SOUND		=> 'Save Sound',
+};

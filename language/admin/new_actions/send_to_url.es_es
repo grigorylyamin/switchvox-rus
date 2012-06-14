@@ -1,0 +1,25 @@
+$VAR1 = {
+          'T_HOW_DO_I_USE_T2' => '¿Cómo puedo utilizar esta página?',
+          'T_YOUR_CGI_URL_A' => 'Su URL de CGI (arriba) debería devolver un XML válido que contenga cualquier variable y sus valores correspondientes.No obstante, para utilizar estas variables posteriormente en otras acciones de IVR, deberá predefinirlas a continuación.',
+          'T_ENTER_ANY_VARIA' => 'Introduzca cualquier nombre de variable que será devuelta',
+          'T_IN_THE_URL_FIE' => 'En el campo URL de arriba, introduzca la ruta completa de la URL para el programa CGI al que desee que el IVR pase los datos.Puede añadir valores para su traslado a su URL haciendo clic en el botón "Añadir" situado más abajo.Esto añadirá el nombre de la variable seleccionada al final de su URL, entre %\'s.Cuando esta URL se envíe, los %\'s y los nombres de las variables se sustituirán por sus valores correspondientes.',
+          'T_HTTPWWWMYD' => 'http://www.midominio.com/cgi-bin/app.cgi?cuenta=%ACCOUNT%&amp;dígitos=%PIN%',
+          'T_INCOMING_DID4' => 'INCOMING_DID',
+          'T_APPEND3' => 'Añadir',
+          'T_CLICK_APPEND_TO' => 'Haga clic en Añadir para añadir la variable seleccionada incluida en %s a su URL',
+          'T_POSSIBLE_SYSTEM' => 'Posibles variables de sistema para enviar:',
+          'T_EXAMPLE6' => 'Ejemplo',
+          'T_EXTENSION9' => 'EXTENSION',
+          'T_CLICK_APPEND_TO2' => 'Haga clic en Añadir para añadir la variable seleccionada incluida en %s a su URL',
+          'T_JOB_ID2' => 'JOB_ID',
+          '__INCLUDES' => [
+                            'new_actions/lwp_timeout',
+                            'new_actions/incl_button'
+                          ],
+          'T_URL2' => 'URL:',
+          'T_APPEND2' => 'Añadir',
+          'T_CALLER_ID_NAME5' => 'CALLER_ID_NAME',
+          'T_CALLER_ID_NUMBE4' => 'CALLER_ID_NUMBER',
+          'T_POSSIBLE_IVR_VA' => 'Posibles variables de IVR para enviar:',
+          'T_DIALED_NUMBER' => 'DIALED_NUMBER'
+        };

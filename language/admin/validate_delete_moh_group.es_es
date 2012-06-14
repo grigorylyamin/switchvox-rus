@@ -1,0 +1,9 @@
+$VAR1 = {
+          'T_ARE_YOU_SURE_YO30' => '¿Está seguro de que desea eliminar de forma permanente este grupo de música en espera?',
+          'T__AND_ALL_OF_TH' => 'y todos los archivos que contiene?',
+          'T_DELETE_MOH_GROUP' => 'Eliminar grupo de música en espera',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ],
+          'T_YES_DELETE_GRO' => 'Sí, eliminar grupo'
+        };

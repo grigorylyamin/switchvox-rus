@@ -1,0 +1,17 @@
+$VAR1 = {
+          'T_PLAY_ORDER' => 'Riproduci ordine',
+          'T_DESCRIPTION4' => 'Descrizione',
+          'T_PLAY_VOLUME' => 'Volume di riproduzione',
+          'T_RANDOM' => 'Casuale',
+          'T_NORMAL2' => 'Normale',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_GROUP_NAME' => 'Nome Gruppo',
+          'T_CHOSEN_ORDER' => 'Scegli ordine',
+          'T_CREATE_GROUP2' => 'Crea gruppo',
+          'T_LOUD' => 'Alta',
+          'T_NOTE_YOU_ARE_N' => 'Nota: Non è consentito modificare il nome o la descrizione del gruppo musica di attesa predefinito.',
+          'T_SOFT' => 'Bassa',
+          'T_MODIFY_GROUP' => 'Modifica gruppo'
+        };

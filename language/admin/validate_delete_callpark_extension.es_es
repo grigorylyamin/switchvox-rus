@@ -1,0 +1,7 @@
+$VAR1 = {
+          'T_YES_DELETE_EXT8' => 'Sí, Eliminar Extensión',
+          'T_ARE_YOU_SURE_YO29' => '¿Está seguro de que desea eliminar permanentemente este estacionamiento de llamadas?',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ]
+        };

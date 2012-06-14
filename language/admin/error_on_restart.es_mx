@@ -1,0 +1,6 @@
+$VAR1 = {
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_BELOW_IS_A_LIST' => 'A continuación aparece una lista de configuraciones erróneas de su sistema'
+        };

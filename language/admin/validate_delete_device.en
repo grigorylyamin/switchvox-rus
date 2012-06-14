@@ -1,0 +1,7 @@
+$VAR1 = {
+          'T_ARE_YOU_SURE_YO31' => 'Are you sure you want to permanently delete this device ',
+          'T_YES_DELETE_DEV' => 'Yes, Delete Device',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ]
+        };

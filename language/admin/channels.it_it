@@ -1,0 +1,10 @@
+$VAR1 = {
+          'T_VIEW7' => 'Visualizza',
+          'T_CREATE_NEW_CHAN' => 'Crea gruppo canali',
+          'T_INDIVIDUAL_CHAN' => 'Canali individuali',
+          '__INCLUDES' => [
+                            'incl_header',
+                            '../common/incl_table'
+                          ],
+          'T_CHANNEL_GROUPS' => 'Gruppo canali'
+        };

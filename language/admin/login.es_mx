@@ -1,0 +1,13 @@
+$VAR1 = {
+          'T_ADMIN_LOGIN' => 'Nombre de usuario de administrador',
+          '__INCLUDES' => [],
+          'T_ADMINISTRATION' => 'Paquete de herramientas de admnistración: Conexión',
+          'T_LOG_IN' => 'Registrarse',
+          'T_PASSWORD' => 'Contraseña',
+          'T_USER_NAME' => 'Nombre de usuario',
+          'T_INVALID_USERNAME_PASSWORD' => 'Nombre de usuario o contraseña no válido',
+          'T_LOG_IN_TO_THE_A' => 'Por favor, conéctese para utilizar el paquete de herramientas',
+          'SHI_DUE_TO_FAILED_LOGIN' => 'No puede acceder más a esta página, debido a que se registraron demasiados intentos de conexión sin éxito. Para restablecer plenamente el acceso, póngase en contacto con su administrador de Switchvox.',
+          'T_USERNAME_PASSWORD_INCORRECT' => 'Nombre de usuario o contraseña no válidos',
+          'T_USERNAME' => 'Nombre de usuario'
+        };

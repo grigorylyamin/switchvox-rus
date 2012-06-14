@@ -1,0 +1,13 @@
+$VAR1 = {
+          'T_ADDITIONAL_NUMS' => 'Números adicionales',
+          'T_NUM' => 'Número',
+          '__INCLUDES' => [
+                            'incl_softkeys',
+                            'incl_error_header'
+                          ],
+          'T_ENTRY_DETAILS' => 'Detalles de la entrada',
+          'T_TYPE' => 'Tipo de entrada',
+          'T_EMAIL' => 'Correo electrónico',
+          'T_BACK_TO_LIST' => 'Volver a la lista de entradas',
+          'T_NAME' => 'Nombre'
+        };

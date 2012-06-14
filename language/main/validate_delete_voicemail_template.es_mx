@@ -1,0 +1,8 @@
+$VAR1 = {
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_ARE_YOU_SURE_YO2' => '¿Está seguro de que desea eliminar permanentemente la plantilla de correo electrónico del buzón de voz?',
+          'T_YES_DELETE_VOI' => 'Sí, eliminar plantilla de correo electrónico de buzón de voz',
+          'T_NOTE_ANY_EMA' => 'Nota: cualquier dirección de correo electrónico que utilice esta plantilla se devolverá a la plantilla "Externa" del sistema.'
+        };

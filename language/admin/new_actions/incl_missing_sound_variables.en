@@ -1,0 +1,6 @@
+$VAR1 = {
+          'T_NOTE29' => 'NOTE',
+          'T_YOU_DO_NOT_HAV' => 'You do not have any valid
+IVR Sound Variables to choose from. To create one, add
+an action that uses a Sound Variable, such as the "Record Sound" action.'
+        };

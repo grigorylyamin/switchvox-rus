@@ -1,0 +1,9 @@
+$VAR1 = {
+          'T_NO_PARKED' => 'No hay ninguna llamada estacionada en el sistema.',
+          'T_P_LOT' => 'Estacionamiento',
+          '__INCLUDES' => [
+                            'incl_softkeys',
+                            'parkinglot_listings',
+                            'incl_error_header'
+                          ]
+        };

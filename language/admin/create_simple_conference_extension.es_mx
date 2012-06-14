@@ -1,0 +1,16 @@
+$VAR1 = {
+          'T_CONFERENCE_MEMB' => 'Los participantes en la conferencia pueden pulsar # para ser enviados a una extensión',
+          'T_MODIFY_SCE' => 'Modificar extensión de conferencia simple',
+          'T_CREATE_EXTENSIO' => 'Crear extensión',
+          'T_CREATE_SCE' => 'Crear extensión de conferencia simple',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ],
+          'T_CONFERENCE_EXTENS' => 'Extensión de sala de conferencias',
+          'T_PLAY_MUSIC_ON_H' => 'Reproducir música en espera cuando haya sólo 1 persona en la sala de conferencias',
+          'T_THIS_EXTENSIO3' => 'Esta extensión puede marcarse desde un IVR.',
+          'T_CONSTRAINT' => 'dígitos de longitud',
+          'T_WHAT_DOES_THIS10' => '¿Qué significa esto?',
+          'T_PLAY_SOUND_WHEN' => 'Reproducir sonido cuando entren y salgan personas',
+          'T_MODIFY_EXTENSIO' => 'Modificar extensión'
+        };

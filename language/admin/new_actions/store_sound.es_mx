@@ -1,0 +1,11 @@
+$VAR1 = {
+          'T_WHEN_THE_IVR_R' => 'Cuando el IVR alcanza esta acción, ',
+          'T_IMMEDIATELY3' => 'inmediatamente',
+          'T_STORES_THE_CHO' => 'almacena el sonido seleccionado en la toma del Administrador de sonidos que elijaarriba, sobrescribiendo el sonido existente. Asegúrese de implementar su propiaprotección para limitar esta acción a personas en las que confíe (por ejemplo, solicite unacontraseña).',
+          'T_RECORDED_SOUND2' => 'Sonido grabado para almacenar',
+          '__INCLUDES' => [
+                            'new_actions/incl_missing_sound_variables'
+                          ],
+          'T_SOUND_TO_STORE_AS' => 'Sonido para almacenar como',
+          'T_CAUTION' => 'Precaución'
+        };

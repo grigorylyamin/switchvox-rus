@@ -1,0 +1,17 @@
+$VAR1 = {
+          'T_TO_DOWNLOAD_A_T' => 'To download a TSR  ( Technical Service Request ) Report please click the "Download TSR Report" below. In the event of problems with your PBX you can send a TSR Report to customer service so they can better diagnose any problems you might have.',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_DISABLE_TECH_SU' => 'Disable Tech Support Access',
+          'T_ENABLE_TECH_SUP' => 'Enable Tech Support Access',
+          'T_PLEASE_DO_NO' => 'Please do not enable tech support access unless requested by a tech support representative.',
+          'T_AFTER_TECH_SUP' => 'After tech support access is enabled you will also need port 22 forwarded on your firewall/router to the PBX.',
+          'T_NOTE4' => 'Note',
+          'T_ALLOW_TECH_SUPP' => 'Allow Tech Support Access',
+          'T_DOWNLOAD_A_TECH' => 'Download a Technical Service Report',
+          'T_DOWNLOAD_TSR_RE' => 'Download TSR Report',
+          'T_PL_CALL_TS_GET_PASS' => 'Please call tech support to receive your VPN Connection Password.',
+          'T_TS_WILL_NOT' => 'Tech support will never call you and ask you for your password.',
+          'T_VPN_CON_PASS' => 'VPN Connection Password',
+        };

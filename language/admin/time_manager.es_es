@@ -1,0 +1,19 @@
+$VAR1 = {
+          'T_CREATE_A_NEW_TI' => 'Crear intervalo de tiempo',
+          'T_MAIN_DESC' => 'Cree, modifique y elimine intervalos de tiempo para facilitar la administración de las reglas de llamadas en su PBX.',
+          'SM_CREATE_TIME_GROUP' => 'El intervalo de tiempo se ha creado correctamente.',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ],
+          'T_ALT_HELP' => 'ayuda',
+          'SM_DELETE_TIME_GROUP' => 'El intervalo de tiempo se ha eliminado correctamente.',
+          'T_TIME_GROUP_NAME' => 'Nombre del intervalo de tiempo',
+          'T_EDIT' => 'Modificar',
+          'SCTG_PE_GROUP_NAME' => 'Se necesita un nombre de intervalo de tiempo que debe tener de 1 a 32 caracteres y sólo puede contener letras, números, espacios y los siguientes caracteres:"&\'():-_,.@#+',
+          'TSG_E_ALREADY_NAME' => 'Ya existe un intervalo de tiempo con este nombre. Por favor, pruebe con un nombre diferente.',
+          'T_DELETE' => 'Eliminar',
+          'VDTG_PE_GROUP_ID' => 'Falta el ID de intervalo de tiempo',
+          'T_WHAT_IS_THIS_F' => '¿Para qué sirven los intervalos de tiempo?',
+          'T_CREATE_NEW' => 'Crear',
+          'T_MODIFY_EXISTING' => 'Intervalos de tiempo'
+        };

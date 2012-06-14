@@ -1,0 +1,5 @@
+$VAR1 = {
+          'T_GATE_KEEPER_VAR' => 'Nome variabile gate keeper',
+          'T_ACTION_TYPE16' => 'Tipo azione',
+          'T_RECORD_A_SOUND' => 'Registra audio'
+        };

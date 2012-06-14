@@ -1,0 +1,28 @@
+$VAR1 = {
+          'T_4_MINUTES' => '5 minutos',
+          'T_7_MINUTES' => '7 minutos',
+          'T_WHATS_THIS3' => '¿Qué es esto?',
+          'T_NEVER_TIMES_OUT' => 'Nuca finaliza el tiempo',
+          'T_SORRY_THIS_FE2' => 'Lo lamento, esta opción sólo está disponible en esta versión del software.',
+          'T_SORRY_THIS_FE' => 'Lo lamento, esta opción sólo está disponible en esta versión del software.',
+          'T_1_MINUTES' => '10 minutos',
+          'T_WHICH' => 'Qué ',
+          'T_THAT_CAN_USE' => ' que pueden utilizar el intercomunicador',
+          'T_2_MINUTES' => '2 minutos',
+          'T_WHATS_THIS2' => '¿Qué es esto?',
+          'T_THIS_FEATURE_A' => 'Esta función permite que una extensión marque directamente el número del intercomunicador de otra extensión.',
+          'T_5_MINUTES' => '5 minutos',
+          '__INCLUDES' => [
+                            'incl_header',
+                            '../common/incl_permission_settings',
+                          ],
+          'T_CREATE_INTERCOM' => 'Crear grupo de intercomunicador',
+          'T_3_MINUTES' => '3 minutos',
+          'T_MORE_ABOUT_USI' => 'Más información acerca del uso del intercomunicador',
+          'T_CAN_THEY' => ' pueden utilizar el intercomunicador',
+          'T_INTERCOM_SETTIN' => 'Configuración del intercomunicador',
+          'T_1_MINUTE' => '1 minuto',
+          'T_3_SECONDS' => '30 segundos',
+          'T_INTERCOM_USERS' => 'Usuarios y administradores de intercomunicadores',
+          'T_WHATS_THIS' => '¿Qué es esto?'
+        };

@@ -1,0 +1,4 @@
+$VAR1 = {
+          'T_CUSTOM_VOICEMAI2' => 'E-mail segreteria personalizzate',
+          'T_VOICEMAIL_FORWA2' => 'Inoltro segreteria'
+        };

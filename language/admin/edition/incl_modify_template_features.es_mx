@@ -1,0 +1,4 @@
+$VAR1 = {
+          'T_CUSTOM_VOICEMAI2' => 'Personalizar correo electrónico del buzón de voz',
+          'T_VOICEMAIL_FORWA2' => 'Desvío de buzón de voz'
+        };

@@ -1,0 +1,11 @@
+$VAR1 = {
+          'T_NBSPNBSPREC2' => 'Grabar sonido desde la extensión',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_THE_PHONE' => 'El teléfono de la extensión',
+          'T__SHOULD_NOW_BE2' => 'debería estar sonando ahora.',
+          'T_PLEASE_ANSW' => 'Por favor, conteste al teléfono y siga las instrucciones mencionadas. Cuando se haya completado la grabación de su mensaje, haga clic en el botón "Finalizado" situado debajo',
+          'T_DONE2' => 'Finalizado',
+          'T_EXAMPLE_SOU' => 'Ejemplo de contenido de sonido'
+        };

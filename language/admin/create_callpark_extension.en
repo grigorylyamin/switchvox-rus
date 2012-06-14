@@ -1,0 +1,22 @@
+$VAR1 = {
+          'T_CREATE_EXTENSIO6' => 'Create Extension',
+          'T_SECONDS4' => 'seconds.',
+          'CCE_CALLPARK_CONFLICT' => 'The extension range you entered conflicts with the extensions listed below. Enter a different range of extensions, or go to <a href="/admin?cmd=view_extensions">Manage Extensions</a> to change these extensions.',
+          'T_MODIFY_EXTENSIO5' => 'Modify Extension',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'CBI_CONFLICTING_EXTENSI' => 'Conflicting Extensions:',
+          'T_RETURN_PARKED' => 'Return parked calls to the extension that parked the call after',
+          'T_THROUGH' => 'through',
+          'T_DIGITS_IN_LENGT4' => 'digits in length',
+          'T_PARKING_LOT_W' => 'Parking lot will reserve all extensions between',
+          'T_CALL_PARKING_EX' => 'Call Parking Extension',
+		  'T_MODIFY_CALLPARK_EXTENSION' => 'Modify Call Parking Extension',
+		  'T_CREATE_CALLPARK_EXTENSION' => 'Create Call Parking Extension',
+		  'T_EXTENSION' => 'Extension',
+		  'T_EXTENSION_RANGE_1' => 'Parking lot will reserve all extensions between ',
+		  'T_EXTENSION_RANGE_2' => 'and ',
+		  'T_EXTENSION_SECONDS_1' => 'Return parked calls to the extension that parked the call after ',
+		  'T_EXTENSION_SECONDS_2' => 'seconds',
+        };

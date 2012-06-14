@@ -1,0 +1,8 @@
+$VAR1 = {
+          'T_NORMAL_PERMISSION' => 'Voci Permessi normale',
+          '__INCLUDES' => [],
+          'T_DRAG_EXTENSIONS' => 'Trascina estensioni numeri esterni qui per i permessi normali',
+          'T_DRAG_PHONE_EXTE' => 'Trascina le estensioni telefoniche che richiedono permessi estesi qui',
+          'T_RELOADING_PA3' => 'Riavvio della pagina per recupero di nuove righe. Attentere.',
+          'T_NBSPEXTENDE' => 'Voci Permessi estesi'
+        };

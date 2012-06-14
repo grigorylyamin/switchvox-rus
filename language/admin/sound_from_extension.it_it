@@ -1,0 +1,9 @@
+$VAR1 = {
+          'T_SHOULD_NOW_BE' => 'non dovrebbe squillare.',
+          'T_SAVE_SOUND' => 'Salva audio',
+          'T_REC_SOUND' => 'Registra audio da estensione',
+          'T_THE_PHONE' => 'Il telefono all\'estensione',
+          'T_PLEASE_ANSW' => 'Rispondere al telefono e seguire le istruzioni pronunciate.',
+          'T_WHEN_COMPLETED' => 'Una volta completata la registrazione del messaggio assicurarsi di aver cliccato sul pulsante "Salva audio" sotto.',
+          'T_SOUND_DESCRIPTI' => 'Descrizione audio'
+        };

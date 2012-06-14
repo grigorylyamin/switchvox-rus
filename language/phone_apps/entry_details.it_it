@@ -1,0 +1,13 @@
+$VAR1 = {
+          'T_ADDITIONAL_NUMS' => 'Numeri aggiuntivi',
+          'T_NUM' => 'Numero',
+          '__INCLUDES' => [
+                            'incl_softkeys',
+                            'incl_error_header'
+                          ],
+          'T_ENTRY_DETAILS' => 'Dettagli voce',
+          'T_TYPE' => 'Tipo voce',
+          'T_EMAIL' => 'E-mail',
+          'T_BACK_TO_LIST' => 'Torna a Elenco voci',
+          'T_NAME' => 'Nome'
+        };

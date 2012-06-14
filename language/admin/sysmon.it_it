@@ -1,0 +1,7 @@
+$VAR1 = {
+          'T_TO_DIAGNOSE_AN' => 'Per diagnosticare qualsiasi problema verificatosi nel sistema di telefonia, controllare il registro errori. Le notifiche vengono visualizzate su uno sfondo bianco, gli avvisi su sfondo giallo e gli errori più gravi su sfondo rosso. Ordina gli errori cliccando sulle intestazioni delle colonne. Per trovare gli errori velocemente, provare a ordinare per "tipo".',
+          'T_USER_TIP' => 'Suggerimento utente',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ]
+        };

@@ -1,0 +1,16 @@
+$VAR1 = {
+          'T_VIEW3' => 'Visualizza',
+          'T_CHOOSE_TE' => 'Scegli modello:',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ],
+          'T_VOICEMAIL_EMAIL2' => 'Modelli e-mail di segreteria',
+          'T_YOU_ARE_CURR' => 'Si sta utilizzando un server di segreteria esterno. A causa di questo, molte delle impostazioni di questa pagina sono disabilitate.',
+          'T_TEMPLATE2' => 'Nome modello:',
+          'T_CREATE_NEW2' => 'Crea',
+          'T_VOICEMAIL_TEMPLATES' => 'Modelli di notifica',
+          'T_CREATE_A_NEW_VO2' => 'Crea modello di notifica',
+          'T_DELETE2' => 'Elimina',
+          'T_EDIT2' => 'Modifica',
+          'T_MODIFY_EXISTING' => 'Modifica modelli esistenti'
+        };

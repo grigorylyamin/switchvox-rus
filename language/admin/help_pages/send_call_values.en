@@ -1,0 +1,30 @@
+$VAR1 = {
+          'T_THE_FOLLOWING3' => 'The following is a sample DTD for the XML response from the server',
+          'T_THIS_ACTION_TAK' => 'This action takes specific call values (previously recorded digits, caller ID, call destination, etc.) 
+and passes the values to a URL. The return value of this URL is an XML
+DTD that is interpreted and the values saved in defined variables that can be used in
+other IVR actions. 
+Enter the full URL path to the CGI program to which you want the IVR to pass data.
+IVR and system variables to pass to the URL may be selected from their respective
+drop-down menus. Clicking their Append buttons appends the variable name to the
+end of your URL enclosed with percent signs (%). When this URL is submitted the
+percent signs and variable names are replaced with their corresponding values. For
+example,',
+          'T_LT_SWITCH' => '&lt;!-- Switchvox PBX IVR xml DTD --&gt;',
+          'T_LTATTLIST_V' => '&lt;!ATTLIST variable name CDATA #REQUIRED&gt;',
+          'T_LTIVR_INFO' => '&lt;/ivr_info&gt;',
+          'T_NBSPNBSPN' => '&nbsp;&nbsp;&nbsp;&nbsp;&lt;variable name="route"&gt;119&lt;/variable&gt;',
+          'T_LTXML_VERS' => '&lt;?xml version="1.0" encoding="ISO-8859-1"?&gt;',
+          'T_LTDOCTYPE_I' => '&lt;!DOCTYPE ivr_info SYSTEM "http://www.switchvox.com/xml/ivr.dtd"&gt;',
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ],
+          'T_LTXML_VERSI' => '&lt;?xml version="1.0"?&gt;',
+          'T_HTTPWWWMYDO' => 'http://www.mydomain.com/cgi-bin/app.cgi?account=%ACCOUNT%&digits=%PIN%',
+          'T_THE_CGI_URL_RE' => 'The CGI URL returns valid XML containing any variables and their corresponding
+values. However, to use these variables in other IVR actions you must predefine
+them.',
+          'T_LTIVR_INFOG' => '&lt;ivr_info&gt;',
+          'T_THE_FOLLOWING4' => 'The following is a sample XML response:'
+        };

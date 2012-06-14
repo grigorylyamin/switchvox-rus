@@ -1,0 +1,6 @@
+$VAR1 = {
+          'T_DATETIME_TO_SA' => 'data/ora da pronunciare',
+          'T_EG' => 'Ad es.',
+          'T_DATE_FORMAT' => 'Formato data',
+          'T_ACTION_TYPE9' => 'Tipo azione'
+        };

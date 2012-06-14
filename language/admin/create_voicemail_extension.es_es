@@ -1,0 +1,17 @@
+$VAR1 = {
+          'T_WHAT_DOES_THIS7' => '¿Qué significa esto?',
+          'T_SAVE_EXTENSION' => 'Guardar extensión',
+          'T_DIGITS_IN_LENGT5' => 'dígitos de longitud',
+          'T_MODIFY_EXTENSIO6' => 'Modificar extensión',
+          'T_CREATE_VOICEMAIL_EXTENSION' => 'Crear extensión de mensaje de voz',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ],
+          'T_VOICEMAIL_ACC' => 'Extensión de acceso a mensajes del buzón de voz',
+          'T_CREATE_EXTENSIO7' => 'Crear extensión',
+          'T_DO_NOT_REQUIRE3' => 'No solicitar contraseña siempre que la persona que llama lo haga desde su propia extensión',
+          'T_THIS_EXTENSIO2' => 'Esta extensión puede marcarse desde un IVR.',
+          'T_EXTENSION' => 'Extensión',
+          'T_REQUIRE_PASSWORD' => 'Se necesita contraseña',
+          'T_MODIFY_VOICEMAIL_EXTENSION' => 'Modificar la extensión del buzón de voz'
+        };

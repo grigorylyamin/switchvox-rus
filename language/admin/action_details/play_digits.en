@@ -1,0 +1,5 @@
+$VAR1 = {
+          'T_DTMF_DIGITS_TO' => 'DTMF Digits to Play',
+          'T_ACTION_TYPE25' => 'Action Type',
+          'T_VARIABLE22' => '(Variable)'
+        };

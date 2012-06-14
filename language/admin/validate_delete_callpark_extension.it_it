@@ -1,0 +1,7 @@
+$VAR1 = {
+          'T_YES_DELETE_EXT8' => 'Sì, elimina estensione',
+          'T_ARE_YOU_SURE_YO29' => 'Eliminare definitivamente questa area parcheggio chiamate',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ]
+        };

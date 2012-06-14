@@ -1,0 +1,14 @@
+$VAR1 = {
+          'T_SAVE_AGENT_SETT' => 'Guardar configuración de agentes',
+          'T_NUMBER_OF_MISSE' => 'Número de llamadas perdidas antes de desconexión automática',
+          'T_NONBSPNBSP' => 'No',
+          'T_WHAT_DOES_THIS3' => '¿Qué significa esto?',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_YESNBSPNBSP' => 'Sí',
+          'T_WHAT_DOES_THIS4' => '¿Qué significa esto?',
+          'T_WHAT_IS_A_CALL' => '¿Qué es un agente de cola de llamadas?',
+          'T_CUSTOMIZE_THE_S' => 'Personalice la configuración de sus agentes de colas de llamadas. Si tiene varias colas de llamadas, esta configuración se aplicará a todas ellas.',
+          'T_ACKNOWLEDGE_CAL' => 'Confirmar llamada'
+        };

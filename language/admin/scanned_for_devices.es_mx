@@ -1,0 +1,12 @@
+$VAR1 = {
+          'T_COMPLETED' => 'Completado.',
+          'T_NEW_DEVICES' => 'nuevos dispositivos.',
+          'T_FOUND_1_NEW_DEV' => 'Se encontró 1 nuevos dispositivo',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_BACK_TO_HARDWAR' => 'Volver a Configuración de hardware',
+          'T_SCANNING_C' => 'Exploración completada. No se pudo detectar ningún nuevo dispositivo de hardware en su sistema.',
+          'T_FOUND' => 'Encontrado',
+          'T_PLEASE_PRESS' => 'Pulse el botón Atrás para volver a la página principal de configuración de hardware.'
+        };

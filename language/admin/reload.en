@@ -1,0 +1,14 @@
+$VAR1 = {
+          'T_THIS_WILL_TURN4' => 'This will turn off your PBX.',
+          'T_SERVER_REBOOT' => 'Server Reboot',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_THIS_RELOADS_TH' => 'This reloads the configuration of the software without a restart. This will not drop any calls.',
+          'T_SOFTWARE_RESTAR' => 'Software Restart',
+          'T_THIS_RESTARTS' => 'This restarts all of the software on the PBX. This will drop all current calls.',
+          'T_THIS_WILL_TURN3' => 'This will turn off your PBX and then turn it back on. This will drop all current calls.',
+          'T_SERVER_SHUT_DOW' => 'Server Shut Down',
+          'T_SOFTWARE_RELOAD' => 'Software Reload',
+          'T_SYSTEM_RELOAD' => 'System Reload',
+        };

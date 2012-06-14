@@ -1,0 +1,15 @@
+$VAR1 = {
+          'T_FOR_A_MORE_DETA' => 'For a more detailed analysis of the problem, click on the',
+          'T_CHECK_YOUR_INTE' => 'Check your Internet connection. If your phone system does not have access to the Internet then it can not properly connect to your SIP provider.',
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ],
+          'T_WHY_SIP_PROVIDE2' => 'Why SIP Providers could be in',
+          'T_AN' => 'an',
+          'T_MAKE_SURE_YOUR' => 'Make sure your SIP provider host name is entered correctly and your phone system can resolve the host name. If your host is wrong you might want to check your error log for any Warnings that tell you of a bad host. Example: "No such host: swtichvox.com" or "Unable to lookup \\\'swtichvox.com\\\'".',
+          'T_DIAGNOSE' => 'Diagnose',
+          'T_BUTTON' => 'button',
+          'T_UNREACHABLE_ST' => 'Unreachable State.',
+          'T_MAKE_SURE_YOU_E' => 'Make sure you entered your provider number or password in correctly.'
+        };

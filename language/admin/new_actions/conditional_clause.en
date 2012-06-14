@@ -1,0 +1,15 @@
+$VAR1 = {
+          'T_DOES_NOT_EQUAL' => 'Does Not Equal',
+          '__INCLUDES' => [
+                            'new_actions/incl_back_button',
+                            'new_actions/incl_button'
+                          ],
+          'T_IS_LESS_THAN' => 'Is Less Than',
+          'T_AT_ENTRY_POINT' => 'At Entry Point',
+          'T_IF' => 'If',
+          'T_IS_GREATER_THAN' => 'Is Greater Than',
+          'T_IVR_MENU_BEGINN3' => 'IVR Menu Beginning',
+          'T_THEN_GO_TO_IVR' => 'Then Go To IVR Menu',
+          'T11' => 'More About Conditional Clause',
+          'T_EQUALS' => 'Equals'
+        };

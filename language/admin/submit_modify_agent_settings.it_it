@@ -1,0 +1,6 @@
+$VAR1 = {
+          'SMAS_PE_MOH_GROUP' => ' È possibile scegliere un gruppo di musica di attesa',
+          'SMAS_PE_AUTO_LOG' => 'Secondi prima della disconnessione automatica deve essere 0-999 secondi.',
+          'SMAS_PE_ACK_CALL' => 'Accettazione della chiamata deve essere sì o no',
+          'SMAS_PE_WRAPUP' => 'Tempo di wrap-up deve essere 0-99 secondi'
+        };

@@ -1,0 +1,9 @@
+$VAR1 = {
+          'T_YES_DELETE_TIM2' => 'Yes, Delete Time Frame',
+          'T_ARE_YOU_SURE_YO32' => 'Are you sure you want to permanently delete this Time Frame',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'VDTG_PE_D' => 'Group ID is missing',
+		  'PAGE_TITLE_VAL_D_TF'   => 'Delete Time Frame'
+ };

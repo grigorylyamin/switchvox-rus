@@ -1,0 +1,7 @@
+$VAR1 = {
+          'T_IN_ORDER_TO_E' => 'Per garantire il funzionamento corretto di Switchboard è richiesta l\'ultima versione di Adobe Flash Player. L\'ultima versione di flash può essere scaricata gratuitamente al seguente collegamento',
+          'T_CLOSE_WINDOW2' => 'Chiudi finestra',
+          'T_ADOBE_FLASH_PLA' => 'Adobe Flash Player',
+          'T_I_AM_SORRY_Y' => 'La versione di flash utilizzata è incompatibile con questa versione di Switchboard.',
+          'T_SWITCHBOARD3' => 'Switchboard'
+        };

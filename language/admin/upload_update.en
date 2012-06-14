@@ -1,0 +1,7 @@
+$VAR1 = {
+          'T_UPLOAD' => 'Upload',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_UPLOAD_UPDATE' => 'Upload Update File'
+        };

@@ -1,0 +1,9 @@
+$VAR1 = {
+          'T_THE_SOUND_MANAG' => 'The Sound Manager allows you to create and manage messages for your IVRs and call queues. The sounds may be uploaded or recorded over any phone on the PBX.',
+          'T_PLEASE_NOTE_TH' => 'Please note that the files that you upload must be in WAV (.wav) or GSM (.gsm) format.',
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ],
+          'T_IF_YOUR_BUSINE' => 'If your business would like to accommodate multiple languages, the sound manager makes it easy to duplicate your messages in as many languages as needed.'
+        };

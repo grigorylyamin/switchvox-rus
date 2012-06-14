@@ -1,0 +1,11 @@
+$VAR1 = {
+          'T_THEN_GO_TO_IVR2' => 'Then Go To IVR Menu',
+          'T_IF_THE_CURRENT' => 'If the current time is within the time range',
+          'T_IVR_MENU_BEGINN4' => 'IVR Menu Beginning',
+          '__INCLUDES' => [
+                            'new_actions/incl_button',
+							'new_actions/incl_tabletitle'
+                          ],
+          'T_AT_ENTRY_POINT2' => 'At Entry Point',
+          'T_ALWAYS8' => 'Always'
+        };

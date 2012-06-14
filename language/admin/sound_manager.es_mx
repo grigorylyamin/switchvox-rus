@@ -1,0 +1,28 @@
+$VAR1 = {
+          'T_FOLDER2' => 'Carpeta ',
+          'T_ADD_NEW2' => 'Crear:',
+          'T__DEFAULT_LANGU' => 'idioma predeterminado',
+          'T_SOUND' => 'Sonido',
+          'T_SOUND_PACK' => 'Paquete de sonidos',
+          'T_ALL_SOUND_PACKS' => 'Todos los paquetes de sonidos',
+          'T_ALL_SOUNDS' => 'Todos los sonidos',
+          'T_FILES' => 'archivos',
+          'T_DELETE10' => 'Eliminar',
+          'T_WARNING' => 'ADVERTENCIA',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ],
+          'T_LANGUAGE2' => 'Idioma',
+          'T_TELL_ME_MORE_A12' => 'Más información sobre el Administrador de sonidos',
+          'JFY_CHANGING_THE_DEFAULT' => 'Cambiar de forma automática el idioma por omisi?n provoca que el PBX se reinicie. Se perderán todas las llamadas  actuales y los miembros se desconectarán de todas sus colas.',
+          'T_SOUND_MGR' => 'Administrador de sonidos',
+          'T_CREATE_AND_MA' => 'Cree y gestione las grabaciones de sus sistemas IVR y colas de llamadas.',
+          'T_FOLDER_LISTINGS' => 'Listados de carpetas',
+          'T_VIEW9' => 'Visualizar',
+          'T_ALL_FOLDERS' => 'Todas las carpetas',
+          'T_ALL_LANGUAGES' => 'Todos los idiomas',
+          'T_DELETE_CHECKED' => 'Eliminar seleccionados',
+          'T_MOVE_TO' => 'Mover a ',
+          'T_GO5' => 'Ir',
+          'T_MOVE_CHECKED' => 'Mover seleccionados a carpeta'
+        };

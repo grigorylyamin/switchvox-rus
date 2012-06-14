@@ -1,0 +1,12 @@
+$VAR1 = {
+          'T_AGENT_LOG_IN2' => 'Agent Log In',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_DIGITS_IN_LENGT2' => 'digits in length',
+          'T_CREATE_EXTENSIO4' => 'Create Extension',
+          'T_AGENT_LOG_OUT2' => 'Agent Log Out',
+          'T_EXTENSION3' => 'Extension',
+          'T_DIRECTORY' => 'Directory',
+          'T_DIAL_TONE' => 'Dial Tone'
+        };

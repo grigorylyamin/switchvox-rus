@@ -1,0 +1,24 @@
+$VAR1 = {
+          'T_LOADING_SWITCHB' => 'Caricamento di Switchboard',
+          'T_MY_PRESENCE' => 'Presenza personale',
+          'T_MY_LOCATION' => 'Telefono personale',
+          'T_AWAY' => 'Assente',
+          'T_DO_NOT_DISTURB' => 'Non disturbare',
+          'T_SWITCHBOARD_E' => 'Switchboard - Estensione',
+          'T_OPTIONS' => 'Opzioni',
+          'T_EMPTY_WINDOW4' => 'Finestra vuota',
+          'T_CHATTY' => 'In chat',
+          'T_SAVING_YOUR_SWI' => 'Salvataggio layout di Switchboard',
+          '__INCLUDES' => [
+                            'sbpanels/chatbox',
+                            'sbpanels/current_calls',
+                            'sbpanels/directory',
+                            'sbpanels/rapid_dial'
+                          ],
+          'T_PANEL_SETTINGS3' => 'Impostazioni pannello',
+          'T_SAVE_LAYOUT' => 'Salva layout',
+          'T_VOICEMAIL_NOT_U' => 'Segreteria non aggiornata',
+          'T_AVAILABLE' => 'Disponibile',
+          'T_PANELS' => 'Pannelli',
+          'T_EXTENDED_AWAY' => 'Assenza prolungata'
+        };

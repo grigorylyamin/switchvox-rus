@@ -1,0 +1,7 @@
+$VAR1 = {
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ],
+          'T_PLEASE_CONSULT' => 'Consulare il manuale sull\'interazione con API.'
+        };

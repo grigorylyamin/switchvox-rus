@@ -1,0 +1,6 @@
+$VAR1 = {
+          'T_WARNING_DISK_FULL' => 'Disk Status',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+        };

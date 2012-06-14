@@ -1,0 +1,1 @@
+Object.extend(switchvox.lang._LANG.keys,{T_MUSIC_ON_H:["Música en espera"],MOH_PAGE_DESC:["El administrador de música en espera le permite crear grupos de música, cargar nuevas canciones, gestionar el orden de reproducción y otras opciones."],TEST:["I have %s test.","I have %s tests."]});

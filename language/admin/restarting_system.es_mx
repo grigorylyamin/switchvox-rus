@@ -1,0 +1,7 @@
+$VAR1 = {
+          'T_RESTARTING_YO' => 'Reiniciar su sistema telefónico puede tardar unos minutos. Por favor, aguarde y no actualice esta página.',
+          'T_RESTARTING_SYSTEM' => 'Reiniciando sistema',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ]
+        };

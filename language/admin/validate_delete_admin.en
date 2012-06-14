@@ -1,0 +1,7 @@
+$VAR1 = {
+          'T_YES_DELETE_ADM' => 'Yes, Delete Admin',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_ARE_YOU_SURE_YO21' => 'Are you sure you want to permanently delete this admin account '
+        };

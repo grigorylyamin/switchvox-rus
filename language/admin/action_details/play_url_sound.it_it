@@ -1,0 +1,6 @@
+$VAR1 = {
+          'T_ACTION_TYPE40' => 'Tipo azione',
+          'T_VARIABLE31' => '(Variabile)',
+          'T_INTERRUPTIBLE3' => 'Interrompibile',
+          'T_URL_OF_SOUND_TO' => 'URL di audio da riprodurre'
+        };

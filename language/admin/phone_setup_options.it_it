@@ -1,0 +1,10 @@
+$VAR1 = {
+          'PSO_PHONE_SETUP_OPTIONS' => 'Opzioni impostazioni telefono',
+          'PSO_NTP_OPTS' => 'Opzioni NTP',
+          'PSO_ALT_HOST_OPT' => 'Opzione predefinita host alternativo',
+          'PSO_DIGIT_MAP_OPTIONS_DESC' => 'Questi valori verranno utilizzati per generare la mappatura cifre dei telefoni. La maggior parte delle impostazioni non richiedono una modifica dei valori in questo momento. Consultare il manuale o il supporto clienti prima di cambiare una di queste opzioni.',
+          'PSO_CUST_DM_DESC' => 'Se si desidera specificare un tipo di mappatura cifre personalizzata da utilizzare sul proprio telefono, inserirla qui sotto. (Lasciare vuoto se non si è sicuri).',
+          'PSO_SEC_OPT' => 'Opzione sicurezza',
+          'PSO_DIGIT_MAP_OPTS' => 'Opzioni mappatura cifre',
+          'PSO_PHONE_DISCOVERY_OPTS' => 'Opzioni individuazione telefono'
+        };

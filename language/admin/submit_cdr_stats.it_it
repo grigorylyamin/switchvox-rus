@@ -1,0 +1,6 @@
+$VAR1 = {
+          'T_BACK_TO_SETTING3' => 'Torna a impostazioni',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ]
+        };

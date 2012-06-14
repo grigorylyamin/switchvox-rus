@@ -1,0 +1,12 @@
+$VAR1 = {
+          'T_YES_DELETE_EXT7' => 'Yes, Delete Extension',
+          'T_TO_ARCHIVE_THE' => 'To archive the voicemail messages and faxes for this extension, click "Download Voicemail/Fax Archive" before you click "Yes, Delete Extension".',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_DOWNLOAD_VOICEM' => 'Download Voicemail/Fax Archive',
+          'T_ARE_YOU_SURE_YO25' => 'Are you sure you want to permanently delete this extension',
+          'T_WARNING25' => 'WARNING',
+          'T_TO_MOVE_A_US' => 'If you are changing a person\'s extension number, we recommend that you first create his or her new extension and forward all voicemail messages and faxes from this extension to the new extension. Then you can delete this extension.',
+          'T_DELETING_THIS4' => 'Deleting this extension will delete all voicemail messages and faxes in this extension\'s mailbox.'
+        };

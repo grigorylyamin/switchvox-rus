@@ -1,0 +1,21 @@
+$VAR1 = {
+          'T_WHICH_ACTION_SH' => 'Which action should it start playing?',
+          'T_CREATE_IVR_TITLE' => 'Create IVR Extension',
+          'T_MODIFY_IVR_TITLE' => 'Modify IVR Extension',
+          'T_ALWAYS_CONTEXT' => 'IVR Menu Beginning',
+          'T_CONTEXT_ENTRY_P' => 'IVR Menu Entry Point',
+          'PE_CHOOSE_ACTION' => 'You must choose a valid IVR starting action.',
+          'T_CREATE_EXTENSIO' => 'Create Extension',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_CONTEXT_NAME' => 'IVR Menu Name',
+          'T_CHOOSE_CONTEXT' => 'You must choose a valid IVR Menu or create a new one using the IVR Editor.',
+          'PE_CHOOSE_CONTEXT' => 'You must choose a valid IVR Menu.',
+          'T_WHAT_DOES_THIS' => 'What does this mean?',
+          'T_WHICH_IVR_SHOUL' => 'Which IVR should this extension play?',
+          'T_CAN_IVR_DIAL' => 'This extension can be dialed from an IVR.',
+          'T_DIGITS_IN_LENGT6' => 'digits in length',
+          'T_MODIFY_EXTENSIO' => 'Modify Extension',
+          'T_IVR_EXTENSION' => 'IVR Extension'
+        };

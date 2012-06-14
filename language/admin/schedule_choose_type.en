@@ -1,0 +1,11 @@
+$VAR1 = {
+          'T_CALL_LOG2' => 'Call Log',
+          'T_REPORT_TYPE' => 'Report Type',
+          'T_CALL_REPORT' => 'Call Report',
+          'T_QUEUE_REPORT' => 'Queue Report',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_WHAT_DO_THESE_T' => 'What do these types mean?',
+          'T_CREATE_A_SCHEDU' => 'Create a Scheduled Report'
+        };

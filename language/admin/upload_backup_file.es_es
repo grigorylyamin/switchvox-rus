@@ -1,0 +1,13 @@
+$VAR1 = {
+          'T_UPLOAD_AND_REST' => 'Cargar y restaurar la copia de seguridad',
+          'T_SYSTEM_REGISTRA' => 'Página de Registro del sistema',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_YOUR_CURRENT_P' => 'Su configuración actual del PBX se sobrescribirá con los contenidos del archivo de copia de seguridad que cargue. Al aplicar una copia de seguridad, el PBX quedará desconectado durante un par de minutos mientras se carga y procesa la copia de seguridad. Esto hará que se pierdan todas las llamadas del sistema y que los agentes queden desconectados de sus colas.',
+          'T_YOUR_PHONE_SYST' => 'Su sistema telefónico aún no ha sido registrado y no puede aplicar copias de seguridad a un sistema no registrado.',
+          'T_WARNING27' => 'ADVERTENCIA',
+          'T__THANK_YOU' => '. Gracias.',
+          'T_TO_REGISTER_YOU' => 'Para registrar su PBX, visite ',
+          'T_BACKUP_FILE' => 'Archivo de copia de seguridad'
+        };

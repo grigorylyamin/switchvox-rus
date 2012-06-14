@@ -1,0 +1,6 @@
+$VAR1 = {
+          'T_ACCEPT' => 'Accetto questo accordo',
+          '__INCLUDES' => [
+                            'incl_header_nonav',
+                          ]
+        };

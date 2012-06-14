@@ -1,0 +1,5 @@
+$VAR1 = {
+          'T_ACTION_TYPE42' => 'Action Type',
+          'T_BEEP' => 'Beep',
+          'T_RECORDED_DIGITS2' => 'Recorded Digits Variable Name'
+        };

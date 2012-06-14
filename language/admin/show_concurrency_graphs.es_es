@@ -1,0 +1,12 @@
+$VAR1 = {
+          'ZOU_FOR_THE_PAST_HOUR' => ' durante la hora anterior',
+          'DGD_FOR_THE_PAST_YEAR' => ' para el ano anterior',
+          'FPX_FOR_THE_PAST_SIX' => ' para las 6 horas anteriores',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'AOP_FOR_THE_PAST_WEEK' => ' para la semana anterior',
+          'AXC_FOR_THE_PAST_DAY' => ' para el dia anterior',
+          'UXH_COMBINED_CONCURRENT' => 'Llamadas simultaneas combinadas para el dia anterior',
+          'OAP_FOR_THE_PAST_MONTH' => ' para el mes anterior'
+        };

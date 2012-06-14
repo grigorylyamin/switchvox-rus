@@ -1,0 +1,12 @@
+Object.extend(switchvox.lang._LANG.keys,{UPT_SWITCHBOARD_PANELS:["Switchboard Panels"],
+STANDARD_BLURB:["Switchboard Plugins let you add powerful panels to the Switchboard. These panels let you exchange data with external Web applications, then display the results. The panels refresh each time a call comes in, showing caller-specific information."],
+CUSTOM_BLURB:["Custom panels let you build your own panel that integrates with any Web application you choose. You can build the URL with Switchvox variables, which pass caller data to the application."],
+PT_STANDARD:["Standard"],
+PT_CUSTOM:["Custom"],
+PTS_PANELS:["Switchboard Panels"],
+T_CREATE_CUSTOM_PANEL:["Create Custom Panel"],
+T_CUSTOM_PANELS:["Custom Panels"],
+T_NO_CUSTOM_PANELS:["No Custom Panels"],
+COL_PANEL_NAME:["Panel Name"],
+COL_DESCRIPTION:["Panel Description"],
+COL_MODIFY_DELETE:["Modify / Delete"]});

@@ -1,0 +1,11 @@
+$VAR1 = {
+          'T_AFTER_YOU_HAVE' => 'Después de finalizar la creación de un nuevo grupo, puede cargar archivos y colocarlos en el nuevo grupo.',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_CREATE_MUSIC_ON' => 'Crear grupo de música en espera',
+          'T_BACK_TO_MUSIC_O' => 'Regresar a la página principal de música en espera',
+          'T_YOU_CAN_CREATE2' => 'Puede crear un nuevo grupo haciendo clic en el botón "Crear grupo de música en espera", situado más abajo.',
+          'T_YOU_MUST_FIRST2' => 'En primer lugar, debe crear un Grupo de música en espera antes de poder cargar cualquier archivo en el sistema.',
+          'T_NOTE32' => 'NOTA'
+        };

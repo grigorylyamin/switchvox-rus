@@ -1,0 +1,10 @@
+$VAR1 = {
+          'T_IVR_MENU_EN' => 'Punto di ingresso Menu IVR',
+          'T_NEW_IVR_MENU' => 'Nuovo menu IVR',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_MODIFY_OPTION' => 'Modifica opzione',
+          'T_ADD_NEW_OPTION' => 'Aggiungi nuova opzione',
+          'T_OPTION_NUMBER' => 'Numero di opzione'
+        };

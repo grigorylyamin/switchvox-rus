@@ -1,0 +1,8 @@
+$VAR1 = {
+          'T_UPLOAD_A_NEW_SO' => 'Cargar un nuevo paquete de sonidos',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_ADD_SOUND_PACK' => 'Añadir paquete de sonidos',
+          'T_UPLOAD_FILE5' => 'Cargar archivo'
+        };

@@ -1,0 +1,22 @@
+$VAR1 = {
+          'T_CREATE_VM_TEMPLATE' => 'Create Notification Template',
+          'T_MODIFY_VM_TEMPLATE' => 'Modify Notification Template',
+          'T_TEMPLATE_NAME' => 'Template Name',
+          'T_SUBJECT2' => 'Subject',
+          'T__RECIPIENTS2' => '- Recipient\'s firstname and lastname',
+          'T_RESTORE_TO_ORIG' => 'Restore to Original Template',
+          'T_MODIFY_VOICEMAI3' => 'Save Template',
+          'T__A_URL_TO_THE4' => '- A URL to download the message and delete it from the recipient\'s mailbox.',
+          'T_YOU_CAN_USE2' => 'Each variable is substituted with its real value when the email is sent.',
+          'T__THE_DATE_AND2' => '- The date and time the message was left',
+          'T__THE_DURATION2' => '- The duration of the voicemail message',
+          'T__A_URL_TO_THE3' => '- A URL to download the message',
+          'T__THE_RECIPIEN2' => '- The recipient\'s extension',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_BELOW_YOU_CAN_T2' => 'Below you can customize the template that is sent to the extension-owner when they recieve a notification.',
+          'T__THE_CALLER_I2' => '- The caller ID of the person who left the message',
+          'T_SAVE_TEMPLATE2' => 'Save Notification Template',
+          'T_RESTORE_TEMPLATE' => 'Are you sure you want to restore the template?'
+        };

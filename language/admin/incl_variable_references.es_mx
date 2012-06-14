@@ -1,0 +1,13 @@
+$VAR1 = {
+          'T_VARIABLE_NAME4' => 'Nombre de la variable',
+          'T_NOTE31' => 'NOTA',
+          'T_IS_NOT_REFEREN' => 'no hace referencia a ningún otro punto del sistema. Al eliminar esta acción, esta variable también se eliminarán del sistema.',
+          'T_ACTIONS_THAT_RE' => 'Las acciones que hacen referencia a esta variable',
+          'T_ORDER2' => 'Orden',
+          'T_THE_VARIABLE5' => 'La variable',
+          'T_WARNING30' => 'ADVERTENCIA',
+          'T_IVR_MENU2' => 'Menú IVR',
+          'T_THIS_ACTION_US' => 'Esta acción utiliza una variable a la que hacen referencia otras acciones. A continuación aparece una lista del resto de acciones que hacen referencia a esta variable.',
+          'T_ACTION4' => 'Acción',
+          'T_ARGUMENTS' => 'Argumentos'
+        };

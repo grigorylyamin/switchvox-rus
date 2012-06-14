@@ -1,0 +1,31 @@
+##This file was auto generated##
+my $LANG =
+{
+
+T_MAX_RINGS_PER_MEM => q( 
+<em>Seconds to Ring Each Member</em> is the maximum time (in seconds)
+that a queue member's phone will ring before the queue rings the next
+member of the queue.
+),
+
+T_THINGS_TO_NOTE	=> 'Note',
+
+T_SOME_PHONES_STOP	=> q(
+
+Some phones may stop ringing and give up after some number of seconds or rings.
+If you set this to a large value (above 60) and notice the phones stop before
+that number of seconds, you may look to see if this limit can be increased on
+your phone.
+
+),
+T_IF_THE_QUEUE_ME	=> q(
+
+A user's call rules for queue calls can prematurely stop the queue
+call and send it somewhere else.  For Example: A queue member has a
+call rule that says "Send queue calls to voicemail after 2 rings" and
+the "Seconds to Ring Each Member" is 20 seconds (about 5 rings). When
+this member receives a call from the queue, it will be sent to
+voicemail after 2 rings and NOT to the next member of the queue.
+
+),
+};

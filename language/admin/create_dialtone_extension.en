@@ -1,0 +1,10 @@
+$VAR1 = {
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+		  'T_SAVE_EXTENSION' => 'Save Extension',
+		  'T_MODIFY_DIALTONE_EXTENSION' => 'Modify Dialtone Extension',
+		  'T_CREATE_DIALTONE_EXTENSION' => 'Create Dialtone Extension',
+		  'T_EXTENSION' => 'Extension',
+		  'T_NOMODIFY' => 'This extension does not have any features to be modified.',
+        };

@@ -1,0 +1,20 @@
+$VAR1 = {
+          'T_EXTENSIONS_WITH2' => 'Extensiones con este panel',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_CREATE_CUSTOM_U' => 'Crear panel de URL personalizado',
+          'T_EXTENSIONS_ALLO2' => 'Extensiones que pueden utilizar este panel',
+          'T_SELECT_EXT' => 'Debe seleccionar al menos 1 cuenta en el cuadro de selección "Extensiones con panel".',
+          'T_TELL_ME_A' => ' Más información sobre los paneles personalizados',
+          'T_CREATE_A_CUST' => 'Cree un panel personalizado que haga referencia a servicios web de terceros.',
+          'T_PANEL_SETTINGS4' => 'Configuración del panel',
+          'T_PANEL_NAME' => 'Nombre de panel',
+          'T_PANEL_DESCRIPTI' => 'Descripción del panel',
+          'T_PANEL_URL' => 'URL del panel',
+          'T_ALL_AVAILABLE_A4' => 'Todas las cuentas disponibles',
+          'T_ADD_MEMBER' => 'Añadir miembro',
+          'T_MODIFY_CUSTOM_U' => 'Modificar panel de URL personalizado',
+          'T_SELECT_ALL' => 'Debe seleccionar al menos 1 cuenta en el cuadro de selección "Todas las cuentas disponibles".',
+          'T_REMOVE_MEMBER' => 'Eliminar miembro'
+        };

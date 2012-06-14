@@ -1,0 +1,12 @@
+$VAR1 = {
+          'T_AND_IS_SET_TO' => 'ed è impostato su',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ],
+          'T_ARE_YOU_SURE_YO3' => 'Eliminare definitivamente questa mappatura di modello di e-mail segreteria?',
+          'T_THE_TEMPLATE' => 'Il modello',
+          'T_RECEIVE_WAV_ATT' => 'Ricevere allagati wav.',
+          'T_NOT' => 'non',
+          'T_IS_MAPPED_TO_T' => 'è mappato all\'indirizzo e-mail',
+          'T_YES_DELETE_VOI2' => 'Eliminare mappatura modello e-mail della segreteria'
+        };

@@ -1,0 +1,32 @@
+$VAR1 = {
+          'T_INDIVIDUAL_EXTE2' => 'Individual Extensions',
+          'T_FORWARDING_TYPE2' => 'Forwarding Type',
+          'T_TO_DEFINE_A_SP' => 'To define a specific set of extensions to receive the forwarded voicemail, select',
+          'T__WITH' => '. With',
+          'T_AND_THEN_CHOO' => 'and then choose an Extension Group from the dropdown.',
+          'T_SEND_TO_ALL2' => 'Send to All',
+          'T_TO_SEND_FORWAR' => 'To send forwarded messages to all of the recipients, choose',
+          'T_TO_SPECIFY_AN' => 'To specify an Extension Group to receive the forwarded voicemail, select',
+          'T_DROPDOWN_TO_S' => 'dropdown. To send forwarded messages to one recipient 
+at a time, choose',
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ],
+          'T_ROUND_ROBIN2' => 'Round Robin',
+          'T_PREDEFINED_GROU2' => 'Predefined Group',
+          'T__SWITCHVOX_FOR' => ', Switchvox forwards each 
+message to the next recipient, moving through the list of recipients in the 
+same order as they are listed (in the extensions box above, or in the Extension Group).',
+          'T_YOU_CAN_AUTOMA' => 'You can automatically forward of all of this extension\'s voicemail messages to other
+extensions in Switchvox. This is helpful for generic extensions such as \'Accounting,\'
+or \'Shipping,\' or for queue extensions such as \'Customer Service.\' Callers can leave
+messages on one extension, then those messages are forwarded to the appropriate
+people.',
+          'T_TO_DELETE_EACH' => 'To delete each message from this extension\'s Mailbox after the message is forwarded,
+check the box Delete on Forward.',
+          'T_VOICEMAIL_FORWA5' => 'Voicemail Forwarding',
+          'T_FROM_THE' => 'from the',
+          'T_ROUND_ROBIN3' => 'Round Robin',
+          'T__AND_MOVE_THE' => ', and move the appropriate extensions into the box on the right.'
+        };

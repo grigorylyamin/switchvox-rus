@@ -1,0 +1,6 @@
+$VAR1 = {
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_RUNNING_DIAGN' => 'Ejecutando diagnóstico. Esta operación puede durar unos segundos, espere unos instantes y no actualice esta página.'
+        };

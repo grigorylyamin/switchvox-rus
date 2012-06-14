@@ -1,0 +1,12 @@
+$VAR1 = {
+          'T_BY_DEFAULT_QUE' => 'By default, queues do not ring members who are already on a call.
+This option allows you to override this default behavior and send
+additional queue calls to members that are already on the phone.',
+          'T_NOTE11' => 'Note',
+          'T__YOUR_PHONE_MU' => ': Your phone must be able to support multiple
+simultaneous calls for this feature to work properly.',
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ]
+        };

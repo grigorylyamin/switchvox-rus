@@ -1,0 +1,8 @@
+$VAR1 = {
+          'T_REPORT_THIS_ERR' => 'Notifica questo errore',
+          'T_YOU_HAVE_ENCOU' => 'Si è verificato un errore interno con la suite degli strumenti di amministrazione.  Cliccare sul pulsante "Notifica questo errore" qui sotto per inviare questo errore e le informazioni per contribuire alla risoluzione dell\'errore nel futuro o cliccare su "Ignora questo errore" per tornare al menu principale senza notificare l\'errore.',
+          'T_IGNORE_THIS_ERR' => 'Ignora questo errore',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ]
+        };

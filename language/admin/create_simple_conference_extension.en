@@ -1,0 +1,16 @@
+$VAR1 = {
+          'T_CONFERENCE_MEMB' => 'Conference participants may press # to be sent to extension',
+          'T_CREATE_EXTENSIO' => 'Create Extension',
+          'T_CREATE_SCE' => 'Create Simple Conference Extension',
+          'T_MODIFY_SCE' => 'Modify Simple Conference Extension',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_CONFERENCE_EXTENS' => 'Conference Room Extension',
+          'T_PLAY_MUSIC_ON_H' => 'Play Music On Hold when only 1 person is in the conference',
+          'T_THIS_EXTENSIO3' => 'This extension can be dialed from an IVR.',
+          'T_CONSTRAINT' => 'digits in length',
+          'T_WHAT_DOES_THIS10' => 'What does this mean?',
+          'T_PLAY_SOUND_WHEN' => 'Play sound when people enter and leave',
+          'T_MODIFY_EXTENSIO' => 'Modify Extension'
+        };

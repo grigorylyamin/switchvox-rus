@@ -1,0 +1,11 @@
+$VAR1 = {
+          'T_TO_CHANGE_TH' => 'Per modificare il numero di estensione, è necessario eliminare questa estensione e crearne una nuova.',
+          'T_BACK_TO_MANAGE' => 'Torna a gestione estensioni',
+          'T_EXTENSION19' => 'Estensione',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_THIS_FEATURE_CO5' => 'Questo codice funzione consentirà la composizione della casella della segreteria di un\'altra estensione.',
+          'T_THIS_EXTENSI' => 'Questa estensione non ha attributi da modificare.',
+          'T_MORE_ABOUT_THE5' => 'Per saperne di più sul codice funzione segreteria'
+        };

@@ -1,0 +1,7 @@
+$VAR1 = {
+          '__INCLUDES' => [
+                            'incl_header'
+                          ],
+          'T_USER_TIP3' => 'Tip',
+          'T_USE_THESE_TOOL2' => 'Questa suite web permette di personalizzare le funzioni della propria estensione. Per un aiuto, cliccare su una delle icone di supporto presenti in tutte le pagine.'
+        };

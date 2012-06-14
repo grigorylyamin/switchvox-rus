@@ -1,0 +1,12 @@
+$VAR1 = {
+          'T_LOGOUT' => 'Desconexión',
+          'T_EXTENSION2' => 'Extensión',
+          'T_WARNING3' => 'ADVERTENCIA',
+          '__INCLUDES' => [
+                            'edition/incl_header_switchboard'
+                          ],
+          'T_ERROR5' => 'ERROR',
+          'T_HEAD_HELP' => 'ayuda',
+          'T_LOGOUT2' => 'desconexión',
+          'T_SERVER_IS_OFFLI2' => 'El servidor no está conectado - Póngase en contacto con el administrador'
+        };

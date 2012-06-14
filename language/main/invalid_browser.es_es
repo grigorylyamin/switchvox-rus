@@ -1,0 +1,16 @@
+$VAR1 = {
+          'T_CAN_BE_DOWNLOA' => 'puede descargarse gratuitamente en el siguiente enlace',
+          'T_IN_ORDER_TO_EN' => 'Para garantizar que Switchboard funcione correctamente, es obligatorio utilizar uno de los siguientes navegadores web." Mozilla Firefox (versión 3+)',
+          'T_THE_LATEST_VER' => 'La última versión del navegador web Mozilla Firefox',
+          'T_SWITCHBOARD4' => 'Panel de control',
+          'T_CLOSE_WINDOW3' => 'Cerrar ventana',
+          'T_GET_IE' => 'Obtener Microsoft Internet Explorer',
+          'T_MICROSOFT_INTER' => 'Microsoft Internet Explorer',
+          'T_GET_FIREFOX' => 'Obtener Mozilla Firefox',
+          'T_GET_SAFARI' => 'Obtener Google Chrome',
+          'T_CAN_BE_DOWNLOA2' => 'puede descargarse gratuitamente en el siguiente enlace',
+          'T_THE_LATEST_VER2' => 'La última versión del navegador web Microsoft Internet Explorer',
+          'T_I_AM_SORRY_YOU' => 'Lo lamento, su navegador web es incompatible con esta versión del Panel de control.',
+          'T_GET_CHROME' => 'Obtener Apple Safari',
+          'T_MOZILLA_FIREFOX' => 'Navegador web Mozilla Firefox'
+        };

@@ -1,0 +1,13 @@
+$VAR1 = {
+          'T_A_WAV_FILE_WILL2' => 'Se si sceglie "Sì" verrà allegato un file WAV all\'e-mail.',
+          'T_SAVE4' => 'Salva',
+          'T_MODIFY_VOICEMAI2' => 'Modifica mappatura modello e-mail segreteria',
+          'T_NO2' => 'No',
+          'T_TEMPLATE5' => 'Modello',
+          'T_ATTACH_THE_VOIC2' => 'Allegare messaggio di segreteria a notifica?',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_YES2' => 'Sì',
+          'T_EMAIL7' => 'E-mail'
+        };

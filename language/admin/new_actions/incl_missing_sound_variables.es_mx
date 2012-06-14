@@ -1,0 +1,4 @@
+$VAR1 = {
+          'T_NOTE29' => 'NOTA',
+          'T_YOU_DO_NOT_HAV' => 'Usted no tiene ninguna variable de sonido de IVR válida que elegir. Para crear una variable, añada una acción que utilice una variable de sonido, como la acción "Grabar sonido".'
+        };

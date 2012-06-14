@@ -1,0 +1,10 @@
+$VAR1 = {
+          'T_WARNING8' => 'ATTENZIONE',
+          'T_YES_DELETE_SOU' => 'Sì, elimina pacchetto audio',
+          'T_SOUNDS_THAT_WIL2' => 'File audio da rimuovere',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_ARE_YOU_SURE_YO8' => 'Eliminare definitivamente questo pacchetto audio',
+          'T_DELETING_THIS2' => 'L\'eliminazione di questo pacchetto audio causerà anche l\'eliminazione definitiva di tutti i file audio in esso contenuti. Se i file audio di questo pacchetto audio vengono utilizzati dal sistema, sarà necessariuo sostituirli nella sezione adeguata di questo strumento di amministrazione web.'
+        };

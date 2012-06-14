@@ -1,0 +1,7 @@
+$VAR1 = {
+          'T_HANG_UP2' => 'Hang Up',
+          'T_PLAY_CONGESTION2' => 'Play Congestion',
+          'T_PLAY_BUSY_SIGNA2' => 'Play Busy Signal',
+          'T_SCREEN_CALL' => 'Screen Call and if rejected then',
+          'T_SEND_TO_VOICEMA4' => 'Send to Voicemail'
+        };

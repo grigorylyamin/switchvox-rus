@@ -1,0 +1,9 @@
+$VAR1 = {
+          'T_NO_RECORD_PERM' => 'Questa estensione non dispone del permesso di registrare le chiamate. Contattare l\'amministratore di sistema per ulteriori dettagli.',
+          '__INCLUDES' => [
+                            'current_call_listings',
+                            'incl_error_header'
+                          ],
+          'T_NO_CURRENT_CALLS' => 'Nessuna chiamata attiva al momento.',
+          'T_CURRENT_CALLS' => 'Chiamate attuali'
+        };

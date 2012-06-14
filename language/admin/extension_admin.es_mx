@@ -1,0 +1,8 @@
+$VAR1 = {
+          '__INCLUDES' => [
+                            'incl_header',
+                            'incl_subnav_descriptions'
+                          ],
+          'T_USE_THE_MANAGE' => 'Utilice la herramienta Gestionar extensiones para configurar y gestionar sistemas IVR, colas de llamadas y agentes, así como las extensiones telefónicas básicas.',
+          'T_USER_TIP6' => 'Consejo para usuario'
+        };

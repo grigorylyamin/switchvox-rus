@@ -1,0 +1,5 @@
+$VAR1 = {
+          'T_ACTION_TYPE3' => 'Tipo azione',
+          'T_LISTEN_FOR_OPTI2' => 'Ascolta opzioni',
+          'T_ALL_ACTIONS_HAV' => 'Tutte le azioni sono state eseguite e il Menu IVR sta ora ascoltando le opzioni valide'
+        };

@@ -1,0 +1,6 @@
+$VAR1 = {
+          'T_CURRENTLY_RUN' => 'Ejecutando en estos momentos la depuración de su SIP. Este proceso durará como mínimo 30 segundos y capturará cualquier datos SIP que se envíe a través del PBX durante este tiempo. Una vez pasados los 30 segundos, esta página se redirigirá a la salida de Depuración SIP. Por favor, espere y no actualice esta página.',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ]
+        };

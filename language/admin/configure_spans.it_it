@@ -1,0 +1,22 @@
+$VAR1 = {
+          'T_GO10' => 'vai',
+          'T_PCI_ID' => 'Id PCI',
+          'T_NBSPNBSPCON2' => 'opzioni configurazione ambito per ambito',
+          'T_CONFIGURE_CHANN' => 'Configura canali',
+          'T_DEVICE_INFO' => 'Informazioni dispositivo',
+          'T_SPAN' => 'Ambito',
+          'T_CARD_TYPE' => 'Tipo di scheda',
+          'T_IF_YOUR_SPAN_S' => 'Se le impostazioni dell\'ambito sono già corrette è possibile passare direttamente alla configurazione dei canali sul dispositivo cliccando sul pulsante "Configura canali" qui sotto.',
+          'T_STATUS' => 'Stato',
+          'T_SAVE_SETTINGS11' => 'Salva impostazioni',
+          'T_DEVICE_TYPE' => 'Tipo dispositivo',
+          'T_NBSPNBSPSEL2' => 'Seleziona un ambito da configurare',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ],
+          'T_THIS_HARDWARE' => 'Questo dispositivo hardware dispone di ambiti le cui impostazioni devono essere configurate. Verificare tutte le impostazioni di campo e assicurarsi che tutti i valori siano corretti per il dispositivo.  Una volta impostati i valori adeguati per il proprio ambito cliccare sul pulsante "Salva impostazioni ". Sarà poi possibile configurare I canali sul dispositivo.',
+          'T_NUM_SPANS' => '# di campi',
+          'T_ANY_MODIFICATI2' => 'Tutte le modifiche alle impostazioni dell\'ambito richiedono il riavvio del sistema di telefonia con conseguente interruzione di tutte le chiamate in corso.',
+          'T_TOTAL_CHANNELS' => 'Canali totali',
+          'T_DEVICE_NAME' => 'Nome dispositivo'
+        };

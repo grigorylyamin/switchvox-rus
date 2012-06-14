@@ -1,0 +1,10 @@
+$VAR1 = {
+          'T_ANY_RULE2' => 'Any Outgoing Rule',
+          'T_TO_THEIR_EXTEN' => 'to their extension',
+          'T_AND_IS_MAKING' => 'and is making an outgoing call through rule',
+          'T_WHEN_AN_EXTENSI' => 'When an extension is in the range from',
+          'T_AND_PREPENDING' => 'and prepending',
+          'T_CHANGE_THEIR_CA2' => 'change their caller id to a number derived by adding',
+          'T_TO2' => 'to',
+          'T_ANY_OUTGOING_RU2' => 'Any Outgoing Rule Excluding Peers'
+        };

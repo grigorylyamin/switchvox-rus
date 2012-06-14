@@ -1,0 +1,16 @@
+$VAR1 = {
+          'T_CHECK_THIS_BOX3' => 'Check this box to keep callers mute until an admin is in the room. Callers can join the room, but they cannot speak to each other.',
+          'T_ONLY_ALLOW_CONF2' => 'Only allow conference admins to talk',
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ],
+          'T_CHECK_THIS_BOX' => 'Check this box to make all non-admin callers listen-only.',
+          'T_HANG_UP_CONFERE' => 'Hang up conference when all conference admins leave',
+          'T_ADMINS_ARE_SPE' => 'Admins are special members of a conference room who have
+additional privileges.  Use the lists below to identify which extensions
+are treated as admins of your conference room, and set the options for 
+your admins.',
+          'T_CHECK_THIS_BOX2' => 'Check this box to ensure that your conference room is closed down after the conference is over.',
+          'T_USERS_CANNOT_TA' => 'Users cannot talk until a conference admin is in the conference room'
+        };

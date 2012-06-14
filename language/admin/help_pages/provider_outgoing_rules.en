@@ -1,0 +1,24 @@
+$VAR1 = {
+          'T_IF_YOU_HAVE_SE' => 'If you have selected',
+          'T_CONSULT_THE' => 'Consult the',
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ],
+          'T_NO7' => 'No',
+          'T_DENY' => 'Deny',
+          'T_TO_BLOCK_ALL_C' => 'to block all calls that
+match that rule, such as blocking all long-distance numbers.  To
+bypass a rule, leave both options unchecked.',
+          'T_SECTION_FOR_MO' => 'section for more
+information about each outgoing rule',
+          'T_ALLOW' => 'Allow',
+          'T_USE_THE_CHECKB' => 'Use the checkboxes to assign which outgoing rules apply to this peer.
+Check the',
+          'T_SYSTEM_SETUP' => 'System Setup --&gt; Outgoing Calls',
+          'T_BOX_TO_APPLY_T' => 'box to apply the rule to this peer\\\'s
+inbound calls.  Check',
+          'T_FOR_THE_APPLY' => 'for the "Apply Incoming Call Rules to
+Provider" option, you can use this section to define how the remote peer can
+place outbound calls through this PBX.'
+        };

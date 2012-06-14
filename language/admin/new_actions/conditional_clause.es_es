@@ -1,0 +1,15 @@
+$VAR1 = {
+          'T_DOES_NOT_EQUAL' => 'No es igual a',
+          'T_AT_ENTRY_POINT' => 'En el punto de entrada',
+          'T_IS_LESS_THAN' => 'Es inferior a',
+          '__INCLUDES' => [
+                            'new_actions/incl_back_button',
+                            'new_actions/incl_button'
+                          ],
+          'T_IF' => 'Si',
+          'T_IVR_MENU_BEGINN3' => 'Inicio del menú IVR',
+          'T_IS_GREATER_THAN' => 'Es superior a',
+          'T_THEN_GO_TO_IVR' => 'A continuación, ir al menú IVR',
+          'T11' => 'Más inormación acerca de la cláusula condicional',
+          'T_EQUALS' => 'Es igual a'
+        };

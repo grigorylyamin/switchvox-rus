@@ -1,0 +1,12 @@
+$VAR1 = {
+          'T_MUST_MATCH_PASS' => 'Deve corrispondere alla password qui sopra',
+          'T_WEB_TOOL_ACCESS' => 'Accesso strumento web',
+          'T_LAST_NAME' => 'Cognome',
+          'T_CREATE_EXTENSIO' => 'Crea estensione',
+          'T_PASSWORD' => 'Password',
+          'T_FOR_WEB_TOOL_AC' => 'Per accesso strumento web e accesso coda',
+          'T_CALL_QUEUE_AGEN' => 'Estensione agente coda di chiamata',
+          'T_FIRST_NAME' => 'Nome',
+          'T_USER_CAN_EDIT' => 'L\'utente può modificare',
+          'T_RETYPE_PASSWORD' => 'Ridigita password'
+        };

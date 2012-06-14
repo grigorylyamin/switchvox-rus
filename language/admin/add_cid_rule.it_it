@@ -1,0 +1,9 @@
+$VAR1 = {
+          'T_CALL_RULE_4' => 'e il numero id chiamante a',
+          'T_CALL_RULE_1' => 'Quando l\'estensione',
+          'T_CALL_RULE_2' => 'sta effettuando una chiamata in uscita attraverso la regola',
+          'T_ADD_CID_RULE' => 'Aggiungi regola id chiamante',
+          'T_CALL_RULE_3' => 'cambia il suo nome id utente in',
+          'T_MODIFY_CID_RULE' => 'Modifica regola id chiamante',
+          'T_DESCRIPTION' => 'Descrizione'
+        };

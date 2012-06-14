@@ -1,0 +1,19 @@
+$VAR1 = {
+          'T__IF_YOU_ARE_ON2' => '. If you are only using one language in Switchvox, use this setting. To use a specific language for these announcements in this queue, select that language.',
+          'T_THE_SOUNDFILE2' => 'The sound-file dropdown automatically lists all of the sound files in the Sound Manager\\\'s Call Queue folder.',
+          'T_THANK_YOU_THA' => 'Thank you: Thank you for your patience',
+          'T_HOLD_TIME_THE' => 'Hold time: The estimated hold time is currently',
+          'T_MINUTES_MINUT' => 'Minutes: Minutes',
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ],
+          'T_THERE_ARE_VARI' => 'There are various announcement sounds that are played to the caller when she is waiting in a queue. All of these sounds can be customized for this queue. Each announcement listed here has a description, and a sound-file dropdown to select the sound that plays when this announcement is triggered.',
+          'T_YOU_ARE_NEXT' => 'You are next: Your call is now first in line and will be answered by the next available representative',
+          'T_CALLS_WAITING' => 'Calls waiting: Waiting to speak to a representative',
+          'T_MAKE_THE_FOLLO' => 'Make the following selections for the accouncements',
+          'T_MANAGE_ANNOUNCE' => 'Manage Announcements',
+          'T_USE_CALL_LANGUA2' => 'Use call language',
+          'T_CALLER_NUMBER' => 'Caller Number: You are currently caller number',
+          'T_LANGUAGE_PLAY' => 'Language: Play all announcements from sound files of this language. To use the language that has been set for this current call, select'
+        };

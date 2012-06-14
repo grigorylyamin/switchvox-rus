@@ -1,0 +1,7 @@
+$VAR1 = {
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_ARE_YOU_SURE_YO17' => 'Are you sure you want to permanently delete this Call Monitor Feature Code ',
+          'T_YES_DELETE_EXT6' => 'Yes, Delete Feature Code'
+        };

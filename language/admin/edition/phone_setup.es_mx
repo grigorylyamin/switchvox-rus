@@ -1,0 +1,8 @@
+$VAR1 = {
+          'T_HOW_DOES_THIS_W' => '¿Cómo funciona esto?',
+          'T_EMPTY_WINDOW3' => 'Vaciar ventana',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_PANEL_SETTINGS2' => 'Configuración del panel'
+        };

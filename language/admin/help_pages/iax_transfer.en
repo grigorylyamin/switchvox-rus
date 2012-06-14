@@ -1,0 +1,17 @@
+$VAR1 = {
+          'T_THIS_IS_AN_EXP' => 'This is an experimental setting that may or may not fix the logging issues that occur with the',
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ],
+          'T_MEDIA_ONLY' => 'Media Only',
+          'T_ENABLING_THIS7' => 'Enabling this option is extremely risky, and will likely result in sporadic dropped calls that are terribly hard to troubleshoot. This lets calls be transferred away from the PBX if they connect two remote IAX clients.',
+          'T_KEEP_CALLS_PAS' => 'Keep calls passing through the PBX. This option is the safest approach, and ensures that logging and call recording work correctly.',
+          'T_TRY_TO_TRANSFE' => 'Try to transfer calls away from the PBX. This option sacrifices functionality such as logging, to save a bit of bandwidth. Set this at your own risk.',
+          'T_SETTING_SET_T' => 'setting. Set this at your own risk.',
+          'T_YES12' => 'Yes',
+          'T_NO11' => 'No',
+          'T_NO10' => 'No',
+          'T_WE_STRONGLY_RE' => 'We strongly recommend that you leave this set to',
+          'T_YES11' => 'Yes'
+        };

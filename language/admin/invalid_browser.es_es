@@ -1,0 +1,11 @@
+$VAR1 = {
+          'T_FOR_OPTIMAL' => 'Para disfrutar de la mejor experiencia, recomendamos que use uno de los siguientes navegadores web',
+          'T_FF' => 'Firefox versión 3.5.X o superior en Windows, Mac, o Linux.',
+          'T_GET_BROWSER' => 'Obtener el navegador',
+          'T_PROCEED' => 'Continuar con este navegador',
+          'T_CHROME' => 'Versión Chrome 8.0 o superior para Windows.',
+          'T_UNSUPPORTED_BROWSER' => 'Navegador no compatible',
+          'T_NOT_TESTED' => 'Su navegador web no es compatible oficialmente con el paquete web de PBX.',
+          'T_SAFARI' => 'Versión Safari 5.0 o superior para Windows o Mac.',
+          'T_IE' => 'Versión 8X de Internet Explorer en Windows.'
+        };

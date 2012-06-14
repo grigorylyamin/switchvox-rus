@@ -1,0 +1,6 @@
+$VAR1 = {
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_SUCCESS' => '¡SÍ! Se ha registrado correctamente.'
+        };

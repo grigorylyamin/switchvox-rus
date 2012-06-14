@@ -1,0 +1,10 @@
+$VAR1 = {
+          'T_GROUP_PICKUP' => 'Group Pickup',
+          'T__GROUP_PICKUP' => '- Group Pickup extensions will allow an 
+extension to answer a call that is ringing a different extension. Example: Assume that 600 is 
+defined as the Group Pickup extension and 202 is a member of this pickup group.
+If extension 202 is ringing with an incoming call, dialing 600 from another phone will pick up the 
+call ringing in on 202\\\'s extension.',
+          'T_MEETME_CONFERE' => 'Meet-Me Conference Room',
+          'T__MEETME_CONF' => '- Meet-Me Conference Room extensions provide an access point to each user\\\'s conference room.  Callers to this extension will be prompted for a PIN number corresponding to a specific user\\\'s conference room.  Users can setup their PIN and individual conference settings by logging into the users section of the web suite and accessing the "Conference Setup" menu option.'
+        };

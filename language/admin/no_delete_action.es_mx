@@ -1,0 +1,8 @@
+$VAR1 = {
+          'T__SIGNIFIES_TH' => 'Se refiere a la acción actual que está intentando eliminar.',
+          'T_PLEASE_SEE' => 'Por favor, consulte la siguiente lista en la que se indica dónde está utilizándose aún la acción y elimine esta acción. Después de completar este proceso para todos los elementos, podrá eliminar esta acción de forma segura.',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_YOU_CANNOT_DELE' => 'No puede eliminar esta acción todavía porque aún está utilizándose en su sistema.'
+        };

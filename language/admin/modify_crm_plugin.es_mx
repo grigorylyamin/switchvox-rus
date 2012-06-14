@@ -1,0 +1,28 @@
+$VAR1 = {
+          'T_USERNAME5' => 'Nombre de usuario',
+          'T_WHAT_DO_I_PUT_H' => '¿Qué pongo aquí?',
+          'T_SETTINGS3' => 'Configuración',
+          'T_PHONE_NUMBER2' => 'Número de teléfono que se consultará en la prueba',
+          'T_WEB_URL' => 'URL web',
+          'T_PLUGIN_SUPPORT2' => 'Soporte de plugin',
+          'T_TEST_SETTINGS3' => 'Comprobar configuración',
+          'T_MISSING3' => 'Ausentes',
+          'T_ALL_AVAILABLE_A8' => 'Todas las cuentas disponibles',
+          'T_EXTENSIONS_ALLO5' => 'Extensiones que pueden utilizar este plugin',
+          '__INCLUDES' => [
+                            'incl_header',
+                            'edition/incl_intercom_javascript_show_groups'
+                          ],
+          'T_PASSWORD7' => 'Contraseña',
+          'T_TEST_YOUR_CONNE' => 'Comprobar su conexión',
+          'T_SOAP_URL' => 'URL SOAP',
+          'T_SAVE_SETTINGS9' => 'Guardar configuración',
+          'T_THERE_WAS_AN_ER3' => 'Se produjo un error.',
+          'T_FETCHING_YOUR3' => 'Recuperando su información de licencia.',
+          'T_ADD_MEMBER' => 'Añadir miembro',
+          'T_LICENSE3' => 'Recuento de licencias',
+          'T_EXTENSIONS5' => 'extensiones',
+          'T_EXTENSIONS_WITH4' => 'Extensiones con',
+          'T_PANEL2' => 'panel',
+          'T_REMOVE_MEMBER' => 'Eliminar miembro'
+        };

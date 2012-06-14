@@ -1,0 +1,6 @@
+$VAR1 = {
+          'T_GATE_VARIABLE_N' => 'Nombre de variable de puerta de enlace',
+          '__INCLUDES' => [
+                            'new_actions/incl_button'
+                          ]
+        };

@@ -1,0 +1,11 @@
+$VAR1 = {
+          'T_VARIABLE_NAME_F2' => 'Nome variabile per risultato stato',
+          'T_MORE_ABOUT_GE' => 'Ulteriori informazioni su Ottieni stato estensione',
+          '__INCLUDES' => [
+                            'new_actions/incl_button'
+                          ],
+          'T__OR10' => '-O-',
+          'T_EXTENSION_TO_CH' => 'Estensione di cui verificare lo stato',
+          'T_SELECT_A_VARIAB3' => 'Seleziona una variabile',
+          'T_ENTER_IN_E2' => 'Inserire estensione manualmente'
+        };

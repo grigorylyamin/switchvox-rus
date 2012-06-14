@@ -1,0 +1,15 @@
+$VAR1 = {
+          'T_UNDER_CERTAIN_C' => 'En determinadas circunstancias, el administrador puede solicitar que se realice una recarga del software, un reinicio del software o un reinicio del servidor; de lo contrario, se recomienda que no utilice estos botones.',
+          'T_THIS_WILL_TURN4' => 'Esto apagará su PBX.',
+          'T_SERVER_REBOOT' => 'Reinicio del servidor',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ],
+          'T_THIS_RELOADS_TH' => 'Esto recarga la configuración del software sin un reinicio. No se perderá ninguna llamada.',
+          'T_SOFTWARE_RESTAR' => 'Reinicio del software',
+          'T_THIS_RESTARTS' => 'Esto reinicia todo el software del PBX. Esto hará que se pierdan todas las llamadas actuales.',
+          'T_THIS_WILL_TURN3' => 'De este modo se apagará el PBX y después podrá volver a activarlo. Esto hará que se pierdan todas las llamadas actuales.',
+          'T_SYSTEM_RELOAD' => 'Recarga del sistema',
+          'T_SERVER_SHUT_DOW' => 'Apagado del servidor',
+          'T_SOFTWARE_RELOAD' => 'Recarga del software'
+        };

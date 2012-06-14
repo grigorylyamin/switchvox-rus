@@ -1,0 +1,24 @@
+$VAR1 = {
+          'T__A_URL_TO_THE2' => '- Una URL donde el administrador web pueda descargar el mensaje.',
+          'T_SAVE_TEMPLATE' => 'Guardar plantilla',
+          'T__THE_DURATION' => '- La duración del mensaje de voz.',
+          'T_VM_NAME' => '%VM_NAME%',
+          'T__A_URL_TO_THE' => '- Una URL al administrador de web para descargar el mensaje.',
+          'T_DOWNLOAD_LINK2' => '%DOWNLOAD_LINK_AND_MARK_DELETED%',
+          'T_MODIFY_VOICEMAI' => 'Modificar plantilla de correo electrónico de buzón de voz ',
+          'T_VM_CALLERID' => '%VM_CALLERID%',
+          'T_VM_DATE' => '%VM_DATE%',
+          'T__THE_RECIPIEN' => '- La extensión del destinatario.',
+          'T_DOWNLOAD_LINK' => '%DOWNLOAD_LINK%',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ],
+          'T_SUBJECT' => 'Asunto',
+          'T_YOU_CAN_USE' => 'Puede utilizar variables en su plantilla, que se sustituirán por valores reales cuando se envíe el mensaje de correo electrónico. A continuación aparece una lista de variables y una descripción de su valor sustituido.',
+          'T__THE_DATE_AND' => '- La fecha y hora en la que dejó el mensaje.',
+          'T__THE_CALLER_I' => '- El ID de la persona que dejó el mensaje.',
+          'T_VM_MAILBOX' => '%VM_MAILBOX%',
+          'T_VM_DUR' => '%VM_DUR%',
+          'T__RECIPIENTS' => '- Nombre y apellido del destinatario.',
+          'T_BELOW_YOU_CAN_T' => 'Ahora puede personalizar la plantilla de correo electrónico que se envía al usuario cuando recibe un mensaje de correo electrónico de notificación de buzón de voz.'
+        };

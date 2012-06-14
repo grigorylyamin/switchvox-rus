@@ -1,0 +1,10 @@
+$VAR1 = {
+          'T_CREATE_IVR_MENU' => 'Create IVR Menu',
+          'T_WHAT_DOES_THIS9' => 'What does this IVR Menu do?',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_SAVE_MENU2' => 'Save IVR Menu',
+          'T_IVR_MENU_NAME' => 'IVR Menu Name',
+          'T_DESCRIPTION' => 'Description'
+        };

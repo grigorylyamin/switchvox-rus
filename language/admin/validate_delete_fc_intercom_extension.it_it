@@ -1,0 +1,10 @@
+$VAR1 = {
+          'T_YES_DELETE_EXT4' => 'Sì, elimina codice funzione',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ],
+          'T_INTERCOM_EXTENS' => 'Codice funzione intercom',
+          'T_ARE_YOU_SURE_YO14' => 'Eliminare definitivamente?',
+          'T_PERSONAL' => 'Personale',
+          'T_DEL_INTERCOM_EXT' => 'Eliminare codice funzione Intercom'
+        };

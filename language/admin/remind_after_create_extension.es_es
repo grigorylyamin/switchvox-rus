@@ -1,0 +1,13 @@
+$VAR1 = {
+          'T_BACK_TO_MANAGE' => 'Regresar a Gestionar extensiones',
+          'SM_CREATE_PHONE_EXT' => 'La extensión telefónica se ha creado correctamente.',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_TO_CHECK_FOR_A' => 'Para seleccionar un teléfono SIP registrado, haga clic en el botón situado debajo para ir al "Estado del sistema',
+          'T_YOUR_NEW_EXTEN' => 'Su nueva extensión no funcionará hasta que haya un teléfono SIP o ATA registrado para esa extensión.',
+          'T_GO_TO_SYSTEM_ST' => 'Ir a Estado del sistema',
+          'T_TOOL' => 'herramienta.',
+          'T_DONT_REMIND_ME' => 'No volver a recordarme esto.',
+          'T_NOTE' => 'NOTA'
+        };

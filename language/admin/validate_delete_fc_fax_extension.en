@@ -1,0 +1,7 @@
+$VAR1 = {
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_YES_DELETE_EXT' => 'Yes, Delete Feature Code',
+          'T_ARE_YOU_SURE_YO' => 'Are you sure you want to permanently delete this Fax Feature Code'
+        };

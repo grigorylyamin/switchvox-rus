@@ -1,0 +1,33 @@
+$VAR1 = {
+          'T_ENTER_HTTP' => 'Enter \\\'http://www.mydomain.com/great_sound93.wav\\\' in the URL field',
+          'T_SAVE_SETTINGS7' => 'Save Settings',
+          'T_CHOOSE_SOUND' => 'Choose \\\'sound_name\\\' from the IVR variable drop down, and click "Append"',
+          'T_WHEN_THIS_IVR4' => 'When this IVR action is reached, the sound file
+         \\\'http://www.mydomain.com/good_sound1.wav\\\' is downloaded and played',
+          'T_CHOOSE_URL_BA' => 'Choose \\\'url_base\\\' from the IVR variable drop down, and click "Append"',
+          'T_SAVE_SETTINGS6' => 'Save Settings',
+          'T_A_PREVIOUS_IVR5' => 'A previous IVR action like \\\'Set Variable\\\' sets the variable \\\'sound_name\\\'
+         to \\\'good_sound1.wav\\\'',
+          'T_THIS_ACTION_DO' => 'This action downloads a WAV sound file from the URL, and plays the sound.',
+          'T_CLICKING_APPE' => 'Clicking "Append" below will append the selected variable names to the URL input field. The variable names will appear enclosed with %\\\'s. When the URL is requested the %\\\'s and variable names will be replaced with the variable values.',
+          'T_A_PREVIOUS_IVR4' => 'A previous IVR action like \\\'Set Variable\\\' sets the variable \\\'url_base\\\'
+         to \\\'http://www.mydomain.com/\\\'',
+          'T_EXAMPLE_13' => 'Example 1',
+          'T_URL_BASESO' => '\\\'%url_base%%sound_name%\\\' appears in the URL field',
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ],
+          'T_YOU_CAN_ENTER2' => 'You can enter a \\\'static\\\' URL that is always the same, 
+or you can create a \\\'dynamic\\\' URL by entering variables so
+that the system builds the appropriate URL.',
+          'T_A_DYNAMIC_URL2' => 'A dynamic URL can include IVR Action variables or system variables.
+When using a variable, make sure that a previous action has assigned a value to 
+that variable,
+otherwise nothing will be inserted into the URL. To add a variable to the URL,
+select it from the appropriate drop down menu, then click \\\'Append\\\'. The variable will appear
+in the URL field.',
+          'T_EXAMPLE_22' => 'Example 2',
+          'T_WHEN_THIS_IVR3' => 'When this IVR action is reached, the sound file
+         \\\'http://www.mydomain.com/great_sound93.wav\\\' is downloaded and played'
+        };

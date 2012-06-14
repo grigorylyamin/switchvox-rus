@@ -1,0 +1,9 @@
+$VAR1 = {
+          'T_SEND_TO_VOICEMA6' => 'Send to Voicemail at Extension',
+          'T_SELECT_A_VARIAB12' => 'Select a Variable',
+          '__INCLUDES' => [
+                            'new_actions/incl_button'
+                          ],
+          'T_EXTENSION_TO_DI2' => 'Extension To Dial',
+          'T__OR22' => '- OR -'
+        };

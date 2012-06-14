@@ -1,0 +1,8 @@
+$VAR1 = {
+          'T_WHAT_IS_AN_INT' => 'Cos\'è un\'attesa interrompibile?',
+          '__INCLUDES' => [
+                            'new_actions/incl_button'
+                          ],
+          'T_THIS_WAIT_IS_IN' => 'Questa attesa è interrompibile',
+          'T_WAIT_TIME_IN_S' => 'Tempo di attesa in secondi'
+        };

@@ -1,0 +1,7 @@
+$VAR1 = {
+          'T_MINIMUM_TRANSF' => 'Minimum transfer rate used during fax rate negotiation. The default minimum transfer rate is 2400.',
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ]
+        };

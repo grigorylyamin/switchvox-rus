@@ -1,0 +1,8 @@
+$VAR1 = {
+          'T_ANY_OUTGOING_RU' => 'Ogn iregola in uscita esclusi i peer',
+          'T_CHANGE_THEIR_CA' => 'Modifica il nome id chiamante in',
+          'T_ANY_RULE' => 'Ogni regola in uscita',
+          'T_WHEN_EXTENSION' => 'Quando l\'estensione',
+          'T_AND_THEIR_CAL' => 'e il loro numero id chiamante a',
+          'T_IS_MAKING_AN_O' => 'sta effettuando una chiamata in uscita attraverso la regola'
+        };

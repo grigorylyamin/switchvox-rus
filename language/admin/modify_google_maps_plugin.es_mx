@@ -1,0 +1,32 @@
+$VAR1 = {
+          'T_THERE_WAS_AN_ER2' => 'Se produjo un error.',
+          'T_6_STATE_VIEW' => 'Vista de estado',
+          'T_PANEL' => 'panel',
+          'T_FETCHING_YOUR2' => 'Recuperando su información de licencia.',
+          'T_TEST_SETTINGS2' => 'Comprobar configuración',
+          'T_12_NEIGHBORHO' => 'Vista Adyacentes',
+          'T_TEST_YOUR_SETTI2' => 'Comprobar su configuración',
+          'T_ALL_AVAILABLE_A7' => 'Todas las cuentas disponibles',
+          'T_EXTENSIONS4' => 'extensiones',
+          'T_1_WORLD_VIEW' => 'Vista Mundial',
+          'T_PLUGIN_SUPPORT' => 'Soporte de plugin',
+          'T_MISSING2' => 'Ausentes',
+          'T_15_STREET_VIE' => 'Vista de Calle',
+          'T_SETTINGS2' => 'Configuración',
+          'T_DEFAULT_ZOOM_LE' => 'Nivel de zoom predeterminado',
+          'T_SAVE_SETTINGS8' => 'Guardar configuración',
+          '__INCLUDES' => [
+                            'incl_header',
+                            'edition/incl_intercom_javascript_show_groups',
+                            'create_extension_group',
+                            'js_list_movement'
+                          ],
+          'T_3_COUNTRY_VIE' => 'Vista de País',
+          'T_PHONE_NU' => 'Número de teléfono que se consultará en la prueba',
+          'T_EXTENSIONS_WITH3' => 'Extensiones con',
+          'T_ADD_MEMBER' => 'Añadir miembro',
+          'T_EXTENSIONS_ALLO4' => 'Extensiones que pueden utilizar este plugin',
+          'T_LICENSE2' => 'Recuento de licencias',
+          'T_REMOVE_MEMBER' => 'Eliminar miembro',
+          'T_9_CITY_VIEW' => 'Vista de Ciudad'
+        };

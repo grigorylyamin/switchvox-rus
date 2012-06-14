@@ -1,0 +1,7 @@
+$VAR1 = {
+          'T_THE_NETWORK_YOU' => 'La red desde la que está intentando acceder a este sitio no está autorizada.',
+          'T_ERROR' => 'Error',
+          'T_IF_YOU_BELIEVE_YOU' => 'Si cree que debería tener acceso, póngase en contacto con el administrador de su sistema.',
+          '__INCLUDES' => [],
+          'T_NETWORK_FORBIDDEN' => 'Su red no está autorizada o usted no tiene los permisos adecuados para ver esta página.'
+        };

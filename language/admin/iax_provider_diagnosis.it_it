@@ -1,0 +1,12 @@
+$VAR1 = {
+          'T_RUN_DIAGNOSTIC' => 'Esegui nuovamente strumento di diagnostica',
+          'T_WARNING9' => 'Attenzione',
+          'T_BACK_TO_CONNECTION_STATUS' => 'Torna allo Stato di connessione',
+          'T_IAX_PRO_DIAGNOSIS' => 'Diagnosi fornitore IAX',
+          'T_FAILED' => 'Non riuscito',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ],
+          'T_NOT_TESTED' => 'Non testato',
+          'T_PASSED' => 'Passato'
+        };

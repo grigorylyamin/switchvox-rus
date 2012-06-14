@@ -1,0 +1,8 @@
+$VAR1 = {
+          'T_DEL_MOH_FILES' => 'Elimina file di musica di attesa',
+          'T_YES_DELETE_FIL' => 'Sì, elimina file',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ],
+          'T_ARE_YOU_SURE_YO19' => 'Eliminare definitivamente il seguenti file di musica di attesa?'
+        };

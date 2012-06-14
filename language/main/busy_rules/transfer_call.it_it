@@ -1,0 +1,6 @@
+$VAR1 = {
+          'T_ALL_CALLS4' => 'Tutte le chiamate',
+          'T_DIRECT_CALLS3' => 'Chiamate dirette',
+          'T_FORWARD2' => 'Inoltra',
+          'T_QUEUE_CALLS3' => 'Chiamate in coda'
+        };

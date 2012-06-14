@@ -1,0 +1,30 @@
+$VAR1 = {
+          'T_APPEND7' => 'Añadir',
+          'T_CALLER_ID_NAME10' => 'CALLER_ID_NAME',
+          'T_SOUND_SETTINGS' => 'Configuración de sonido',
+          'T_APPEND6' => 'Añadir',
+          'T_IN_THE_URL_FIE3' => 'En el campo de URL de arriba, introduzca la ruta completa de la URL para el archivo de sonidoque desee reproducir.  Actualmente, debe ser un archivo WAV.  La URL puede ser estática o dinámica. La URL estática sólo tiene que ser escrita en el campo URL y se guardará la configuración.  La URL dinámica requerirá el uso de variables de una de las listas desplegables; Variables de IVR o Variables del sistema.  La URL dinámica también requerirá acciones del IVR anteriores, asignando valores a esas variables.',
+          'T_POSSIBLE_IVR_VA5' => 'Posibles variables de IVR para usar:',
+          'T_CLICK_APPEND_TO6' => 'Haga clic en Añadir para añadir la variable seleccionada incluida en %s a su URL',
+          'T_EXAMPLE_23' => 'Ejemplo 2',
+          'T_WHAT_IS_AN_INT3' => '¿Qué es un sonido que puede interrumpirse?',
+          'T_JOB_ID7' => 'JOB_ID',
+          'T_HOW_DO_I_USE_T4' => '¿Cómo puedo utilizar esta página?',
+          'T_URL4' => 'URL:',
+          'T_CALLER_ID_NUMBE9' => 'CALLER_ID_NUMBER',
+          'T_THIS_SOUND_IS_I2' => 'Este sonido puede interrumpirse',
+          'T_HTTPWWWMYD3' => 'http://www.ejemplo.com/great_sound93.wav',
+          'T_CLICKING_APPE2' => 'Al hacer clic en "Añadir" más abajo se añadirán los nombres de variables seleccionados al campo de entrada de la URL.  Los nombres de las variables aparecerán dentro de %\'s. Cuando se solicite la URL, los %\'s y los nombres de las variables serán sustituidos por los valores de las variables.',
+          'T_INCOMING_DID9' => 'INCOMING_DID',
+          '__INCLUDES' => [
+                            'new_actions/lwp_timeout',
+                            'new_actions/incl_button'
+                          ],
+          'T_POSSIBLE_SYSTEM5' => 'Posibles variables de sistema para utilizar:',
+          'T_URL_SETTINGS' => 'Configuración de URL',
+          'T_URL_BASESOU' => 'http://www.ejemplo.com/play.cgi?name=%customer_name%',
+          'T_CLICK_APPEND_TO5' => 'Haga clic en Añadir para añadir la variable seleccionada incluida en %s a su URL',
+          'T_EXTENSION14' => 'EXTENSION',
+          'T_EXAMPLE_14' => 'Ejemplo 1',
+          'T_DIALED_NUMBER' => 'DIALED_NUMBER'
+        };

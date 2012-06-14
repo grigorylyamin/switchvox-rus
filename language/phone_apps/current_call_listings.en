@@ -1,0 +1,5 @@
+$VAR1 = {
+		'T_START_RECORD' => 'Record Call',
+		'T_STOP_RECORD' => 'Stop Recording',
+		'T_CALL_START_TIME' => 'Start Time',
+};

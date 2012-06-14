@@ -1,0 +1,28 @@
+$VAR1 = {
+          'T_OUTGOING_CALLS2' => 'Chiamate in uscita',
+          'T_FROM' => 'Da',
+          'T_VOIP_PROVIDE' => 'Fornitori VOIP',
+          'T_SECTION_OF_THE' => 'sezione di questa suite di amministrazione.',
+          'T_NOTE2' => 'NOTA',
+          'T_TO' => 'a',
+          'T_RENAME' => 'Rinomina',
+          'T_DOWNLOAD_CUR' => 'Scarica chiave RSA attuale',
+          'T_GO4' => 'vai',
+          'T_GENERATE' => 'Genera e scarica nuova chiave RSA',
+          'T_A_NEW_VOIP_PRO' => 'A new VOIP provider has just been added to the system, but in order to make any outgoing calls using this provider, outgoing call rules must first be configured in the',
+          'T_SET' => 'Imposta',
+          'T_RSA_KEY' => 'Chiave RSA',
+          'T_SIP_PROVIDER2' => 'Fornitore SIP',
+          'T_RTP_PORT_RANGE' => 'Intervallo porta RTP',
+          'T_ADD_NEW' => 'Aggiungi nuovo',
+          'T_RENAME_RSA_K' => 'Rinomina chiave RSA',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ],
+          'T_OR7' => '-O-',
+          'T_DOWNLOAD' => 'Scarica',
+          'T_MANAGE_VOIP_PRO' => 'Gestisci fornitori VOIP',
+          'T_IAX_PROVIDER' => 'Fornitore IAX',
+          'T_THE_FIRST_VOIP' => 'Primo fornitore VOIP aggiunto al sistema. Le regole di chiamata in uscita sono state generate automaticamente utilizzando questo fornitore VOIP. È possibile visualizzare ulteriori informazioni sulle regole di chiamata in uscita appena create in',
+          'T_WERE_SORRY_B' => 'Siamo spiacenti, ma questa pagina è stata disabilita per ragioni legali, normative o commerciali. Ci scusiamo per l\'inconveniente.'
+        };

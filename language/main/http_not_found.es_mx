@@ -1,0 +1,7 @@
+$VAR1 = {
+          'T_ERROR' => 'Error',
+          'T_IF_YOU_BELIEVE' => 'Si cree que se trata de un error del sistema, indique a su administrador que se ponga en contacto con el servicio de atención al cliente.',
+          'T_PLEASE_MAKE_SURE' => 'Por favor, asegúrese de que la URL que ha introducido es correcta.',
+          '__INCLUDES' => [],
+          'T_REQUEST_INVALID' => 'Su solicitud no es válida.'
+        };

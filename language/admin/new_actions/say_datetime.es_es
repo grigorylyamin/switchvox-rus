@@ -1,0 +1,21 @@
+$VAR1 = {
+          'T_SAY_DATE_FROM_A' => 'Decir fecha a partir de una variable',
+          'T__OR8' => '-O-',
+          'T_YOU_MAY_LEAVE_T' => 'Puede dejar la hora en blanco para decir solamente la fecha.',
+          'T_SAY_A_PREDEFINE' => 'Decir un fecha predefinida',
+          'T_YES14' => 'Sí',
+          '__INCLUDES' => [
+                            'new_actions/incl_button',
+                            '../common/incl_calendar_header',
+                            'new_actions/incl_tabletitle',
+                            'new_actions/incl_missing_digit_variables'
+                          ],
+          'T_VARIABLE_MUST_B' => 'La variable debe tener formato de hora.',
+          'T_SAY_THE_CURRENT' => 'Decir la fecha y hora actuales cuando la llamada entra en esta acción',
+          'T_AM3' => 'AM',
+          'T_PM3' => 'PM',
+          'T_AND_TIME' => 'y hora',
+          'T_EXAMPLE5' => 'Ejemplo',
+          'T10' => 'Si la fecha es "01/21/2003 7:40 P.M.", utilizando el formato de fecha seleccionado, se dirá del siguiente modo',
+          'T_FORMAT_TO' => 'Formato para indicar la fecha de entrada'
+        };

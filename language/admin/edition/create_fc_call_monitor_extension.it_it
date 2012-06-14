@@ -1,0 +1,17 @@
+$VAR1 = {
+          'T_2_DIGITS_IN_LEN2' => '2 cifre in lunghezza',
+          'T_MODIFY_EXTENSIO2' => 'Modifica estensione',
+          '__INCLUDES' => [
+                            'incl_header',
+                            '../common/incl_permission_settings',
+                            'js_list_movement'
+                          ],
+          'T_MORE_ABOUT_CAL' => 'Ulteriori informazioni sul monitoraggio chiamata',
+          'T_FEATURE_CODE_EX2' => 'Estensioni Codice funzione',
+          'T_CREATE_MONITOR' => 'Crea gruppo monitoraggio',
+          'T_CREATE_EXTENSIO2' => 'Crea estensione',
+          'T_WHICH' => 'Che ',
+          'T_THIS_FEATURE2' => 'Questo codice funzione consentirà a un\'estensione di ascoltare in silenzio la chiamata attuale di un\'altra estensione.',
+          'T_THEY_CAN' => ' che possano monitorare',
+          'T_THAT_CAN' => ' che possano monitorare'
+        };

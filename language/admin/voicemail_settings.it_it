@@ -1,0 +1,31 @@
+$VAR1 = {
+          'T_EMAIL_ADDRE' => 'Indirizzo e-mail a cui inviare un\'e-mail di prova',
+          'T_SAVE_EMAIL_SETT' => 'Salva impostazioni e-mail',
+          'T_TELL_ME_MORE_A10' => 'Per saperne di più',
+          'T_IF_A_USER' => 'Se un\'estensione di segreteria è piena, i chiamanti vengono inoltrati all\'estensione',
+          'T_CUSTOMIZE_THE_S2' => 'Personalizza le impostazioni per e-mail di notifica segreteria',
+          'T_DO_NOT_LET_CALL' => 'Non consentire ai chiamanti di lasciare messaggi in segreteria più lunghi di',
+          'T_VOICEMAIL_NOTIF3' => 'Indirizzo "Da" e-mail di notifica segreteria ',
+          'T_DURING_A_U' => 'Durante la riproduzione del messaggio di benvenuto della segreteria, i chiamanti possono premere il tasto "0" per uscire ed essere inoltrati all\'estensione.',
+          'T_ABOUT_SMTP_AUT' => 'Informazioni su autenticazione SMTP',
+          'T_YOU_ARE_CURR' => 'Si sta utilizzando un server di segreteria esterno. A causa di questo, molte delle impostazioni di questa pagina sono disabilitate.',
+          'T_VOICEMAIL_ROUTI' => 'Trasferimento a segreteria',
+          'T_ABOUT_SMTP_AUT2' => 'Informazioni su autenticazione SMTP',
+          'T_DURING_A_USE' => 'Durante la riproduzione del messaggio di benvenuto della segreteria, premere il tasto "*" per connettersi all\'attuale casella della segreteria.',
+          'T_CUSTOM_VOICEMAI' => 'Lunghezza messaggio di segreteria personalizzato',
+          'T_VOICEMAIL_SETTINGS' => 'Segreteria',
+          'T_WHAT_IS_THIS_U6' => 'Per cosa viene utilizzato?',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ],
+          'T_EXTERNAL_VOICEM' => 'Segreteria esterna',
+          'T_RUN_DIAGNOSTIC4' => 'Esegui strumento di diagnostica',
+          'T_VOICEMAIL_NOTIF4' => 'Diagnostica e-mail di notifica segreteria',
+          'T_OUTBOUND_SMTP_P' => 'Password SMTP in uscita',
+          'T_ARE_USERS_NOT_R' => 'Gli utenti non stanno ricevendo e-mail di notifica segreteria?',
+          'T_OUTBOUND_SMTP_S' => 'Server SMTP in uscita',
+          'T_SECONDS2' => 'secondi',
+          'T_SAVE_CUSTOM_VOI' => 'Salvare lunghezze messaggio di segreteria personalizzato',
+          'T_OUTBOUND_SMTP_U' => 'Nome utente SMTP in uscita',
+          'T_DO_NOT_STORE_VO' => 'Non conservare la segreteria se il messaggio contiene solo silenzio'
+        };

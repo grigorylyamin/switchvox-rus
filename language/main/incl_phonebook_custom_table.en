@@ -1,0 +1,8 @@
+$VAR1 = {
+          '__INCLUDES' => [],
+          'T_DRAG_EXTENSIONS' => 'Drag extensions / external numbers here for normal permissions',
+          'T_DRAG_PHONE_EXTE' => 'Drag phone extensions here that require extended permissions',
+          'T_RELOADING_PA3' => 'Reloading page to fetch new rows. Please be patient.',
+          'T_NBSPEXTENDE' => 'Extended Permission Entries',
+          'T_NORMAL_PERMISSION' => 'Normal Permission Entries',
+        };

@@ -1,0 +1,14 @@
+$VAR1 = {
+          'T_YOU_HAVE_JUST2' => 'You have just created your first channel group in the system with the proper signaling method to make outgoing calls. And because this is your first channel group some outgoing call rules have automatically been generated using this channel group. You can view more information on these newly created outgoing call rules in the',
+          'T_YOU_HAVE_JUST' => 'You have just added a new channel group to the system with the proper signaling method to make outgoing calls but in order to make any outgoing calls using this channel group you must configure your outgoing calls to use this new channel group. You can create, view, and modify your existing outgoing call rules in the',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_OUTGOING_CALL' => '"Outgoing Call Rules"',
+          'T_CHANNEL_GROUPS2' => 'Channel Groups',
+          'T_NOTE25' => 'NOTE',
+          'T_VIEW8' => 'View',
+          'T_SECTION_OF_THE5' => 'section of the Administration Tool Suite.',
+          'T_INDIVIDUAL_CHAN2' => 'Individual Channels',
+          'T_CREATE_NEW_CHAN2' => 'Create Channel Group'
+        };

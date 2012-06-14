@@ -1,0 +1,12 @@
+$VAR1 = {
+          'T_PLAY_BUSY_SIGNA' => 'Reproducir señal de ocupado',
+          'T_PHONE_NUMBER' => 'Número de teléfono',
+          'T_ALWAYS' => 'Siempre',
+          'T_BLOCK' => 'Bloquear',
+          'T_SEND_TO_VOICEMA3' => 'Enviar al buzón de voz',
+          'T_WHEN_TIME_IS' => 'cuando el tiempo es',
+          'T_AND_THEN' => 'y entonces',
+          'T_PREFIX' => 'Prefijo',
+          'T_PLAY_CONGESTION' => 'Reproducir congestión',
+          'T_HANG_UP' => 'Colgar'
+        };

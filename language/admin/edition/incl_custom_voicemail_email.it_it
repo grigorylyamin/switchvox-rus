@@ -1,0 +1,12 @@
+$VAR1 = {
+          'T_VIEW3' => 'Visualizza',
+          'T_CHOOSE_TE' => 'Scegli modello:',
+          'T_VOICEMAIL_EMAIL2' => 'Modello E-mail segreteria',
+          'T_TELL_ME_MORE_A3' => 'Per saperne di più',
+          'T_TEMPLATE2' => 'Nome modello:',
+          'T_CREATE_NEW2' => 'Crea nuovo',
+          'T_CREATE_A_NEW_VO2' => 'Crea nuovo modello e-mail segreteria',
+          'T_DELETE2' => 'Elimina',
+          'T_EDIT2' => 'Modifica',
+          'T_MODIFY_EXISTING' => 'Modifica modelli esistenti'
+        };

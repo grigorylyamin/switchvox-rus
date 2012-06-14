@@ -1,0 +1,5 @@
+$VAR1 = {
+          'T_USE_A_PREDEFINE4' => 'Use a Predefined Group',
+          'T_OR5' => '-OR-',
+          'T_NO_GROUPS_IN_SY5' => 'No Groups in System'
+        };

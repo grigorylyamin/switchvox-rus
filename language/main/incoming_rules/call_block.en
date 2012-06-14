@@ -1,0 +1,12 @@
+$VAR1 = {
+          'T_PLAY_BUSY_SIGNA' => 'Play Busy Signal',
+          'T_PHONE_NUMBER' => 'Phone Number',
+          'T_ALWAYS' => 'Always',
+          'T_BLOCK' => 'Block',
+          'T_SEND_TO_VOICEMA3' => 'Send to Voicemail',
+          'T_WHEN_TIME_IS' => 'when time is',
+          'T_AND_THEN' => 'And Then',
+          'T_PREFIX' => 'Prefix',
+          'T_PLAY_CONGESTION' => 'Play Congestion',
+          'T_HANG_UP' => 'Hang Up'
+        };

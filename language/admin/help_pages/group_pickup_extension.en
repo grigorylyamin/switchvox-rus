@@ -1,0 +1,8 @@
+$VAR1 = {
+          'T_EXAMPLE_ASSUM' => 'Example: Assume that 600 is defined as the Group Pickup extension and 202 is a member of this pickup group. If extension 202 is ringing with an incoming call, dialing 600 from another phone will pick up the call ringing in on 202\\\'s extension.',
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ],
+          'T_GROUP_PICKUP_E' => 'Group Pickup extensions will allow an extension to answer a call that is ringing a different extension.'
+        };

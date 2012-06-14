@@ -1,0 +1,8 @@
+$VAR1 = {
+          '__INCLUDES' => [
+                            'incl_header',
+                            'incl_subnav_descriptions'
+                          ],
+          'T_USER_TIP6' => 'Suggerimento utente',
+          'T_USE_THE_MANAGE' => 'Utilizzare lo strumento Gestione estensioni per impostare e gestire IVR, code di chiamate e agenti così come estensioni telefoniche di base.'
+        };

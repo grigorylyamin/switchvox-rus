@@ -1,0 +1,22 @@
+$VAR1 = {
+          'T_CLICK_BUTTON_TO' => 'Cliccare sul pulsante per aggiungere il file audio all\'unione audio:',
+          'T_EXISTING_SOUNDS' => 'Audio esistenti',
+          'T_FOLDER5' => 'Cartella',
+          '__INCLUDES' => [
+                            'new_actions/incl_missing_sound_variables',
+                            'new_actions/incl_tabletitle',
+                            'new_actions/incl_button'
+                          ],
+          'T_CURRENT_LANGUAG' => 'Lingua attuale',
+          'T_THE_BOXES_ABO' => 'Le caselle sopra rappresentano I file audio e l\'ordine di unione desiderato. Per aggiungere un file audio, scegliere un file o una variabile dal menu a discesa sotto, quindi cliccare sul pulsante adeguato Apponi per unione. È possibile unire fino a 10 audio in un\'unica variabile audio. È possibile cancellare l\'ordine di unione e ricominciare cliccando sul pulsante Annulla unione audio.',
+          'T_CLICK_BUTTON_TO2' => 'Cliccare sul pulsante per aggiungere la variabile selezione all\'unione audio:',
+          'T_CLEAR_MERGE_SOU' => 'Cancella Unione audio',
+          'T_LANGUAGE5' => 'Lingua',
+          'T_SOUND_DESCRIPTI4' => 'Descrizione audio',
+          'T_SOUND_VARIABLES' => 'Variabili audio',
+          'T_SOUND_TO_PLAY' => 'Audio da riprodurre',
+          'T_SOUNDS_TO_MERGE' => 'Audio da unificare',
+          'T_APPEND_TO_MERGE' => 'Postponi per unione',
+          'T_APPEND_TO_MERGE2' => 'Postponi per unione',
+          'T_VARIABLE_NAME_F3' => 'Nome variabile per audio unificato'
+        };

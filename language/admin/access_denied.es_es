@@ -1,0 +1,7 @@
+$VAR1 = {
+          'T_YOU_DO_NOT_HAV2' => 'No tiene suficientes privilegios de administrador para acceder a la página o comando solicitado ',
+          'T__PLEASE_CONTA' => '. Póngase en contacto con el administrador de su sistema o con el Equipo de asistencia técnica de Switchvox si cree que se trata de un error.',
+          '__INCLUDES' => [
+                            'incl_err_header',
+                          ]
+        };

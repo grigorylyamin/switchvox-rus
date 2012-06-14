@@ -1,0 +1,7 @@
+$VAR1 = {
+          'T_ARE_YOU_SURE_YO33' => 'Eliminare definitivamente questa estensione agente coda chiamata',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_YES_DELETE_EXT9' => 'Sì, elimina estensione'
+        };

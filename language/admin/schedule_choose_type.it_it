@@ -1,0 +1,11 @@
+$VAR1 = {
+          'T_CALL_LOG2' => 'Registro chiamate',
+          'T_REPORT_TYPE' => 'Tipo rapporto',
+          'T_CALL_REPORT' => 'Rapporto chiamate',
+          'T_QUEUE_REPORT' => 'Rapporto sulla coda',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_WHAT_DO_THESE_T' => 'Cosa significano questi tipi?',
+          'T_CREATE_A_SCHEDU' => 'Crea un rapporto programmato'
+        };

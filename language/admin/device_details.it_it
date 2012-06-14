@@ -1,0 +1,9 @@
+$VAR1 = {
+          'T_VIEW_CONFIGURAT' => 'Visualizza Configurazione Ambito',
+          'T_NBSPNBSPCON' => 'Opzioni configurazione Ambito',
+          '__INCLUDES' => [
+                            'incl_header',
+                            '../common/incl_table'
+                          ],
+          'T_NBSPNBSPSEL' => 'Seleziona un ambito da configurare'
+        };

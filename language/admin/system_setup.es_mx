@@ -1,0 +1,8 @@
+$VAR1 = {
+          'T_IF_YOU_ARE_SET' => 'Si está configurando su sistema telefónico por primera vez, consulte la Guía de inicio rápido incluida con su sistema para guiarle del modo más rápido sobre el funcionamiento del sistema.',
+          'T_USER_TIP' => 'Consejo para usuario',
+          '__INCLUDES' => [
+                            'incl_header',
+                            'incl_subnav_descriptions'
+                          ]
+        };

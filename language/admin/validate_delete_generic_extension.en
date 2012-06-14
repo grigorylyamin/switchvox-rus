@@ -1,0 +1,7 @@
+$VAR1 = {
+          'T_ARE_YOU_SURE_YO15' => 'Are you sure you want to permanently delete this extension ',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_YES_DELETE_EXT5' => 'Yes, Delete Extension'
+        };

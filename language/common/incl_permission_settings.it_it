@@ -1,0 +1,14 @@
+$VAR1 = {
+          '__INCLUDES' => [
+                            '../common/incl_options_object',
+                            '../common/incl_dhtml_window_popup'
+                          ],
+          'T_YES_DELETE3' => 'Sì, elimina',
+          'T_ARE_YOU_SUR' => 'Eliminare definitivamente questo gruppo di permessi estensioni?',
+          'T_SAVE_CHANGES' => 'Salva modifiche',
+          'T_NO_MAPPINGS' => 'Non è stata eseguita ancora nessuna mappatura.',
+          'T_CANCEL5' => 'annulla',
+          'T_CANCEL_EDIT' => 'Annulla modifica',
+          'T_SUCCESSFULLY_SA' => 'Salvataggio modifiche gruppo riuscito',
+          'T_CURRENTLY_EDITI' => 'Modifica in corso'
+        };

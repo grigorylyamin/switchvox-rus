@@ -1,0 +1,6 @@
+$VAR1 = {
+          'T_URL_TO_UPLOAD_T' => 'URL para cargar en',
+          'T_ACTION_TYPE15' => 'Tipo de acción',
+          'T_VARIABLE7' => 'Variable',
+          'T_SOUND_TO_UPLOAD' => 'Sonido para cargar'
+        };

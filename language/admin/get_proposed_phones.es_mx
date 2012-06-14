@@ -1,0 +1,17 @@
+$VAR1 = {
+          'GPP_TD_ACC_REJ' => 'Aceptar / Rechazar',
+          'GPP_TD_TABLE_TITLE' => 'Teléfonos desconocidos',
+          'GPP_TD_PHONE_MODEL' => 'Modelo de teléfono',
+          'GPP_TD_IP_ADDRESS' => 'Dirección IP',
+          'GPP_TN_TABLE_TITLE' => 'Teléfonos con extensiones propuestas',
+          'GPP_NO_PHONES' => 'No hay ningún teléfono con extensiones propuestas en su red.',
+          'GPP_TD_PHONE_EXT' => 'Ext.',
+          'GPP_TD_MAC_ADDRESS' => 'Dirección MAC',
+          'GPP_TD_ACCEPT' => 'Aceptar',
+          'GPP_TD_TEMPLATE' => 'Plantilla',
+          'GPP_TD_REJECT' => 'Rechazar',
+          'GPP_TD_FIRST_NAME' => 'Nombre',
+          'GPP_TD_PHONE_CONFIG_ID' => 'ID',
+          'GPP_TD_LAST_NAME' => 'Apellido',
+          'GPP_TD_PHONE_BRAND' => 'Marca del teléfono'
+        };

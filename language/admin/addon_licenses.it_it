@@ -1,0 +1,7 @@
+$VAR1 = {
+          '__INCLUDES' => [
+                            'incl_header',
+                            'brand/incl_check_for_addons',
+                          ],
+          'T_TO_CHECK_FOR_ADDONS' => 'Visitare il nostro sito web per vedere quali prodotti add-on sono disponibili per questo sistema Swichvox.'
+        };

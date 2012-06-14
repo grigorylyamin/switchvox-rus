@@ -1,0 +1,15 @@
+$VAR1 = {
+          '__INCLUDES' => [
+                            'edition/create_fc_fax_extension'
+                          ],
+          'T_HELP_LINK_TEXT' => 'Per saperne di pià sul codice funzione fax',
+          'T_MODIFY_EXT' => 'Modifica estensione',
+          'T_CREATE_EXT' => 'Crea estensione',
+          'T_FC_FAX_DESCRIPTION' => 'Il codice funzione è utilizzato per impostare un\'estensione di sistema e quindi viene inviato un fax. Il fax viene archiviato in Fax  Inviati dell\'estensione designata.',
+          'T_CREATE_FC_FAX_EXTENSION' => 'Crea estensione codice funzione fax',
+          'T_REQUIRE_EXT_PASS' => 'Password estensione richiesta',
+          'T_MODIFY_FC_FAX_EXTENSION' => 'Modifica estensione codice funzione fax',
+          'T_EXTENSION' => 'Estensione codice funzione',
+          'T_FC_EXT' => 'Estensioni Codice funzione',
+          'T_TWO_DIGITS' => '2 cifre in lunghezza'
+        };

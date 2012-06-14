@@ -1,0 +1,7 @@
+$VAR1 = {
+          'T_NEW2' => 'Nuova azione',
+          'T_RECORDED_SOUNDS2' => 'Audio registrati da chiamante',
+          'T_HOLD_CTRL_KEY_T3' => 'Tenere premuto il tasto CTRL per selezionare più file audio',
+          'T_SOUNDS_IN_SYSTE2' => 'Audio in sistema',
+          'T_ADD_ACTION2' => 'Aggiungi azione'
+        };

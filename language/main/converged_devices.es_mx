@@ -1,0 +1,7 @@
+$VAR1 = {
+          'T_YES_DEL' => 'Sí, eliminar',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ],
+          'T_CANCEL' => 'Cancelar'
+        };

@@ -1,0 +1,13 @@
+$VAR1 = {
+          'T_PARKING_LOTS' => 'Parcheggio chiamate',
+          'T_VOICEMAIL' => 'Segreteria',
+          'T_PHONE_APPS_MENU' => 'Menu Applicazione telefono',
+          '__INCLUDES' => [
+                            'incl_softkeys',
+                            'incl_error_header'
+                          ],
+          'T_PHONEBOOKS' => 'Rubriche',
+          'T_DIRECTORY' => 'Directory',
+          'T_LOG_OUT' => 'Disconnetti',
+          'T_RECORD_CALL' => 'Registra chiamata'
+        };

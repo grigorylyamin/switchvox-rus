@@ -1,0 +1,4 @@
+$VAR1 = {
+          'T_CUSTOM_VOICEMAI4' => 'Custom Voicemail Email',
+          'T_VOICEMAIL_FORWA4' => 'Voicemail Forwarding'
+        };

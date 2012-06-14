@@ -1,0 +1,28 @@
+$VAR1 = {
+          'T_4_MINUTES' => '4 minuti',
+          'T_7_MINUTES' => '7 minuti',
+          'T_WHATS_THIS3' => 'Cos\'è?',
+          'T_SORRY_THIS_FE2' => 'Questa funzione non è disponibile in questa versione software.',
+          'T_NEVER_TIMES_OUT' => 'Mai nessun time out',
+          'T_SORRY_THIS_FE' => 'Questa funzione non è disponibile in questa versione software.',
+          'T_1_MINUTES' => '10 minuti',
+          'T_WHICH' => 'Quale ',
+          'T_THAT_CAN_USE' => ' a cui sia consentito l\'utilizzo di intercom',
+          'T_WHATS_THIS2' => 'Cos\'è?',
+          'T_2_MINUTES' => '2 minuti',
+          'T_THIS_FEATURE_A' => 'Questa funzione consente a un\'estensione di comporre direttamente l\'intercom di un\'altra estensione.',
+          'T_5_MINUTES' => '5 minuti',
+          '__INCLUDES' => [
+                            'incl_header',
+                            '../common/incl_permission_settings',
+                          ],
+          'T_CREATE_INTERCOM' => 'Crea gruppo Intercom',
+          'T_3_MINUTES' => '3 minuti',
+          'T_CAN_THEY' => ' consenti intercom',
+          'T_MORE_ABOUT_USI' => 'Ulteriori informazioni sull\'utilizzo di intercom',
+          'T_3_SECONDS' => '30 secondi',
+          'T_1_MINUTE' => '1 minuto',
+          'T_INTERCOM_SETTIN' => 'Impostazioni intercom',
+          'T_INTERCOM_USERS' => 'Utenti e Amministratori Intercom',
+          'T_WHATS_THIS' => 'Cos\'è?'
+        };

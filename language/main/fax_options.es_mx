@@ -1,0 +1,24 @@
+$VAR1 = {
+          'T_DISABLE_ERROR_C3' => 'Desactivar el modo de corrección de errores (ECM) para las sesiones de fax G711',
+          'T_MODIFYDELETE2' => 'Modificar / Eliminar',
+          'T_YOU_CURRENTLY_D2' => 'En estos momentos, no tiene ninguna notificación de correo electrónico para fax definida en esta sección.',
+          'T_RECEIVING_S' => 'Opciónes de recepción / envío',
+          'T_DELETE9' => 'Eliminar',
+          'T_ADD_NEW_NOTIFIC2' => 'Añadir nuevo correo electrónico de notificación',
+          'T_NUMBER_OF_MAXIM2' => 'Retardo máximo esperado para paquetes T38',
+          'T_EMAIL5' => 'Correo electrónico',
+          'T_FAX_HEADER2' => 'Encabezado de fax',
+          'T_FAX_NOTIFICAT' => 'Opciones de notificación de fax',
+          'T_MILLISECONDS' => '(milisegundos)',
+          'T_SAVE_FAX_OPTION' => 'Guardar opciones de fax',
+          'T_EDIT6' => 'Editar',
+          'T_THIS_EXTENSION2' => 'Tratar todas las llamadas salientes como faxes.',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_MINIMUM_TRANSFE2' => 'Velocidad mínima de transferencia para transmisión de fax',
+          'T_NUMBER_OF_REDUN3' => 'Número de paquetes de señal redundantes para sesiones de fax T38',
+          'T_LOCAL_STATIO' => 'ID de estación local',
+          'T_MAXIMUM_TRANSFE2' => 'Velocidad máxima de transferencia para transmisión de fax',
+          'T_NUMBER_OF_REDUN4' => 'Número de paquetes de imagen redundantes para sesiones de fax T38'
+        };

@@ -1,0 +1,5 @@
+$VAR1 = {
+          'T_ACTION_TYPE42' => 'Tipo azione',
+          'T_BEEP' => 'Segnale acustico',
+          'T_RECORDED_DIGITS2' => 'Nome variabile cifre registrate'
+        };

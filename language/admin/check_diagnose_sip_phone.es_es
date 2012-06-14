@@ -1,0 +1,8 @@
+$VAR1 = {
+          'T_SIP_PH_DIAGNOSE_PAGE_TITLE' => 'Diagnosticar el teléfono SIP',
+          'T_BACK_TO_CONNECTION_STATUS' => 'Volver a estado de conexión',
+          'T_ATTEMPTING_TO3' => 'Intentar diagnosticar cualquier problema con su teléfono SIP puede tardar varios segundos. Por favor, espere y no actualice esta página.',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ]
+        };

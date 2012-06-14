@@ -1,0 +1,28 @@
+$VAR1 = {
+          'T_RUN_SIP_DEBUG' => 'Esegui debug SIP',
+          'T_WHY_IS_MY_SIP2' => 'Perché il mio fornitore SIP è "Non raggiungibile".',
+          'VVM_USAGE_NO_FAX' => 'Utilizzo disco segreteria',
+          'T_YOUR_DISK_IS2' => 'Il disco è al ',
+          'T_WHY_IS_MY_SIP3' => 'Perché il mio fornitore SIP è nello stato "Richiesta inviata "?',
+          'T_YES_DELETE12' => 'Sì, elimina',
+          'T_WHY_IS_MY_HARD' => 'Perché il mio canale hardware è',
+          'VVM_TOTAL_USAGE_NO_FAX' => 'Utilizzo totale disco segreteria',
+          'T_CONNECTION_STATUS' => 'Stato Connessione',
+          'VVM_TOTAL_USAGE' => 'Utilizzo totale disco segreteria / Fax',
+          'VVM_OTHER_USAGE' => 'Altro utilizzo disco',
+          'T_GO9' => 'vai',
+          'VVM_USAGE' => 'Utilizzo disco segreteria / Fax',
+          'T_CANCEL26' => 'annulla',
+          'T_WHY_IS_MY_SIP5' => 'Perché il mio telefono SIP è "Non raggiungibile".',
+          'T_RED_ALARM' => 'Allarme rosso.',
+          'T_ARE_YOU_SU' => 'Annullare l\'operazione di stampa?',
+          'T_FULL' => 'completo',
+          '__INCLUDES' => [
+                            'incl_header',
+                            '../common/incl_dhtml_window_popup',
+                            '../common/incl_table'
+                          ],
+          'T_WHY_IS_MY_SIP' => 'Perché il mio fornitore SIP è "Non registrato".',
+          'T_WHY_IS_MY_SIP6' => 'Perché il mio telefono SIP è nello stato "Timeout "?',
+          'T_WHY_IS_MY_SIP4' => 'Perché il mio fornitore SIP è nello stato "Autenticazione inviata"?'
+        };

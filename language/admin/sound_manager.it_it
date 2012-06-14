@@ -1,0 +1,28 @@
+$VAR1 = {
+          'T_ADD_NEW2' => 'Crea:',
+          'T_FOLDER2' => 'Cartella',
+          'T__DEFAULT_LANGU' => 'lingua predefinita',
+          'T_SOUND' => 'Audio',
+          'T_SOUND_PACK' => 'Pacchetto audio',
+          'T_ALL_SOUND_PACKS' => 'Tutti i pacchetti audio',
+          'T_ALL_SOUNDS' => 'Tutti i file audio',
+          'T_FILES' => 'file',
+          'T_DELETE10' => 'Elimina',
+          'T_WARNING' => 'ATTENZIONE',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ],
+          'T_LANGUAGE2' => 'Lingua',
+          'T_TELL_ME_MORE_A12' => 'Per saperne di più su Sound Manager',
+          'JFY_CHANGING_THE_DEFAULT' => 'La modifica della lingua predefinita fa riavviare automaticamente il PBX. Tutte le chiamate attuali verranno interrotte e i membri disconnessi dalle code.',
+          'T_SOUND_MGR' => 'Sound Manager',
+          'T_FOLDER_LISTINGS' => 'Elenchi cartelle',
+          'T_CREATE_AND_MA' => 'Crea e gestisci le registrazione per l\'IVR e le code di chiamata.',
+          'T_DELETE_CHECKED' => 'Elimina selezionati',
+          'T_ALL_LANGUAGES' => 'Tutte le lingue',
+          'T_ALL_FOLDERS' => 'Tutte le cartelle',
+          'T_VIEW9' => 'Visualizza',
+          'T_MOVE_TO' => 'Sposta in',
+          'T_GO5' => 'Vai',
+          'T_MOVE_CHECKED' => 'Sposta selezionati nella cartella'
+        };

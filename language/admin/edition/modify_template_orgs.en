@@ -1,0 +1,5 @@
+$VAR1 = {
+          'T_HOLD_DOWN_CTRL14' => 'Hold down CTRL to select multiple groups',
+          'T_CREATE_NEW_GROU2' => 'Create New Group',
+          'T_NO_GROUPS_IN_TH' => 'No Groups in the System'
+        };

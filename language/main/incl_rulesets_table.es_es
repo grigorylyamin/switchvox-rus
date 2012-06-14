@@ -1,0 +1,16 @@
+$VAR1 = {
+          '__INCLUDES' => [],
+          'T_ACTIVATED_UNTIL' => 'Activado hasta',
+          'T_DELETE4' => 'Eliminar',
+          'T_NO_RULES_HAVE_B' => 'No se ha añadido ninguna regla a este conjunto de reglas',
+          'T_DISABLE' => 'Desactivar',
+          'T_ACTIVATE2' => 'Activar...',
+          'T_YOU_CURRENTLY' => 'En estos momentos, no tiene ninún conjunto de reglas definido en esta sección.',
+          'T_MOVE' => 'Mover',
+          'T_RELOADING_PAG' => 'Recargando página para recuperar nuevas filas. Por favor, espere.',
+          'T_NAME' => 'Nombre',
+          'T_RULE_SET' => 'Información del conjunto de reglas',
+          'T_DEACTIVATE' => 'Desactivar',
+          'T_TIME_FRAME' => 'Intervalo de tiempo',
+          'T_EDIT4' => 'Editar'
+        };

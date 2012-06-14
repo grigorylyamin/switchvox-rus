@@ -1,0 +1,24 @@
+$VAR1 = {
+          'T__ALL_PHONE_NUM' => ': All phone numbers in incoming call rules must
+be exactly as they appear in your caller id.  If you are unsure, this
+usually is the full 10 digit number with area code.',
+          'T_BLOCK_NUMBER' => 'Block Number',
+          'T_INCOMING_CALL_R' => 'Incoming call rules allow you to perform actions on calls based on who
+is calling you.  There are two types of incoming call rules',
+          'T__THIS_ALLOWS_Y' => ': This allows you to block callers from
+certain phone numbers or prefixes.  For Example, say a rogue fax
+machine keeps calling your office.  You can see in caller id that
+their number is 8005551234.  You can add a Block Number rule to hangup
+whenever this number calls you.  If needed you can block whole
+prefixes of numbers by selecting to Block Prefix.',
+          'T_TRANSFER_CALL' => 'Transfer Call',
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ],
+          'T__THIS_FEATURE5' => ': This feature allows you to transfer
+certain callers to a specific extension.  E.g.: Route all calls from
+our vendor (whose phone number is 8005554321) to Bob in purchasing at
+extension 800.',
+          'T_NOTE22' => 'NOTE'
+        };

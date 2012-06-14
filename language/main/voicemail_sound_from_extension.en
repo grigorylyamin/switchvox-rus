@@ -1,0 +1,10 @@
+$VAR1 = {
+          'T_PLEASE_ANSWER' => 'Please answer the phone and follow the said instructions. When you have completed recording your message please click the "Done" button below and your sound will be saved successfully.',
+          'T_THE_PHONE_AT_E' => 'The phone at extension ',
+          'T__SHOULD_NOW_BE' => ' should now be ringing.',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_REC' => 'Record Sound From Extension',
+          'T_DONE' => 'Done'
+        };

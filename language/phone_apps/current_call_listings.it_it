@@ -1,0 +1,5 @@
+$VAR1 = {
+          'T_CALL_START_TIME' => 'Ora di inizio',
+          'T_STOP_RECORD' => 'Arresta registrazione',
+          'T_START_RECORD' => 'Registra chiamata'
+        };

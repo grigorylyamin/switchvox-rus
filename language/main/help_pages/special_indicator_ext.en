@@ -1,0 +1,20 @@
+$VAR1 = {
+          'T_PAGE_INTRO' => '
+Status Indicators are special entries that use an LED on Polycom and Snom phones
+to indicate certain activities on your PBX. There are two indicator types: 
+',
+          'T_PARKINGLOT_DESC' => '
+This lights up the line status indicator on your phone when a caller is
+waiting in the specified Parking Lot extension.
+',
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ],
+          'T_PARKINGLOT' => 'Parking Lot',
+          'T_QUEUE_DESC' => '
+This lights up the line status indicator on your phone when you are logged
+into the specified Queue.
+',
+          'T_QUEUE' => 'Queue Login Status'
+        };

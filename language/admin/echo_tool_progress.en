@@ -1,0 +1,7 @@
+$VAR1 = {
+          'T_THE_ECHO_CANC' => 'The echo reduction tool is currently processing. Please be patient and do not refresh this page.',
+          'T_TITLE' => 'Echo Reduction Tool',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+        };

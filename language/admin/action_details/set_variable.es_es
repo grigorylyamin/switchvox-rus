@@ -1,0 +1,6 @@
+$VAR1 = {
+          'T_ACTION_TYPE27' => 'Tipo de acción',
+          'T_VARIABLE23' => '(Variable)',
+          'T_VARIABLE_TO_SET2' => 'Variable para ajustar',
+          'T_VALUE' => 'Valor'
+        };

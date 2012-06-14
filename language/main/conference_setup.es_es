@@ -1,0 +1,26 @@
+$VAR1 = {
+          'T_SELECT_FROM_AVAIL' => 'Debe seleccionar al menos 1 cuenta en el cuadro de selección "Todas las cuentas disponibles".',
+          'T_SELECT_FROM_GROUP' => 'Debe seleccionar al menos 1 cuenta en el cuadro de selección "Administradores de conferencias".',
+          'T_MOVE_MEMBER_DOWN' => 'Mover miembro hacia abajo',
+          'T_MOVE_MEMBER_BOTTOM' => 'Mover miembro a la última posición',
+          'T_CONSTRAINT' => 'dígitos de longitud',
+          'T_MOVE_MEMBER_UP' => 'Mover miembro hacia arriba',
+          'T_MODIFY_EXTENSIO' => 'Modificar extensión',
+          'T_ENTER_SOUND_TYPE' => 'Tipo de sonido',
+          'PT_CONFERENCE_SETUP' => 'Configuración de conferencias',
+          'T_CONFERENCE_MEMB' => 'Los miembros de la conferencia pueden pulsar # para ser enviados a la extensión',
+          'T_MOVE_MEMBER_TOP' => 'Mover miembro a la primera posición',
+          'T_CREATE_EXTENSIO' => 'Crear extensión',
+          '__INCLUDES' => [
+                            'edition/incl_conference_setup'
+                          ],
+          'T_ONLY_ONE_MEMBER' => 'Puede elegir únicamente un miembro para mover cada vez.',
+          'T_ALREADY_AT_BOTTOM' => 'El miembro ya está en la última posición de la lista.',
+          'T_PLAY_MUSIC_ON_H' => 'Reproducir música en espera cuando haya sólo 1 miembro en la sala de conferencias',
+          'T_PLAY_SOUND_WHEN' => 'Reproducir sonido cuando entren y salgan personas',
+          'T_ADD_MEMBER' => 'Añadir miembro',
+          'T_INTERCOM_EXTENS' => 'Extensión de intercomunicador',
+          'T_ALREADY_AT_TOP' => 'El miembro ya está en la primera posición de la lista.',
+          'T_REMOVE_MEMBER' => 'Eliminar miembro',
+          'T_NO_MEMBERS_SELECTED' => 'No ha seleccionado ningún miembro.'
+        };

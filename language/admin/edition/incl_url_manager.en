@@ -1,0 +1,12 @@
+$VAR1 = {
+          'T_SAVE_VALUES' => 'Save Values',
+          'T_URL' => 'URL',
+          'T_SEND_CALL_VALUE' => 'Send call values from the PBX to other web services.',
+          'T_USE_THE_DEFAULT' => 'Use the Default URL',
+          'T_ORDASHED' => 'OR',
+          'T_APPEND' => 'Append',
+          'T_URL_MANAGER' => 'URL Manager',
+          'T_ACCEPTABLE_VAR' => 'Acceptable Variables for this URL',
+          'T_URL_TYPE' => 'URL_TYPE',
+          'T_WHAT_CAN_I_DO' => 'What can I do with the URL Manager?',
+        };

@@ -1,0 +1,163 @@
+$VAR1 = {
+          'T_THE_DATE' => 'The date and time of the voicemail message.',
+          'T_TO_TRAC' => 'to track new voicemail messages and implement an escalation policy. 
+      Note: Setting XML values in the response to this request results 
+      in undefined behavior. Return empty XML for this request.',
+          'T_THE_URL_MANAGE' => 'The URL Manager lets Switchvox interact with external 
+Web applications. When certain events occur in Switchvox, 
+it can submit information about the event to a Web 
+application, and respond to the XML that is returned.',
+          'T_BE_VERY_CAREFUL' => 'be very careful',
+          'T_THE_DATA_ENTERE' => 'The data entered after a feature code.
+      For example, in *62204, you have an EXTENSION of 62, an 
+      EXTENSION_TYPE of feature_monitor, and a FEATURE_DATA of 204.',
+          'T_SEE_ALL_EXTENSI' => 'See all extension types.',
+          'T_JOB_ID' => 'JOB_ID',
+          'T_ON_AGENT_LOGGED2' => 'On Agent Logged Out',
+          'T_TRIGGERE2' => 'Triggered when an extension checks its voicemail. This event 
+      could be used in conjunction with the',
+          'T_TRIGGERE5' => 'Triggered when a call is hung up. This event can be used 
+      in conjunction with the JOB_ID variable to record the 
+      completion of calls that invoked previous URL events. 
+      Note: Setting XML values in the response to this request 
+      results in undefined behavior. Return empty XML for this request.',
+          'T_TO_NOT_C' => 'to not
+      create routing loops. For example, if a call to extension 333
+      results in a request that sets transfer_extension to 333, the
+      PBX will loop endlessly. It is advised to not set
+      transfer_extension in the response to this event unless it\\\'s
+      absolutely necessary.',
+          'T_VM_DATE3' => 'VM_DATE',
+          'T_INCOMING_DID3' => 'INCOMING_DID',
+          'T_ON_AGENT_LOGGED' => 'On Agent Logged In',
+          'T_TRIGGERE3' => 'Triggered when a queue member logs into a queue.',
+          'T_SET_THE_TEXT_PO' => 'set the text portion of Caller ID to the given
+      string',
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ],
+          'T_ON_NEW_VOICEMAI2' => 'On New Voicemail Event',
+          'T_ON_NEW_VOICEMAI' => 'On New Voicemail',
+          'T_VM_MSGNUM' => 'VM_MSGNUM',
+          'T_SWITCHVOX_ROUTE' => 'Switchvox routes the call to extension 333.',
+          'T_AFTER_THE_URL_I' => 'After the URL is requested, route.cgi might look up the
+    number 8585551212, and decide to route the call to extension
+    333. In order to accomplish this, it returns the following
+    XML',
+          'T_THE_TEXT_COMPON' => 'The text component of Caller ID. Example: BOB JONES',
+          'T_TRANSFER_EXTENS' => 'transfer_extension',
+          'T_A_UNIQUE_ID_OF' => 'A unique id of the call. Note that this string of digits
+      is not a numerical value: 99.100 is not equal to 99.1. This
+      variable is useful for correlating multiple events (and also
+      certain IVR requests).',
+          'T_EVENT_TYPE' => 'EVENT_TYPE',
+          'T_QUEUES2' => 'QUEUES',
+          'T_THE_TYPE' => 'The type of the extension associated with the event.',
+          'T_VM_DUR3' => 'VM_DUR',
+          'T_BLOCK_ARE' => 'block are
+    optional. The following tags can be added to perform various
+    operations',
+          'T_THIS_EVENT_WILL2' => 'This event will be triggered whenever a call hits an
+      extension. This can happen multiple times for each call. For
+      example, a call may hit an IVR, a queue, and then a phone
+      extension. XML can be returned to route calls differently on
+      this event, however',
+          'T_ON_CHECKED_VOIC' => 'On Checked Voicemail',
+          'T_WITH_THIS_OPTI' => 'with this option. It is possible
+      to break the PBX by creating routing loops in the
+      system.',
+          'T_CALL_INFO' => 'call_info',
+          'T_CALLER_ID_NAME2' => 'CALLER_ID_NAME',
+          'T_THE_EXTENSION_A' => 'The extension associated with the event\\\'s voicemail
+      box.',
+          'T_SET_THE_CALLER' => 'set the Caller ID number of the call to the given
+      number',
+          'T_THE_DURA' => 'The duration of the voicemail message, in seconds.',
+          'T_VARIABLES' => 'Variables',
+          'T_FOR_CERTAIN_EVE' => 'For certain events, the remote web application can return
+    XML in order to perform certain operations on the call. Here is
+    a complete example of an XML response',
+          'T_THE_URL_RETURNE' => 'The URL returned in this field will appear in the
+      Switchboard as a clickable icon. For example: a remote web
+      application might lookup the caller\\\'s phone number in a
+      customer database, and return the display_url of their page
+      in a CRM system.',
+          'T_ALL_OF_THE_TAGS' => 'All of the tags inside the',
+          'T_OVERVIEW3' => 'Overview',
+          'T_CALLERID_NUM' => 'callerid_num',
+          'T_EVENTS' => 'Events',
+          'T_LTXML_VERSI2' => '&lt;?xml version="1.0" encoding="ISO-8859-1"?&gt;
+&lt;!DOCTYPE call_info SYSTEM "http://www.switchvox.com/xml/call_info.dtd"&gt;
+
+&lt;call_info&gt;
+        &lt;callerid_num&gt;8585551212&lt;/callerid_num&gt;
+        &lt;callerid_name&gt;John Doe&lt;/callerid_name&gt;
+        &lt;transfer_extension&gt;850&lt;/transfer_extension&gt;
+        &lt;display_url&gt;http://intranet.example.com/crm.cgi?custid=22&lt;/display_url&gt;
+&lt;/call_info&gt;',
+          'T_THIS_EVENT_WILL' => 'This event will be triggered at the beginning of an
+      incoming call. This applies to calls received from VoIP
+      providers, any channel groups, as well as calls between
+      extensions. It is very common for requests for this event
+      type to return XML for routing the call or altering the
+      Caller ID.',
+          'T_THE_PHONE_NUMBE2' => 'The phone number dialed by an external caller. This may
+      be empty for internal calls, or calls over certain analog
+      lines that do not provide the DID.',
+          'T_HTTP1921682' => 'http://192.168.0.100/route.cgi?cid_number=8585551212&amp;cid_name=BOB+JOHNSON',
+          'T_WHEN_AN_IN' => 'When an incoming call is received, Switchvox would submit
+    the Caller ID information to a remote web application. That
+    application would look up the Caller ID number in a database,
+    and redirect the call to the agent responsible for that
+    caller.',
+          'T_EXAMPLE_AN_EXT' => 'Example: an external call routing engine',
+          'T_VM_MAILBOX3' => 'VM_MAILBOX',
+          'T_EXTENSION_TYPE' => 'EXTENSION_TYPE',
+          'T_A_COMMA_SEPARAT' => 'A comma separated list of the queue account_ids being 
+	  logged in to or logged out of. In the case where the user is
+      being logged out of all queues, the list only contain
+      the list of queues the user is a member of.',
+          'T_FEATURE_DATA' => 'FEATURE_DATA',
+          'T_DISPLAY_URL' => 'display_url',
+          'T_BE_EXTREM' => 'Be
+      extremely careful',
+          'T_XML_RESPONSE' => 'XML Response',
+          'T_WHICH' => 'Which URL event is being triggered. This is useful for
+        setups that use the Default URL for multiple events.
+        Possible values are:',
+          'T_TRANSFER_THE_CA' => 'transfer the call to the given extension.',
+          'T_EACH_EVENT_CAN' => 'Each event can submit various information about the call.
+    This is done by substituting variables in the requested URL.
+    Not every variable is available in every event, check the
+    Acceptable Variables menu to see which variables are
+    available in each event. Here is the complete list of
+    variables',
+          'T_TRIGGERE' => 'Triggered when a voicemail message is left for an extension. 
+      This event requests the voicemail URL. Note: Setting XML values 
+      in the response to this request results in undefined behavior. 
+      Return empty XML for this request.',
+          'T_ON_INCOMING_CAL' => 'On Incoming Call Event',
+          'T_THE_INTERNAL_EX' => 'The internal extension associated with this event.',
+          'T_ON_ROUTE_TO_EXT' => 'On Route to Extension',
+          'T_EXTENSION6' => 'EXTENSION',
+          'T_THERE_ARE_A_NUM' => 'There are a number of events that can trigger URL
+    requests',
+          'T_LTCALL_INFO' => '&lt;call_info&gt;
+        &lt;transfer_extension&gt;333&lt;/transfer_extension&gt;
+&lt;/call_info&gt;',
+          'T_THE_PHONE_NUMBE' => 'The phone number of the caller. Example: 8585551212',
+          'T_BEFORE_REQUESTI' => 'Before requesting the URL, the PBX will substitute the
+    variables denoted by the \\\'%\\\' characters with their actual
+    values. In the above example, a sample request would look like:',
+          'T_HTTP192168' => 'http://192.168.0.100/route.cgi?cid_number=%CALLER_ID_NUMBER%&amp;cid_name=%CALLER_ID_NAME%',
+          'T_TRIGGERE4' => 'Triggered when a queue member logs out of a queue.',
+          'T_CALLER_ID_NUMBE2' => 'CALLER_ID_NUMBER',
+          'T_ON_CALL_HANGUP' => 'On Call Hangup',
+          'T_IN_THIS_EXAMPLE' => 'In this example, assume that the remote Web server is running
+    at 192.168.0.100, and that the routing application is called
+    route.cgi. To accomplish this, the following URL will be
+    entered in the On Incoming Call Event URL:',
+          'T_THE_UNIQ' => 'The unique message number for this voicemail message.',
+          'T_CALLERID_NAME' => 'callerid_name'
+        };

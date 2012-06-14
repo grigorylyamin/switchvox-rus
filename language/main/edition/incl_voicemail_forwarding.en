@@ -1,0 +1,19 @@
+$VAR1 = {
+          'T_CONTACT_YOUR_AD' => 'Contact your adminstrator to enable this option.',
+          'T_FEATURE_DISABLE' => 'Feature Disabled -',
+          'T_ROUND_ROBIN' => 'Round Robin',
+          'T_INDIVIDUAL_EXTE' => 'Individual Extensions',
+          'T_SEND_TO_ALL' => 'Send to All',
+          'T_FORWARDING_TYPE' => 'Forwarding Type',
+          'T_ALL_AVAILABLE_A' => 'All Available Accounts',
+          'T_PREDEFINED_GROU' => 'Predefined Group',
+          'T_ENABLE_VOICEMA' => 'Enable Voicemail Forwarding',
+          'T_SAVE_FORWARD_SE' => 'Save Forward Settings',
+          'T_VOICEMAIL_FORWA' => 'Voicemail Forwarding',
+          'T_OR' => '-OR-',
+          'T_FORWARD_TO_MEMB' => 'Forward to Members',
+          'T_DELETE_ON_FORWA' => 'Delete on Forward',
+          'T_TELL_ME_MORE_A' => 'Tell me more about this',
+          'T_ADD_MEMBER' => 'Add Member',
+          'T_REMOVE_MEMBER' => 'Remove Member'
+        };

@@ -1,0 +1,13 @@
+$VAR1 = {
+          'T_ADMIN_LOGIN' => 'Connessione amministratore',
+          '__INCLUDES' => [],
+          'T_ADMINISTRATION' => 'Suite degli strumenti di amministrazione: Accedi',
+          'T_LOG_IN' => 'Accedi',
+          'T_PASSWORD' => 'Password',
+          'T_USER_NAME' => 'Nome utente',
+          'T_INVALID_USERNAME_PASSWORD' => 'Password o nome utente non valido',
+          'T_LOG_IN_TO_THE_A' => 'Accedere per utilizzare la suite di strumenti',
+          'SHI_DUE_TO_FAILED_LOGIN' => 'A causa di tentativi di connessione falliti, non è più possibile utilizzare questa pagina. Si prega di contattare l\'amministratore della propria Switchboard per ripristinare l\'accesso.',
+          'T_USERNAME_PASSWORD_INCORRECT' => 'Nome utente o Password non corretto',
+          'T_USERNAME' => 'Nome utente'
+        };

@@ -1,0 +1,7 @@
+$VAR1 = {
+          'T_YES_DELETE_TEM' => 'Sì, elimina modello',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_ARE_YOU_SURE_YO' => 'Eliminare definitivamente questo modello'
+        };

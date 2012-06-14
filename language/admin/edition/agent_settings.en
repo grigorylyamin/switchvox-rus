@@ -1,0 +1,14 @@
+$VAR1 = {
+          'T_SAVE_AGENT_SETT' => 'Save Agent Settings',
+          'T_NUMBER_OF_MISSE' => 'Number of Missed Calls Before Auto Log Off',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_WHAT_DOES_THIS3' => 'What does this mean?',
+          'T_NONBSPNBSP' => 'No',
+          'T_YESNBSPNBSP' => 'Yes',
+          'T_WHAT_DOES_THIS4' => 'What does this mean?',
+          'T_WHAT_IS_A_CALL' => 'What is a call queue agent?',
+          'T_CUSTOMIZE_THE_S' => 'Customize the settings for your call queue agents. If you have multiple call queues, these settings apply to all of them.',
+          'T_ACKNOWLEDGE_CAL' => 'Acknowledge Call'
+        };

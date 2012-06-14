@@ -1,0 +1,7 @@
+$VAR1 = {
+          'T_WHAT_DOES_THIS' => '¿Qué hace esto?',
+          'T_X59_CERTIFICA' => 'Certificado X.509 en formato PEM',
+          'T_RSA_PRIVATE_KEY' => 'Clave privada RSA en formato PEM',
+          'T_INTERMEDIATE_CA' => 'Certificado CA intermedio en formato PEM',
+          'T_CUSTOM_SSL_CERT' => 'Certificado SSL personalizado'
+        };

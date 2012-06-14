@@ -1,0 +1,8 @@
+$VAR1 = {
+          'CUP_SUCCESS_MSG' => 'Su teléfono fue configurado correctamente.',
+          'CUP_ERROR_MSG' => 'Ha habido un problema al realizar la configuración final a su teléfono.',
+          'CUP_ERR_NO_TOKENS' => 'Usted no adquirió suficientes configuraciones telefónicas para configurar el número de teléfonos que seleccionó. Su recuento actual de configuraciones de teléfonos disponibles es ',
+          'CUP_ERROR_MANY_MSG' => 'Ha habido un problema al designar los teléfonos seleccionados como ajustados para la configuración final.',
+          'CUP_ERR_CHECK_TOKENS' => 'Ha habido un problema al determinar cuántas configuraciones tiene disponibles en su sistema.',
+          'CUP_SUCCESS_MANY_MSG' => 'Sus teléfonos fueron designados correctamente como listos para la configuración final.'
+        };

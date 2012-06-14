@@ -1,0 +1,7 @@
+$VAR1 = {
+          'T_NEW2' => 'New Action',
+          'T_RECORDED_SOUNDS2' => 'Recorded Sounds from Caller',
+          'T_HOLD_CTRL_KEY_T3' => 'Hold CTRL key to select multiple sounds',
+          'T_SOUNDS_IN_SYSTE2' => 'Sounds in System',
+          'T_ADD_ACTION2' => 'Add Action'
+        };

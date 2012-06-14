@@ -1,0 +1,22 @@
+$VAR1 = {
+          'T_ALLOWS_AN_EXTE3' => 'Allows an extension to silently listen in on 
+another extension\\\'s current call from their phonebook.',
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ],
+          'T_THE_EXTENSION_P' => 'The extension permissions section allows the admin to grant certain extensions the right to perform actions on other extensions using the switchboard. These actions include:',
+          'T_ALLOWS_AN_EXTE' => 'Allows an extension to view the caller id information of 
+another extension\\\'s current call from their phonebook.',
+          'T_CAN_PICKUP_RING' => 'Can Pickup Ringing Calls',
+          'T_ALLOWS_AN_EXTE4' => 'Allows an extension to answer a call that is 
+ringing a different extension from their phonebook.',
+          'T_CAN_MONITOR_CAL' => 'Can Monitor Calls',
+          'T_CAN_RECORD_CALL' => 'Can Record Calls',
+          'T_ALLOWS_AN_EXTE5' => 'Allows an extension to initiate an intercom connection with
+another extension.',
+          'T_CAN_VIEW_CALLS' => 'Can View Calls',
+          'T_CAN_INTERCOM' => 'Can Intercom',
+          'T_ALLOWS_AN_EXTE2' => 'Allows an extension to record another extension\\\'s 
+current call from their phonebook.'
+        };

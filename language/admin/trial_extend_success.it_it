@@ -1,0 +1,6 @@
+$VAR1 = {
+          'T_THANK_YOU_FOR_EXTEND' => 'Ti  ringraziamo aver esteso la versione di prova di 60 giorni del sistema di telefonia Switchvox. Potrai effettuare e ricevere chiamate per altri 14 giorni. Conserva il tuo codice di registrazione in un luogo sicuro, nell\'eventualità che sia necessario reinstallare il software.',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ]
+        };

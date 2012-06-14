@@ -1,0 +1,8 @@
+$VAR1 = {
+          'T_REMOVE_A_RINGTONE' => 'Eliminar una pista de tono distintivo',
+          '__INCLUDES' => [
+                            'new_actions/incl_button',
+                            'new_actions/incl_missing_digit_variables'
+                          ],
+          'T_CLEAR_ALL_RINGTONE' => 'Borrar todas las pistas de tonos distintivos'
+        };

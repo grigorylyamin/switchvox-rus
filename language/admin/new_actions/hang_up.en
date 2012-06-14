@@ -1,0 +1,6 @@
+$VAR1 = {
+          'T_THIS_ACTION_DOE' => 'This action does not have any options to modify. To continue, click the button below.',
+          '__INCLUDES' => [
+                            'new_actions/incl_button'
+                          ]
+        };

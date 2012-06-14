@@ -1,0 +1,22 @@
+$VAR1 = {
+          'T_WHAT_TUNE_DOES' => 'Questo strumento può potenzialmente ridurre l\'eco sulle linee analogiche eseguendo una serie di test.  Cliccare su "Esegui lo strumento di riduzione dell\'eco" sotto per iniziare i test.  Una volta completati i test, le linee analogiche verranno automaticamente calibrate in base ai risultati.  Cliccando su "Rimuovi impostazioni reduzione eco" le impostazionio verranno riportate ai valori predefiniti.',
+          'T_REMOVE_ECHO' => 'Rimozione impostazione riduzione eco',
+          'T_SCAN_FOR_NEW_DE' => 'Ricerca nuovi dispositivi',
+          'T_ECHO_WARNING' => 'Avviando lo "Strumento di riduzione dell\'eco", il sistema resterà fuori linea per circa due minuti per ogni linea analogica. Tutte le connessioni telefoniche attuali verranno interrotte e tutti gli agenti connessi verranno disconnessi.',
+          'T_SET_COUNTRY' => 'Imposta paese',
+          'T_CHANGING_THIS' => 'La modifica di questa impostazione causerà il riavvio del sistema di telefonia. Tutte le connessioni telefoniche attuali verranno interrotte e tutti gli agenti connessi verranno disconnessi.',
+          'T_THE_ECHO_REDUCT' => 'Lo strumento di riduzione dell\'eco è stato disabilitato perché non sono presenti dispositivi analogici sul PBX.',
+          'T_TROUBLESHOOTIN' => 'Impostazioni hardware Risoluzione degli errori',
+          'T_HARDWARE_COUNTR' => 'Impostazioni hardware paese',
+          'T_TUNE_ECHO_SETTINGS' => 'Riduzione dell\'eco per le linee analogiche',
+          'T_COUNTRY' => 'paese',
+          'T_NOTE' => 'NOTA',
+          'T_RUN_ECHO_TOOL' => 'Esegui strumento di riduzione dell\'eco',
+          'T_WARNING' => 'ATTENZIONE',
+          'T_MANAGE_ANY_HARD' => 'Gestisci ogni dispositivo hardware associato con questo PBX (schede T1, E1, FXO, FXS)',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_SPECIFYING_THE' => 'Specificando il paese dov\'è posizionato il PBX è possibile regolare l\'impedenza della linea analogica e dei toni di segnalazione. Questo può risolvere i problemi, ad esempio l\'eco, che il sistema può avere.',
+          'T_MAKE_SURE' => 'Assicurarsi che tutte le linee analogiche siano collegate al PBX e di ricevere un segnale di libero prima di avviare lo strumento di riduzione dell\'eco.'
+        };

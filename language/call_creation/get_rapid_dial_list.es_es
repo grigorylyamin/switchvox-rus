@@ -1,0 +1,10 @@
+$VAR1 = {
+          'T_CLICK_THE_LINK2' => 'Haga clic en el enlace siguiente para conectarse al paquete de usuario',
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ],
+          'T_WITH_NUMBER2' => 'con el número',
+          'T_LOGIN2' => 'Conexión',
+          'T_CURRENTLY_RINGI2' => 'En estos momentos, está sonando la extensión'
+        };

@@ -1,0 +1,9 @@
+$VAR1 = {
+          'T_CLICK_TO_SHOW_U' => 'Haga clic para mostrar la configuración de permisos de los usuarios',
+          'T_PERMISSIONS' => 'Niveles de permisos para usuarios de colas',
+          '__INCLUDES' => [
+                            '../common/incl_options_object'
+                          ],
+          'T_WHAT_IS_THIS_U' => '¿Para qué se utiliza esto?',
+          'T_CLICK_TO_HIDE_U' => 'Haga clic para ocultar la configuración de permisos de los usuarios'
+        };

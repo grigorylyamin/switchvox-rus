@@ -1,0 +1,37 @@
+$VAR1 = {
+          'T_SOME_VOIP_PROVI' => 'Some VOIP providers',
+          'T_WILL_NOT_WORK_P' => 'will not work properly',
+          'T_WHEN_AN_EXTE' => 'When an extension is in the range from 100 to 200 and is making an outgoing call through
+  rule Any Outgoing Rule, change their caller id to a number derived by adding 100 to their
+  extension and prepending 8005551.',
+          'T_FOR_SING' => 'For Single Extension Caller-ID Rules, it is possible to type in
+      the word',
+          'T_THIS_ALLOWS' => 'This allows you to modify your Caller-ID for outbound calls.
+  Caller-ID rules can either apply to a single extension, or to a
+  range of extensions.',
+          'T_RULES_FO' => 'Rules for Any Outgoing Rule only affect outbound calls.  Rules
+      for Any Outgoing Rule Excluding Peers only affect outbound calls
+      to providers that are not peered systems.',
+          'T_RANGED_CALLE' => 'Ranged Caller-ID Rules change the Caller-ID for groups of
+  extensions.  This can be useful if each extension has their own
+  external phone number, or DID, and you would like each extension to
+  have their Caller-ID set to their personal DID. For example, if you had an
+  extension block from 100 to 200 and you wanted their outgoing caller ids to 
+  be set to a DID block you have of 8005551200 - 8005551300, you would do the following',
+          'T_NOTE18' => 'Note',
+          'T_IT_IS_NOT_POSSI' => 'It is not possible to set Caller ID on regular analog phone lines.',
+          'T_TO_ADD_A_RUL' => 'To add a rule for a single extension, click the Add New Caller ID
+  Rule button.',
+          'T_ANY3' => 'any',
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ],
+          'T_NOT_ALL_VOIP_PR' => 'Not all VOIP providers support this feature; check with yours.',
+          'T_WITH_ALTERED_C' => 'with altered Caller ID.',
+          'T_RANGED_CALLERI' => 'Ranged Caller-ID Rule',
+          'T_INTO_THE_EXTEN' => 'into the extension box to match any
+      extension.',
+          'T_ADVANCED' => 'Advanced',
+          'T_SINGLE_EXTENSIO' => 'Single Extension Caller-ID Rules'
+        };

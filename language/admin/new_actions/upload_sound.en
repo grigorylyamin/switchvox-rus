@@ -1,0 +1,31 @@
+$VAR1 = {
+          'T_EXAMPLE7' => 'Example',
+          'T_CLICK_APPEND_TO3' => 'Click Append to add the selected variable enclosed with %\'s to your URL',
+          'T_SOUND_TO_SEND' => 'Sound to Send:',
+          'T_JOB_ID3' => 'JOB_ID',
+          'T_URL3' => 'URL:',
+          'T_APPEND5' => 'Append',
+          'T_EXTENSION10' => 'EXTENSION',
+          'T_CALLER_ID_NAME6' => 'CALLER_ID_NAME',
+          'T_POSSIBLE_SYSTEM2' => 'Possible System Variables to include in URL:',
+          'T_CALLER_ID_NUMBE5' => 'CALLER_ID_NUMBER',
+          'T_IN_THE_URL_FIE2' => 'In the URL field above, enter the full URL path to the upload CGI program that you would like to send
+this sound to.
+You can add values to be passed to your URL by clicking the "Append" buttons below.
+This will append the selected variable name to the end of your URL enclosed with %\'s, 
+When this URL is submitted the %\'s and variable names are replaced with their corresponding values.',
+          '__INCLUDES' => [
+                            'new_actions/incl_missing_sound_variables',
+                            'new_actions/lwp_timeout',
+                            'new_actions/incl_button'
+                          ],
+          'T_POSSIBLE_IVR_VA2' => 'Possible IVR Variables to include in URL:',
+          'T_CLICK_APPEND_TO4' => 'Click Append to add the selected variable enclosed with %\'s to your URL',
+          'T_HOW_DO_I_USE_T3' => 'How do I use this page?',
+          'T_INCOMING_DID5' => 'INCOMING_DID',
+          'T_APPEND4' => 'Append',
+          'T_HTTPWWWMYD2' => 'http://www.mydomain.com/cgi-bin/upload.cgi?account=%ACCOUNT%&amp;digits=%PIN%',
+	  'T_DIALED_NUMBER' => 'DIALED_NUMBER',
+		  'T_URL_SETTINGS' => 'URL Settings',
+		  'T_SOUND_SETTINGS' => 'Sound Variable Settings',
+        };

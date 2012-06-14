@@ -1,0 +1,9 @@
+$VAR1 = {
+          'T_RING_PHONE_AND' => 'Hacer sonar el teléfono y reproducir sonido',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_EXTENSION_TO_CA' => 'Extensión para llamar',
+          'T_SOUND_DESCRIPTI2' => 'Descripción del sonido',
+          'T_PLAY_SOUND' => 'Reproducir sonido en el teléfono'
+        };

@@ -1,0 +1,22 @@
+$VAR1 = {
+          'T_WHAT_TUNE_DOES' => 'Esta herramienta puede reducir potencialmente el eco de sus líneas analógicas al ejecutar una serie de pruebas.  Haga clic en "Ejecutar herramienta de reducción de eco" más abajo para iniciar las pruebas.  Tras finalizar las pruebas, sus líneas analógicas se calibrarán de forma automática según sus resultados.  Al hacer clic en "Eliminar la configuración de reducción de eco" se regresará a los valores predeterminados.',
+          'T_REMOVE_ECHO' => 'Eliminar configuración de reducción de eco',
+          'T_SCAN_FOR_NEW_DE' => 'Explorar en busca de nuevos dispositivos',
+          'T_ECHO_WARNING' => 'La ejecución de la "Herramienta de reducción de eco" hace que el sistema se desconecte aproximadamente dos minutos por cada línea analógica. Se perderá cualquier llamada telefónica actual y todos los agentes conectados a las colas de llamadas se desconectarán.',
+          'T_SET_COUNTRY' => 'Configurar país',
+          'T_CHANGING_THIS' => 'Al cambiar esta configuración se reiniciará su sistema telefónico. Se perderá cualquier llamada telefónica actual y todos los agentes conectados a las colas de llamadas se desconectarán.',
+          'T_THE_ECHO_REDUCT' => 'La herramienta de reducción de eco fue desactivada porque no hay ningún dispositivo analógico en el PBX.',
+          'T_TROUBLESHOOTIN' => 'Solución de problemas de configuración de hardware',
+          'T_HARDWARE_COUNTR' => 'Configuración de país para el hardware',
+          'T_TUNE_ECHO_SETTINGS' => 'Reducción de eco para líneas analógicas',
+          'T_COUNTRY' => 'País',
+          'T_NOTE' => 'NOTA',
+          'T_RUN_ECHO_TOOL' => 'Ejecutar herramienta de reducción de eco',
+          'T_WARNING' => 'ADVERTENCIA',
+          'T_MANAGE_ANY_HARD' => 'Administre cualquier dispositivo de hardware asociado a este PBX (tarjetas T1, E1, FXO, FXS).',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_SPECIFYING_THE' => 'Especifique el país en el que está ubicado su PBX puede ajustar la impedancia de las líneas analógicas y los tonos de señalización analógica. Esto puede solucionar algunos problemas, como el eco, que pueda tener su sistema telefónico.',
+          'T_MAKE_SURE' => 'Asegúrese de que todas sus líneas analógicas estén conectadas a su PBX y deje que suene el tono de marcado antes de ejecutar la herramienta de reducción de eco.'
+        };

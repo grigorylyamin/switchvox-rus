@@ -1,0 +1,9 @@
+$VAR1 = {
+          'T_ARE_YOU_SURE_YO18' => 'Eliminare definitivamente questo codec',
+          'T_DELETING_THIS3' => 'L\'eliminazione del codec comporterà anche l\'eliminazione di tutti i file supportati da questo codec',
+          'T_YES_DELETE_COD' => 'Sì, elimina codec',
+          'T_WARNING14' => 'ATTENZIONE',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ]
+        };

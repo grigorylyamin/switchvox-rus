@@ -1,0 +1,20 @@
+$VAR1 = {
+          'T_WHAT_ARE_EXTEN' => 'Quali sono i modelli di estensione?',
+          'TC_DATE_CREATED' => 'Data creazione',
+          'T_CREATE_A_NEW_EX' => 'Crea nuovo modello estensione',
+          'TC_DELETE' => 'Elimina',
+          'SM_DELETE_TEMPLATE' => 'Eliminazione modello estensione riuscita.',
+          'TC_TEMPLATE_NAME' => 'Nome modello',
+          'T_CREATE_NEW' => 'Crea nuovo',
+          'ND_NO_TEMPLATES' => 'Non sono presenti modelli nel sistema',
+          'T_CREATE_MODIF' => 'Crea, modifica ed elimina modelli di estensione per ottimizzare l\'amministrazione delle estensioni sul PBX.',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'SM_MODIFY_TEMPLATE' => 'Aggiornamento modello estensione riuscita.',
+          'TC_TEMPLATE_ORG' => 'Organizzazione modello',
+          'TC_DELETE_DISABLED' => 'Questa è un modello di sistema e non può essere eliminato.',
+          'TT_MODIFY_TEMPLATES' => 'Modifica modelli esistenti',
+          'TC_MODIFY' => 'Modifica',
+          'SCT_PE_TEMPLATE_NAME' => 'È necessario fornire un nome di modello valido (1-32 caratteri alfanumerici)'
+        };

@@ -1,0 +1,9 @@
+$VAR1 = {
+          'T_EMAIL_SUBJECT3' => 'Asunto del mensaje de correo electrónico',
+          'T_YES20' => 'Sí',
+          'T_VARIABLE26' => '(Variable)',
+          'T_ATTACH_RECORDED' => 'Adjuntar sonido(s) grabado(s)',
+          'T_TO_EMAIL_ADDRES' => 'Dirección de correo electrónico de destino',
+          'T_FROM_EMAIL_ADDR2' => 'Dirección de correo electrónico de origen',
+          'T_ACTION_TYPE35' => 'Tipo de acción'
+        };

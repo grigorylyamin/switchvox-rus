@@ -1,0 +1,7 @@
+$VAR1 = {
+          'T_SEND_FAX' => 'Enviar fax',
+          'T_CANCEL2' => 'Cancelar',
+          'T_EMPTY_WINDOW2' => 'Vaciar ventana',
+          'T_YES_DELETE2' => 'Sí, eliminar',
+          'T_YES_RESTORE' => 'Sí, restaurar'
+        };

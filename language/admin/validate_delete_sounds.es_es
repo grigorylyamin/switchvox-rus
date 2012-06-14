@@ -1,0 +1,8 @@
+$VAR1 = {
+          'T_ARE_YOU_SURE_YO27' => '¿Está seguro de que desea eliminar permanentemente los siguientes sonidos?',
+          'T_DELETE_SOU' => 'Eliminar sonidos',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ],
+          'T_YES_DELETE_SOU4' => 'Sí, eliminar sonidos'
+        };

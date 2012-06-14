@@ -1,0 +1,9 @@
+$VAR1 = {
+          'T_GO_TO_IVR_MENU' => 'Ir al menú IVR',
+          'T_IVR_MENU_BEGINN2' => 'Inicio del menú IVR',
+          '__INCLUDES' => [
+                            'incl_button',
+                            'incl_tabletitle'
+                          ],
+          'T_IVR_MENU_ENTRY' => 'Punto de entrada al menú IVR'
+        };

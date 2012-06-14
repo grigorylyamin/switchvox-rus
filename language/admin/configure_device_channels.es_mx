@@ -1,0 +1,17 @@
+$VAR1 = {
+          'T_DEVICE_TYPE' => 'Tipo de dispositivo',
+          'T_GO_TO_CHANNEL_A' => 'Ir a Administración de canales',
+          'T_YOU_WILL_NOT_B' => 'No podrá realizar llamadas utilizando este dispositivo a menos que sus canales estén incluidos en los grupos de canales correctos.  Puede visualizar en qué grupo de canales se encuentran los canales de este dispositivo en estos momentos por el valor en la columna "Grupo actual" de la siguiente tabla.  Si tienen un valor de “Sin grupo',
+          'T_YOU_CAN_ADDRE' => 'Puede añadir/eliminar canales de los grupos de canales a través de la sección Administración de canales haciendo clic en el botón "Ir a administración de canales" situado debajo.',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ],
+          'T_NUM_SPANS' => '# de intervalos',
+          'T_PCI_ID' => 'ID de PCI',
+          'T_DEVICE_INFO' => 'Información del dispositivo',
+          'T_TOTAL_CHANNELS' => 'Canales totales',
+          'T_CARD_TYPE' => 'Tipo de tarjeta',
+          'T_NOTE8' => 'NOTA',
+          'T_STATUS' => 'Estado',
+          'T_DEVICE_NAME' => 'Nombre de dispositivo'
+        };

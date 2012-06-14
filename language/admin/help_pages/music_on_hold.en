@@ -1,0 +1,14 @@
+$VAR1 = {
+          'T_PLEASE_NOTE_THA' => 'Please note that the files that you upload must be in OGG Vorbis (.ogg) format.',
+          'T_THE_MUSIC_ON_H' => 'The Music On Hold manager allows you to upload files to be played to callers while they are on hold, being transferred, etc. If you would like to have different types of music played for different circumstances, departments, etc., create a group with a descriptive name (E.g. "Holiday Music") and then assign music files to that group. You can also specify in what order and at what volume you would like the music to be played.',
+          'T_IT_IS_POSSIBLE' => 'It is possible to add support for other file types such as MP3, by uploading a new codec to your system. Selecting "Codec" from the "Add New" 
+drop down and clicking the "Go" button next to it will take you to a page where you can upload the new codecs. This page also has instructions on
+how to add MP3 support for Music on Hold files.',
+          'T_DONT_FORGET_T' => 'Don\\\'t forget that you can also use this feature to make announcements to your callers. Just upload a file with your recorded message and treat it the same way that you would if it were a music file, changing it as often as you wish.',
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ],
+          'T_FIND_A_CONVERTE' => 'Find a converter program.',
+          'T_MANY_FREE_PROG' => 'Many free programs exist to convert mp3s, wavs, etc. to .ogg.'
+        };

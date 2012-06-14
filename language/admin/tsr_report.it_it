@@ -1,0 +1,14 @@
+$VAR1 = {
+          'T_TO_DOWNLOAD_A_T' => 'Per scaricare un rapporto TSR  ( Richiesto servizio tecnico ) cliccare sul "Scarica rapporto TSR" sotto. In caso di problemi con PBX è possibile inviare un rapporto TSR al servizio clienti in modo che gli eventuali problemi possano essere diagnosticati.',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_DISABLE_TECH_SU' => 'Disabilita Accesso assistenza tecnica',
+          'T_ENABLE_TECH_SUP' => 'Abilita Accesso assistenza tecnica',
+          'T_PLEASE_DO_NO' => 'Non abilitare l\'accesso all\'assistenza tecnica a meno che non sia richiesto da un rappresentante dell\'assistenza tecnica.',
+          'T_AFTER_TECH_SUP' => 'Una volta abilitato l\'accesso all\'assistenza tecnica sarà necessario anche l\'inoltro automatico della porta 22 sul firewall/router al PBX.',
+          'T_NOTE4' => 'Nota',
+          'T_ALLOW_TECH_SUPP' => 'Abilita Accesso supporto tecnico',
+          'T_DOWNLOAD_A_TECH' => 'Scarica un rapporto del servizio tecnico',
+          'T_DOWNLOAD_TSR_RE' => 'Scarica rapporto TSR'
+        };

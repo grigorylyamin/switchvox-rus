@@ -1,0 +1,1 @@
+Object.extend(switchvox.lang._LANG.keys,{T_AUTO_BACKUP:["Configuración automática de la copia de seguridad de la grabación de llamadas"],T_SAVE_SETTINGS:["Omitir advertencia"],TEST:["I have %s test.","I have %s tests."]});

@@ -1,0 +1,6 @@
+$VAR1 = {
+          'T_YOU_DO_NOT_HAVE2' => 'You do not have access to view this page.',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ]
+        };

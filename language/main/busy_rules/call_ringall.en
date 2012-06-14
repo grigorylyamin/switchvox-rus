@@ -1,0 +1,19 @@
+$VAR1 = {
+          'T_AND_DO_NOT_PRES' => 'and do not preserve caller id.',
+          'T_SIMULTANEOUSLY' => 'simultaneously',
+          'T_RINGS' => 'rings',
+          'T_ALL_CALLS2' => 'all calls',
+          'T_DIRECT_CALLS' => 'direct calls',
+          'T_AND_ATTEMPT_TO' => 'and attempt to preserve caller id.',
+          'T_AFTER2' => 'after',
+          'T_QUEUE_CALLS' => 'queue calls',
+          'T_RING_ALL' => 'ring all',
+          'T_FOR' => 'For',
+          'T_ATTEMPT_TO_PRES' => 'Attempt to preserve caller id.',
+          'T_IMMEDIATELY' => 'immediately',
+          'T_AND3' => 'and',
+          '__INCLUDES' => [
+                            'incl_ringcount_select',
+                          ],
+
+        };

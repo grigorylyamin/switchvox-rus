@@ -1,0 +1,28 @@
+$VAR1 = {
+          'T_VOIP_PROVIDE' => 'Proveedores VOIP',
+          'T_FROM' => 'De',
+          'T_OUTGOING_CALLS2' => 'Llamadas salientes',
+          'T_SECTION_OF_THE' => 'sección del paquete de administración.',
+          'T_NOTE2' => 'NOTA',
+          'T_TO' => 'para',
+          'T_RENAME' => 'Renombrar',
+          'T_DOWNLOAD_CUR' => 'Descargar la clave RSA actual ',
+          'T_GO4' => 'Ir',
+          'T_GENERATE' => 'Generar y descargar la nueva clave RSA',
+          'T_SET' => 'Configurar',
+          'T_A_NEW_VOIP_PRO' => 'Se acaba de añadir un nuevo proveedor VOIP al sistema, pero para realizar llamadas salientes utilizando este proveedor, las reglas de llamadas salientes deben configurarse primero en ',
+          'T_RSA_KEY' => 'Clave RSA',
+          'T_SIP_PROVIDER2' => 'Proveedor SIP',
+          'T_RTP_PORT_RANGE' => 'Intervalo de puertos RTP',
+          'T_ADD_NEW' => 'Añadir nuevo',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ],
+          'T_RENAME_RSA_K' => 'Renombrar clave RSA',
+          'T_OR7' => '-O-',
+          'T_DOWNLOAD' => 'Descargar',
+          'T_MANAGE_VOIP_PRO' => 'Gestionar proveedores VOIP',
+          'T_IAX_PROVIDER' => 'Proveedor IAX',
+          'T_THE_FIRST_VOIP' => 'El primer proveedor VOIP acaba de añadirse al sistema. Las normas de llamadas salientes se han generado automáticamente utilizando este proveedor VOIP. Puede visualizar más información sobre estas reglas de llamadas salientes recién creadas en la',
+          'T_WERE_SORRY_B' => 'Lo lamento, pero está página ha sido desactivada por motivos legales, normativos o comerciales. Lamentamos los inconvenientes que podamos haberle causado.'
+        };

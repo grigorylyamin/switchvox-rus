@@ -1,0 +1,10 @@
+$VAR1 = {
+          'T_SETTING_THIS_O' => 'Setting this option to Yes will cause the PBX to send RTP audio before
+a call is answered.  Enabling this option may resolve an issue where
+audio is not sent by certain SIP providers when an inbound call is
+cascaded out of the same provider.',
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ]
+        };

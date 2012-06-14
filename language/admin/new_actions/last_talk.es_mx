@@ -1,0 +1,11 @@
+$VAR1 = {
+          'T_HOURS5' => 'horas',
+          '__INCLUDES' => [
+                            'new_actions/incl_button',
+                            'new_actions/incl_tabletitle'
+                          ],
+          'T_VARIABLE_NAME_F' => 'Nombre de variable para resultado',
+          'T_NBSP_SECO' => ' segundos en el último ',
+          'T_MINUTES2' => 'minutos',
+          'T_GET_LAST_EXT' => 'Obtener la última extensión para hablar con la persona que llama durante al menos '
+        };

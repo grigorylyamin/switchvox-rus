@@ -1,0 +1,9 @@
+$VAR1 = {
+          'T_LOG_IN_TO_THE_A' => 'Please log in to use the Tool Suite',
+          'T_USERNAME' => 'User Name',
+          'T_PASSWORD' => 'Password',
+          'T_ADMIN_LOGIN' => 'Admin Login',
+          'T_INVALID_USERNAME_PASSWORD' => 'Invalid Username or Password',
+          'T_USERNAME_PASSWORD_INCORRECT' => 'Username or Password incorrect',
+          'SHI_DUE_TO_FAILED_LOGIN' => 'Because of failed log-in attempts, you can no longer use this page. Please contact your Switchvox administrator to restore full access.',
+        };

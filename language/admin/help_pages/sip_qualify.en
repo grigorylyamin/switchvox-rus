@@ -1,0 +1,16 @@
+$VAR1 = {
+          'T_THISOPTION_IF' => 'this
+option if your provider does not respond to SIP OPTIONS packets',
+          'T_THE_RESPONSE_LA' => 'The response latency for these requests will be shown in the System Status page',
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ],
+          'T_DO_NOT_ENABLE' => 'Do not enable',
+          'T_NAT_TUNNELS_CAN' => 'NAT tunnels can be kept open via this mechanism',
+          'T_ITS_SAFE_TO_L' => 'It\\\'s safe to leave this option disabled if you are unsure.',
+          'T_ENABLING_THIS' => 'Enabling this option will send a SIP OPTIONS packet to this SIP provider
+every 60 seconds.  This has a number of effects',
+          'T_IF_THE_HOST_DOE' => 'If the host does not respond to the OPTIONS request, the PBX will
+assume that the provider is down.'
+        };

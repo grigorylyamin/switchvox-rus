@@ -1,0 +1,9 @@
+$VAR1 = {
+          'T_ONCE_THE_NUMBE' => 'Once the number of seconds have passed that you have specified, the caller will be disconnected and the voicemail message will be saved in your mailbox.',
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ],
+          'T_YOU_CAN_SPECIF2' => 'You can specify a maximum length for your voicemail messages, which is useful if you have particularly long-winded associates or are concerned about storage capacity in your phone system.',
+          'T_FOR_EXAMPLE_I2' => 'For example, if you find yourself getting bored listening to messages longer than 2 minutes, set this option to be 120 seconds.'
+        };

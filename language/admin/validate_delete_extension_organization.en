@@ -1,0 +1,9 @@
+$VAR1 = {
+          'T_AFTER_DELETION' => 'After deletion these members will be part of the Default organization',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_YES_DELETE_EXT' => 'Yes, Delete Extension Organization',
+          'T_CURRENT_MEMBE' => 'Current Members of this Organization',
+          'T_ARE_YOU_SURE_YO' => 'Are you sure you want to permanently delete the extension organization'
+        };

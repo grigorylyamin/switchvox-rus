@@ -1,0 +1,22 @@
+$VAR1 = {
+          'T_GO10' => 'Ir',
+          'T_PCI_ID' => 'ID de PCI',
+          'T_CONFIGURE_CHANN' => 'Configurar canales',
+          'T_NBSPNBSPCON2' => 'Opciones de intervalo de configuración para intervalo',
+          'T_DEVICE_INFO' => 'Información del dispositivo',
+          'T_SPAN' => 'Intervalo',
+          'T_CARD_TYPE' => 'Tipo de tarjeta',
+          'T_IF_YOUR_SPAN_S' => 'Si su configuración de intervalo ya es correcta, puede omitir directamente la configuración de canales en este dispositivo haciendo clic en el botón "Configurar canales".',
+          'T_STATUS' => 'Estado',
+          'T_SAVE_SETTINGS11' => 'Guardar configuración',
+          'T_DEVICE_TYPE' => 'Tipo de dispositivo',
+          'T_NBSPNBSPSEL2' => 'Seleccione un intervalo para configurar',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ],
+          'T_THIS_HARDWARE' => 'Este dispositivo de hardware tiene intervalos que tal vez necesiten ser configurados. Consulte más abajo la configuración de los intervalos y asegúrese de que todos los valores son los correctos para este dispositivo.  Una vez ajustados los valores correctos del intervalo, haga clic en el botón "Guardar configuración". Después de este paso, deberá configurar los canales para este dispositivo.',
+          'T_NUM_SPANS' => '# de intervalos',
+          'T_ANY_MODIFICATI2' => 'Cualquier modificación en la configuración de intervalos requiere un reinicio de su sistema telefónico, lo provocará la pérdida de las llamadas actuales.',
+          'T_TOTAL_CHANNELS' => 'Canales totales',
+          'T_DEVICE_NAME' => 'Nombre de dispositivo'
+        };

@@ -1,0 +1,10 @@
+$VAR1 = {
+          'T_CHOOSE_ACTION_TYPE' => 'Seleccionar tipo',
+          'T_ACTION_DESCRIPT' => 'Descripción de acción',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ],
+          'T_ACTION_TYPE43' => 'Tipo de acción',
+          'T_ADD_A_NEW_ACTIO' => 'Crear acción del IVR',
+          'T_NEXT' => 'Siguiente'
+        };

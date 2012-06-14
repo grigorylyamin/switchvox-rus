@@ -1,0 +1,7 @@
+$VAR1 = {
+          'T_YES_DELETE_ADM' => 'Sì, elimina amministrazione',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_ARE_YOU_SURE_YO21' => 'Eliminare definitivamente questo account amministratore'
+        };

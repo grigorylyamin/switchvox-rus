@@ -1,0 +1,8 @@
+$VAR1 = {
+          'T_THE_DISK_ON' => 'El disco de su PBX está lleno.  Antes de que pueda continuar con esta operación, necesitará liberar más espacio en el disco.  Esto puede lograrse eliminando mensajes de voz antiguos, eliminando copias de seguridad antiguas y (si fuera el caso), eliminando grabaciones de llamadas antiguas.',
+          'T_WARNING_DISK_FULL' => 'Estado del disco',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ],
+          'T_WARNING24' => 'ADVERTENCIA'
+        };

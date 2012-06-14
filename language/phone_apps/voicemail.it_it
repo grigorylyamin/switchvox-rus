@@ -1,0 +1,13 @@
+$VAR1 = {
+          'T_PLAY' => 'Riproduci',
+          'T_VOICEMAILS' => 'segreterie',
+          'T_DETAILS' => 'Dettagli',
+          '__INCLUDES' => [
+                            'incl_softkeys',
+                            'incl_error_header'
+                          ],
+          'T_LISTEN' => 'Ascolta',
+          'T_VM' => 'Segreteria',
+          'T_NO_VM' => 'Non sono presenti messaggi di segreteria in IN ARRIVO.',
+          'T_LAST' => 'Ultimo'
+        };

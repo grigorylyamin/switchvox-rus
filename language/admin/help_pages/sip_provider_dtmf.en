@@ -1,0 +1,9 @@
+$VAR1 = {
+          'T_IF_YOU_ARE_UNS' => 'If you are unsure, select rfc2833 as it is the most common method.',
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ],
+          'T_DTMF_TONES_ARE' => 'DTMF tones are the sounds emitted when you press buttons on your
+phone.  This value should be provided to you by your SIP provider.'
+        };

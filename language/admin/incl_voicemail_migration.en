@@ -1,0 +1,7 @@
+$VAR1 = {
+          'T_DURING_THIS_TIM' => 'During this time, your PBX will still accept new voicemail, but existing voicemail will not be available until the system is done with the migration process.',
+          'T_YOUR_VOICEMAIL' => 'Your voicemail migration has completed successfully.',
+          'T_DETERMINING_TIM' => 'Determining time remaining...',
+          'T_THE_SYSTEM_IS_C' => 'The system is currently migrating your existing voicemail to a new voicemail format.',
+          'T_VOICEMAIL_MIGRA' => 'Voicemail Migration Progress'
+        };

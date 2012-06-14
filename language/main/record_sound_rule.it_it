@@ -1,0 +1,14 @@
+$VAR1 = {
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_THIS_WILL2' => 'L\'estensione riceverà la telefonata per la registrazione. Rispondere al telefono, seguire le istruzioni vocali, riagganciare, quindi cliccare sul pulsante "Fatto" nella pagina successiva. Salvataggio audio riuscito.',
+          'T_RULE_TYPE' => 'Tipo regola',
+          'T_SOUND_SOURCE2' => 'Sorgente audio',
+          'T_CREATE_NEW_S' => 'Crea nuovanuovo audio estensione',
+          'T_UPLOAD_FILE4' => 'Carica file',
+          'T_RECORD_OVER_PHO2' => 'Registra mediante telefono',
+          'T_SOUND_CONTENT' => 'Contenuto audio',
+          'T_CREATE_NEW_SOUN2' => 'Crea nuovo audio',
+          'T_UPLOAD_FILE3' => 'Carica file'
+        };

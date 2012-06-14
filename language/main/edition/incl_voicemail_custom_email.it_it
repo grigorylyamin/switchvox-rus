@@ -1,0 +1,15 @@
+$VAR1 = {
+          'T_VIEW_DEFAULT_VO' => 'Visualizza modelli e-mail di segreteria predefiniti',
+          'T_VIEW_VOICEMAIL' => 'Visualizza modelli E-mail di segreteria',
+          'T_CONTACT_YOUR_AD2' => 'Contattare l\'amministratore per abilitare questa opzione.',
+          'T_CREATE_A_NEW_VO' => 'Crea nuovo modello e-mail segreteria',
+          'T_VIEW' => 'Visualizza',
+          'T_EDIT' => 'Modifica',
+          'T_FEATURE_DISABLE2' => 'Funzione disabilitata -',
+          'T_TEMPLATE' => 'Nome modello:',
+          'T_DELETE' => 'Elimina',
+          'T_TELL_ME_MORE_A2' => 'Per saperne di più',
+          'T_CREATE_NEW' => 'Crea nuovo',
+          'T_VOICEMAIL_EMAIL' => 'Modelli E-mail della segreteria',
+          'T_VIEW2' => 'Visualizza'
+        };

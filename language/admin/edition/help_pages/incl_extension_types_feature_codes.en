@@ -1,0 +1,12 @@
+$VAR1 = {
+          'T__FOR_INFO_ON_E' => '" for info on each type of Feature Code.',
+          'T_FEATURE_CODE' => 'Feature Code',
+          'T_ABOUT_FEATURET' => 'About Feature
+Types',
+          'T__FEATURE_CODE' => '- Feature codes perform various
+operations by dialing a *, the two digit feature code, 
+then another extension.  For example,
+the "Go To Voicemail" feature code could be defined as 56.
+Dialing *56202 would then go directly to extension 202\\\'s
+voicemail. See "'
+        };

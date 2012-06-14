@@ -1,0 +1,14 @@
+$VAR1 = {
+          '__INCLUDES' => [
+                            '../common/incl_options_object',
+                            '../common/incl_dhtml_window_popup'
+                          ],
+          'T_YES_DELETE3' => 'Yes, Delete',
+          'T_ARE_YOU_SUR' => 'Are you sure you want to delete this extension permission group?',
+          'T_SAVE_CHANGES' => 'Save Changes',
+          'T_NO_MAPPINGS' => 'No mappings have been made yet.',
+          'T_CANCEL_EDIT' => 'Cancel Edit',
+          'T_CANCEL5' => 'Cancel',
+          'T_SUCCESSFULLY_SA' => 'Successfully saved your group modifications',
+          'T_CURRENTLY_EDITI' => 'Currently Editing',
+        };

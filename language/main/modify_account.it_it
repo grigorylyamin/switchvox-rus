@@ -1,0 +1,29 @@
+$VAR1 = {
+          'T_MUST_CHANGE_LANG' => 'è necessario confermare la lingua preferita prima di continuare',
+          'T_MUST_CHANGE_PASS' => 'È necessario modificare la password prima di continuare.',
+          'T_UPDATE_ACCOUNT' => 'Aggiorna impostazioni account per agente',
+          'T_SYS_DEFAULT' => 'Sistema di Default',
+          'T_TO_RETRIEVE_VOI' => 'Per recuperare segreteria',
+          'T_TITLE' => 'Titolo',
+          'T_YOU_ARE_NOT_ALL' => 'Non è consentito modificare la password.',
+          'T_FIRST_NAME' => 'Nome',
+          'T_MODIFY_EXTENSIO' => 'Modifica estensione',
+          'T_RETYPE_PASSWORD' => 'Ridigita password',
+          'T_PROFILE_PREV' => 'Anteprima profilo',
+          'T_LEAVE_BLANK_TO' => 'Lascia vuoto per mantenere la password attuale.',
+          'T_MUST_CHANGE_PASS_STRONG' => 'È obbligatorio cambiare la password con una sicura prima di continuare.',
+          'T_LAST_NAME' => 'Cognome',
+          'T_VOICEMAIL_MAY_B' => 'La segreteria può essere inviata qui',
+          'T_LOCATION' => 'Posizione',
+          '__INCLUDES' => [
+                            'incl_header'
+                          ],
+          'PT_MOD_ACCOUNT' => 'Modifica account',
+          'T_SOUND_PROMPT_LANG' => 'Lingua prompt audio',
+          'T_LANGUAGE' => 'Lingua',
+          'T_PASSWORD' => 'Password',
+          'T_LOCALE' => 'Locale',
+          'T_EMAIL_ADDRESS' => 'Indirizzo e-mail',
+          'T_PICTURE' => 'Foto',
+          'T_MUST_CHANGE_PASS_LANG' => 'è necessario modificare la password e confermare la lingua preferita prima di continuare'
+        };

@@ -1,0 +1,10 @@
+$VAR1 = {
+          'T_PART_OF_GROUP' => 'Parte del grupo',
+          'T_UPLOAD_SONG' => 'Cargar canción',
+          'T_SONG_TO_UPLOAD' => 'Canción para cargar',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_FILE' => 'archivo',
+          'T_MUST_BE_A' => 'Debe ser un'
+        };

@@ -1,0 +1,8 @@
+$VAR1 = {
+          'T_YES_DELETE_EXT3' => 'Yes, Delete Extension',
+          'T_DEL_SCR_EXT' => 'Delete Simple Conference Extension',
+          'T_ARE_YOU_SURE_YO11' => 'Are you sure you want to permanently delete the Simple Conference Extension',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ]
+        };

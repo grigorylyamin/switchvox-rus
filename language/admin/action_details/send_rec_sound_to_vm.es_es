@@ -1,0 +1,5 @@
+$VAR1 = {
+          'T_RECORDED_SOUND5' => 'Sonido grabado para enviar al buzón de voz',
+          'T_VOICEMAIL_EXTEN' => 'Extensión de buzón de voz',
+          'T_ACTION_TYPE31' => 'Tipo de acción'
+        };

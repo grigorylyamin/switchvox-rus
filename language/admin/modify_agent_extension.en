@@ -1,0 +1,15 @@
+$VAR1 = {
+          'T_LAST_NAME3' => 'Last Name',
+          'T_FIRST_NAME3' => 'First Name',
+          'T_PASSWORD8' => 'Password',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_MUST_MATCH_THE' => 'Must match the password above',
+          'T_MODIFY_EXTENSIO7' => 'Modify Extension',
+          'T_FOR_WEB_TOOL_AC' => 'For web tool access and queue log in',
+          'T_RETYPE_PASSWORD2' => 'Retype Password',
+          'T_CALL_QUEUE_AGEN' => 'Call Queue Agent Extension',
+          'T_USER_CAN_EDIT' => 'User can edit',
+          'T_WEB_TOOL_ACCESS2' => 'Web Tool Access'
+        };

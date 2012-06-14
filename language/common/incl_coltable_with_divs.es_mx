@@ -1,0 +1,5 @@
+$VAR1 = {
+          'T_RELOADING_PA2' => 'Recargando página para recuperar nuevas filas. Por favor, espere.',
+          'T_NO_DATA_AVAILABLE' => 'No hay datos disponibles',
+          '__INCLUDES' => []
+        };

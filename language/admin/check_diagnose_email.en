@@ -1,0 +1,8 @@
+$VAR1 = {
+          'T_RUNNING_DIAGN2' => 'Running diagnostics. This may take a few seconds, so please be patient and do not refresh this page.',
+          'T_EMAIL_DIAGNOST' => 'Email Diagnostics',
+		  'T_BACK_TO_SMTP_NOTIFICATIONS' => 'Back to SMTP Notifications',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ]
+        };

@@ -1,0 +1,14 @@
+$VAR1 = {
+          'T_SECTION_FOR_MO3' => 'section for more
+information on defining groups.',
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ],
+          'T_EXTENSIONS_G' => 'Extensions --&gt; Extension Groups',
+          'T_THIS_SECTION_A' => 'This section allows you to define which groups this extension belongs
+to.',
+          'T_EXTENSION_GROU' => 'Extension groups are used in various PBX features that operate on
+multiple extensions at the same time, such as Intercom/Paging groups.
+See the'
+        };

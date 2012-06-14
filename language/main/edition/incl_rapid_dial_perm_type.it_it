@@ -1,0 +1,5 @@
+$VAR1 = {
+          'T_NORMAL' => 'Normale',
+          'T_PERMISSION_T' => 'Tipo di permesso:',
+          'T_EXTENDED' => 'Esteso'
+        };

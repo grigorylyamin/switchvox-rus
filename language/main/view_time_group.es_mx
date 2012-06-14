@@ -1,0 +1,20 @@
+$VAR1 = {
+          'T_START_DAY7' => 'Día de inicio',
+          'T_START_DATE8' => 'Fecha de inicio',
+          'T_START_TIME7' => 'Hora de inicio',
+          'T_END_DAY7' => 'Día de finalización',
+          'T_ANY2' => 'cualquiera',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_NOON_12_P2' => 'Mediodía = 12:00 PM',
+          'T_OF_THESE_RULES' => 'de estas reglas.',
+          'T_A_TIME_SEGMENT' => 'Un segmento de tiempo se considera válido cuando coincide',
+          'T_END_TIME7' => 'Hora de finalización',
+          'T_TIME_SEGMENT_DE' => 'Definición de segmento de tiempo',
+          'T_END_DATE7' => 'Fecha de finalización',
+          'T_MIDNIGHT_122' => 'Medianoche = 12:00 AM',
+          'T_BACK_TO_TIME_M' => 'Volver a Administrador de tiempo',
+          'T_ALL2' => 'todo',
+          'T_OF_THE_RULES' => 'de las reglas. No tiene que coincidir'
+        };

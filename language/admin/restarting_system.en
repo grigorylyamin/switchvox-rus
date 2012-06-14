@@ -1,0 +1,7 @@
+$VAR1 = {
+          'T_RESTARTING_YO' => 'Restarting your phone system may take a few minutes, please be patient and do not refresh this page.',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+         'T_RESTARTING_SYSTEM' => 'Restarting System',
+        };

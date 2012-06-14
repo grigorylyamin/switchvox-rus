@@ -1,0 +1,23 @@
+$VAR1 = {
+          'T_CHAIN_LOOKUPS_V' => 'Ricerche catena vs Ricerche Catena di cache (max 50000)',
+          'T_IFRAME_CREATION' => 'Tempo Iframe Creation rispetto a tempo divCreation',
+          'T_DIVCREATION' => 'divCreation',
+          'T_REGEXP_ITERATIO' => 'Iterazione Regexp con sub',
+          'T_LOCALVAR' => 'LocalVar',
+          'T_SWITCHBOARD2' => 'Switchboard',
+          'T_BROWSER' => 'Browser',
+          'T_GLOBAL_VS_LOCAL' => 'Dichiarazione globali vs locali',
+          'T_XMLPARSE' => 'xmlParse',
+          'T_FOR_VS_EACH' => 'Per vs Ogni',
+          'T_CHAINLOOKUP' => 'chainLookup',
+          'T_FORLOOP' => 'forLoop',
+          'T_TEST_SPEED_OF_X' => 'Test velocità analisi XML',
+          'T_IFRAMECREATION' => 'iframeCreation',
+          'T_CACHECHAINLOOKU' => 'cacheChainLookup',
+          'T_JSON' => 'JSON',
+          'T_SPRINTF_TESTING' => 'Sprintf Testing',
+          'T_GLOBALVAR' => 'GlobalVar',
+          'T_ARRAY_ITERATION' => 'Iterazione matrice con sostituzione',
+          'T_EACHLOOP' => 'eachLoop',
+          'T_MAXLOOPS' => 'MAXLOOPS'
+        };

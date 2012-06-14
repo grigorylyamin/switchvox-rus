@@ -1,0 +1,8 @@
+$VAR1 = {
+          'T_LANGUAGE_TO_CHA' => 'Idioma al que se debe cambiar',
+          '__INCLUDES' => [
+                            'incl_button',
+                            'incl_tabletitle',
+                            'incl_button'
+                          ]
+        };

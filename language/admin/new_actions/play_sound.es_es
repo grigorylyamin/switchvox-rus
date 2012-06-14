@@ -1,0 +1,5 @@
+$VAR1 = {
+          '__INCLUDES' => [],
+          'T_THIS_SOUND_IS_I' => 'Este sonido puede interrumpirse',
+          'T_WHAT_IS_AN_INT2' => '¿Qué es un sonido que puede interrumpirse?'
+        };

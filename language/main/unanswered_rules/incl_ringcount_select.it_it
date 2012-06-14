@@ -1,0 +1,19 @@
+$VAR1 = {
+          'T_8_RINGS' => '8 squilli',
+          'T_15_RINGS' => '15 squilli',
+          'T_12_RINGS' => '12 squilli',
+          'T_IMMEDIATELY2' => 'Immediatamente',
+          'T_6_RINGS' => '6 squilli',
+          'T_2_RINGS' => '2 squilli',
+          'T_3_RINGS' => '3 squilli',
+          'T_9_RINGS' => '9 squilli',
+          'T_11_RINGS' => '11 squilli',
+          'T_4_RINGS' => '4 squilli',
+          'T_7_RINGS' => '7 squilli',
+          'T_2_RINGS2' => '20 squilli',
+          'T_5_RINGS' => '5 squilli',
+          'T_13_RINGS' => '13 squilli',
+          'T_14_RINGS' => '14 squilli',
+          'T_1_RINGS2' => '10 squilli',
+          'T_1_RINGS' => '1 squilli'
+        };

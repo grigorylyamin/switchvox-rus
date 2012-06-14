@@ -1,0 +1,17 @@
+$VAR1 = {
+          'T_CURRENTLY_RINGI' => 'Currently ringing extension',
+          'T_WITH_NUMBER' => 'with number',
+          '__INCLUDES' => [
+                            '../common/incl_help_header',
+                            '../common/incl_help_footer'
+                          ],
+          'T_LOGIN' => 'Login',
+          'T_VARIABLE_NAME2' => 'Variable Name',
+          'T__VALUE2' => ', Value',
+          'T__STATUS_NOT_D' => ', Status: Not defined in your system.',
+          'T_VARIABLES_ENTER' => 'Variables entered in the call creation',
+          'T_VARIABLE_NAME' => 'Variable Name',
+          'T__VALUE' => ', Value',
+          'T_CLICK_THE_LINK' => 'Click the link below to log into the online user suite:',
+          'T__STATUS_SUCCE' => ', Status: Successfully matched in your system.'
+        };

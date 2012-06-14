@@ -1,0 +1,11 @@
+$VAR1 = {
+          'T_MMDDYYYY12' => 'dd/mm/aaaa',
+          'T_OUPUT_TO_XLS_F3' => 'Salida como archivo .xls',
+          'T_TO_DATE5' => 'Fecha hasta',
+          'T_USE_THIS_FORM_T2' => 'Utilice este formulario para visualizar el historial de llamadas de esta extensión para un intervalo de fechas.',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_VIEW_REPORT3' => 'Visualizar informe',
+          'T_FROM_DATE5' => 'Fecha desde'
+        };

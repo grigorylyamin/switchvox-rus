@@ -1,0 +1,6 @@
+$VAR1 = {
+          'T_PREPEND_A_1_IF' => 'Anteporre un 1 se il numero ha una lunghezza di 10 cifre',
+          'T_MORE_ABOUT_THE2' => 'Ulteriori informazioni sulle impostazioni  chiamata API',
+          'T_CALL_API_SETTIN' => 'Impostazioni Chiamata API',
+          'T_DIGITS_TO_PR' => 'Cifre da anteporre se il numero non è un\'estensione'
+        };

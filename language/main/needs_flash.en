@@ -1,0 +1,7 @@
+$VAR1 = {
+          'T_IN_ORDER_TO_E' => 'In order to ensure that the Switchboard functions properly the lastest version of the Adobe Flash Player is required. The latest version of flash can be downloaded for free at the following link',
+          'T_CLOSE_WINDOW2' => 'Close Window',
+          'T_ADOBE_FLASH_PLA' => 'Adobe Flash Player',
+          'T_I_AM_SORRY_Y' => 'I am sorry, your version of flash is incompatible with this version of the Switchboard.',
+          'T_SWITCHBOARD3' => 'Switchboard'
+        };

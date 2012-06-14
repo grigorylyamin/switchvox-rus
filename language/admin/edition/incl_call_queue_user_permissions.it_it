@@ -1,0 +1,9 @@
+$VAR1 = {
+          'T_CLICK_TO_SHOW_U' => 'Clicca per visualizzare impostazioni permesso utente',
+          '__INCLUDES' => [
+                            '../common/incl_options_object'
+                          ],
+          'T_PERMISSIONS' => 'Livelli di permessi per utenti coda',
+          'T_WHAT_IS_THIS_U' => 'Per cosa viene utilizzato?',
+          'T_CLICK_TO_HIDE_U' => 'Cliccare per nascondere impostazioni permesso utent3e'
+        };

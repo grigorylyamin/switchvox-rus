@@ -1,0 +1,19 @@
+$VAR1 = {
+          'T' => 'Totale cumulativo',
+          'T_USE_THIS_FORM' => 'Utilizzare questo modulo per generare rapporti statistici personalizzati sullo storico chiamate di questa estensione.',
+          'T_MMDDYYYY8' => 'gg/mm/aaaa',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_HOLD_DOWN_CTRL16' => 'Tenere premuto CRTL per selezionare più componenti',
+          'T_USER_EXTENSIONS' => 'Campi estensioni utente',
+          'T_CHART_REPORT' => 'Grafico rapporto',
+          'T3' => 'Per Ora del giorno',
+          'T4' => 'Giorno della settimana',
+          'T_TO_DATE3' => 'A data',
+          'T_OUPUT_TO_XLS_F' => 'Risultato sottoforma di file .xls',
+          'T_VIEW_REPORT' => 'Visualizza rapporto',
+          'T_FROM_DATE3' => 'Da data',
+          'T_BREAKDOWN' => 'Breakdown',
+          'T2' => 'Per data'
+        };

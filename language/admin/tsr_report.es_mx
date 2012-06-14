@@ -1,0 +1,14 @@
+$VAR1 = {
+          'T_TO_DOWNLOAD_A_T' => 'Para descargar un informe de TSR (solicitud de asistencia técnica), haga clic en "Descargar informe TSR". En el caso de que tenga problemas con su PBX, puede enviar un informe TSR al servicio de atención al cliente para que puedan diagnosticar del mejor modo posible cualquier problema que pueda tener.',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_DISABLE_TECH_SU' => 'Desactivar el acceso a asistencia técnica',
+          'T_ENABLE_TECH_SUP' => 'Activar el acceso a asistencia técnica',
+          'T_PLEASE_DO_NO' => 'No permita el acceso a la asistencia técnica a menos que así se lo solicite un representante de asistente técnica.',
+          'T_AFTER_TECH_SUP' => 'Una vez activado el acceso a la asistencia técnica, necesitará que el puerto 22 de su firewall/router sea desviado al PBX.',
+          'T_NOTE4' => 'Nota',
+          'T_ALLOW_TECH_SUPP' => 'Permitir acceso a asistencia técnica',
+          'T_DOWNLOAD_A_TECH' => 'Descargar un informe de asistencia técnica',
+          'T_DOWNLOAD_TSR_RE' => 'Descargar un informe TSR'
+        };

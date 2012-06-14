@@ -1,0 +1,10 @@
+$VAR1 = {
+          'T_TOOL_IN_THE_ON' => 'tool in the on-line administration tool suite.',
+          'T_GO_HERE_USING_A' => 'To register, visit this URL using an internet-connected computer',
+          'T_YOUR_PHONE_SYS' => 'This PBX is not connected to the internet. To register this PBX, you must use a computer with an internet connection, and go to the URL below. Once you have visited this page and completed the registration process, you will be prompted to download a license file. Save that file to disk, and then upload it to this PBX via the',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_UPLOAD_UPDATES' => 'Upload Updates',
+          'T_REGISTRATION' => 'Registration'
+        };

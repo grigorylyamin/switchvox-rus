@@ -1,0 +1,9 @@
+$VAR1 = {
+          'T_RESTORING_THIS' => 'Il ripristino backup interromperà tutte le chiamate attuali e riavvierà il sistema di telefonia. Tutti i dati creati dalla creazione del backup andranno persi, comprese le estensioni e la segreteria.',
+          'T_WARNING' => 'ATTENZIONE',
+          '__INCLUDES' => [
+                            'incl_header',
+                          ],
+          'T_YES_RESTORE_BA' => 'Sì, ripristina backup',
+          'T_ARE_YOU_SURE_YO' => 'Eliminare questo backup?'
+        };

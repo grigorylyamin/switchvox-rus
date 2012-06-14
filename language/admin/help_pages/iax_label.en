@@ -1,0 +1,18 @@
+$VAR1 = {
+          'T_IAX_PROVIDER_LA' => 'IAX Provider Label is the label that this provider gives itself when
+placing calls to your system.  This is usually shown as the name
+inside of [ ] brackets in asterisk configuration examples.  For
+example, if you had an IAX provider named "IAX World" that gave you the
+following IAX configuration example',
+          'T_IAXWRLD' => 'iaxwrld',
+          '__INCLUDES' => [
+                            'common/incl_help_header',
+                            'common/incl_help_footer'
+                          ],
+          'T_IAXWRLDTYPE' => '[iaxwrld]
+type=friend
+host=iax.iaxworld.com
+username=yourname
+secret=yourpass',
+          'T_THE_IAX_PROVID' => 'The IAX Provider Label would be'
+        };

@@ -1,0 +1,6 @@
+$VAR1 = {
+          'RPP_ERROR_MSG' => 'Se ha detectado un problema al rechazar la extensión propuesta para su teléfono.',
+          'RPP_SUCCESS_MANY_MSG' => 'Las extensiones propuestas para sus teléfonos fueron rechazadas correctamente.',
+          'RPP_SUCCESS_MSG' => 'La extensión propuesta para su teléfono fue rechazada correctamente.',
+          'RPP_ERROR_MANY_MSG' => 'Se ha producido un problema al rechazar la extensión propuesta para al menos uno de sus teléfonos seleccionados.'
+        };
